@@ -1,0 +1,5699 @@
+[
+ {
+  "idx": 0,
+  "member_ids": [
+   "NE-05130"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Jade purple",
+  "category": "Wearables",
+  "query": "boAt Wave Sigma Jade purple"
+ },
+ {
+  "idx": 1,
+  "member_ids": [
+   "NE-05132"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Flash Rtl Moon Red",
+  "category": "Wearables",
+  "query": "boAt Watch Flash Rtl Moon Red"
+ },
+ {
+  "idx": 2,
+  "member_ids": [
+   "NE-05133"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Ace - Indigo Blue",
+  "category": "Wearables",
+  "query": "boAt Primia Ace Indigo Blue"
+ },
+ {
+  "idx": 3,
+  "member_ids": [
+   "NE-05134"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Radiant:- Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Enigma Radiant Deep Blue"
+ },
+ {
+  "idx": 4,
+  "member_ids": [
+   "NE-05135"
+  ],
+  "brand": "boAt",
+  "product_name": "Floatpad 350",
+  "category": "Accessories",
+  "query": "boAt Floatpad 350"
+ },
+ {
+  "idx": 5,
+  "member_ids": [
+   "NE-05136"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Csk Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 131 Csk Blue"
+ },
+ {
+  "idx": 6,
+  "member_ids": [
+   "NE-05137"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 2:- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Force 2 Active Black"
+ },
+ {
+  "idx": 7,
+  "member_ids": [
+   "NE-05138"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 450r Aqua Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 450r Aqua Blue"
+ },
+ {
+  "idx": 8,
+  "member_ids": [
+   "NE-05139"
+  ],
+  "brand": "boAt",
+  "product_name": "Wcd 36w Dual Qc (Type C) - White",
+  "category": "Accessories",
+  "query": "boAt Wcd 36w Dual Qc (Type C) White"
+ },
+ {
+  "idx": 9,
+  "member_ids": [
+   "NE-05140"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Crimson Cream",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 131 Crimson Cream"
+ },
+ {
+  "idx": 10,
+  "member_ids": [
+   "NE-05141"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma X400 Black",
+  "category": "Wearables",
+  "query": "boAt Enigma X400 Black"
+ },
+ {
+  "idx": 11,
+  "member_ids": [
+   "NE-05142"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma R32 - Classic Gold",
+  "category": "Wearables",
+  "query": "boAt Enigma R32 Classic Gold"
+ },
+ {
+  "idx": 12,
+  "member_ids": [
+   "NE-05143"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Anc Funky Grey",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 330 Anc Funky Grey"
+ },
+ {
+  "idx": 13,
+  "member_ids": [
+   "NE-05144"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 180 Black",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 180 Black"
+ },
+ {
+  "idx": 14,
+  "member_ids": [
+   "NE-05145"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma X400 Vintage Brown",
+  "category": "Wearables",
+  "query": "boAt Enigma X400 Vintage Brown"
+ },
+ {
+  "idx": 15,
+  "member_ids": [
+   "NE-05146"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Flex Connect :- Cherry Blossom",
+  "category": "Wearables",
+  "query": "boAt Wave Flex Connect Cherry Blossom"
+ },
+ {
+  "idx": 16,
+  "member_ids": [
+   "NE-05148"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Anc Oceanic Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 330 Anc Oceanic Blue"
+ },
+ {
+  "idx": 17,
+  "member_ids": [
+   "NE-05149"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Beat Call :- Cherry Blossom",
+  "category": "Wearables",
+  "query": "boAt Wave Beat Call Cherry Blossom"
+ },
+ {
+  "idx": 18,
+  "member_ids": [
+   "NE-05150"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Armour:- Olive Green",
+  "category": "Wearables",
+  "query": "boAt Wave Armour Olive Green"
+ },
+ {
+  "idx": 19,
+  "member_ids": [
+   "NE-05151"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Elite Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Elite Active Black"
+ },
+ {
+  "idx": 20,
+  "member_ids": [
+   "NE-05152"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Call Max - Cherry Blossom",
+  "category": "Wearables",
+  "query": "boAt Ultima Call Max Cherry Blossom"
+ },
+ {
+  "idx": 21,
+  "member_ids": [
+   "NE-05153"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Connect Cool Grey",
+  "category": "Wearables",
+  "query": "boAt Wave Connect Cool Grey"
+ },
+ {
+  "idx": 22,
+  "member_ids": [
+   "NE-05154"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z40 - Metal Black",
+  "category": "Wearables",
+  "query": "boAt Enigma Z40 Metal Black"
+ },
+ {
+  "idx": 23,
+  "member_ids": [
+   "NE-05155"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Connect - Active Black",
+  "category": "Wearables",
+  "query": "boAt Lunar Connect Active Black"
+ },
+ {
+  "idx": 24,
+  "member_ids": [
+   "NE-05156"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 125 Mystic Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 125 Mystic Black"
+ },
+ {
+  "idx": 25,
+  "member_ids": [
+   "NE-05157"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Fit Call - warm grey",
+  "category": "Wearables",
+  "query": "boAt Wave Fit Call warm grey"
+ },
+ {
+  "idx": 26,
+  "member_ids": [
+   "NE-05158"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 242 Active Black"
+ },
+ {
+  "idx": 27,
+  "member_ids": [
+   "NE-05159"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Cool Blue",
+  "category": "Wearables",
+  "query": "boAt Lunar Prime Cool Blue"
+ },
+ {
+  "idx": 28,
+  "member_ids": [
+   "NE-05160"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Connect Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Wave Connect Charcoal Black"
+ },
+ {
+  "idx": 29,
+  "member_ids": [
+   "NE-05161"
+  ],
+  "brand": "boAt",
+  "product_name": "Flash Plus - Black Leather",
+  "category": "Wearables",
+  "query": "boAt Flash Plus Black Leather"
+ },
+ {
+  "idx": 30,
+  "member_ids": [
+   "NE-05162"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Active Black",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Active Black"
+ },
+ {
+  "idx": 31,
+  "member_ids": [
+   "NE-05163"
+  ],
+  "brand": "boAt",
+  "product_name": "Xtend Sport Cool Blue",
+  "category": "Wearables",
+  "query": "boAt Xtend Sport Cool Blue"
+ },
+ {
+  "idx": 32,
+  "member_ids": [
+   "NE-05164"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 333 Pro Cherry Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 333 Pro Cherry Black"
+ },
+ {
+  "idx": 33,
+  "member_ids": [
+   "NE-05165"
+  ],
+  "brand": "boAt",
+  "product_name": "Ltg 550v3 Mercurial Black",
+  "category": "Accessories",
+  "query": "boAt Ltg 550v3 Mercurial Black"
+ },
+ {
+  "idx": 34,
+  "member_ids": [
+   "NE-05166"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Cherry blossom",
+  "category": "Wearables",
+  "query": "boAt Wave Sigma Cherry blossom"
+ },
+ {
+  "idx": 35,
+  "member_ids": [
+   "NE-05167"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz\u00a0Summit\u00a0Wave Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz Summit Wave Blue"
+ },
+ {
+  "idx": 36,
+  "member_ids": [
+   "NE-05168"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Active Black",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Rtl Active Black"
+ },
+ {
+  "idx": 37,
+  "member_ids": [
+   "NE-05169"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend - Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Charcoal Black"
+ },
+ {
+  "idx": 38,
+  "member_ids": [
+   "NE-05170"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Olive Green",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Olive Green"
+ },
+ {
+  "idx": 39,
+  "member_ids": [
+   "NE-05171"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X500 : Teal Green",
+  "category": "Wearables",
+  "query": "boAt Enigma X500 Teal Green"
+ },
+ {
+  "idx": 40,
+  "member_ids": [
+   "NE-05172"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Prism - Brown leather",
+  "category": "Wearables",
+  "query": "boAt Ultima Prism Brown leather"
+ },
+ {
+  "idx": 41,
+  "member_ids": [
+   "NE-05173"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone Uno Tropical Blue",
+  "category": "Large Audio",
+  "query": "boAt Stone Uno Tropical Blue"
+ },
+ {
+  "idx": 42,
+  "member_ids": [
+   "NE-05174"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave  Arcade - Cool blue",
+  "category": "Wearables",
+  "query": "boAt Wave Arcade Cool blue"
+ },
+ {
+  "idx": 43,
+  "member_ids": [
+   "NE-05175"
+  ],
+  "brand": "boAt",
+  "product_name": "Storm Call - Cherry blossom",
+  "category": "Wearables",
+  "query": "boAt Storm Call Cherry blossom"
+ },
+ {
+  "idx": 44,
+  "member_ids": [
+   "NE-05176"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 333 Cherry Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 333 Cherry Black"
+ },
+ {
+  "idx": 45,
+  "member_ids": [
+   "NE-05177"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Prism - Steel black",
+  "category": "Wearables",
+  "query": "boAt Ultima Prism Steel black"
+ },
+ {
+  "idx": 46,
+  "member_ids": [
+   "NE-05178"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X600 Royal Orange",
+  "category": "Wearables",
+  "query": "boAt Enigma X600 Royal Orange"
+ },
+ {
+  "idx": 47,
+  "member_ids": [
+   "NE-05179"
+  ],
+  "brand": "boAt",
+  "product_name": "Energyshroom Pb105 Carbon Black",
+  "category": "Accessories",
+  "query": "boAt Energyshroom Pb105 Carbon Black"
+ },
+ {
+  "idx": 48,
+  "member_ids": [
+   "NE-05180"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Prime Matte Black",
+  "category": "Wearables",
+  "query": "boAt Wave Prime Matte Black"
+ },
+ {
+  "idx": 49,
+  "member_ids": [
+   "NE-05181"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 800 HiDef Sterling Silver",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 800 HiDef Sterling Silver"
+ },
+ {
+  "idx": 50,
+  "member_ids": [
+   "NE-05182"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl Sandy Cream",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Rtl Sandy Cream"
+ },
+ {
+  "idx": 51,
+  "member_ids": [
+   "NE-05183"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 181 Cool Grey",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 181 Cool Grey"
+ },
+ {
+  "idx": 52,
+  "member_ids": [
+   "NE-05184"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 121 Pro Mint Cascade",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 121 Pro Mint Cascade"
+ },
+ {
+  "idx": 53,
+  "member_ids": [
+   "NE-05185"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Connect Max - Active Black",
+  "category": "Wearables",
+  "query": "boAt Ultima Connect Max Active Black"
+ },
+ {
+  "idx": 54,
+  "member_ids": [
+   "NE-05186"
+  ],
+  "brand": "boAt",
+  "product_name": "Wcd 20w Pd White",
+  "category": "Accessories",
+  "query": "boAt Wcd 20w Pd White"
+ },
+ {
+  "idx": 55,
+  "member_ids": [
+   "NE-05187"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Primia Active Black",
+  "category": "Wearables",
+  "query": "boAt Watch Primia Active Black"
+ },
+ {
+  "idx": 56,
+  "member_ids": [
+   "NE-05188"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma X700 Silver Chrome",
+  "category": "Wearables",
+  "query": "boAt Enigma X700 Silver Chrome"
+ },
+ {
+  "idx": 57,
+  "member_ids": [
+   "NE-05189"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Joy Swedish White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Joy Swedish White"
+ },
+ {
+  "idx": 58,
+  "member_ids": [
+   "NE-05190"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Ultima Chronos - Cool Grey",
+  "category": "Wearables",
+  "query": "boAt Ultima Chronos Cool Grey"
+ },
+ {
+  "idx": 59,
+  "member_ids": [
+   "NE-05191"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Lunar velocity - Active black",
+  "category": "Wearables",
+  "query": "boAt Lunar velocity Active black"
+ },
+ {
+  "idx": 60,
+  "member_ids": [
+   "NE-05192"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Astra - Olive Green",
+  "category": "Wearables",
+  "query": "boAt Wave Astra Olive Green"
+ },
+ {
+  "idx": 61,
+  "member_ids": [
+   "NE-05193"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Wave Lite Scarlet Red",
+  "category": "Wearables",
+  "query": "boAt Wave Lite Scarlet Red"
+ },
+ {
+  "idx": 62,
+  "member_ids": [
+   "NE-05194"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Kick Bold\u00a0Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Kick Bold Blue"
+ },
+ {
+  "idx": 63,
+  "member_ids": [
+   "NE-05195"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 558 Bt Headphone Red",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 558 Bt Headphone Red"
+ },
+ {
+  "idx": 64,
+  "member_ids": [
+   "NE-05196"
+  ],
+  "brand": "boAt",
+  "product_name": "Micro Usb 150 1.5m",
+  "category": "Accessories",
+  "query": "boAt Micro Usb 150 1.5m"
+ },
+ {
+  "idx": 65,
+  "member_ids": [
+   "NE-05197"
+  ],
+  "brand": "boAt",
+  "product_name": "Type C C400 Black",
+  "category": "Accessories",
+  "query": "boAt Type C C400 Black"
+ },
+ {
+  "idx": 66,
+  "member_ids": [
+   "NE-05198"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Call Active Black",
+  "category": "Wearables",
+  "query": "boAt Ultima Call Active Black"
+ },
+ {
+  "idx": 67,
+  "member_ids": [
+   "NE-05199"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Electra - Charcoal black",
+  "category": "Wearables",
+  "query": "boAt Wave Electra Charcoal black"
+ },
+ {
+  "idx": 68,
+  "member_ids": [
+   "NE-05200"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz Enticer Blue Enigma",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz Enticer Blue Enigma"
+ },
+ {
+  "idx": 69,
+  "member_ids": [
+   "NE-05201"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Celestial - Cyan Blue",
+  "category": "Wearables",
+  "query": "boAt Primia Celestial Cyan Blue"
+ },
+ {
+  "idx": 70,
+  "member_ids": [
+   "NE-05202"
+  ],
+  "brand": "boAt",
+  "product_name": "Xtend Call Plus Deep Purple",
+  "category": "Wearables",
+  "query": "boAt Xtend Call Plus Deep Purple"
+ },
+ {
+  "idx": 71,
+  "member_ids": [
+   "NE-05203"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma X400 Silver Chrome",
+  "category": "Wearables",
+  "query": "boAt Enigma X400 Silver Chrome"
+ },
+ {
+  "idx": 72,
+  "member_ids": [
+   "NE-05204"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Flash Galaxy Blue",
+  "category": "Wearables",
+  "query": "boAt Watch Flash Galaxy Blue"
+ },
+ {
+  "idx": 73,
+  "member_ids": [
+   "NE-05205"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Genesis Oceana",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Genesis Oceana"
+ },
+ {
+  "idx": 74,
+  "member_ids": [
+   "NE-05206"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Lunar orb - Active black",
+  "category": "Wearables",
+  "query": "boAt Lunar orb Active black"
+ },
+ {
+  "idx": 75,
+  "member_ids": [
+   "NE-05207"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Play Warm Grey",
+  "category": "Wearables",
+  "query": "boAt Wave Play Warm Grey"
+ },
+ {
+  "idx": 76,
+  "member_ids": [
+   "NE-05208"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Radiant:- Olive Green",
+  "category": "Wearables",
+  "query": "boAt Enigma Radiant Olive Green"
+ },
+ {
+  "idx": 77,
+  "member_ids": [
+   "NE-05209"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Orb - Metal Grey",
+  "category": "Wearables",
+  "query": "boAt Lunar Orb Metal Grey"
+ },
+ {
+  "idx": 78,
+  "member_ids": [
+   "NE-05210"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Flamingo Pink",
+  "category": "Wearables",
+  "query": "boAt Lunar Connect Ace Flamingo Pink"
+ },
+ {
+  "idx": 79,
+  "member_ids": [
+   "NE-05211"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 150 Pro Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 150 Pro Green"
+ },
+ {
+  "idx": 80,
+  "member_ids": [
+   "NE-05212"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z40 - Black Leather",
+  "category": "Wearables",
+  "query": "boAt Enigma Z40 Black Leather"
+ },
+ {
+  "idx": 81,
+  "member_ids": [
+   "NE-05213"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 900 Pearl White",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 900 Pearl White"
+ },
+ {
+  "idx": 82,
+  "member_ids": [
+   "NE-05214"
+  ],
+  "brand": "boAt",
+  "product_name": "Micro Usb 55 Black",
+  "category": "Accessories",
+  "query": "boAt Micro Usb 55 Black"
+ },
+ {
+  "idx": 83,
+  "member_ids": [
+   "NE-05215"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Black & Blue",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Rtl Black & Blue"
+ },
+ {
+  "idx": 84,
+  "member_ids": [
+   "NE-05216"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Hype Opal Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Hype Opal Black"
+ },
+ {
+  "idx": 85,
+  "member_ids": [
+   "NE-05217"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Ion ANC Pro Blazing Comet",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Ion ANC Pro Blazing Comet"
+ },
+ {
+  "idx": 86,
+  "member_ids": [
+   "NE-05218"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Flash Active Black",
+  "category": "Wearables",
+  "query": "boAt Watch Flash Active Black"
+ },
+ {
+  "idx": 87,
+  "member_ids": [
+   "NE-05219"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 181 Carbon Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 181 Carbon Black"
+ },
+ {
+  "idx": 88,
+  "member_ids": [
+   "NE-05220"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 258 Pro+ Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 258 Pro+ Active Black"
+ },
+ {
+  "idx": 89,
+  "member_ids": [
+   "NE-05221"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Black & Blue",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Black & Blue"
+ },
+ {
+  "idx": 90,
+  "member_ids": [
+   "NE-05222"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z20 :-Jet Black",
+  "category": "Wearables",
+  "query": "boAt Enigma Z20 Jet Black"
+ },
+ {
+  "idx": 91,
+  "member_ids": [
+   "NE-05223"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave convex - Dark Blue",
+  "category": "Wearables",
+  "query": "boAt Wave convex Dark Blue"
+ },
+ {
+  "idx": 92,
+  "member_ids": [
+   "NE-05225"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Stride Voice :- Cherry Blossom",
+  "category": "Wearables",
+  "query": "boAt Wave Stride Voice Cherry Blossom"
+ },
+ {
+  "idx": 93,
+  "member_ids": [
+   "NE-05226"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Kick Carbon Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Kick Carbon Black"
+ },
+ {
+  "idx": 94,
+  "member_ids": [
+   "NE-05227"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Peak Silver",
+  "category": "Wearables",
+  "query": "boAt Lunar Peak Silver"
+ },
+ {
+  "idx": 95,
+  "member_ids": [
+   "NE-05228"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Cherry Blossom",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Cherry Blossom"
+ },
+ {
+  "idx": 96,
+  "member_ids": [
+   "NE-05229"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Curv - Black leather",
+  "category": "Wearables",
+  "query": "boAt Primia Curv Black leather"
+ },
+ {
+  "idx": 97,
+  "member_ids": [
+   "NE-05230"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Stride Voice :- Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Stride Voice Deep Blue"
+ },
+ {
+  "idx": 98,
+  "member_ids": [
+   "NE-05231"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Call MAUVE",
+  "category": "Wearables",
+  "query": "boAt Wave Call MAUVE"
+ },
+ {
+  "idx": 99,
+  "member_ids": [
+   "NE-05232"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Aura Royal Orange",
+  "category": "Wearables",
+  "query": "boAt Wave Aura Royal Orange"
+ },
+ {
+  "idx": 100,
+  "member_ids": [
+   "NE-05233"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 122 Gunmetal",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 122 Gunmetal"
+ },
+ {
+  "idx": 101,
+  "member_ids": [
+   "NE-05234"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 183 Mercurial Grey",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 183 Mercurial Grey"
+ },
+ {
+  "idx": 102,
+  "member_ids": [
+   "NE-05235"
+  ],
+  "brand": "boAt",
+  "product_name": "Ltg 650 Mercurial Black Data Cable",
+  "category": "Accessories",
+  "query": "boAt Ltg 650 Mercurial Black Data Cable"
+ },
+ {
+  "idx": 103,
+  "member_ids": [
+   "NE-05237"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Prime - Steel silver",
+  "category": "Wearables",
+  "query": "boAt Lunar Prime Steel silver"
+ },
+ {
+  "idx": 104,
+  "member_ids": [
+   "NE-05240"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 268 Fern Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 268 Fern Green"
+ },
+ {
+  "idx": 105,
+  "member_ids": [
+   "NE-05241"
+  ],
+  "brand": "boAt",
+  "product_name": "Boat LTG Grey500-2M Lightning Cable",
+  "category": "Accessories",
+  "query": "boAt LTG Grey500 2M Lightning Cable"
+ },
+ {
+  "idx": 106,
+  "member_ids": [
+   "NE-05242"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Fit Olive Green",
+  "category": "Wearables",
+  "query": "boAt Wave Fit Olive Green"
+ },
+ {
+  "idx": 107,
+  "member_ids": [
+   "NE-05243"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Cider Cyan",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 141 Cider Cyan"
+ },
+ {
+  "idx": 108,
+  "member_ids": [
+   "NE-05245"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X500 : Classic Silver",
+  "category": "Wearables",
+  "query": "boAt Enigma X500 Classic Silver"
+ },
+ {
+  "idx": 109,
+  "member_ids": [
+   "NE-05246"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Astra - Silver Metal",
+  "category": "Wearables",
+  "query": "boAt Wave Astra Silver Metal"
+ },
+ {
+  "idx": 110,
+  "member_ids": [
+   "NE-05248"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Spectra :- Steel Black",
+  "category": "Wearables",
+  "query": "boAt Wave Spectra Steel Black"
+ },
+ {
+  "idx": 111,
+  "member_ids": [
+   "NE-05249"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 450 Pro Hazel Beige",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 450 Pro Hazel Beige"
+ },
+ {
+  "idx": 112,
+  "member_ids": [
+   "NE-05250"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 141 pro Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 141 pro Active Black"
+ },
+ {
+  "idx": 113,
+  "member_ids": [
+   "NE-05251"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 109 Fern Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 109 Fern Green"
+ },
+ {
+  "idx": 114,
+  "member_ids": [
+   "NE-05252"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Flex Connect :- Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Flex Connect Deep Blue"
+ },
+ {
+  "idx": 115,
+  "member_ids": [
+   "NE-05253"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Raging Red",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Raging Red"
+ },
+ {
+  "idx": 116,
+  "member_ids": [
+   "NE-05254"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Connect Plus - Active Black",
+  "category": "Wearables",
+  "query": "boAt Lunar Connect Plus Active Black"
+ },
+ {
+  "idx": 117,
+  "member_ids": [
+   "NE-05255"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Spin Voice - Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Wave Spin Voice Charcoal Black"
+ },
+ {
+  "idx": 118,
+  "member_ids": [
+   "NE-05256"
+  ],
+  "brand": "boAt",
+  "product_name": "Ltg 600 1.2m Black",
+  "category": "Accessories",
+  "query": "boAt Ltg 600 1.2m Black"
+ },
+ {
+  "idx": 119,
+  "member_ids": [
+   "NE-05257"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 551ANC Sage Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 551ANC Sage Green"
+ },
+ {
+  "idx": 120,
+  "member_ids": [
+   "NE-05258"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz Trinity Just Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz Trinity Just Blue"
+ },
+ {
+  "idx": 121,
+  "member_ids": [
+   "NE-05259"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 2 :- Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Force 2 Deep Blue"
+ },
+ {
+  "idx": 122,
+  "member_ids": [
+   "NE-05260"
+  ],
+  "brand": "boAt",
+  "product_name": "Immortal 170 Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal 170 Black Sabre"
+ },
+ {
+  "idx": 123,
+  "member_ids": [
+   "NE-05261"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Metal black",
+  "category": "Wearables",
+  "query": "boAt Wave Sigma Metal black"
+ },
+ {
+  "idx": 124,
+  "member_ids": [
+   "NE-05262"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 255r Raging Red",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 255r Raging Red"
+ },
+ {
+  "idx": 125,
+  "member_ids": [
+   "NE-05263"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 261 Pro Lazer Lime",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 261 Pro Lazer Lime"
+ },
+ {
+  "idx": 126,
+  "member_ids": [
+   "NE-05264"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Call Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Call Active Black"
+ },
+ {
+  "idx": 127,
+  "member_ids": [
+   "NE-05265"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Blue",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 242 Blue"
+ },
+ {
+  "idx": 128,
+  "member_ids": [
+   "NE-05266"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Joy Dark Cyan",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Joy Dark Cyan"
+ },
+ {
+  "idx": 129,
+  "member_ids": [
+   "NE-05267"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 170 Classic Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 170 Classic Black"
+ },
+ {
+  "idx": 130,
+  "member_ids": [
+   "NE-05269"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Astra - Active black",
+  "category": "Wearables",
+  "query": "boAt Wave Astra Active black"
+ },
+ {
+  "idx": 131,
+  "member_ids": [
+   "NE-05270"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone Majestic Vintage Brown",
+  "category": "Large Audio",
+  "query": "boAt Stone Majestic Vintage Brown"
+ },
+ {
+  "idx": 132,
+  "member_ids": [
+   "NE-05271"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Flash Moon Red",
+  "category": "Wearables",
+  "query": "boAt Watch Flash Moon Red"
+ },
+ {
+  "idx": 133,
+  "member_ids": [
+   "NE-05272"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl - Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Rtl Charcoal Black"
+ },
+ {
+  "idx": 134,
+  "member_ids": [
+   "NE-05273"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z30 - Classic Silver",
+  "category": "Wearables",
+  "query": "boAt Enigma Z30 Classic Silver"
+ },
+ {
+  "idx": 135,
+  "member_ids": [
+   "NE-05274"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Hype Aero Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Hype Aero Blue"
+ },
+ {
+  "idx": 136,
+  "member_ids": [
+   "NE-05275"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Style Beige",
+  "category": "Wearables",
+  "query": "boAt Wave Style Beige"
+ },
+ {
+  "idx": 137,
+  "member_ids": [
+   "NE-05276"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone 1208 Blue",
+  "category": "Large Audio",
+  "query": "boAt Stone 1208 Blue"
+ },
+ {
+  "idx": 138,
+  "member_ids": [
+   "NE-05277"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz Trinity Kutch White",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz Trinity Kutch White"
+ },
+ {
+  "idx": 139,
+  "member_ids": [
+   "NE-05278"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-11-Midnight Black",
+  "category": "Wearables",
+  "query": "boAt Smartring Active 11 Midnight Black"
+ },
+ {
+  "idx": 140,
+  "member_ids": [
+   "NE-05279"
+  ],
+  "brand": "boAt",
+  "product_name": "Micro Usb 50 Black",
+  "category": "Accessories",
+  "query": "boAt Micro Usb 50 Black"
+ },
+ {
+  "idx": 141,
+  "member_ids": [
+   "NE-05280"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Call Sapphire Blue",
+  "category": "Wearables",
+  "query": "boAt Lunar Call Sapphire Blue"
+ },
+ {
+  "idx": 142,
+  "member_ids": [
+   "NE-05281"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 400 Pro Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 400 Pro Active Black"
+ },
+ {
+  "idx": 143,
+  "member_ids": [
+   "NE-05282"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Lunar comet - Active black",
+  "category": "Wearables",
+  "query": "boAt Lunar comet Active black"
+ },
+ {
+  "idx": 144,
+  "member_ids": [
+   "NE-05283"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Curv  - Metal Black",
+  "category": "Wearables",
+  "query": "boAt Primia Curv Metal Black"
+ },
+ {
+  "idx": 145,
+  "member_ids": [
+   "NE-05285"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xplorer 02 Pitch Black",
+  "category": "Wearables",
+  "query": "boAt Watch Xplorer 02 Pitch Black"
+ },
+ {
+  "idx": 146,
+  "member_ids": [
+   "NE-05286"
+  ],
+  "brand": "boAt",
+  "product_name": "Ultima Select:- Steel Black",
+  "category": "Wearables",
+  "query": "boAt Ultima Select Steel Black"
+ },
+ {
+  "idx": 147,
+  "member_ids": [
+   "NE-05287"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 195 pro Maroon Maverick",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 195 pro Maroon Maverick"
+ },
+ {
+  "idx": 148,
+  "member_ids": [
+   "NE-05288"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Play active black",
+  "category": "Wearables",
+  "query": "boAt Wave Play active black"
+ },
+ {
+  "idx": 149,
+  "member_ids": [
+   "NE-05289"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Lunar orb - Deep blue",
+  "category": "Wearables",
+  "query": "boAt Lunar orb Deep blue"
+ },
+ {
+  "idx": 150,
+  "member_ids": [
+   "NE-05290"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Play Teal Green",
+  "category": "Wearables",
+  "query": "boAt Wave Play Teal Green"
+ },
+ {
+  "idx": 151,
+  "member_ids": [
+   "NE-05291"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 111 Ash Grey",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 111 Ash Grey"
+ },
+ {
+  "idx": 152,
+  "member_ids": [
+   "NE-05292"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Prime Royal Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Prime Royal Blue"
+ },
+ {
+  "idx": 153,
+  "member_ids": [
+   "NE-05293"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Pure White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 141 Pure White"
+ },
+ {
+  "idx": 154,
+  "member_ids": [
+   "NE-05294"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar Peak Black",
+  "category": "Wearables",
+  "query": "boAt Lunar Peak Black"
+ },
+ {
+  "idx": 155,
+  "member_ids": [
+   "NE-05295"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 341ANC Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 341ANC Black"
+ },
+ {
+  "idx": 156,
+  "member_ids": [
+   "NE-05296"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Beat Call-Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Beat Call Active Black"
+ },
+ {
+  "idx": 157,
+  "member_ids": [
+   "NE-05297"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Viper Green",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Viper Green"
+ },
+ {
+  "idx": 158,
+  "member_ids": [
+   "NE-05298"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X600 Classic Silver",
+  "category": "Wearables",
+  "query": "boAt Enigma X600 Classic Silver"
+ },
+ {
+  "idx": 159,
+  "member_ids": [
+   "NE-05299"
+  ],
+  "brand": "boAt",
+  "product_name": "Storm Connect Plus Active Black",
+  "category": "Wearables",
+  "query": "boAt Storm Connect Plus Active Black"
+ },
+ {
+  "idx": 160,
+  "member_ids": [
+   "NE-05300"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 2 :- Forest green",
+  "category": "Wearables",
+  "query": "boAt Wave Force 2 Forest green"
+ },
+ {
+  "idx": 161,
+  "member_ids": [
+   "NE-05301"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt AirdOpes 411 ANC Blue Thunder",
+  "category": "Personal Audio",
+  "query": "boAt AirdOpes 411 ANC Blue Thunder"
+ },
+ {
+  "idx": 162,
+  "member_ids": [
+   "NE-05302"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 207 Bold\u00a0Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 207 Bold Blue"
+ },
+ {
+  "idx": 163,
+  "member_ids": [
+   "NE-05303"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 408 Rosegold White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 408 Rosegold White"
+ },
+ {
+  "idx": 164,
+  "member_ids": [
+   "NE-05304"
+  ],
+  "brand": "boAt",
+  "product_name": "Immortal 150 Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal 150 Black Sabre"
+ },
+ {
+  "idx": 165,
+  "member_ids": [
+   "NE-05305"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Atom 83 Bold\u00a0Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Atom 83 Bold Blue"
+ },
+ {
+  "idx": 166,
+  "member_ids": [
+   "NE-05306"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 100 Emerald Green",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 100 Emerald Green"
+ },
+ {
+  "idx": 167,
+  "member_ids": [
+   "NE-05307"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 122 ANC Black",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 122 ANC Black"
+ },
+ {
+  "idx": 168,
+  "member_ids": [
+   "NE-05308"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X500 : Jet Black",
+  "category": "Wearables",
+  "query": "boAt Enigma X500 Jet Black"
+ },
+ {
+  "idx": 169,
+  "member_ids": [
+   "NE-05309"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Zing Aero Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Zing Aero Blue"
+ },
+ {
+  "idx": 170,
+  "member_ids": [
+   "NE-05310"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-9-Midnight Black",
+  "category": "Wearables",
+  "query": "boAt Smartring Active 9 Midnight Black"
+ },
+ {
+  "idx": 171,
+  "member_ids": [
+   "NE-05311"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Ultima Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Ultima Active Black"
+ },
+ {
+  "idx": 172,
+  "member_ids": [
+   "NE-05312"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Connect Plus:- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Connect Plus Active Black"
+ },
+ {
+  "idx": 173,
+  "member_ids": [
+   "NE-05313"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl Olive Green",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Rtl Olive Green"
+ },
+ {
+  "idx": 174,
+  "member_ids": [
+   "NE-05314"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Storm Call - Pitch Black",
+  "category": "Wearables",
+  "query": "boAt Storm Call Pitch Black"
+ },
+ {
+  "idx": 175,
+  "member_ids": [
+   "NE-05315"
+  ],
+  "brand": "boAt",
+  "product_name": "Usb 500-1.5 Black",
+  "category": "Accessories",
+  "query": "boAt Usb 500 1.5 Black"
+ },
+ {
+  "idx": 176,
+  "member_ids": [
+   "NE-05316"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Ascend:- Midnight Gold",
+  "category": "Wearables",
+  "query": "boAt Enigma Ascend Midnight Gold"
+ },
+ {
+  "idx": 177,
+  "member_ids": [
+   "NE-05317"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana X Mist Blue",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana X Mist Blue"
+ },
+ {
+  "idx": 178,
+  "member_ids": [
+   "NE-05318"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 235v2 Charcoal Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 235v2 Charcoal Black"
+ },
+ {
+  "idx": 179,
+  "member_ids": [
+   "NE-05319"
+  ],
+  "brand": "boAt",
+  "product_name": "Cosmos Plus :- Brown Leather",
+  "category": "Wearables",
+  "query": "boAt Cosmos Plus Brown Leather"
+ },
+ {
+  "idx": 180,
+  "member_ids": [
+   "NE-05320"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Pitch Black",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Pitch Black"
+ },
+ {
+  "idx": 181,
+  "member_ids": [
+   "NE-05321"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm F Cool Grey Xplorer",
+  "category": "Wearables",
+  "query": "boAt Watch Storm F Cool Grey Xplorer"
+ },
+ {
+  "idx": 182,
+  "member_ids": [
+   "NE-05322"
+  ],
+  "brand": "boAt",
+  "product_name": "Lunar connect plus - Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Lunar connect plus Deep Blue"
+ },
+ {
+  "idx": 183,
+  "member_ids": [
+   "NE-05323"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Magma - Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Magma Active Black"
+ },
+ {
+  "idx": 184,
+  "member_ids": [
+   "NE-05324"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 111 Deep Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 111 Deep Blue"
+ },
+ {
+  "idx": 185,
+  "member_ids": [
+   "NE-05325"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 450 Luscious Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 450 Luscious Black"
+ },
+ {
+  "idx": 186,
+  "member_ids": [
+   "NE-05326"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 2 :- Sage Green",
+  "category": "Wearables",
+  "query": "boAt Wave Force 2 Sage Green"
+ },
+ {
+  "idx": 187,
+  "member_ids": [
+   "NE-05327"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone Opus : Midnight Black",
+  "category": "Large Audio",
+  "query": "boAt Stone Opus Midnight Black"
+ },
+ {
+  "idx": 188,
+  "member_ids": [
+   "NE-05328"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Rockerz Apex Classic Grey",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz Apex Classic Grey"
+ },
+ {
+  "idx": 189,
+  "member_ids": [
+   "NE-05329"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Primia Talk Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Primia Talk Active Black"
+ },
+ {
+  "idx": 190,
+  "member_ids": [
+   "NE-05330"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma X700 Copper Blue",
+  "category": "Wearables",
+  "query": "boAt Enigma X700 Copper Blue"
+ },
+ {
+  "idx": 191,
+  "member_ids": [
+   "NE-05331"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 170 Frost White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 170 Frost White"
+ },
+ {
+  "idx": 192,
+  "member_ids": [
+   "NE-05332"
+  ],
+  "brand": "boAt",
+  "product_name": "Cosmos Plus :- Metal Silver",
+  "category": "Wearables",
+  "query": "boAt Cosmos Plus Metal Silver"
+ },
+ {
+  "idx": 193,
+  "member_ids": [
+   "NE-05333"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Teal Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 330 Teal Green"
+ },
+ {
+  "idx": 194,
+  "member_ids": [
+   "NE-05334"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Convex - Steel black",
+  "category": "Wearables",
+  "query": "boAt Wave Convex Steel black"
+ },
+ {
+  "idx": 195,
+  "member_ids": [
+   "NE-05335"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z20 :- Brown leather",
+  "category": "Wearables",
+  "query": "boAt Enigma Z20 Brown leather"
+ },
+ {
+  "idx": 196,
+  "member_ids": [
+   "NE-05336"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Rockerz 425 Ash Grey",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 425 Ash Grey"
+ },
+ {
+  "idx": 197,
+  "member_ids": [
+   "NE-05337"
+  ],
+  "brand": "boAt",
+  "product_name": "Boat Cosmos Active Black",
+  "category": "Wearables",
+  "query": "boAt Cosmos Active Black"
+ },
+ {
+  "idx": 198,
+  "member_ids": [
+   "NE-05338"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Atom 83 Carbon Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Atom 83 Carbon Black"
+ },
+ {
+  "idx": 199,
+  "member_ids": [
+   "NE-05339"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Ultima - Olive green",
+  "category": "Wearables",
+  "query": "boAt Wave Ultima Olive green"
+ },
+ {
+  "idx": 200,
+  "member_ids": [
+   "NE-05340"
+  ],
+  "brand": "boAt",
+  "product_name": "Xtend Pro Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Xtend Pro Deep Blue"
+ },
+ {
+  "idx": 201,
+  "member_ids": [
+   "NE-05341"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Celestial - Metal Grey",
+  "category": "Wearables",
+  "query": "boAt Primia Celestial Metal Grey"
+ },
+ {
+  "idx": 202,
+  "member_ids": [
+   "NE-05342"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Pro Mint Cascade",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 131 Pro Mint Cascade"
+ },
+ {
+  "idx": 203,
+  "member_ids": [
+   "NE-05343"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 121 Pro Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 121 Pro Active Black"
+ },
+ {
+  "idx": 204,
+  "member_ids": [
+   "NE-05344"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 550 Army Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 550 Army Green"
+ },
+ {
+  "idx": 205,
+  "member_ids": [
+   "NE-05345"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 268 Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 268 Active Black"
+ },
+ {
+  "idx": 206,
+  "member_ids": [
+   "NE-05346"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Genesis White Purity",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Genesis White Purity"
+ },
+ {
+  "idx": 207,
+  "member_ids": [
+   "NE-05347"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Raging Red",
+  "category": "Wearables",
+  "query": "boAt Watch Storm Rtl Raging Red"
+ },
+ {
+  "idx": 208,
+  "member_ids": [
+   "NE-05348"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Immortal 181 White Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal 181 White Sabre"
+ },
+ {
+  "idx": 209,
+  "member_ids": [
+   "NE-05349"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Lynk voice Grey",
+  "category": "Wearables",
+  "query": "boAt Wave Lynk voice Grey"
+ },
+ {
+  "idx": 210,
+  "member_ids": [
+   "NE-05350"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Style Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Style Active Black"
+ },
+ {
+  "idx": 211,
+  "member_ids": [
+   "NE-05351"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 558 Bt Headphone Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 558 Bt Headphone Black"
+ },
+ {
+  "idx": 212,
+  "member_ids": [
+   "NE-05353"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Armour 2 :- Forest Green",
+  "category": "Wearables",
+  "query": "boAt Wave Armour 2 Forest Green"
+ },
+ {
+  "idx": 213,
+  "member_ids": [
+   "NE-05354"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Pro Royal Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 131 Pro Royal Blue"
+ },
+ {
+  "idx": 214,
+  "member_ids": [
+   "NE-05355"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 430 Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 430 Black Sabre"
+ },
+ {
+  "idx": 215,
+  "member_ids": [
+   "NE-05356"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 170 Tranquil Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 170 Tranquil Blue"
+ },
+ {
+  "idx": 216,
+  "member_ids": [
+   "NE-05357"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 3 :- Clear White",
+  "category": "Wearables",
+  "query": "boAt Wave Force 3 Clear White"
+ },
+ {
+  "idx": 217,
+  "member_ids": [
+   "NE-05358"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Lynk Voice Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Lynk Voice Active Black"
+ },
+ {
+  "idx": 218,
+  "member_ids": [
+   "NE-05359"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Prime 47 Charcoal black",
+  "category": "Wearables",
+  "query": "boAt Wave Prime 47 Charcoal black"
+ },
+ {
+  "idx": 219,
+  "member_ids": [
+   "NE-05360"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Play Electric Purple",
+  "category": "Wearables",
+  "query": "boAt Wave Play Electric Purple"
+ },
+ {
+  "idx": 220,
+  "member_ids": [
+   "NE-05361"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone 750 Raging  Black",
+  "category": "Large Audio",
+  "query": "boAt Stone 750 Raging Black"
+ },
+ {
+  "idx": 221,
+  "member_ids": [
+   "NE-05362"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Arcade - Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Arcade Active Black"
+ },
+ {
+  "idx": 222,
+  "member_ids": [
+   "NE-05364"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma R32 - Classic Silver",
+  "category": "Wearables",
+  "query": "boAt Enigma R32 Classic Silver"
+ },
+ {
+  "idx": 223,
+  "member_ids": [
+   "NE-05365"
+  ],
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl Pitch Black",
+  "category": "Wearables",
+  "query": "boAt Watch Xtend Rtl Pitch Black"
+ },
+ {
+  "idx": 224,
+  "member_ids": [
+   "NE-05366"
+  ],
+  "brand": "boAt",
+  "product_name": "Boat Cosmos Pro Cool Blue",
+  "category": "Wearables",
+  "query": "boAt Cosmos Pro Cool Blue"
+ },
+ {
+  "idx": 225,
+  "member_ids": [
+   "NE-05368"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Xtend Talk (Pitch Black)",
+  "category": "Wearables",
+  "query": "boAt Xtend Talk (Pitch Black)"
+ },
+ {
+  "idx": 226,
+  "member_ids": [
+   "NE-05369"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Ace:- Metallic Black",
+  "category": "Wearables",
+  "query": "boAt Primia Ace Metallic Black"
+ },
+ {
+  "idx": 227,
+  "member_ids": [
+   "NE-05370"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Primia curv - Active black",
+  "category": "Wearables",
+  "query": "boAt Primia curv Active black"
+ },
+ {
+  "idx": 228,
+  "member_ids": [
+   "NE-05371"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Ultra Plus Olive Slate",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Ultra Plus Olive Slate"
+ },
+ {
+  "idx": 229,
+  "member_ids": [
+   "NE-05372"
+  ],
+  "brand": "boAt",
+  "product_name": "Wcd 65w Qcpd White",
+  "category": "Accessories",
+  "query": "boAt Wcd 65w Qcpd White"
+ },
+ {
+  "idx": 230,
+  "member_ids": [
+   "NE-05373"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wanderer - Aqual",
+  "category": "Wearables",
+  "query": "boAt Wanderer Aqual"
+ },
+ {
+  "idx": 231,
+  "member_ids": [
+   "NE-05374"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Glory Pro :- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Glory Pro Active Black"
+ },
+ {
+  "idx": 232,
+  "member_ids": [
+   "NE-05375"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 450 Pro Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 450 Pro Black"
+ },
+ {
+  "idx": 233,
+  "member_ids": [
+   "NE-05377"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Style Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Style Deep Blue"
+ },
+ {
+  "idx": 234,
+  "member_ids": [
+   "NE-05378"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 207 Ivory White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 207 Ivory White"
+ },
+ {
+  "idx": 235,
+  "member_ids": [
+   "NE-05379"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave convex - Active black",
+  "category": "Wearables",
+  "query": "boAt Wave convex Active black"
+ },
+ {
+  "idx": 236,
+  "member_ids": [
+   "NE-05380"
+  ],
+  "brand": "boAt",
+  "product_name": "Cosmos Plus - Jet Black",
+  "category": "Wearables",
+  "query": "boAt Cosmos Plus Jet Black"
+ },
+ {
+  "idx": 237,
+  "member_ids": [
+   "NE-05381"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt IMMORTAL 131 White sabre",
+  "category": "Personal Audio",
+  "query": "boAt IMMORTAL 131 White sabre"
+ },
+ {
+  "idx": 238,
+  "member_ids": [
+   "NE-05382"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Voice Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Wave Voice Charcoal Black"
+ },
+ {
+  "idx": 239,
+  "member_ids": [
+   "NE-05383"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Neo Deep Blue",
+  "category": "Wearables",
+  "query": "boAt Wave Neo Deep Blue"
+ },
+ {
+  "idx": 240,
+  "member_ids": [
+   "NE-05384"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Aavante Bar Opera Premium Black",
+  "category": "Large Audio",
+  "query": "boAt Aavante Bar Opera Premium Black"
+ },
+ {
+  "idx": 241,
+  "member_ids": [
+   "NE-05385"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Astra 3 - Olive green",
+  "category": "Wearables",
+  "query": "boAt Wave Astra 3 Olive green"
+ },
+ {
+  "idx": 242,
+  "member_ids": [
+   "NE-05386"
+  ],
+  "brand": "boAt",
+  "product_name": "IMMORTAL 171 Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt IMMORTAL 171 Black Sabre"
+ },
+ {
+  "idx": 243,
+  "member_ids": [
+   "NE-05387"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Zing Opal Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Zing Opal Black"
+ },
+ {
+  "idx": 244,
+  "member_ids": [
+   "NE-05388"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 163 Ivory White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 163 Ivory White"
+ },
+ {
+  "idx": 245,
+  "member_ids": [
+   "NE-05389"
+  ],
+  "brand": "boAt",
+  "product_name": "Bassheads 100 C Black",
+  "category": "Personal Audio",
+  "query": "boAt Bassheads 100 C Black"
+ },
+ {
+  "idx": 246,
+  "member_ids": [
+   "NE-05390"
+  ],
+  "brand": "boAt",
+  "product_name": "Enigma Z20 :- Metal Black",
+  "category": "Wearables",
+  "query": "boAt Enigma Z20 Metal Black"
+ },
+ {
+  "idx": 247,
+  "member_ids": [
+   "NE-05391"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 261 Pro Ink Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 261 Pro Ink Black"
+ },
+ {
+  "idx": 248,
+  "member_ids": [
+   "NE-05392"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Glory Pro :- Royal Orange",
+  "category": "Wearables",
+  "query": "boAt Wave Glory Pro Royal Orange"
+ },
+ {
+  "idx": 249,
+  "member_ids": [
+   "NE-05393"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Zenith Celestial White",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Zenith Celestial White"
+ },
+ {
+  "idx": 250,
+  "member_ids": [
+   "NE-05394"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Armour:- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Armour Active Black"
+ },
+ {
+  "idx": 251,
+  "member_ids": [
+   "NE-05395"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 207 Carbon Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 207 Carbon Black"
+ },
+ {
+  "idx": 252,
+  "member_ids": [
+   "NE-05397"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave beat Raging Red",
+  "category": "Wearables",
+  "query": "boAt Wave beat Raging Red"
+ },
+ {
+  "idx": 253,
+  "member_ids": [
+   "NE-05398"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Ace - Charcoal Black",
+  "category": "Wearables",
+  "query": "boAt Primia Ace Charcoal Black"
+ },
+ {
+  "idx": 254,
+  "member_ids": [
+   "NE-05399"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Glory:- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Glory Active Black"
+ },
+ {
+  "idx": 255,
+  "member_ids": [
+   "NE-05400"
+  ],
+  "brand": "boAt",
+  "product_name": "Stone Ignite Jade Black",
+  "category": "Large Audio",
+  "query": "boAt Stone Ignite Jade Black"
+ },
+ {
+  "idx": 256,
+  "member_ids": [
+   "NE-05401"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 150 Pro Black",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 150 Pro Black"
+ },
+ {
+  "idx": 257,
+  "member_ids": [
+   "NE-05402"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wanderer Smart - Sky Blue",
+  "category": "Wearables",
+  "query": "boAt Wanderer Smart Sky Blue"
+ },
+ {
+  "idx": 258,
+  "member_ids": [
+   "NE-05403"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Zing Pearl White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Zing Pearl White"
+ },
+ {
+  "idx": 259,
+  "member_ids": [
+   "NE-05405"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Pro Royal Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Pro Royal Blue"
+ },
+ {
+  "idx": 260,
+  "member_ids": [
+   "NE-05406"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Nebula Celestial White",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Nebula Celestial White"
+ },
+ {
+  "idx": 261,
+  "member_ids": [
+   "NE-05407"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana X Cosmic Onyx",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana X Cosmic Onyx"
+ },
+ {
+  "idx": 262,
+  "member_ids": [
+   "NE-05408"
+  ],
+  "brand": "boAt",
+  "product_name": "Xtend Sport Classic Black",
+  "category": "Wearables",
+  "query": "boAt Xtend Sport Classic Black"
+ },
+ {
+  "idx": 263,
+  "member_ids": [
+   "NE-05409"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Airdopes 191G White Siberia",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 191G White Siberia"
+ },
+ {
+  "idx": 264,
+  "member_ids": [
+   "NE-05410"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes bliss ANC - Cool Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes bliss ANC Cool Blue"
+ },
+ {
+  "idx": 265,
+  "member_ids": [
+   "NE-05411"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Bold Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 141 Bold Black"
+ },
+ {
+  "idx": 266,
+  "member_ids": [
+   "NE-05412"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Ivory White",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Ivory White"
+ },
+ {
+  "idx": 267,
+  "member_ids": [
+   "NE-05413"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Airdopes 191G Sport Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 191G Sport Blue"
+ },
+ {
+  "idx": 268,
+  "member_ids": [
+   "NE-05414"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Glory:- Royal Orange",
+  "category": "Wearables",
+  "query": "boAt Wave Glory Royal Orange"
+ },
+ {
+  "idx": 269,
+  "member_ids": [
+   "NE-05415"
+  ],
+  "brand": "boAt",
+  "product_name": "Boat Immortal 121 Black sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal 121 Black sabre"
+ },
+ {
+  "idx": 270,
+  "member_ids": [
+   "NE-05416"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 192 Black sabre",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 192 Black sabre"
+ },
+ {
+  "idx": 271,
+  "member_ids": [
+   "NE-05417"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Force 3 :- Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Force 3 Active Black"
+ },
+ {
+  "idx": 272,
+  "member_ids": [
+   "NE-05418"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Neo Active Black",
+  "category": "Wearables",
+  "query": "boAt Wave Neo Active Black"
+ },
+ {
+  "idx": 273,
+  "member_ids": [
+   "NE-05419"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wave Fit Call - Active black",
+  "category": "Wearables",
+  "query": "boAt Wave Fit Call Active black"
+ },
+ {
+  "idx": 274,
+  "member_ids": [
+   "NE-05420"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 441 Mi Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 441 Mi Blue"
+ },
+ {
+  "idx": 275,
+  "member_ids": [
+   "NE-05421"
+  ],
+  "brand": "boAt",
+  "product_name": "Wave Neo Burgundy",
+  "category": "Wearables",
+  "query": "boAt Wave Neo Burgundy"
+ },
+ {
+  "idx": 276,
+  "member_ids": [
+   "NE-05422"
+  ],
+  "brand": "boAt",
+  "product_name": "Immortal Airspeed Pro Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal Airspeed Pro Black Sabre"
+ },
+ {
+  "idx": 277,
+  "member_ids": [
+   "NE-05423"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Zenith Mystique Black",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Zenith Mystique Black"
+ },
+ {
+  "idx": 278,
+  "member_ids": [
+   "NE-05424"
+  ],
+  "brand": "boAt",
+  "product_name": "Primia Curv - Steel black",
+  "category": "Wearables",
+  "query": "boAt Primia Curv Steel black"
+ },
+ {
+  "idx": 279,
+  "member_ids": [
+   "NE-05427"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes Ultra Plus Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes Ultra Plus Active Black"
+ },
+ {
+  "idx": 280,
+  "member_ids": [
+   "NE-05428"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Midnight Blue",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Midnight Blue"
+ },
+ {
+  "idx": 281,
+  "member_ids": [
+   "NE-05429"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Xtend Talk (Cherry blossm)",
+  "category": "Wearables",
+  "query": "boAt Xtend Talk (Cherry blossm)"
+ },
+ {
+  "idx": 282,
+  "member_ids": [
+   "NE-05430"
+  ],
+  "brand": "boAt",
+  "product_name": "BoAt Airdopes 191G Raging Red",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 191G Raging Red"
+ },
+ {
+  "idx": 283,
+  "member_ids": [
+   "NE-05431"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt Wanderer - Coral",
+  "category": "Wearables",
+  "query": "boAt Wanderer Coral"
+ },
+ {
+  "idx": 284,
+  "member_ids": [
+   "NE-05432"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt IMMORTAL 121 White sabre",
+  "category": "Personal Audio",
+  "query": "boAt IMMORTAL 121 White sabre"
+ },
+ {
+  "idx": 285,
+  "member_ids": [
+   "NE-05433"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Pro Mint cascade",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Pro Mint cascade"
+ },
+ {
+  "idx": 286,
+  "member_ids": [
+   "NE-05434"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 148 White Purity",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 148 White Purity"
+ },
+ {
+  "idx": 287,
+  "member_ids": [
+   "NE-05435"
+  ],
+  "brand": "boAt",
+  "product_name": "PartyPal 220 : Midnight Black",
+  "category": "Large Audio",
+  "query": "boAt PartyPal 220 Midnight Black"
+ },
+ {
+  "idx": 288,
+  "member_ids": [
+   "NE-05436"
+  ],
+  "brand": "boAt",
+  "product_name": "Immortal Airspeed Pro White Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Immortal Airspeed Pro White Sabre"
+ },
+ {
+  "idx": 289,
+  "member_ids": [
+   "NE-05437"
+  ],
+  "brand": "boAt",
+  "product_name": "Boat Cosmos Pro Active Black",
+  "category": "Wearables",
+  "query": "boAt Cosmos Pro Active Black"
+ },
+ {
+  "idx": 290,
+  "member_ids": [
+   "NE-05438"
+  ],
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Pro Active Black",
+  "category": "Personal Audio",
+  "query": "boAt Airdopes 138 Pro Active Black"
+ },
+ {
+  "idx": 291,
+  "member_ids": [
+   "NE-05439"
+  ],
+  "brand": "boAt",
+  "product_name": "boAt PartyPal 320 Premium Black",
+  "category": "Large Audio",
+  "query": "boAt PartyPal 320 Premium Black"
+ },
+ {
+  "idx": 292,
+  "member_ids": [
+   "NE-05440"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Space Cosmic Black",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Space Cosmic Black"
+ },
+ {
+  "idx": 293,
+  "member_ids": [
+   "NE-05443"
+  ],
+  "brand": "boAt",
+  "product_name": "Sailor Nav Sky Blue",
+  "category": "Wearables",
+  "query": "boAt Sailor Nav Sky Blue"
+ },
+ {
+  "idx": 294,
+  "member_ids": [
+   "NE-05444"
+  ],
+  "brand": "boAt",
+  "product_name": "Sailor Nav Fairy Pink",
+  "category": "Wearables",
+  "query": "boAt Sailor Nav Fairy Pink"
+ },
+ {
+  "idx": 295,
+  "member_ids": [
+   "NE-05445"
+  ],
+  "brand": "boAt",
+  "product_name": "Slazer K100 Granite Black",
+  "category": "Accessories",
+  "query": "boAt Slazer K100 Granite Black"
+ },
+ {
+  "idx": 296,
+  "member_ids": [
+   "NE-05446"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 421 Gen 2 Black Sabre",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 421 Gen 2 Black Sabre"
+ },
+ {
+  "idx": 297,
+  "member_ids": [
+   "NE-05447"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 421 Gen 2 Bold Blue",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 421 Gen 2 Bold Blue"
+ },
+ {
+  "idx": 298,
+  "member_ids": [
+   "NE-05448"
+  ],
+  "brand": "boAt",
+  "product_name": "Rockerz 421 Gen 2 Sage Green",
+  "category": "Personal Audio",
+  "query": "boAt Rockerz 421 Gen 2 Sage Green"
+ },
+ {
+  "idx": 299,
+  "member_ids": [
+   "NE-05449"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Space 2 Orbit Black",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Space 2 Orbit Black"
+ },
+ {
+  "idx": 300,
+  "member_ids": [
+   "NE-05450"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Space 2 Solar brown",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Space 2 Solar brown"
+ },
+ {
+  "idx": 301,
+  "member_ids": [
+   "NE-05451"
+  ],
+  "brand": "boAt",
+  "product_name": "Nirvana Space 2 Starlight white",
+  "category": "Personal Audio",
+  "query": "boAt Nirvana Space 2 Starlight white"
+ },
+ {
+  "idx": 302,
+  "member_ids": [
+   "NE-05496"
+  ],
+  "brand": "IFB",
+  "product_name": "ELENA GXN 6510 CMS",
+  "category": "Home Appliances",
+  "query": "IFB ELENA GXN 6510 CMS"
+ },
+ {
+  "idx": 303,
+  "member_ids": [
+   "NE-05497"
+  ],
+  "brand": "IFB",
+  "product_name": "SERENA GXN 7012 CMS",
+  "category": "Home Appliances",
+  "query": "IFB SERENA GXN 7012 CMS"
+ },
+ {
+  "idx": 304,
+  "member_ids": [
+   "NE-05498"
+  ],
+  "brand": "IFB",
+  "product_name": "SERENA MBN 7012 CMS",
+  "category": "Home Appliances",
+  "query": "IFB SERENA MBN 7012 CMS"
+ },
+ {
+  "idx": 305,
+  "member_ids": [
+   "NE-05499"
+  ],
+  "brand": "IFB",
+  "product_name": "SERENA MSN 7012K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SERENA MSN 7012K CMS"
+ },
+ {
+  "idx": 306,
+  "member_ids": [
+   "NE-05500"
+  ],
+  "brand": "IFB",
+  "product_name": "SERENA MBN 7012K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SERENA MBN 7012K CMS"
+ },
+ {
+  "idx": 307,
+  "member_ids": [
+   "NE-05501"
+  ],
+  "brand": "IFB",
+  "product_name": "SENATOR SXN 8012K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SENATOR SXN 8012K CMS"
+ },
+ {
+  "idx": 308,
+  "member_ids": [
+   "NE-05502"
+  ],
+  "brand": "IFB",
+  "product_name": "SENATOR MBN 8012 CMS",
+  "category": "Home Appliances",
+  "query": "IFB SENATOR MBN 8012 CMS"
+ },
+ {
+  "idx": 309,
+  "member_ids": [
+   "NE-05503"
+  ],
+  "brand": "IFB",
+  "product_name": "SENATOR MSN 8012K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SENATOR MSN 8012K CMS"
+ },
+ {
+  "idx": 310,
+  "member_ids": [
+   "NE-05504"
+  ],
+  "brand": "IFB",
+  "product_name": "SENATOR BXN 8012K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SENATOR BXN 8012K CMS"
+ },
+ {
+  "idx": 311,
+  "member_ids": [
+   "NE-05505"
+  ],
+  "brand": "IFB",
+  "product_name": "SENATOR MBN 8014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB SENATOR MBN 8014K CMS"
+ },
+ {
+  "idx": 312,
+  "member_ids": [
+   "NE-05506"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE OXN 9014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE OXN 9014K CMS"
+ },
+ {
+  "idx": 313,
+  "member_ids": [
+   "NE-05507"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE MXN 9014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE MXN 9014K CMS"
+ },
+ {
+  "idx": 314,
+  "member_ids": [
+   "NE-05508"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE MSN 9014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE MSN 9014K CMS"
+ },
+ {
+  "idx": 315,
+  "member_ids": [
+   "NE-05509"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE BXN 9014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE BXN 9014K CMS"
+ },
+ {
+  "idx": 316,
+  "member_ids": [
+   "NE-05510"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE BHC 9014 SSLC",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE BHC 9014 SSLC"
+ },
+ {
+  "idx": 317,
+  "member_ids": [
+   "NE-05511"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS MBN 1014K CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS MBN 1014K CMS"
+ },
+ {
+  "idx": 318,
+  "member_ids": [
+   "NE-05512",
+   "NE-11534"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS MXC 1014 SSL",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS MXC 1014 SSL"
+ },
+ {
+  "idx": 319,
+  "member_ids": [
+   "NE-05513",
+   "NE-11535"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS VSC 1014 SSL",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS VSC 1014 SSL"
+ },
+ {
+  "idx": 320,
+  "member_ids": [
+   "NE-05514",
+   "NE-11536"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS BXN 1114KH",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS BXN 1114KH"
+ },
+ {
+  "idx": 321,
+  "member_ids": [
+   "NE-05515",
+   "NE-11537"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS VSG 1114",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS VSG 1114"
+ },
+ {
+  "idx": 322,
+  "member_ids": [
+   "NE-05516"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE ZBN 9/6/3 CMS",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE ZBN 9/6/3 CMS"
+ },
+ {
+  "idx": 323,
+  "member_ids": [
+   "NE-05517"
+  ],
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS ZBG 11/7/3",
+  "category": "Home Appliances",
+  "query": "IFB EXECUTIVE PLUS ZBG 11/7/3"
+ },
+ {
+  "idx": 324,
+  "member_ids": [
+   "NE-05521"
+  ],
+  "brand": "IFB",
+  "product_name": "TL650CB1ID",
+  "category": "Home Appliances",
+  "query": "IFB TL650CB1ID"
+ },
+ {
+  "idx": 325,
+  "member_ids": [
+   "NE-05522"
+  ],
+  "brand": "IFB",
+  "product_name": "TL700MB1",
+  "category": "Home Appliances",
+  "query": "IFB TL700MB1"
+ },
+ {
+  "idx": 326,
+  "member_ids": [
+   "NE-05523"
+  ],
+  "brand": "IFB",
+  "product_name": "TL701AG1ID",
+  "category": "Home Appliances",
+  "query": "IFB TL701AG1ID"
+ },
+ {
+  "idx": 327,
+  "member_ids": [
+   "NE-05524"
+  ],
+  "brand": "IFB",
+  "product_name": "TL701EP1ID",
+  "category": "Home Appliances",
+  "query": "IFB TL701EP1ID"
+ },
+ {
+  "idx": 328,
+  "member_ids": [
+   "NE-05525"
+  ],
+  "brand": "IFB",
+  "product_name": "TL701CB1ID",
+  "category": "Home Appliances",
+  "query": "IFB TL701CB1ID"
+ },
+ {
+  "idx": 329,
+  "member_ids": [
+   "NE-05526"
+  ],
+  "brand": "IFB",
+  "product_name": "TL701AG1SID",
+  "category": "Home Appliances",
+  "query": "IFB TL701AG1SID"
+ },
+ {
+  "idx": 330,
+  "member_ids": [
+   "NE-05527"
+  ],
+  "brand": "IFB",
+  "product_name": "TL751MS2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL751MS2SID"
+ },
+ {
+  "idx": 331,
+  "member_ids": [
+   "NE-05528"
+  ],
+  "brand": "IFB",
+  "product_name": "TL801EP1",
+  "category": "Home Appliances",
+  "query": "IFB TL801EP1"
+ },
+ {
+  "idx": 332,
+  "member_ids": [
+   "NE-05529"
+  ],
+  "brand": "IFB",
+  "product_name": "TL801MS2ID",
+  "category": "Home Appliances",
+  "query": "IFB TL801MS2ID"
+ },
+ {
+  "idx": 333,
+  "member_ids": [
+   "NE-05530"
+  ],
+  "brand": "IFB",
+  "product_name": "TL800AG1SID",
+  "category": "Home Appliances",
+  "query": "IFB TL800AG1SID"
+ },
+ {
+  "idx": 334,
+  "member_ids": [
+   "NE-05531"
+  ],
+  "brand": "IFB",
+  "product_name": "TL800CB1SID",
+  "category": "Home Appliances",
+  "query": "IFB TL800CB1SID"
+ },
+ {
+  "idx": 335,
+  "member_ids": [
+   "NE-05532"
+  ],
+  "brand": "IFB",
+  "product_name": "TL801OG2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL801OG2SID"
+ },
+ {
+  "idx": 336,
+  "member_ids": [
+   "NE-05533"
+  ],
+  "brand": "IFB",
+  "product_name": "TL-901AG1ID",
+  "category": "Home Appliances",
+  "query": "IFB TL 901AG1ID"
+ },
+ {
+  "idx": 337,
+  "member_ids": [
+   "NE-05534"
+  ],
+  "brand": "IFB",
+  "product_name": "TL-900NB2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL 900NB2SID"
+ },
+ {
+  "idx": 338,
+  "member_ids": [
+   "NE-05535"
+  ],
+  "brand": "IFB",
+  "product_name": "TL-900OG2SWID",
+  "category": "Home Appliances",
+  "query": "IFB TL 900OG2SWID"
+ },
+ {
+  "idx": 339,
+  "member_ids": [
+   "NE-05536"
+  ],
+  "brand": "IFB",
+  "product_name": "TL100NB2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL100NB2SID"
+ },
+ {
+  "idx": 340,
+  "member_ids": [
+   "NE-05537"
+  ],
+  "brand": "IFB",
+  "product_name": "TL100RB2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL100RB2SID"
+ },
+ {
+  "idx": 341,
+  "member_ids": [
+   "NE-05538"
+  ],
+  "brand": "IFB",
+  "product_name": "TL100IN3SWID",
+  "category": "Home Appliances",
+  "query": "IFB TL100IN3SWID"
+ },
+ {
+  "idx": 342,
+  "member_ids": [
+   "NE-05539"
+  ],
+  "brand": "IFB",
+  "product_name": "TL111RB2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL111RB2SID"
+ },
+ {
+  "idx": 343,
+  "member_ids": [
+   "NE-05540"
+  ],
+  "brand": "IFB",
+  "product_name": "TL121RB2SID",
+  "category": "Home Appliances",
+  "query": "IFB TL121RB2SID"
+ },
+ {
+  "idx": 344,
+  "member_ids": [
+   "NE-05541"
+  ],
+  "brand": "IFB",
+  "product_name": "TURBO DRY",
+  "category": "Home Appliances",
+  "query": "IFB TURBO DRY"
+ },
+ {
+  "idx": 345,
+  "member_ids": [
+   "NE-05542"
+  ],
+  "brand": "IFB",
+  "product_name": "TURBO DRY EX",
+  "category": "Home Appliances",
+  "query": "IFB TURBO DRY EX"
+ },
+ {
+  "idx": 346,
+  "member_ids": [
+   "NE-05543",
+   "NE-11558"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 36BRC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 36BRC2"
+ },
+ {
+  "idx": 347,
+  "member_ids": [
+   "NE-05544",
+   "NE-11560"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 34FBBSC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 34FBBSC2"
+ },
+ {
+  "idx": 348,
+  "member_ids": [
+   "NE-05545",
+   "NE-11559"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 34BC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 34BC2"
+ },
+ {
+  "idx": 349,
+  "member_ids": [
+   "NE-05546",
+   "NE-11557"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BRC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 30BRC4"
+ },
+ {
+  "idx": 350,
+  "member_ids": [
+   "NE-05547",
+   "NE-11556"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30FRC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 30FRC2"
+ },
+ {
+  "idx": 351,
+  "member_ids": [
+   "NE-05548",
+   "NE-11555"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BRC3",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 30BRC3"
+ },
+ {
+  "idx": 352,
+  "member_ids": [
+   "NE-05549"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN CONVECTION 30BRC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN CONVECTION 30BRC2"
+ },
+ {
+  "idx": 353,
+  "member_ids": [
+   "NE-05550"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30SC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 30SC4"
+ },
+ {
+  "idx": 354,
+  "member_ids": [
+   "NE-05551",
+   "NE-11554"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 30BC5"
+ },
+ {
+  "idx": 355,
+  "member_ids": [
+   "NE-05552"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 28BC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 28BC5"
+ },
+ {
+  "idx": 356,
+  "member_ids": [
+   "NE-05553"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 28SC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 28SC5"
+ },
+ {
+  "idx": 357,
+  "member_ids": [
+   "NE-05554",
+   "NE-11553"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 25BC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 25BC4"
+ },
+ {
+  "idx": 358,
+  "member_ids": [
+   "NE-05555",
+   "NE-11552"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 25SC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 25SC4"
+ },
+ {
+  "idx": 359,
+  "member_ids": [
+   "NE-05556",
+   "NE-11550"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 23BC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 23BC5"
+ },
+ {
+  "idx": 360,
+  "member_ids": [
+   "NE-05557",
+   "NE-11551"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 23BC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 23BC4"
+ },
+ {
+  "idx": 361,
+  "member_ids": [
+   "NE-05558"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 25BC3",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 25BC3"
+ },
+ {
+  "idx": 362,
+  "member_ids": [
+   "NE-05559"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN CONVECTION 23SC3",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN CONVECTION 23SC3"
+ },
+ {
+  "idx": 363,
+  "member_ids": [
+   "NE-05560",
+   "NE-11548"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 21SC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 21SC5"
+ },
+ {
+  "idx": 364,
+  "member_ids": [
+   "NE-05561",
+   "NE-11549"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20BC5",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 20BC5"
+ },
+ {
+  "idx": 365,
+  "member_ids": [
+   "NE-05562",
+   "NE-11547"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20BC4",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 20BC4"
+ },
+ {
+  "idx": 366,
+  "member_ids": [
+   "NE-05563"
+  ],
+  "brand": "IFB",
+  "product_name": "MICROWAVE OVEN 20SC2",
+  "category": "Home Appliances",
+  "query": "IFB MICROWAVE OVEN 20SC2"
+ },
+ {
+  "idx": 367,
+  "member_ids": [
+   "NE-05564",
+   "NE-11546"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PG4S",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 20PG4S"
+ },
+ {
+  "idx": 368,
+  "member_ids": [
+   "NE-05565"
+  ],
+  "brand": "IFB",
+  "product_name": "MICROWAVE OVEN 25PM2S",
+  "category": "Home Appliances",
+  "query": "IFB MICROWAVE OVEN 25PM2S"
+ },
+ {
+  "idx": 369,
+  "member_ids": [
+   "NE-05566"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 24PM2S",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 24PM2S"
+ },
+ {
+  "idx": 370,
+  "member_ids": [
+   "NE-05567",
+   "NE-11545"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 24PM2B",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 24PM2B"
+ },
+ {
+  "idx": 371,
+  "member_ids": [
+   "NE-05568",
+   "NE-11544"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PM-MEC2B",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 20PM MEC2B"
+ },
+ {
+  "idx": 372,
+  "member_ids": [
+   "NE-05569",
+   "NE-11543"
+  ],
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PM-MEC2",
+  "category": "Home Appliances",
+  "query": "IFB MICRO WAVE OVEN 20PM MEC2"
+ },
+ {
+  "idx": 373,
+  "member_ids": [
+   "NE-05570"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE ELITE16",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE ELITE16"
+ },
+ {
+  "idx": 374,
+  "member_ids": [
+   "NE-05571",
+   "NE-11538"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE SX16",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE SX16"
+ },
+ {
+  "idx": 375,
+  "member_ids": [
+   "NE-05572",
+   "NE-11539"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX16",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE VX16"
+ },
+ {
+  "idx": 376,
+  "member_ids": [
+   "NE-05573",
+   "NE-11540"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX15",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE VX15"
+ },
+ {
+  "idx": 377,
+  "member_ids": [
+   "NE-05574",
+   "NE-11541"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX14",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE VX14"
+ },
+ {
+  "idx": 378,
+  "member_ids": [
+   "NE-05575",
+   "NE-11542"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE SX10",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE SX10"
+ },
+ {
+  "idx": 379,
+  "member_ids": [
+   "NE-05576"
+  ],
+  "brand": "IFB",
+  "product_name": "NEPTUNE FX14",
+  "category": "Home Appliances",
+  "query": "IFB NEPTUNE FX14"
+ },
+ {
+  "idx": 380,
+  "member_ids": [
+   "NE-05577"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD GS-HS-90-BLDC ISLAND",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD GS HS 90 BLDC ISLAND"
+ },
+ {
+  "idx": 381,
+  "member_ids": [
+   "NE-05578"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD GL-HC-108 90",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD GL HC 108 90"
+ },
+ {
+  "idx": 382,
+  "member_ids": [
+   "NE-05579"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD GL-HC-108 60",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD GL HC 108 60"
+ },
+ {
+  "idx": 383,
+  "member_ids": [
+   "NE-05580"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD IT AC FL BLDC 90",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD IT AC FL BLDC 90"
+ },
+ {
+  "idx": 384,
+  "member_ids": [
+   "NE-05581"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD IT AC FL BLDC 60",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD IT AC FL BLDC 60"
+ },
+ {
+  "idx": 385,
+  "member_ids": [
+   "NE-05582"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD CS AC FL BLDC 90",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD CS AC FL BLDC 90"
+ },
+ {
+  "idx": 386,
+  "member_ids": [
+   "NE-05583"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD CS AC FL BLDC 60",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD CS AC FL BLDC 60"
+ },
+ {
+  "idx": 387,
+  "member_ids": [
+   "NE-05584"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD IT AC FL 90",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD IT AC FL 90"
+ },
+ {
+  "idx": 388,
+  "member_ids": [
+   "NE-05585"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD IT AC FL 60",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD IT AC FL 60"
+ },
+ {
+  "idx": 389,
+  "member_ids": [
+   "NE-05586"
+  ],
+  "brand": "IFB",
+  "product_name": "Cooker Hood CS AC FL PLUS 90",
+  "category": "Home Appliances",
+  "query": "IFB Cooker Hood CS AC FL PLUS 90"
+ },
+ {
+  "idx": 390,
+  "member_ids": [
+   "NE-05587"
+  ],
+  "brand": "IFB",
+  "product_name": "Cooker Hood CS AC FL PLUS 60",
+  "category": "Home Appliances",
+  "query": "IFB Cooker Hood CS AC FL PLUS 60"
+ },
+ {
+  "idx": 391,
+  "member_ids": [
+   "NE-05588"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD CS AC FL 90",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD CS AC FL 90"
+ },
+ {
+  "idx": 392,
+  "member_ids": [
+   "NE-05589"
+  ],
+  "brand": "IFB",
+  "product_name": "COOKER HOOD CS AC FL 60",
+  "category": "Home Appliances",
+  "query": "IFB COOKER HOOD CS AC FL 60"
+ },
+ {
+  "idx": 393,
+  "member_ids": [
+   "NE-05590"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 90-GCI4B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 90 GCI4B 3D FFD"
+ },
+ {
+  "idx": 394,
+  "member_ids": [
+   "NE-05591"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 78-GCI3B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 78 GCI3B 3D FFD"
+ },
+ {
+  "idx": 395,
+  "member_ids": [
+   "NE-05592"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 78-GCI4B-3D FB FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 78 GCI4B 3D FB FFD"
+ },
+ {
+  "idx": 396,
+  "member_ids": [
+   "NE-05593"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 78-GCI4B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 78 GCI4B 3D FFD"
+ },
+ {
+  "idx": 397,
+  "member_ids": [
+   "NE-05594"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB IND 60-GCI4B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB IND 60 GCI4B 3D FFD"
+ },
+ {
+  "idx": 398,
+  "member_ids": [
+   "NE-05595"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB IND 60-GCI3B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB IND 60 GCI3B 3D FFD"
+ },
+ {
+  "idx": 399,
+  "member_ids": [
+   "NE-05596"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 60-GCI3B-3D-FFD",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 60 GCI3B 3D FFD"
+ },
+ {
+  "idx": 400,
+  "member_ids": [
+   "NE-05597"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN HOB 60-GCI4B-3D",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN HOB 60 GCI4B 3D"
+ },
+ {
+  "idx": 401,
+  "member_ids": [
+   "NE-05598"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN OVEN 656 MTC1/E-RCT",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN OVEN 656 MTC1/E RCT"
+ },
+ {
+  "idx": 402,
+  "member_ids": [
+   "NE-05599"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN OVEN 656 FTC B/E-RCT",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN OVEN 656 FTC B/E RCT"
+ },
+ {
+  "idx": 403,
+  "member_ids": [
+   "NE-05600"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN MICROWAVE OVEN 34BIC2",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN MICROWAVE OVEN 34BIC2"
+ },
+ {
+  "idx": 404,
+  "member_ids": [
+   "NE-05601"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN MICROWAVE OVEN 34BIC1",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN MICROWAVE OVEN 34BIC1"
+ },
+ {
+  "idx": 405,
+  "member_ids": [
+   "NE-05602"
+  ],
+  "brand": "IFB",
+  "product_name": "BUILT IN DISHWASHER NEPTUNE BI2",
+  "category": "Home Appliances",
+  "query": "IFB BUILT IN DISHWASHER NEPTUNE BI2"
+ },
+ {
+  "idx": 406,
+  "member_ids": [
+   "NE-05603"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213AFSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213AFSS"
+ },
+ {
+  "idx": 407,
+  "member_ids": [
+   "NE-05604"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213AFCS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213AFCS"
+ },
+ {
+  "idx": 408,
+  "member_ids": [
+   "NE-05605"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213AFAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213AFAS"
+ },
+ {
+  "idx": 409,
+  "member_ids": [
+   "NE-05606"
+  ],
+  "brand": "IFB",
+  "product_name": "METAL-COOL IFBDC-213AFBF",
+  "category": "Home Appliances",
+  "query": "IFB METAL COOL IFBDC 213AFBF"
+ },
+ {
+  "idx": 410,
+  "member_ids": [
+   "NE-05607"
+  ],
+  "brand": "IFB",
+  "product_name": "METAL-COOL IFBDC-213AFRF",
+  "category": "Home Appliances",
+  "query": "IFB METAL COOL IFBDC 213AFRF"
+ },
+ {
+  "idx": 411,
+  "member_ids": [
+   "NE-05608"
+  ],
+  "brand": "IFB",
+  "product_name": "METAL-COOL IFBDC-213AFBO",
+  "category": "Home Appliances",
+  "query": "IFB METAL COOL IFBDC 213AFBO"
+ },
+ {
+  "idx": 412,
+  "member_ids": [
+   "NE-05609"
+  ],
+  "brand": "IFB",
+  "product_name": "METAL-COOL IFBDC-213AFRO",
+  "category": "Home Appliances",
+  "query": "IFB METAL COOL IFBDC 213AFRO"
+ },
+ {
+  "idx": 413,
+  "member_ids": [
+   "NE-05610"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213AFRW",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213AFRW"
+ },
+ {
+  "idx": 414,
+  "member_ids": [
+   "NE-05611"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213AFBW",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213AFBW"
+ },
+ {
+  "idx": 415,
+  "member_ids": [
+   "NE-05612"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFCS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFCS"
+ },
+ {
+  "idx": 416,
+  "member_ids": [
+   "NE-05613"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFSS"
+ },
+ {
+  "idx": 417,
+  "member_ids": [
+   "NE-05614"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFAS"
+ },
+ {
+  "idx": 418,
+  "member_ids": [
+   "NE-05615"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFBL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFBL"
+ },
+ {
+  "idx": 419,
+  "member_ids": [
+   "NE-05616"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFRL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFRL"
+ },
+ {
+  "idx": 420,
+  "member_ids": [
+   "NE-05617"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFRW",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFRW"
+ },
+ {
+  "idx": 421,
+  "member_ids": [
+   "NE-05618"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFBLD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFBLD"
+ },
+ {
+  "idx": 422,
+  "member_ids": [
+   "NE-05619"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFLG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFLG"
+ },
+ {
+  "idx": 423,
+  "member_ids": [
+   "NE-05620"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-213BFKG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 213BFKG"
+ },
+ {
+  "idx": 424,
+  "member_ids": [
+   "NE-05644"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIRM",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223CIRM"
+ },
+ {
+  "idx": 425,
+  "member_ids": [
+   "NE-05648"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CISG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223CISG"
+ },
+ {
+  "idx": 426,
+  "member_ids": [
+   "NE-05649"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CISGD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223CISGD"
+ },
+ {
+  "idx": 427,
+  "member_ids": [
+   "NE-05651"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIKS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIKS"
+ },
+ {
+  "idx": 428,
+  "member_ids": [
+   "NE-05652"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIKSD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIKSD"
+ },
+ {
+  "idx": 429,
+  "member_ids": [
+   "NE-05653"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIRP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIRP"
+ },
+ {
+  "idx": 430,
+  "member_ids": [
+   "NE-05654"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIBP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIBP"
+ },
+ {
+  "idx": 431,
+  "member_ids": [
+   "NE-05655"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIBPD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIBPD"
+ },
+ {
+  "idx": 432,
+  "member_ids": [
+   "NE-05656"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIIG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIIG"
+ },
+ {
+  "idx": 433,
+  "member_ids": [
+   "NE-05657"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIAG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIAG"
+ },
+ {
+  "idx": 434,
+  "member_ids": [
+   "NE-05658"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIRG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIRG"
+ },
+ {
+  "idx": 435,
+  "member_ids": [
+   "NE-05659"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223DIRGD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223DIRGD"
+ },
+ {
+  "idx": 436,
+  "member_ids": [
+   "NE-05660"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223EIKS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223EIKS"
+ },
+ {
+  "idx": 437,
+  "member_ids": [
+   "NE-05661"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223EIBI",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223EIBI"
+ },
+ {
+  "idx": 438,
+  "member_ids": [
+   "NE-05662"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223EIRP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223EIRP"
+ },
+ {
+  "idx": 439,
+  "member_ids": [
+   "NE-05663"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223EIBID",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 223EIBID"
+ },
+ {
+  "idx": 440,
+  "member_ids": [
+   "NE-05672"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIBS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIBS"
+ },
+ {
+  "idx": 441,
+  "member_ids": [
+   "NE-05673"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIKS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIKS"
+ },
+ {
+  "idx": 442,
+  "member_ids": [
+   "NE-05674"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIRN",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIRN"
+ },
+ {
+  "idx": 443,
+  "member_ids": [
+   "NE-05675"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIBN",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIBN"
+ },
+ {
+  "idx": 444,
+  "member_ids": [
+   "NE-05676"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIRND",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIRND"
+ },
+ {
+  "idx": 445,
+  "member_ids": [
+   "NE-05677"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIBND",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIBND"
+ },
+ {
+  "idx": 446,
+  "member_ids": [
+   "NE-05678"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIKG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIKG"
+ },
+ {
+  "idx": 447,
+  "member_ids": [
+   "NE-05679"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232DIRG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232DIRG"
+ },
+ {
+  "idx": 448,
+  "member_ids": [
+   "NE-05680"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232EIBS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232EIBS"
+ },
+ {
+  "idx": 449,
+  "member_ids": [
+   "NE-05681"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232EIRP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232EIRP"
+ },
+ {
+  "idx": 450,
+  "member_ids": [
+   "NE-05682"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232EIBP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232EIBP"
+ },
+ {
+  "idx": 451,
+  "member_ids": [
+   "NE-05683"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-232EIBPD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 232EIBPD"
+ },
+ {
+  "idx": 452,
+  "member_ids": [
+   "NE-05693"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-291AIBS",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 291AIBS"
+ },
+ {
+  "idx": 453,
+  "member_ids": [
+   "NE-05694"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291AILS",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291AILS"
+ },
+ {
+  "idx": 454,
+  "member_ids": [
+   "NE-05695"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291AIBCT",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291AIBCT"
+ },
+ {
+  "idx": 455,
+  "member_ids": [
+   "NE-05696"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291AIKST",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291AIKST"
+ },
+ {
+  "idx": 456,
+  "member_ids": [
+   "NE-05697"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291AIKGT",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291AIKGT"
+ },
+ {
+  "idx": 457,
+  "member_ids": [
+   "NE-05698"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-291BIBS",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 291BIBS"
+ },
+ {
+  "idx": 458,
+  "member_ids": [
+   "NE-05699"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291BIKST",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291BIKST"
+ },
+ {
+  "idx": 459,
+  "member_ids": [
+   "NE-05700"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291BIGST",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291BIGST"
+ },
+ {
+  "idx": 460,
+  "member_ids": [
+   "NE-05701"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291BIBCT",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291BIBCT"
+ },
+ {
+  "idx": 461,
+  "member_ids": [
+   "NE-05702"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-291BIRGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 291BIRGT"
+ },
+ {
+  "idx": 462,
+  "member_ids": [
+   "NE-05703"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-291CIKSTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 291CIKSTM"
+ },
+ {
+  "idx": 463,
+  "member_ids": [
+   "NE-05704"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-315AIBST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 315AIBST"
+ },
+ {
+  "idx": 464,
+  "member_ids": [
+   "NE-05705"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-315BILSTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 315BILSTM"
+ },
+ {
+  "idx": 465,
+  "member_ids": [
+   "NE-05706"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-315BIKSTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 315BIKSTM"
+ },
+ {
+  "idx": 466,
+  "member_ids": [
+   "NE-05707"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-315BIRGTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 315BIRGTM"
+ },
+ {
+  "idx": 467,
+  "member_ids": [
+   "NE-05708"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-315BIBCTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 315BIBCTM"
+ },
+ {
+  "idx": 468,
+  "member_ids": [
+   "NE-05709"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-315CIBSTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 315CIBSTM"
+ },
+ {
+  "idx": 469,
+  "member_ids": [
+   "NE-05710"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-383AIBST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 383AIBST"
+ },
+ {
+  "idx": 470,
+  "member_ids": [
+   "NE-05711"
+  ],
+  "brand": "IFB",
+  "product_name": "ECO-COOL IFBFF-383BIKSTM",
+  "category": "Home Appliances",
+  "query": "IFB ECO COOL IFBFF 383BIKSTM"
+ },
+ {
+  "idx": 471,
+  "member_ids": [
+   "NE-05712"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-383BIKSTU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 383BIKSTU"
+ },
+ {
+  "idx": 472,
+  "member_ids": [
+   "NE-05713"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-383CIBSTU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 383CIBSTU"
+ },
+ {
+  "idx": 473,
+  "member_ids": [
+   "NE-05715"
+  ],
+  "brand": "IFB",
+  "product_name": "REF PEDESTAL 213/223/232L GREY",
+  "category": "Home Appliances",
+  "query": "IFB REF PEDESTAL 213/223/232L GREY"
+ },
+ {
+  "idx": 474,
+  "member_ids": [
+   "NE-05716"
+  ],
+  "brand": "IFB",
+  "product_name": "REF PEDESTAL 213/223/232L BLUE",
+  "category": "Home Appliances",
+  "query": "IFB REF PEDESTAL 213/223/232L BLUE"
+ },
+ {
+  "idx": 475,
+  "member_ids": [
+   "NE-05717"
+  ],
+  "brand": "IFB",
+  "product_name": "REF PEDESTAL 213/223/232L RED",
+  "category": "Home Appliances",
+  "query": "IFB REF PEDESTAL 213/223/232L RED"
+ },
+ {
+  "idx": 476,
+  "member_ids": [
+   "NE-05718"
+  ],
+  "brand": "IFB",
+  "product_name": "REF PEDESTAL 213/223/232L BLACK",
+  "category": "Home Appliances",
+  "query": "IFB REF PEDESTAL 213/223/232L BLACK"
+ },
+ {
+  "idx": 477,
+  "member_ids": [
+   "NE-05719"
+  ],
+  "brand": "IFB",
+  "product_name": "REF PEDESTAL 213/223/232L GLASS BLACK",
+  "category": "Home Appliances",
+  "query": "IFB REF PEDESTAL 213/223/232L GLASS BLACK"
+ },
+ {
+  "idx": 478,
+  "member_ids": [
+   "NE-05720"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FSS"
+ },
+ {
+  "idx": 479,
+  "member_ids": [
+   "NE-05721"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FBO",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FBO"
+ },
+ {
+  "idx": 480,
+  "member_ids": [
+   "NE-05722"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FRO",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FRO"
+ },
+ {
+  "idx": 481,
+  "member_ids": [
+   "NE-05723"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FCS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FCS"
+ },
+ {
+  "idx": 482,
+  "member_ids": [
+   "NE-05724"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FCS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FCS"
+ },
+ {
+  "idx": 483,
+  "member_ids": [
+   "NE-05725"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FSS"
+ },
+ {
+  "idx": 484,
+  "member_ids": [
+   "NE-05726"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FLG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FLG"
+ },
+ {
+  "idx": 485,
+  "member_ids": [
+   "NE-05727"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal Cool IFBDC-2132FKG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FKG"
+ },
+ {
+  "idx": 486,
+  "member_ids": [
+   "NE-05728"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FBW",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FBW"
+ },
+ {
+  "idx": 487,
+  "member_ids": [
+   "NE-05729"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FRW",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FRW"
+ },
+ {
+  "idx": 488,
+  "member_ids": [
+   "NE-05730"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FBWD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FBWD"
+ },
+ {
+  "idx": 489,
+  "member_ids": [
+   "NE-05731"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FBS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FBS"
+ },
+ {
+  "idx": 490,
+  "member_ids": [
+   "NE-05732"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FFG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FFG"
+ },
+ {
+  "idx": 491,
+  "member_ids": [
+   "NE-05733"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FLG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FLG"
+ },
+ {
+  "idx": 492,
+  "member_ids": [
+   "NE-05734"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FBL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FBL"
+ },
+ {
+  "idx": 493,
+  "member_ids": [
+   "NE-05735"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FRL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FRL"
+ },
+ {
+  "idx": 494,
+  "member_ids": [
+   "NE-05736"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FBSD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FBSD"
+ },
+ {
+  "idx": 495,
+  "member_ids": [
+   "NE-05737"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FFGD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FFGD"
+ },
+ {
+  "idx": 496,
+  "member_ids": [
+   "NE-05738"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FBLD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FBLD"
+ },
+ {
+  "idx": 497,
+  "member_ids": [
+   "NE-05739"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FRLD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FRLD"
+ },
+ {
+  "idx": 498,
+  "member_ids": [
+   "NE-05740"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FIG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FIG"
+ },
+ {
+  "idx": 499,
+  "member_ids": [
+   "NE-05741"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FIGD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FIGD"
+ },
+ {
+  "idx": 500,
+  "member_ids": [
+   "NE-05749"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2233FBS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FBS"
+ },
+ {
+  "idx": 501,
+  "member_ids": [
+   "NE-05750"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2233FLG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FLG"
+ },
+ {
+  "idx": 502,
+  "member_ids": [
+   "NE-05751"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2233FFG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FFG"
+ },
+ {
+  "idx": 503,
+  "member_ids": [
+   "NE-05752"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal Cool IFBDC-2233FKG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FKG"
+ },
+ {
+  "idx": 504,
+  "member_ids": [
+   "NE-05753"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal Cool IFBDC-2233FRM",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FRM"
+ },
+ {
+  "idx": 505,
+  "member_ids": [
+   "NE-05754"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal Cool IFBDC-2233FBM",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FBM"
+ },
+ {
+  "idx": 506,
+  "member_ids": [
+   "NE-05755"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal Cool IFBDC-2233FBMD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FBMD"
+ },
+ {
+  "idx": 507,
+  "member_ids": [
+   "NE-05756"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2233FSG",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FSG"
+ },
+ {
+  "idx": 508,
+  "member_ids": [
+   "NE-05757"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2233FSGD",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2233FSGD"
+ },
+ {
+  "idx": 509,
+  "member_ids": [
+   "NE-05769"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IGS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IGS"
+ },
+ {
+  "idx": 510,
+  "member_ids": [
+   "NE-05770"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IKS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IKS"
+ },
+ {
+  "idx": 511,
+  "member_ids": [
+   "NE-05771"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool Plus IFBDC-2324IKSU",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool Plus IFBDC 2324IKSU"
+ },
+ {
+  "idx": 512,
+  "member_ids": [
+   "NE-05774"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IRG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IRG"
+ },
+ {
+  "idx": 513,
+  "member_ids": [
+   "NE-05776"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IRN",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IRN"
+ },
+ {
+  "idx": 514,
+  "member_ids": [
+   "NE-05777"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IBN",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IBN"
+ },
+ {
+  "idx": 515,
+  "member_ids": [
+   "NE-05778"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IRGD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IRGD"
+ },
+ {
+  "idx": 516,
+  "member_ids": [
+   "NE-05779"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IRND",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IRND"
+ },
+ {
+  "idx": 517,
+  "member_ids": [
+   "NE-05780"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2324IBND",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2324IBND"
+ },
+ {
+  "idx": 518,
+  "member_ids": [
+   "NE-05781"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2325IGS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2325IGS"
+ },
+ {
+  "idx": 519,
+  "member_ids": [
+   "NE-05782"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2325IRP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2325IRP"
+ },
+ {
+  "idx": 520,
+  "member_ids": [
+   "NE-05783"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2325IBP",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2325IBP"
+ },
+ {
+  "idx": 521,
+  "member_ids": [
+   "NE-05784"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2325ILG",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2325ILG"
+ },
+ {
+  "idx": 522,
+  "member_ids": [
+   "NE-05785"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2325IBPD",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2325IBPD"
+ },
+ {
+  "idx": 523,
+  "member_ids": [
+   "NE-05786"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2484FBS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2484FBS"
+ },
+ {
+  "idx": 524,
+  "member_ids": [
+   "NE-05787"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2484FRN",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2484FRN"
+ },
+ {
+  "idx": 525,
+  "member_ids": [
+   "NE-05788"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2484FBN",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2484FBN"
+ },
+ {
+  "idx": 526,
+  "member_ids": [
+   "NE-05789"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2773FBS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2773FBS"
+ },
+ {
+  "idx": 527,
+  "member_ids": [
+   "NE-05790"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2774IGS",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2774IGS"
+ },
+ {
+  "idx": 528,
+  "member_ids": [
+   "NE-05792"
+  ],
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2774IRV",
+  "category": "Home Appliances",
+  "query": "IFB Advance Cool IFBDC 2774IRV"
+ },
+ {
+  "idx": 529,
+  "member_ids": [
+   "NE-05793"
+  ],
+  "brand": "IFB",
+  "product_name": "Ice-Cool IFBFF-2911FBS",
+  "category": "Home Appliances",
+  "query": "IFB Ice Cool IFBFF 2911FBS"
+ },
+ {
+  "idx": 530,
+  "member_ids": [
+   "NE-05794"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco Cool IFBFF-2902IBS",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902IBS"
+ },
+ {
+  "idx": 531,
+  "member_ids": [
+   "NE-05795"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco Cool IFBFF-2902IKST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902IKST"
+ },
+ {
+  "idx": 532,
+  "member_ids": [
+   "NE-05796"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco Cool IFBFF-2902IBBT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902IBBT"
+ },
+ {
+  "idx": 533,
+  "member_ids": [
+   "NE-05797"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco Cool IFBFF-2902IRBT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902IRBT"
+ },
+ {
+  "idx": 534,
+  "member_ids": [
+   "NE-05798"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco Cool IFBFF-2902IKGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902IKGT"
+ },
+ {
+  "idx": 535,
+  "member_ids": [
+   "NE-05799"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-2913IBSU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 2913IBSU"
+ },
+ {
+  "idx": 536,
+  "member_ids": [
+   "NE-05800"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-2913IKS",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2913IKS"
+ },
+ {
+  "idx": 537,
+  "member_ids": [
+   "NE-05801"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-2913IBST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2913IBST"
+ },
+ {
+  "idx": 538,
+  "member_ids": [
+   "NE-05802"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-2913IRGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2913IRGT"
+ },
+ {
+  "idx": 539,
+  "member_ids": [
+   "NE-05803"
+  ],
+  "brand": "IFB",
+  "product_name": "Surround-Cool IFBFF-3152FBST",
+  "category": "Home Appliances",
+  "query": "IFB Surround Cool IFBFF 3152FBST"
+ },
+ {
+  "idx": 540,
+  "member_ids": [
+   "NE-05804"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3152IKST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3152IKST"
+ },
+ {
+  "idx": 541,
+  "member_ids": [
+   "NE-05805"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3152IRGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3152IRGT"
+ },
+ {
+  "idx": 542,
+  "member_ids": [
+   "NE-05807"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-3153IMSU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 3153IMSU"
+ },
+ {
+  "idx": 543,
+  "member_ids": [
+   "NE-05808"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3362IBST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3362IBST"
+ },
+ {
+  "idx": 544,
+  "member_ids": [
+   "NE-05809"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3362IKGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3362IKGT"
+ },
+ {
+  "idx": 545,
+  "member_ids": [
+   "NE-05810"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3362IRGT",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3362IRGT"
+ },
+ {
+  "idx": 546,
+  "member_ids": [
+   "NE-05811"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-3363IMSU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 3363IMSU"
+ },
+ {
+  "idx": 547,
+  "member_ids": [
+   "NE-05813"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-3832IKST",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 3832IKST"
+ },
+ {
+  "idx": 548,
+  "member_ids": [
+   "NE-05814"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-3832IKSTU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 3832IKSTU"
+ },
+ {
+  "idx": 549,
+  "member_ids": [
+   "NE-05815"
+  ],
+  "brand": "IFB",
+  "product_name": "Expert-Cool IFBFF-3833IBSTU",
+  "category": "Home Appliances",
+  "query": "IFB Expert Cool IFBFF 3833IBSTU"
+ },
+ {
+  "idx": 550,
+  "member_ids": [
+   "NE-05818"
+  ],
+  "brand": "IFB",
+  "product_name": "Eco-Cool IFBFF-2902ILS",
+  "category": "Home Appliances",
+  "query": "IFB Eco Cool IFBFF 2902ILS"
+ },
+ {
+  "idx": 551,
+  "member_ids": [
+   "NE-05819"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FAS"
+ },
+ {
+  "idx": 552,
+  "member_ids": [
+   "NE-05820"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FBF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FBF"
+ },
+ {
+  "idx": 553,
+  "member_ids": [
+   "NE-05821"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2131FRF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2131FRF"
+ },
+ {
+  "idx": 554,
+  "member_ids": [
+   "NE-05822"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FAS"
+ },
+ {
+  "idx": 555,
+  "member_ids": [
+   "NE-05823"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FBF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FBF"
+ },
+ {
+  "idx": 556,
+  "member_ids": [
+   "NE-05824"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2132FRF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2132FRF"
+ },
+ {
+  "idx": 557,
+  "member_ids": [
+   "NE-05825"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FAS"
+ },
+ {
+  "idx": 558,
+  "member_ids": [
+   "NE-05826"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FRH",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FRH"
+ },
+ {
+  "idx": 559,
+  "member_ids": [
+   "NE-05827"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2133FBH",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2133FBH"
+ },
+ {
+  "idx": 560,
+  "member_ids": [
+   "NE-05828"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2231FSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2231FSS"
+ },
+ {
+  "idx": 561,
+  "member_ids": [
+   "NE-05829"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FSS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FSS"
+ },
+ {
+  "idx": 562,
+  "member_ids": [
+   "NE-05830"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FAS",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FAS"
+ },
+ {
+  "idx": 563,
+  "member_ids": [
+   "NE-05831"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FBF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FBF"
+ },
+ {
+  "idx": 564,
+  "member_ids": [
+   "NE-05832"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FRF",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FRF"
+ },
+ {
+  "idx": 565,
+  "member_ids": [
+   "NE-05833"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FBL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FBL"
+ },
+ {
+  "idx": 566,
+  "member_ids": [
+   "NE-05834"
+  ],
+  "brand": "IFB",
+  "product_name": "Metal-Cool IFBDC-2232FRL",
+  "category": "Home Appliances",
+  "query": "IFB Metal Cool IFBDC 2232FRL"
+ }
+]

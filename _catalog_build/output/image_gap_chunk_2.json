@@ -1,0 +1,5699 @@
+[
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PLMGA-N",
+  "category": "Home Appliances",
+  "mrp": 33490.0,
+  "member_ids": [
+   "NE-02134"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PFGGA-N",
+  "category": "Home Appliances",
+  "mrp": 33490.0,
+  "member_ids": [
+   "NE-02135"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PMGA-N",
+  "category": "Home Appliances",
+  "mrp": 33490.0,
+  "member_ids": [
+   "NE-02136"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PWGA-N",
+  "category": "Home Appliances",
+  "mrp": 33490.0,
+  "member_ids": [
+   "NE-02137"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2261SMMA-N",
+  "category": "Home Appliances",
+  "mrp": 23090.0,
+  "member_ids": [
+   "NE-02138"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2261SPMA-N",
+  "category": "Home Appliances",
+  "mrp": 23090.0,
+  "member_ids": [
+   "NE-02139"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2261SRMA-N",
+  "category": "Home Appliances",
+  "mrp": 23090.0,
+  "member_ids": [
+   "NE-02140"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2362BUSA-N",
+  "category": "Home Appliances",
+  "mrp": 27290.0,
+  "member_ids": [
+   "NE-02141"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2362BNSA-N",
+  "category": "Home Appliances",
+  "mrp": 27290.0,
+  "member_ids": [
+   "NE-02142"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2353BNSA-P",
+  "category": "Home Appliances",
+  "mrp": 29490.0,
+  "member_ids": [
+   "NE-02143"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2362CGFA-N",
+  "category": "Home Appliances",
+  "mrp": 28190.0,
+  "member_ids": [
+   "NE-02144"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2362CMFA-N",
+  "category": "Home Appliances",
+  "mrp": 28190.0,
+  "member_ids": [
+   "NE-02145"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2353PMXA-P",
+  "category": "Home Appliances",
+  "mrp": 31390.0,
+  "member_ids": [
+   "NE-02146"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2353PPXA-P",
+  "category": "Home Appliances",
+  "mrp": 31390.0,
+  "member_ids": [
+   "NE-02147"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2353PRXA-P",
+  "category": "Home Appliances",
+  "mrp": 31390.0,
+  "member_ids": [
+   "NE-02148"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2355PRXA-P",
+  "category": "Home Appliances",
+  "mrp": 33890.0,
+  "member_ids": [
+   "NE-02149"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2355PRHA-P",
+  "category": "Home Appliances",
+  "mrp": 33890.0,
+  "member_ids": [
+   "NE-02150"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2365PMFA-N",
+  "category": "Home Appliances",
+  "mrp": 33890.0,
+  "member_ids": [
+   "NE-02151"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2365PPFA-N",
+  "category": "Home Appliances",
+  "mrp": 33890.0,
+  "member_ids": [
+   "NE-02152"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2363PMGA-N",
+  "category": "Home Appliances",
+  "mrp": 36690.0,
+  "member_ids": [
+   "NE-02153"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2561SGSA-N",
+  "category": "Home Appliances",
+  "mrp": 28790.0,
+  "member_ids": [
+   "NE-02154"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2561SMKA-N",
+  "category": "Home Appliances",
+  "mrp": 30290.0,
+  "member_ids": [
+   "NE-02155"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2561SRKA-N",
+  "category": "Home Appliances",
+  "mrp": 30290.0,
+  "member_ids": [
+   "NE-02156"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2743BGSA-N",
+  "category": "Home Appliances",
+  "mrp": 35990.0,
+  "member_ids": [
+   "NE-02157"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2742CMKA-N",
+  "category": "Home Appliances",
+  "mrp": 35690.0,
+  "member_ids": [
+   "NE-02158"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2742CRKA-N",
+  "category": "Home Appliances",
+  "mrp": 35690.0,
+  "member_ids": [
+   "NE-02159"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2901EMSA-P",
+  "category": "Home Appliances",
+  "mrp": 33790.0,
+  "member_ids": [
+   "NE-02160"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2901EGBA-P",
+  "category": "Home Appliances",
+  "mrp": 34690.0,
+  "member_ids": [
+   "NE-02161"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IEMSA-P",
+  "category": "Home Appliances",
+  "mrp": 41790.0,
+  "member_ids": [
+   "NE-02162"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IERBA-P",
+  "category": "Home Appliances",
+  "mrp": 41790.0,
+  "member_ids": [
+   "NE-02163"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IEBSA-P",
+  "category": "Home Appliances",
+  "mrp": 42790.0,
+  "member_ids": [
+   "NE-02164"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IBBSA-P",
+  "category": "Home Appliances",
+  "mrp": 44590.0,
+  "member_ids": [
+   "NE-02165"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IBGBA-P",
+  "category": "Home Appliances",
+  "mrp": 45990.0,
+  "member_ids": [
+   "NE-02166"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2901IERBA-P",
+  "category": "Home Appliances",
+  "mrp": 35390.0,
+  "member_ids": [
+   "NE-02167"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2901EMRA-P",
+  "category": "Home Appliances",
+  "mrp": 35390.0,
+  "member_ids": [
+   "NE-02168"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IERCA-P",
+  "category": "Home Appliances",
+  "mrp": 43490.0,
+  "member_ids": [
+   "NE-02169"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902IEMBA-P",
+  "category": "Home Appliances",
+  "mrp": 43490.0,
+  "member_ids": [
+   "NE-02171"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902ICRBA-P",
+  "category": "Home Appliances",
+  "mrp": 46590.0,
+  "member_ids": [
+   "NE-02172"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902ICMCA-P",
+  "category": "Home Appliances",
+  "mrp": 46590.0,
+  "member_ids": [
+   "NE-02173"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902EKGA-P",
+  "category": "Home Appliances",
+  "mrp": 47090.0,
+  "member_ids": [
+   "NE-02174"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902EWGA-P",
+  "category": "Home Appliances",
+  "mrp": 47090.0,
+  "member_ids": [
+   "NE-02175"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-2902CSGA-P",
+  "category": "Home Appliances",
+  "mrp": 50390.0,
+  "member_ids": [
+   "NE-02176"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3182IENSA-P",
+  "category": "Home Appliances",
+  "mrp": 45290.0,
+  "member_ids": [
+   "NE-02178"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3182IBNSA-P",
+  "category": "Home Appliances",
+  "mrp": 47290.0,
+  "member_ids": [
+   "NE-02179"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3182IBGKA-P",
+  "category": "Home Appliances",
+  "mrp": 48390.0,
+  "member_ids": [
+   "NE-02180"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3182PKGA-P",
+  "category": "Home Appliances",
+  "mrp": 50490.0,
+  "member_ids": [
+   "NE-02181"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-2871EMSA-P",
+  "category": "Home Appliances",
+  "mrp": 37090.0,
+  "member_ids": [
+   "NE-02183"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-2872IETSA-P",
+  "category": "Home Appliances",
+  "mrp": 43690.0,
+  "member_ids": [
+   "NE-02184"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-2872IEGBA-P",
+  "category": "Home Appliances",
+  "mrp": 46090.0,
+  "member_ids": [
+   "NE-02185"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-2872EKGA-P",
+  "category": "Home Appliances",
+  "mrp": 51390.0,
+  "member_ids": [
+   "NE-02186"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-2872EMGA-P",
+  "category": "Home Appliances",
+  "mrp": 52290.0,
+  "member_ids": [
+   "NE-02187"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3152IBNSA-P",
+  "category": "Home Appliances",
+  "mrp": 50490.0,
+  "member_ids": [
+   "NE-02188"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3152IBGKA-P",
+  "category": "Home Appliances",
+  "mrp": 52290.0,
+  "member_ids": [
+   "NE-02189"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3152PKGA-P",
+  "category": "Home Appliances",
+  "mrp": 53890.0,
+  "member_ids": [
+   "NE-02190"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3152PMGA-P",
+  "category": "Home Appliances",
+  "mrp": 54790.0,
+  "member_ids": [
+   "NE-02191"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3781BMSA-P",
+  "category": "Home Appliances",
+  "mrp": 57690.0,
+  "member_ids": [
+   "NE-02192"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3782BNSA-P",
+  "category": "Home Appliances",
+  "mrp": 59590.0,
+  "member_ids": [
+   "NE-02193"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3782BLGKA-P",
+  "category": "Home Appliances",
+  "mrp": 60490.0,
+  "member_ids": [
+   "NE-02194"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3782CPGA-P",
+  "category": "Home Appliances",
+  "mrp": 63990.0,
+  "member_ids": [
+   "NE-02195"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3782YGGA-P",
+  "category": "Home Appliances",
+  "mrp": 63990.0,
+  "member_ids": [
+   "NE-02196"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-3782PLKGA-P",
+  "category": "Home Appliances",
+  "mrp": 67590.0,
+  "member_ids": [
+   "NE-02197"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-4082BISA-P",
+  "category": "Home Appliances",
+  "mrp": 71290.0,
+  "member_ids": [
+   "NE-02198"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-4082BLUSA-P",
+  "category": "Home Appliances",
+  "mrp": 73190.0,
+  "member_ids": [
+   "NE-02199"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-4082BLGKA-P",
+  "category": "Home Appliances",
+  "mrp": 73190.0,
+  "member_ids": [
+   "NE-02200"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-4082PLKGA-P",
+  "category": "Home Appliances",
+  "mrp": 78590.0,
+  "member_ids": [
+   "NE-02201"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-5251BGKA-N",
+  "category": "Home Appliances",
+  "mrp": 96090.0,
+  "member_ids": [
+   "NE-02202"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRF-5251PKGA-N",
+  "category": "Home Appliances",
+  "mrp": 103690.0,
+  "member_ids": [
+   "NE-02203"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752BNSA-P",
+  "category": "Home Appliances",
+  "mrp": 63990.0,
+  "member_ids": [
+   "NE-02204"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752BUSA-P",
+  "category": "Home Appliances",
+  "mrp": 64890.0,
+  "member_ids": [
+   "NE-02205"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752BGKA-P",
+  "category": "Home Appliances",
+  "mrp": 65790.0,
+  "member_ids": [
+   "NE-02206"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752PKGA-P",
+  "category": "Home Appliances",
+  "mrp": 71190.0,
+  "member_ids": [
+   "NE-02207"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752KWGA-P",
+  "category": "Home Appliances",
+  "mrp": 71190.0,
+  "member_ids": [
+   "NE-02209"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752SGGA-P",
+  "category": "Home Appliances",
+  "mrp": 71190.0,
+  "member_ids": [
+   "NE-02210"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-3752PMGA-P",
+  "category": "Home Appliances",
+  "mrp": 71990.0,
+  "member_ids": [
+   "NE-02211"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052BISA-P",
+  "category": "Home Appliances",
+  "mrp": 74990.0,
+  "member_ids": [
+   "NE-02212"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052BUSA-P",
+  "category": "Home Appliances",
+  "mrp": 75890.0,
+  "member_ids": [
+   "NE-02213"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052BGKA-P",
+  "category": "Home Appliances",
+  "mrp": 76890.0,
+  "member_ids": [
+   "NE-02214"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052PKGA-P",
+  "category": "Home Appliances",
+  "mrp": 84390.0,
+  "member_ids": [
+   "NE-02215"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052PBGA-P",
+  "category": "Home Appliances",
+  "mrp": 84390.0,
+  "member_ids": [
+   "NE-02216"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4052PMGA-P",
+  "category": "Home Appliances",
+  "mrp": 85290.0,
+  "member_ids": [
+   "NE-02217"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4951BISA-P",
+  "category": "Home Appliances",
+  "mrp": 86490.0,
+  "member_ids": [
+   "NE-02218"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4951BLBA-P",
+  "category": "Home Appliances",
+  "mrp": 88590.0,
+  "member_ids": [
+   "NE-02219"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4952BRSA-P",
+  "category": "Home Appliances",
+  "mrp": 95790.0,
+  "member_ids": [
+   "NE-02220"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4952BGKA-P",
+  "category": "Home Appliances",
+  "mrp": 98690.0,
+  "member_ids": [
+   "NE-02221"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4951PBGA-P",
+  "category": "Home Appliances",
+  "mrp": 93890.0,
+  "member_ids": [
+   "NE-02222"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-4952CKGA-P",
+  "category": "Home Appliances",
+  "mrp": 110290.0,
+  "member_ids": [
+   "NE-02223"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRS-615FS",
+  "category": "Home Appliances",
+  "mrp": 106190.0,
+  "member_ids": [
+   "NE-02224"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HES-690GK",
+  "category": "Home Appliances",
+  "mrp": 119690.0,
+  "member_ids": [
+   "NE-02225"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRS-682WRSU1",
+  "category": "Home Appliances",
+  "mrp": 130490.0,
+  "member_ids": [
+   "NE-02226"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRS-682WGKU1",
+  "category": "Home Appliances",
+  "mrp": 133490.0,
+  "member_ids": [
+   "NE-02227"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRS-682KGU1",
+  "category": "Home Appliances",
+  "mrp": 144490.0,
+  "member_ids": [
+   "NE-02228"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRS-682PMGU1",
+  "category": "Home Appliances",
+  "mrp": 146490.0,
+  "member_ids": [
+   "NE-02229"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683WISU1",
+  "category": "Home Appliances",
+  "mrp": 159990.0,
+  "member_ids": [
+   "NE-02230"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683WGKU1",
+  "category": "Home Appliances",
+  "mrp": 161990.0,
+  "member_ids": [
+   "NE-02231"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683ISU1",
+  "category": "Home Appliances",
+  "mrp": 145990.0,
+  "member_ids": [
+   "NE-02232"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683GKU1",
+  "category": "Home Appliances",
+  "mrp": 147890.0,
+  "member_ids": [
+   "NE-02233"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683GOGU1",
+  "category": "Home Appliances",
+  "mrp": 172590.0,
+  "member_ids": [
+   "NE-02234"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683KGU1",
+  "category": "Home Appliances",
+  "mrp": 172590.0,
+  "member_ids": [
+   "NE-02235"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683PWGU1",
+  "category": "Home Appliances",
+  "mrp": 172590.0,
+  "member_ids": [
+   "NE-02236"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600IS",
+  "category": "Home Appliances",
+  "mrp": 156290.0,
+  "member_ids": [
+   "NE-02237"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600MP",
+  "category": "Home Appliances",
+  "mrp": 162190.0,
+  "member_ids": [
+   "NE-02238"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600RW",
+  "category": "Home Appliances",
+  "mrp": 162190.0,
+  "member_ids": [
+   "NE-02239"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600PW",
+  "category": "Home Appliances",
+  "mrp": 162190.0,
+  "member_ids": [
+   "NE-02240"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600KGU1",
+  "category": "Home Appliances",
+  "mrp": 180590.0,
+  "member_ids": [
+   "NE-02241"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-600MGU1",
+  "category": "Home Appliances",
+  "mrp": 200690.0,
+  "member_ids": [
+   "NE-02242"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRB-700KGU1",
+  "category": "Home Appliances",
+  "mrp": 287090.0,
+  "member_ids": [
+   "NE-02243"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRT-683GOG-P",
+  "category": "Home Appliances",
+  "mrp": 172590.0,
+  "member_ids": [
+   "NE-02244"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM12LC3GNU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 190000.0,
+  "member_ids": [
+   "NE-02245"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWD120-DM14F17BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 103000.0,
+  "member_ids": [
+   "NE-02246"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWD120-DM14F11BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 96700.0,
+  "member_ids": [
+   "NE-02247"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM14F11BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 82200.0,
+  "member_ids": [
+   "NE-02248"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM14F9PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 80100.0,
+  "member_ids": [
+   "NE-02249"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM14F9BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 79000.0,
+  "member_ids": [
+   "NE-02250"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM14F5PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 77000.0,
+  "member_ids": [
+   "NE-02251"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW120-DM14F5BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 75900.0,
+  "member_ids": [
+   "NE-02252"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW100-DM14F9PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 71800.0,
+  "member_ids": [
+   "NE-02253"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW100-DM14F9BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 70700.0,
+  "member_ids": [
+   "NE-02254"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW100-IM14F5PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 67600.0,
+  "member_ids": [
+   "NE-02255"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW100-IM14F5BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 66600.0,
+  "member_ids": [
+   "NE-02256"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW90-DM14F9BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 66600.0,
+  "member_ids": [
+   "NE-02258"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW90-IM14F5PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 64500.0,
+  "member_ids": [
+   "NE-02259"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW90-IM14F5BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 63400.0,
+  "member_ids": [
+   "NE-02260"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW90-DM14929EBKF:Pune",
+  "category": "Home Appliances",
+  "mrp": 60300.0,
+  "member_ids": [
+   "NE-02261"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12F5PBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 59300.0,
+  "member_ids": [
+   "NE-02262"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12F5BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 58200.0,
+  "member_ids": [
+   "NE-02263"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12F4BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 56200.0,
+  "member_ids": [
+   "NE-02264"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12929EBKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 55100.0,
+  "member_ids": [
+   "NE-02265"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12929EBKF:PUNE",
+  "category": "Home Appliances",
+  "mrp": 54600.0,
+  "member_ids": [
+   "NE-02266"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW80-IM12929EBK:PUNE",
+  "category": "Home Appliances",
+  "mrp": 54300.0,
+  "member_ids": [
+   "NE-02267"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW70-IM12929BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 51000.0,
+  "member_ids": [
+   "NE-02268"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW70-IM12F4BKU1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 51000.0,
+  "member_ids": [
+   "NE-02269"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HW70-IM12929BK:PUNE",
+  "category": "Home Appliances",
+  "mrp": 49900.0,
+  "member_ids": [
+   "NE-02270"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM120-DM688VBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 58200.0,
+  "member_ids": [
+   "NE-02271"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM120-688VBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 55100.0,
+  "member_ids": [
+   "NE-02272"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM110-HDMT11BKU1:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 49900.0,
+  "member_ids": [
+   "NE-02274"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM110-H688BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 41600.0,
+  "member_ids": [
+   "NE-02275"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM105-H688BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 41600.0,
+  "member_ids": [
+   "NE-02276"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM105-316BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 39500.0,
+  "member_ids": [
+   "NE-02277"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM100-HT9BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 44000.0,
+  "member_ids": [
+   "NE-02278"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM100-H326BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 40000.0,
+  "member_ids": [
+   "NE-02279"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM90-H688BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 41100.0,
+  "member_ids": [
+   "NE-02280"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HSW90-688ES8:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 40000.0,
+  "member_ids": [
+   "NE-02281"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM90-688S8:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 38500.0,
+  "member_ids": [
+   "NE-02282"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM85-H326BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 38500.0,
+  "member_ids": [
+   "NE-02283"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM85-326BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 35900.0,
+  "member_ids": [
+   "NE-02284"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM85-316BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 34800.0,
+  "member_ids": [
+   "NE-02285"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-H688BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 38500.0,
+  "member_ids": [
+   "NE-02286"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-HT5BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 35400.0,
+  "member_ids": [
+   "NE-02287"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-H320BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 33800.0,
+  "member_ids": [
+   "NE-02288"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HSW80-688ES8:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 37400.0,
+  "member_ids": [
+   "NE-02289"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-688S8:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 35900.0,
+  "member_ids": [
+   "NE-02290"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-678BK:PUNE",
+  "category": "Home Appliances",
+  "mrp": 34300.0,
+  "member_ids": [
+   "NE-02291"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM80-310BKN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 31200.0,
+  "member_ids": [
+   "NE-02293"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM75-H688S8:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 35900.0,
+  "member_ids": [
+   "NE-02294"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM75-678EBK:PUNE",
+  "category": "Home Appliances",
+  "mrp": 32200.0,
+  "member_ids": [
+   "NE-02295"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM70-826BKNZPN1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 29900.0,
+  "member_ids": [
+   "NE-02296"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM70-306S8N1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 29400.0,
+  "member_ids": [
+   "NE-02297"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM70-306ES5N1:PUNE",
+  "category": "Home Appliances",
+  "mrp": 28900.0,
+  "member_ids": [
+   "NE-02298"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-306S8N:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 27600.0,
+  "member_ids": [
+   "NE-02299"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-306S8:PUNE",
+  "category": "Home Appliances",
+  "mrp": 27600.0,
+  "member_ids": [
+   "NE-02300"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-306ES5N:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 27000.0,
+  "member_ids": [
+   "NE-02301"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-306ES5:PUNE",
+  "category": "Home Appliances",
+  "mrp": 27000.0,
+  "member_ids": [
+   "NE-02302"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-1269S5DBN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 25500.0,
+  "member_ids": [
+   "NE-02303"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HWM65-1269S5DB:PUNE",
+  "category": "Home Appliances",
+  "mrp": 25500.0,
+  "member_ids": [
+   "NE-02304"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW140-178BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 31200.0,
+  "member_ids": [
+   "NE-02305"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW140-196BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 30200.0,
+  "member_ids": [
+   "NE-02306"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW120-178BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 29100.0,
+  "member_ids": [
+   "NE-02307"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW120-196BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 28000.0,
+  "member_ids": [
+   "NE-02308"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW110-178FLN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 27000.0,
+  "member_ids": [
+   "NE-02309"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW110-196BR:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 26400.0,
+  "member_ids": [
+   "NE-02310"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW105-178BLN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 26000.0,
+  "member_ids": [
+   "NE-02311"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW100-178BKN1:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 25500.0,
+  "member_ids": [
+   "NE-02312"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW100-196BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 24400.0,
+  "member_ids": [
+   "NE-02313"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW95-178BR:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 25000.0,
+  "member_ids": [
+   "NE-02314"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW90-178FLN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 24400.0,
+  "member_ids": [
+   "NE-02315"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW90-196BBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 21800.0,
+  "member_ids": [
+   "NE-02316"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW90-186:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 19000.0,
+  "member_ids": [
+   "NE-02317"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-178PBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 20500.0,
+  "member_ids": [
+   "NE-02318"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-178BBKN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 23900.0,
+  "member_ids": [
+   "NE-02319"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-178BKN1:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 23700.0,
+  "member_ids": [
+   "NE-02320"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-196BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 21300.0,
+  "member_ids": [
+   "NE-02321"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-186BBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 20800.0,
+  "member_ids": [
+   "NE-02322"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW85-186:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 17600.0,
+  "member_ids": [
+   "NE-02323"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW80-178:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 22900.0,
+  "member_ids": [
+   "NE-02324"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW80-196BR:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 19800.0,
+  "member_ids": [
+   "NE-02325"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW80-186:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 17200.0,
+  "member_ids": [
+   "NE-02326"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW75-178BBK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 19800.0,
+  "member_ids": [
+   "NE-02327"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW75-178BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 19600.0,
+  "member_ids": [
+   "NE-02328"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW75-186BK:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 18200.0,
+  "member_ids": [
+   "NE-02329"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW75-186:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 18000.0,
+  "member_ids": [
+   "NE-02330"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW70-178BKN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 18800.0,
+  "member_ids": [
+   "NE-02331"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW70-178N:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 18700.0,
+  "member_ids": [
+   "NE-02332"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW70-1217BR:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 16100.0,
+  "member_ids": [
+   "NE-02333"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HTW70-1187BTN:NOIDA",
+  "category": "Home Appliances",
+  "mrp": 13600.0,
+  "member_ids": [
+   "NE-02334"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-ZYON 3kW(W)",
+  "category": "Home Appliances",
+  "mrp": 6290.0,
+  "member_ids": [
+   "NE-02335"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-ZYON 3kW(I)",
+  "category": "Home Appliances",
+  "mrp": 6290.0,
+  "member_ids": [
+   "NE-02336"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-ZYON 4.5kW(W)",
+  "category": "Home Appliances",
+  "mrp": 7000.0,
+  "member_ids": [
+   "NE-02337"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-ZYON 4.5kW(I)",
+  "category": "Home Appliances",
+  "mrp": 7000.0,
+  "member_ids": [
+   "NE-02338"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-PRET 3.0KW (I)",
+  "category": "Home Appliances",
+  "mrp": 6990.0,
+  "member_ids": [
+   "NE-02339"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-PRET 3.0KW (W)",
+  "category": "Home Appliances",
+  "mrp": 6990.0,
+  "member_ids": [
+   "NE-02340"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-C1(W)-P",
+  "category": "Home Appliances",
+  "mrp": 7490.0,
+  "member_ids": [
+   "NE-02341"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-C1(I)-P",
+  "category": "Home Appliances",
+  "mrp": 7490.0,
+  "member_ids": [
+   "NE-02342"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-BLACKVOLT 3kW",
+  "category": "Home Appliances",
+  "mrp": 6490.0,
+  "member_ids": [
+   "NE-02343"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI3V-PRET 3KW(W)-R",
+  "category": "Home Appliances",
+  "mrp": 7490.0,
+  "member_ids": [
+   "NE-02344"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier AQUANOVA TANKLESS 5.5KW",
+  "category": "Home Appliances",
+  "mrp": 12600.0,
+  "member_ids": [
+   "NE-02345"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI5.5V-ZYRA:HIL/WH",
+  "category": "Home Appliances",
+  "mrp": 8790.0,
+  "member_ids": [
+   "NE-02346"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier EI5.9V-ZYRA PRO:HIL/WH",
+  "category": "Home Appliances",
+  "mrp": 9490.0,
+  "member_ids": [
+   "NE-02347"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-ESTILE",
+  "category": "Home Appliances",
+  "mrp": 11990.0,
+  "member_ids": [
+   "NE-02348"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-ESTILE",
+  "category": "Home Appliances",
+  "mrp": 12990.0,
+  "member_ids": [
+   "NE-02349"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-ESTILE",
+  "category": "Home Appliances",
+  "mrp": 14990.0,
+  "member_ids": [
+   "NE-02350"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-PRECIS(I)",
+  "category": "Home Appliances",
+  "mrp": 11790.0,
+  "member_ids": [
+   "NE-02351"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-PRECIS(I)",
+  "category": "Home Appliances",
+  "mrp": 12790.0,
+  "member_ids": [
+   "NE-02352"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-PRECIS(I)",
+  "category": "Home Appliances",
+  "mrp": 13790.0,
+  "member_ids": [
+   "NE-02353"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-PRECIS:ES10V-PRECIS",
+  "category": "Home Appliances",
+  "mrp": 11790.0,
+  "member_ids": [
+   "NE-02354"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-PRECIS:ES15V-PRECIS",
+  "category": "Home Appliances",
+  "mrp": 12790.0,
+  "member_ids": [
+   "NE-02355"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-PRECIS:ES25V-PRECIS",
+  "category": "Home Appliances",
+  "mrp": 13790.0,
+  "member_ids": [
+   "NE-02356"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-PRECIS PRO:ES10V-PRECIS PRO",
+  "category": "Home Appliances",
+  "mrp": 12790.0,
+  "member_ids": [
+   "NE-02357"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-PRECIS PRO:ES15V-PRECIS PRO",
+  "category": "Home Appliances",
+  "mrp": 13790.0,
+  "member_ids": [
+   "NE-02358"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-PRECIS PRO:ES25V-PRECIS PRO",
+  "category": "Home Appliances",
+  "mrp": 14790.0,
+  "member_ids": [
+   "NE-02359"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15H-REGENTA SLIM (CP)",
+  "category": "Home Appliances",
+  "mrp": 14790.0,
+  "member_ids": [
+   "NE-02360"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25H-REGENTA SLIM (CP)",
+  "category": "Home Appliances",
+  "mrp": 16290.0,
+  "member_ids": [
+   "NE-02361"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15H-REGENTA SLIM (LH)",
+  "category": "Home Appliances",
+  "mrp": 15290.0,
+  "member_ids": [
+   "NE-02362"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25H-REGENTA SLIM (LH)",
+  "category": "Home Appliances",
+  "mrp": 16790.0,
+  "member_ids": [
+   "NE-02363"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15H-REGENTA SLIM (RH)",
+  "category": "Home Appliances",
+  "mrp": 15290.0,
+  "member_ids": [
+   "NE-02364"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25H-REGENTA SLIM (RH)",
+  "category": "Home Appliances",
+  "mrp": 16790.0,
+  "member_ids": [
+   "NE-02366"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-REGENTA (I)",
+  "category": "Home Appliances",
+  "mrp": 13790.0,
+  "member_ids": [
+   "NE-02367"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-REGENTA (I)",
+  "category": "Home Appliances",
+  "mrp": 15290.0,
+  "member_ids": [
+   "NE-02368"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-REGENTA (I)",
+  "category": "Home Appliances",
+  "mrp": 16790.0,
+  "member_ids": [
+   "NE-02369"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-REGENTA (W)",
+  "category": "Home Appliances",
+  "mrp": 13290.0,
+  "member_ids": [
+   "NE-02370"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-REGENTA (W)",
+  "category": "Home Appliances",
+  "mrp": 15290.0,
+  "member_ids": [
+   "NE-02371"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-REGENTA (W)",
+  "category": "Home Appliances",
+  "mrp": 16790.0,
+  "member_ids": [
+   "NE-02372"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-REGENTA PRO+ W",
+  "category": "Home Appliances",
+  "mrp": 16290.0,
+  "member_ids": [
+   "NE-02373"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-REGENTA PRO+ W",
+  "category": "Home Appliances",
+  "mrp": 17790.0,
+  "member_ids": [
+   "NE-02374"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-REGENTA DIGI (W)",
+  "category": "Home Appliances",
+  "mrp": 16290.0,
+  "member_ids": [
+   "NE-02375"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-REGENTA DIGI (W)",
+  "category": "Home Appliances",
+  "mrp": 17000.0,
+  "member_ids": [
+   "NE-02376"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES35V-REGENTA (W)",
+  "category": "Home Appliances",
+  "mrp": 17800.0,
+  "member_ids": [
+   "NE-02377"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-MOLTEN (W)",
+  "category": "Home Appliances",
+  "mrp": 30990.0,
+  "member_ids": [
+   "NE-02378"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-MOLTEN (W)",
+  "category": "Home Appliances",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-02382"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-MOLTEN (I)",
+  "category": "Home Appliances",
+  "mrp": 30990.0,
+  "member_ids": [
+   "NE-02383"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-MOLTEN (I)",
+  "category": "Home Appliances",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-02384"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-S1W",
+  "category": "Home Appliances",
+  "mrp": 18590.0,
+  "member_ids": [
+   "NE-02385"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-S1W",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02386"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-S1W",
+  "category": "Home Appliances",
+  "mrp": 21990.0,
+  "member_ids": [
+   "NE-02387"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-S1I",
+  "category": "Home Appliances",
+  "mrp": 18590.0,
+  "member_ids": [
+   "NE-02388"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-S1I",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02389"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-S1I",
+  "category": "Home Appliances",
+  "mrp": 21990.0,
+  "member_ids": [
+   "NE-02390"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-AQUALAD-BLUE",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02391"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALAD-BLUE",
+  "category": "Home Appliances",
+  "mrp": 21490.0,
+  "member_ids": [
+   "NE-02392"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALAD-BLUE",
+  "category": "Home Appliances",
+  "mrp": 23490.0,
+  "member_ids": [
+   "NE-02393"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-AQUALAD-GREEN",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02394"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALAD-GREEN",
+  "category": "Home Appliances",
+  "mrp": 21490.0,
+  "member_ids": [
+   "NE-02395"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALAD-GREEN",
+  "category": "Home Appliances",
+  "mrp": 23490.0,
+  "member_ids": [
+   "NE-02397"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-AQUALAD-BLACK",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02398"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALAD-BLACK",
+  "category": "Home Appliances",
+  "mrp": 21490.0,
+  "member_ids": [
+   "NE-02401"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALAD-BLACK",
+  "category": "Home Appliances",
+  "mrp": 23490.0,
+  "member_ids": [
+   "NE-02402"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALAD DIGI (W)",
+  "category": "Home Appliances",
+  "mrp": 24490.0,
+  "member_ids": [
+   "NE-02403"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALAD DIGI (W)",
+  "category": "Home Appliances",
+  "mrp": 26490.0,
+  "member_ids": [
+   "NE-02404"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALAD PRO",
+  "category": "Home Appliances",
+  "mrp": 23490.0,
+  "member_ids": [
+   "NE-02405"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALAD PRO",
+  "category": "Home Appliances",
+  "mrp": 25490.0,
+  "member_ids": [
+   "NE-02406"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-SDI",
+  "category": "Home Appliances",
+  "mrp": 21000.0,
+  "member_ids": [
+   "NE-02407"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-SDI",
+  "category": "Home Appliances",
+  "mrp": 23000.0,
+  "member_ids": [
+   "NE-02408"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-SDW",
+  "category": "Home Appliances",
+  "mrp": 21000.0,
+  "member_ids": [
+   "NE-02409"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-SDW",
+  "category": "Home Appliances",
+  "mrp": 23000.0,
+  "member_ids": [
+   "NE-02410"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-SD WIFI",
+  "category": "Home Appliances",
+  "mrp": 25900.0,
+  "member_ids": [
+   "NE-02411"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-SD WIFI",
+  "category": "Home Appliances",
+  "mrp": 28000.0,
+  "member_ids": [
+   "NE-02412"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES10V-AQUALIS",
+  "category": "Home Appliances",
+  "mrp": 18590.0,
+  "member_ids": [
+   "NE-02413"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-AQUALIS",
+  "category": "Home Appliances",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02414"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-AQUALIS",
+  "category": "Home Appliances",
+  "mrp": 21990.0,
+  "member_ids": [
+   "NE-02415"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-VOLCANO 2.2KW",
+  "category": "Home Appliances",
+  "mrp": 23490.0,
+  "member_ids": [
+   "NE-02416"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-VOLCANO 2.2KW",
+  "category": "Home Appliances",
+  "mrp": 25490.0,
+  "member_ids": [
+   "NE-02417"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-VOLCANO 3KW",
+  "category": "Home Appliances",
+  "mrp": 26490.0,
+  "member_ids": [
+   "NE-02418"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-VOLCANO 3KW",
+  "category": "Home Appliances",
+  "mrp": 28490.0,
+  "member_ids": [
+   "NE-02419"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES15V-ED-P",
+  "category": "Home Appliances",
+  "mrp": 15510.0,
+  "member_ids": [
+   "NE-02420"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES25V-ED-P",
+  "category": "Home Appliances",
+  "mrp": 16940.0,
+  "member_ids": [
+   "NE-02421"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES100VREGENTA",
+  "category": "Home Appliances",
+  "mrp": 32500.0,
+  "member_ids": [
+   "NE-02422"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES70V-REGENTA",
+  "category": "Home Appliances",
+  "mrp": 27000.0,
+  "member_ids": [
+   "NE-02423"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ES50V-REGENTA",
+  "category": "Home Appliances",
+  "mrp": 23500.0,
+  "member_ids": [
+   "NE-02424"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV200REFB:Tank-Plug",
+  "category": "Home Appliances",
+  "mrp": 27150.0,
+  "member_ids": [
+   "NE-02425"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV270REFB:Tank-Plug",
+  "category": "Home Appliances",
+  "mrp": 34650.0,
+  "member_ids": [
+   "NE-02426"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV200REMB:HR/SWH/Vacuum tube/200L/EH",
+  "category": "Home Appliances",
+  "mrp": 17800.0,
+  "member_ids": [
+   "NE-02427"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV270REMB:HR/SWH/270L/35 DEGREE",
+  "category": "Home Appliances",
+  "mrp": 22450.0,
+  "member_ids": [
+   "NE-02429"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV200RNF:HR/IN/Vacuum tube/200L/Frame",
+  "category": "Home Appliances",
+  "mrp": 9800.0,
+  "member_ids": [
+   "NE-02430"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier GV270RNF:HR/IN/35 DEGREE/270L/Frame",
+  "category": "Home Appliances",
+  "mrp": 10750.0,
+  "member_ids": [
+   "NE-02431"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HR-5818Z://HAIER/WATER HEATER",
+  "category": "Home Appliances",
+  "mrp": 3700.0,
+  "member_ids": [
+   "NE-02432"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HR-QBJ1-KSD:HR/IN/Controller",
+  "category": "Home Appliances",
+  "mrp": 3800.0,
+  "member_ids": [
+   "NE-02433"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-C1900-BLDC-IN",
+  "category": "Home Appliances",
+  "mrp": 54990.0,
+  "member_ids": [
+   "NE-02434"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-C1750-BLDC-IN",
+  "category": "Home Appliances",
+  "mrp": 51290.0,
+  "member_ids": [
+   "NE-02435"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-C1600-BLDC-IN",
+  "category": "Home Appliances",
+  "mrp": 47990.0,
+  "member_ids": [
+   "NE-02437"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T5905",
+  "category": "Home Appliances",
+  "mrp": 46990.0,
+  "member_ids": [
+   "NE-02438"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T3903",
+  "category": "Home Appliances",
+  "mrp": 43590.0,
+  "member_ids": [
+   "NE-02439"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T1900-BLDC-IN",
+  "category": "Home Appliances",
+  "mrp": 44590.0,
+  "member_ids": [
+   "NE-02441"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T1903",
+  "category": "Home Appliances",
+  "mrp": 40290.0,
+  "member_ids": [
+   "NE-02442"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-CT7905B",
+  "category": "Home Appliances",
+  "mrp": 49990.0,
+  "member_ids": [
+   "NE-02443"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-GT5905B",
+  "category": "Home Appliances",
+  "mrp": 45990.0,
+  "member_ids": [
+   "NE-02444"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T1901",
+  "category": "Home Appliances",
+  "mrp": 37990.0,
+  "member_ids": [
+   "NE-02445"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-GT3605B",
+  "category": "Home Appliances",
+  "mrp": 43900.0,
+  "member_ids": [
+   "NE-02446"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-GT1605B",
+  "category": "Home Appliances",
+  "mrp": 40990.0,
+  "member_ids": [
+   "NE-02448"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T1600-BLDC-IN",
+  "category": "Home Appliances",
+  "mrp": 40290.0,
+  "member_ids": [
+   "NE-02449"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T60HM-V",
+  "category": "Home Appliances",
+  "mrp": 36100.0,
+  "member_ids": [
+   "NE-02450"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-GT3602B",
+  "category": "Home Appliances",
+  "mrp": 36900.0,
+  "member_ids": [
+   "NE-02451"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-T1600-IN",
+  "category": "Home Appliances",
+  "mrp": 33590.0,
+  "member_ids": [
+   "NE-02452"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HVP-G94DGBGIN",
+  "category": "Home Appliances",
+  "mrp": 34490.0,
+  "member_ids": [
+   "NE-02453"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G90HM-N",
+  "category": "Home Appliances",
+  "mrp": 36290.0,
+  "member_ids": [
+   "NE-02455"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G1900-IN",
+  "category": "Home Appliances",
+  "mrp": 33590.0,
+  "member_ids": [
+   "NE-02456"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G75HM-N",
+  "category": "Home Appliances",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-02457"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G1750-IN",
+  "category": "Home Appliances",
+  "mrp": 31290.0,
+  "member_ids": [
+   "NE-02458"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HVP-G64DGBGIN",
+  "category": "Home Appliances",
+  "mrp": 26990.0,
+  "member_ids": [
+   "NE-02459"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G60HM-N",
+  "category": "Home Appliances",
+  "mrp": 31990.0,
+  "member_ids": [
+   "NE-02460"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G60HM-NE",
+  "category": "Home Appliances",
+  "mrp": 30690.0,
+  "member_ids": [
+   "NE-02461"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIH-G1600-IN",
+  "category": "Home Appliances",
+  "mrp": 28990.0,
+  "member_ids": [
+   "NE-02462"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q89576F",
+  "category": "Home Appliances",
+  "mrp": 49990.0,
+  "member_ids": [
+   "NE-02463"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q58486-IN",
+  "category": "Home Appliances",
+  "mrp": 42590.0,
+  "member_ids": [
+   "NE-02464"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q58386-IN",
+  "category": "Home Appliances",
+  "mrp": 36990.0,
+  "member_ids": [
+   "NE-02465"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q77456F",
+  "category": "Home Appliances",
+  "mrp": 43990.0,
+  "member_ids": [
+   "NE-02466"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q77356F",
+  "category": "Home Appliances",
+  "mrp": 38990.0,
+  "member_ids": [
+   "NE-02467"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q574CGB",
+  "category": "Home Appliances",
+  "mrp": 45190.0,
+  "member_ids": [
+   "NE-02468"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-764CF-S",
+  "category": "Home Appliances",
+  "mrp": 29990.0,
+  "member_ids": [
+   "NE-02469"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q57326F",
+  "category": "Home Appliances",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-02470"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HCQ-Q76496I",
+  "category": "Home Appliances",
+  "mrp": 42990.0,
+  "member_ids": [
+   "NE-02471"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HCQ-Q66496F",
+  "category": "Home Appliances",
+  "mrp": 37990.0,
+  "member_ids": [
+   "NE-02472"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-654FCF-O",
+  "category": "Home Appliances",
+  "mrp": 43000.0,
+  "member_ids": [
+   "NE-02473"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q66456F",
+  "category": "Home Appliances",
+  "mrp": 39990.0,
+  "member_ids": [
+   "NE-02474"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HCQ-Q66396F",
+  "category": "Home Appliances",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-02475"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q563SGB",
+  "category": "Home Appliances",
+  "mrp": 29900.0,
+  "member_ids": [
+   "NE-02476"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-653CF-S",
+  "category": "Home Appliances",
+  "mrp": 27490.0,
+  "member_ids": [
+   "NE-02477"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q27426-IN",
+  "category": "Home Appliances",
+  "mrp": 30290.0,
+  "member_ids": [
+   "NE-02478"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q27326-IN",
+  "category": "Home Appliances",
+  "mrp": 23590.0,
+  "member_ids": [
+   "NE-02479"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIC-Q26416-IN",
+  "category": "Home Appliances",
+  "mrp": 27990.0,
+  "member_ids": [
+   "NE-02480"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier CIVIC AI MAXX",
+  "category": "Home Appliances",
+  "mrp": 99990.0,
+  "member_ids": [
+   "NE-02481"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier Civic X11 Pro",
+  "category": "Home Appliances",
+  "mrp": 59999.0,
+  "member_ids": [
+   "NE-02482"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier Civic X11",
+  "category": "Home Appliances",
+  "mrp": 29999.0,
+  "member_ids": [
+   "NE-02483"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier PRObot DTX:ROBVAC/LDS",
+  "category": "Home Appliances",
+  "mrp": 49999.0,
+  "member_ids": [
+   "NE-02484"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier TH27U1",
+  "category": "Home Appliances",
+  "mrp": 22999.0,
+  "member_ids": [
+   "NE-02485"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "FORCE BLACK",
+  "category": "Small Domestic Appliances",
+  "mrp": 3460.0,
+  "member_ids": [
+   "NE-02488"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "Red",
+  "category": "Small Domestic Appliances",
+  "mrp": 5905.0,
+  "member_ids": [
+   "NE-02489"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL650MB1ID",
+  "category": "Home Appliances",
+  "mrp": 26090.0,
+  "member_ids": [
+   "NE-02490"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL701AG1ID",
+  "category": "Home Appliances",
+  "mrp": 25190.0,
+  "member_ids": [
+   "NE-05523"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL701MG1SID",
+  "category": "Home Appliances",
+  "mrp": 27890.0,
+  "member_ids": [
+   "NE-02491"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL701AG1SID",
+  "category": "Home Appliances",
+  "mrp": 28690.0,
+  "member_ids": [
+   "NE-05526"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL751MS2SID",
+  "category": "Home Appliances",
+  "mrp": 29790.0,
+  "member_ids": [
+   "NE-05527"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL801EP1ID",
+  "category": "Home Appliances",
+  "mrp": 29990.0,
+  "member_ids": [
+   "NE-02492"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL800AG1SID",
+  "category": "Home Appliances",
+  "mrp": 32190.0,
+  "member_ids": [
+   "NE-05530"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL801MM2SID",
+  "category": "Home Appliances",
+  "mrp": 33390.0,
+  "member_ids": [
+   "NE-02493"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL-901MS2SID",
+  "category": "Home Appliances",
+  "mrp": 34890.0,
+  "member_ids": [
+   "NE-02494"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL-900NB2SID",
+  "category": "Home Appliances",
+  "mrp": 35590.0,
+  "member_ids": [
+   "NE-05534"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL100NB2SID",
+  "category": "Home Appliances",
+  "mrp": 39490.0,
+  "member_ids": [
+   "NE-05536"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL111RB2SNID",
+  "category": "Home Appliances",
+  "mrp": 45290.0,
+  "member_ids": [
+   "NE-02495"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TL121RB2SNID",
+  "category": "Home Appliances",
+  "mrp": 47890.0,
+  "member_ids": [
+   "NE-02496"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TURBO DRY",
+  "category": "Home Appliances",
+  "mrp": 27790.0,
+  "member_ids": [
+   "NE-05541"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TURBO DRY EX",
+  "category": "Home Appliances",
+  "mrp": 29090.0,
+  "member_ids": [
+   "NE-05542"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "TURBO DRY MX",
+  "category": "Home Appliances",
+  "mrp": 32090.0,
+  "member_ids": [
+   "NE-02497"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "DIVA SXN 6010K CMS",
+  "category": "Home Appliances",
+  "mrp": 37790.0,
+  "member_ids": [
+   "NE-02498"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SENORITA MSN 6512K CMS",
+  "category": "Home Appliances",
+  "mrp": 40990.0,
+  "member_ids": [
+   "NE-02499"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SERENA SXN 7012 CMS",
+  "category": "Home Appliances",
+  "mrp": 40390.0,
+  "member_ids": [
+   "NE-02500"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SERENA MBN 7012 CMS",
+  "category": "Home Appliances",
+  "mrp": 41390.0,
+  "member_ids": [
+   "NE-05498"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SERENA BXN 7012K CMS",
+  "category": "Home Appliances",
+  "mrp": 43990.0,
+  "member_ids": [
+   "NE-02502"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SENATOR SXN 8012K CMS",
+  "category": "Home Appliances",
+  "mrp": 49190.0,
+  "member_ids": [
+   "NE-05501"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SENATOR BXN 8012K CMS",
+  "category": "Home Appliances",
+  "mrp": 50190.0,
+  "member_ids": [
+   "NE-05504"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SENATOR MBN 8014 CMS",
+  "category": "Home Appliances",
+  "mrp": 50590.0,
+  "member_ids": [
+   "NE-02503"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "SENATOR BXN 8014K CMS",
+  "category": "Home Appliances",
+  "mrp": 50890.0,
+  "member_ids": [
+   "NE-02549"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE MSN 9014K CMS",
+  "category": "Home Appliances",
+  "mrp": 50790.0,
+  "member_ids": [
+   "NE-05508"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE BXN 9014K CMS",
+  "category": "Home Appliances",
+  "mrp": 53490.0,
+  "member_ids": [
+   "NE-05509"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE MXC 9014 SSLC",
+  "category": "Home Appliances",
+  "mrp": 62090.0,
+  "member_ids": [
+   "NE-02563"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS BXN 1014KH",
+  "category": "Home Appliances",
+  "mrp": 60690.0,
+  "member_ids": [
+   "NE-11533"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS MXC 1014 SSL",
+  "category": "Home Appliances",
+  "mrp": 64690.0,
+  "member_ids": [
+   "NE-05512"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS VSC 1014 SSL",
+  "category": "Home Appliances",
+  "mrp": 65490.0,
+  "member_ids": [
+   "NE-05513"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS BXN 1114KH",
+  "category": "Home Appliances",
+  "mrp": 67690.0,
+  "member_ids": [
+   "NE-05514"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "EXECUTIVE PLUS VSG 1114",
+  "category": "Home Appliances",
+  "mrp": 73690.0,
+  "member_ids": [
+   "NE-05515"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "NEPTUNE SX16",
+  "category": "Home Appliances",
+  "mrp": 65390.0,
+  "member_ids": [
+   "NE-05571"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX16",
+  "category": "Home Appliances",
+  "mrp": 63090.0,
+  "member_ids": [
+   "NE-05572"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX15",
+  "category": "Home Appliances",
+  "mrp": 56190.0,
+  "member_ids": [
+   "NE-05573"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX14",
+  "category": "Home Appliances",
+  "mrp": 50190.0,
+  "member_ids": [
+   "NE-05574"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "NEPTUNE SX10",
+  "category": "Home Appliances",
+  "mrp": 58990.0,
+  "member_ids": [
+   "NE-05575"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PM-MEC2",
+  "category": "Home Appliances",
+  "mrp": 8990.0,
+  "member_ids": [
+   "NE-05569"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PM-MEC2B",
+  "category": "Home Appliances",
+  "mrp": 9190.0,
+  "member_ids": [
+   "NE-05568"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 24PM2B",
+  "category": "Home Appliances",
+  "mrp": 10690.0,
+  "member_ids": [
+   "NE-05567"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20PG4S",
+  "category": "Home Appliances",
+  "mrp": 12190.0,
+  "member_ids": [
+   "NE-05564"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20BC4",
+  "category": "Home Appliances",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-05562"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 21SC5",
+  "category": "Home Appliances",
+  "mrp": 17190.0,
+  "member_ids": [
+   "NE-05560"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20BC5",
+  "category": "Home Appliances",
+  "mrp": 16190.0,
+  "member_ids": [
+   "NE-05561"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 23BC5",
+  "category": "Home Appliances",
+  "mrp": 16990.0,
+  "member_ids": [
+   "NE-05556"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 23BC4",
+  "category": "Home Appliances",
+  "mrp": 18790.0,
+  "member_ids": [
+   "NE-05557"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 25SC4",
+  "category": "Home Appliances",
+  "mrp": 19890.0,
+  "member_ids": [
+   "NE-05555"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 25BC4",
+  "category": "Home Appliances",
+  "mrp": 20990.0,
+  "member_ids": [
+   "NE-05554"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BC5",
+  "category": "Home Appliances",
+  "mrp": 22290.0,
+  "member_ids": [
+   "NE-05551"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BRC3",
+  "category": "Home Appliances",
+  "mrp": 23590.0,
+  "member_ids": [
+   "NE-05548"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30FRC2",
+  "category": "Home Appliances",
+  "mrp": 24190.0,
+  "member_ids": [
+   "NE-05547"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 30BRC4",
+  "category": "Home Appliances",
+  "mrp": 25490.0,
+  "member_ids": [
+   "NE-05546"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 36BRC2",
+  "category": "Home Appliances",
+  "mrp": 30690.0,
+  "member_ids": [
+   "NE-05543"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 34BC2",
+  "category": "Home Appliances",
+  "mrp": 49990.0,
+  "member_ids": [
+   "NE-05545"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 34FBBSC2",
+  "category": "Home Appliances",
+  "mrp": 62990.0,
+  "member_ids": [
+   "NE-05544"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 5 PRO (14 Inch) (NP940XHA-LG2IN)",
+  "category": "Laptops & Computing",
+  "mrp": 137300.0,
+  "member_ids": [
+   "NE-02665"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SONO",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03329"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND FLOW",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03335"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TWS Mode",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-03336"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "NEBULA X",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-03337"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RUMBLE",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03340"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PICO",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03341"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "iLumi ll",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03342"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RESOUND 2",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03344"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND DRUM P",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03345"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND DRUM 1",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03346"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RADIANT 2",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03349"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BREEZE 7",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03360"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONY",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-03361"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmony II",
+  "category": "Electronics Accessories",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03362"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmony II Plus",
+  "category": "Electronics Accessories",
+  "mrp": 13999.0,
+  "member_ids": [
+   "NE-03375"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmony Mini",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03402"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TALK THREE",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03421"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "In-Built Mic",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03423"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Talk Six",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03424"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Soundpot Pro",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-03426"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Thunder 2.0",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-03427"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Nugget",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03428"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Trifusion",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03430"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MicroBlast",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03610"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Nadya",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03648"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Resonate",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03662"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Resonate 2",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03667"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Fynix",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03669"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Fynix Mini",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03679"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Plugs 3",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03681"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Pixel 3",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03689"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03698"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 3",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03744"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 4",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-03787"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "15W Bluetooth Speaker With Fire Flame",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03818"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bass Boost Technology",
+  "category": "Electronics Accessories",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-03829"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Dash 10",
+  "category": "Electronics Accessories",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03834"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 13",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-03835"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 14",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-03846"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo One",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03847"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo One Plus",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03865"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo 20",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-03867"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo 30",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03875"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IRON BEATS II",
+  "category": "Electronics Accessories",
+  "mrp": 29999.0,
+  "member_ids": [
+   "NE-03877"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IRON BEATS 5",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-03902"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IRON BEATS 5 Prime",
+  "category": "Electronics Accessories",
+  "mrp": 22999.0,
+  "member_ids": [
+   "NE-03904"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IRON BEATS 5 Plus",
+  "category": "Electronics Accessories",
+  "mrp": 16999.0,
+  "member_ids": [
+   "NE-03911"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IRON BEATS 5 Pro",
+  "category": "Electronics Accessories",
+  "mrp": 16999.0,
+  "member_ids": [
+   "NE-03920"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 7",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03921"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 7 AI",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03922"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Vlogmate",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03927"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "48KHz Sampling Rate",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03928"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Vlogmate C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03961"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Vlogmate One",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-03974"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Vlogmate 3",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04001"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Wireless Microphone with Ai Feature",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04009"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DASH 2",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-04019"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IN TUNE 5",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04040"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IN TUNE 6",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-04047"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SPATIAL ARC",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-04055"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CINEARC",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-04066"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RADIAN",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04068"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DECIBEL 20",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04080"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DECIBEL 21",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04094"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DECIBEL 23",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04097"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DECIBEL 24",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04101"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DECIBEL 25",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04111"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2.1 Channel Home Theater",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-04125"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PURE SOUND 105",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-04130"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PURE SOUND 106",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-04146"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Pure Sound 107",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-04160"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PURE SOUND PRO X1",
+  "category": "Electronics Accessories",
+  "mrp": 12499.0,
+  "member_ids": [
+   "NE-04170"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PURE SOUND PRO X2",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-04177"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK IV",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-04180"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK 5",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-04189"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK 6",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04190"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK 8",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-04191"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK X",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-04197"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SOUND SLICK X1",
+  "category": "Electronics Accessories",
+  "mrp": 24999.0,
+  "member_ids": [
+   "NE-04201"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS KLIP 6",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04218"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS KLIP 7",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04220"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Foldable Design",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04231"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "40 Hours Playtime",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04233"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MUFFS M5",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04240"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MUFFS M6",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04263"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MUFFS M7",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04272"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MUFFS M8",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04281"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MUFFS A3",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04297"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RAVN",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04298"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Twins One",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04302"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Twins One Plus",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04320"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmonics Twins 20",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04334"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins 28",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04337"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmonics Twins 32",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04361"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Harmonics Twins 33",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-04377"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S3",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04378"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S6",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04380"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S7",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04412"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S9",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04430"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S13",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04431"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S16",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04435"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S18",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04439"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S19",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04447"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HARMONICS Twins S31",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04451"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Conch One",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04457"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Conch Theta L",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-04458"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CONCH TUNE C",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-04460"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CONCH SIGMA",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-04484"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CONCH SIGMA A",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-04499"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CONCH KAPPA A",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-04500"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CONCH KAPPA C",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-04501"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "180 Degrees Rotation",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-04508"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "1080p Full HD Resolution",
+  "category": "Electronics Accessories",
+  "mrp": 34999.0,
+  "member_ids": [
+   "NE-04509"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BEEM 460",
+  "category": "Electronics Accessories",
+  "mrp": 29999.0,
+  "member_ids": [
+   "NE-04510"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 470",
+  "category": "Electronics Accessories",
+  "mrp": 24999.0,
+  "member_ids": [
+   "NE-04512"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 470 Mini",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-04513"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 480",
+  "category": "Electronics Accessories",
+  "mrp": 24999.0,
+  "member_ids": [
+   "NE-04514"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BEEM 520",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-04515"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BEEM 530",
+  "category": "Electronics Accessories",
+  "mrp": 34999.0,
+  "member_ids": [
+   "NE-04516"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BEEM 570",
+  "category": "Electronics Accessories",
+  "mrp": 34999.0,
+  "member_ids": [
+   "NE-04553"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PICO 13",
+  "category": "Electronics Accessories",
+  "mrp": 49900.0,
+  "member_ids": [
+   "NE-04582"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PICO 14",
+  "category": "Electronics Accessories",
+  "mrp": 39990.0,
+  "member_ids": [
+   "NE-04588"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Fast Charging Powerbank with",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-04600"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "65W Fast Charging Powerbank",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-04601"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AQUA 65",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04613"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AERO 65",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04614"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "IGNIS 65",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04615"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOJI 10",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-04616"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL B",
+  "category": "Electronics Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-04694"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04783"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL B 20K",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-04784"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL B12",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-04811"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL MINI 10K",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04819"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL MINI 20K",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-04820"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL BIND 20K",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04936"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL BIND MINI 10K",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04944"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL BIND MINI 20K",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04959"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL WIRELESS MINI",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04963"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL MAGCLICK 10K",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04967"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUXCELL MAGCLICK 5K",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04976"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Revvo",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04983"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Luxcell UNO 10K",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04984"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Luxcell Stride 10",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04990"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05036"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLUS II",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05043"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PEBBLE",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05055"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ZAPCELL 10K",
+  "category": "Electronics Accessories",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-05075"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Boosty 5K",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-05079"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Boosty 10K",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-05131"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05147"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter Pro",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-05224"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter 20K",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-05236"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter Air 20K",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-05244"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter Home",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-05247"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter Air 5K",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05268"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Power Shutter Air 10K",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05284"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Halley 20K",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-05352"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Luxcell Wireless Mini 20K",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05363"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 2,999",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05376"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aero 10",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05404"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ORIA",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06002"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MODESK",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06005"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MODESK 101",
+  "category": "Electronics Accessories",
+  "mrp": 299.0,
+  "member_ids": [
+   "NE-06006"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOBOT 4",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06008"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOBOT III",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06010"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOBOT CLIP",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-06025"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "HOLD Y",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06033"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BELLA",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06039"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Hexacharge",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-06044"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "BELLA 2",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06059"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM 4A",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06080"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM 4E",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06081"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM 5",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06084"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM FOLD",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06087"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM FOLD 3",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06088"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM TRIO",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06089"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FREEDOM 33",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06090"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Freedom 6",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06097"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Voltclock",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06099"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TriCharge",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06100"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "15W Qi certified Fast Charging",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06122"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOVO",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-06129"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOVO II",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06137"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ChargeMate Trio",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06159"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Strong Vacuum Grip",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06162"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Strong Magnetic Hold",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-06200"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE II",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06201"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 5",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06207"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 6",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06220"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 7",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06242"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 9",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06268"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 9 Pro",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06271"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 699",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06279"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2500 Watts Power Extender",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06303"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 799",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-06306"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 899",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-06308"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 14",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06309"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 16",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06317"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 17",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06323"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 18",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06326"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 19",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06327"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 20",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06330"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 21",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-06364"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 22",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06365"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE 23",
+  "category": "Electronics Accessories",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-06366"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE NANO",
+  "category": "Electronics Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-06367"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE PRO",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06368"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "POWER PLATE PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06369"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Swix",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06370"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto ONE",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06371"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto ONE PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06373"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto III",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06376"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 12",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-06377"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "20W PD Output",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06378"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 20 LITE",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06379"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 20B",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06380"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 20C",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-06381"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 20X",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06382"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 25A",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06383"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 25 Pro",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06385"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 25 Plus",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06388"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 30V",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06389"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 35A",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06390"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 35B",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06391"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 35G",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06392"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 40AVS",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06394"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 45",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06395"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 45 Plus",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06402"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 45A",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06403"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C PD Port",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06404"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 45C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06405"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 62",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-06406"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto Volt 65",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06408"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Super Fast Charging",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06409"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PPS Technology",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06410"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 65C",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06418"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "65W PD Fast charger",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06420"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 65U",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06429"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 66",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06430"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 100",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-06477"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 100D",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-06487"
+  ]
+ }
+]

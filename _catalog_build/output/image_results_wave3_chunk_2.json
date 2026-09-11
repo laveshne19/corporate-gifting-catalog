@@ -1,0 +1,533 @@
+[
+ {
+  "member_ids": [
+   "NE-05130"
+  ],
+  "image_local_path": "web/NE-05130.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/WaveSigma-FI_Purple06_1024x.png?v=1702009260",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05132"
+  ],
+  "image_local_path": "web/NE-05132.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/245634_1_cfr4kt.jpg",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05133"
+  ],
+  "image_local_path": "web/NE-05133.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/360244259/ER/UN/UO/202000293/boat-primia-ace-indigo-blue-smartwatch.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05134"
+  ],
+  "image_local_path": "web/NE-05134.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61cwHfQVSvL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05135"
+  ],
+  "image_local_path": "web/NE-05135.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Untitled-1_431e7beb-e606-4a58-ae0c-406e818809e9.png?v=1639728815",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05136"
+  ],
+  "image_local_path": "web/NE-05136.jpg",
+  "image_source_url": "http://assets.myntassets.com/assets/images/14024356/2021/4/7/66caf4e8-b789-4193-9331-3f2413fb7ce11617773723717-boAt-Airdopes-131-M-True-Wireless-Earbuds-CSK-Blue-341161777-6.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05137"
+  ],
+  "image_local_path": "web/NE-05137.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/275411_0_xiyggz.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05138"
+  ],
+  "image_local_path": "web/NE-05138.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/drivers-blue_1500x.jpg?v=1673002561",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05139"
+  ],
+  "image_local_path": "web/NE-05139.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/WCD_36W_QC_Charger.png?v=1739269241",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05140"
+  ],
+  "image_local_path": "web/NE-05140.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/headphone/0/i/c/-enriched-transparent-original-imagqhsw7jnjbp3z.png?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05141"
+  ],
+  "image_local_path": "web/NE-05141.jpg",
+  "image_source_url": "http://www.boat-lifestyle.com/cdn/shop/files/Artboard1_239782ce-f17f-4d51-8ca3-54b21f8f38c0.png?v=1702548702",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05142"
+  ],
+  "image_local_path": "web/NE-05142.jpg",
+  "image_source_url": "https://assets.myntassets.com/assets/images/2023/10/5/463c90c8-612c-4ec9-9220-acdc1c78943f1696487533678-1.png",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05143"
+  ],
+  "image_local_path": "web/NE-05143.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51DMD0pgYOL.jpg",
+  "image_source_domain": "www.amazon.ae",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05144"
+  ],
+  "image_local_path": "web/NE-05144.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/1blk_62afa7f3-5651-4eaa-9758-7c61487ec9b7_1500x.png?v=1662633488",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05145"
+  ],
+  "image_local_path": "web/NE-05145.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i15//1348Wx2000H/MP000000020716501_1348Wx2000H_202401102018161.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05146"
+  ],
+  "image_local_path": "web/NE-05146.jpg",
+  "image_source_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-smart-watch-29-04-2023-4-272408686-di7opxy3.png",
+  "image_source_domain": "www.justdial.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05148"
+  ],
+  "image_local_path": "web/NE-05148.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/R330ANC-FI_Black02_1500x.png?v=1714994271",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-05149"
+  ],
+  "image_local_path": "web/NE-05149.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/WaveBeatCall-FI_Black-03_1500x.png?v=1674561162",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-05150"
+  ],
+  "image_local_path": "web/NE-05150.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/274303_1_yhi46q.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05151"
+  ],
+  "image_local_path": "web/NE-05151.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/WaveElite.2801_2000x.png?v=1678432973",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05152"
+  ],
+  "image_local_path": "web/NE-05152.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/358979877/YC/MC/OF/202000293/whatsapp-image-2023-09-23-at-03-05-44.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05153"
+  ],
+  "image_local_path": "web/NE-05153.jpg",
+  "image_source_url": "https://nayejaisa.com/wp-content/uploads/2023/05/white_76324f86-6d4f-4292-8616-49d743a6e0c0_1875x.webp",
+  "image_source_domain": "nayejaisa.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05154"
+  ],
+  "image_local_path": "web/NE-05154.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Wearable/Wearable%20Devices/Images/304396_niehmu.png?tr=w-600",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05155"
+  ],
+  "image_local_path": "web/NE-05155.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/LunarConnect-FI_Black02_1500x.png?v=1678115037",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05156"
+  ],
+  "image_local_path": "web/NE-05156.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard4_12_1500x.jpg?v=1686116846",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05157"
+  ],
+  "image_local_path": "web/NE-05157.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/Grey_2_3c62c603-840b-4d44-b006-f32aced13050_1024x.png?v=1677596846",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05158"
+  ],
+  "image_local_path": "web/NE-05158.jpg",
+  "image_source_url": "https://assets.myntassets.com/w_412,q_50,,dpr_3,fl_progressive,f_webp/assets/images/10217833/2020/7/29/b7770931-078b-44a9-8631-0478b1f98c901596011109959-boAt-BassHeads-242-Black-Wired-Earphones-with-Sports-Fit-Str-7.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05159"
+  ],
+  "image_local_path": "web/NE-05159.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Wearable/Wearable%20Devices/Images/306567_15_xctml1.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05160"
+  ],
+  "image_local_path": "web/NE-05160.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ZLN95ohJL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.ae",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05161"
+  ],
+  "image_local_path": "web/NE-05161.jpg",
+  "image_source_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-smart-watch-26-02-2024-47-272767554-xstzcu0c.jpg",
+  "image_source_domain": "www.justdial.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05162"
+  ],
+  "image_local_path": "web/NE-05162.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/a09a67f0-75bd-42b8-8f0d-58ffad51e03b_600x.png?v=1625045372",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05163"
+  ],
+  "image_local_path": "web/NE-05163.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/XtendSport-FI-Blue03_1024x.png?v=1655451327",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05164"
+  ],
+  "image_local_path": "web/NE-05164.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/261807_0_sgbecq.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05165"
+  ],
+  "image_local_path": "web/NE-05165.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61YdBzznj9L.jpg",
+  "image_source_domain": "www.amazon.ae",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05166"
+  ],
+  "image_local_path": "web/NE-05166.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/WaveSigma3_FIs_CherryBlossom08_1500x.png?v=1767961291",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05167"
+  ],
+  "image_local_path": "web/NE-05167.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard12copy_261f1857-753f-49a2-a818-2ffeddce3d95_1080x.png?v=1757676642",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05168"
+  ],
+  "image_local_path": "web/NE-05168.jpg",
+  "image_source_url": "https://images-static.nykaa.com/media/catalog/product/7/9/795d8e7BOATX00000030_n5_.jpg?tr=w-500",
+  "image_source_domain": "www.nykaa.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05169"
+  ],
+  "image_local_path": "web/NE-05169.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61IMRs+o0iL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05170"
+  ],
+  "image_local_path": "web/NE-05170.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011022262_437Wx649H_202110271840171.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05171"
+  ],
+  "image_local_path": "web/NE-05171.jpg",
+  "image_source_url": "https://www.swisstimehouse.com/196107-thickbox_default/boat-enigma-teal-green.jpg",
+  "image_source_domain": "www.swisstimehouse.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05172"
+  ],
+  "image_local_path": "web/NE-05172.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/UltimaPrismFILeatherArtboard5_1024x.jpg?v=1692951404",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05173"
+  ],
+  "image_local_path": "web/NE-05173.jpg",
+  "image_source_url": "https://computechstore.in/media/uploads/wp/2025/06/boAt-Stone-Uno-3W-Signature-Sound-Wireless-Portable-Speaker-Tropical-Blue-1.jpg",
+  "image_source_domain": "computechstore.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05174"
+  ],
+  "image_local_path": "web/NE-05174.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i16//437Wx649H/MP000000021645022_437Wx649H_202403221300331.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05175"
+  ],
+  "image_local_path": "web/NE-05175.jpg",
+  "image_source_url": "https://assets.myntassets.com/w_412,q_50,,dpr_3,fl_progressive,f_webp/assets/images/22076222/2023/2/23/08c092f3-4213-4621-a869-9cae9a14e7cf1677149836448-Storm-Call-Cherry-Blossom-941677149835868-1.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05176"
+  ],
+  "image_local_path": "web/NE-05176.jpg",
+  "image_source_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/14820604/2021/7/20/8d0dec3d-0d4c-4879-abb8-72bbe0f8fee51626754746359-boAt-Rockerz-333-M-Wireless-Neckband-with-Upto-30H-Playback--1.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05177"
+  ],
+  "image_local_path": "web/NE-05177.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/Ultima_Prism_FI_BlackArtboard_1-removebg-preview_500x.png?v=1692951164",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05178"
+  ],
+  "image_local_path": "web/NE-05178.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/300453_0_zwto9x.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05179"
+  ],
+  "image_local_path": "web/NE-05179.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/PB105-FI_Black02_1500x.png?v=1686835498",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05180"
+  ],
+  "image_local_path": "web/NE-05180.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i20//1348Wx2000H/MP000000023964849_1348Wx2000H_202410051247041.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05181"
+  ],
+  "image_local_path": "web/NE-05181.jpg",
+  "image_source_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/31534440/2024/11/26/d7efeb36-651f-46a9-be05-f9ce7bb8b0d61732612032408-boAt-Airdopes-800-HiDef-True-Wireless-in-Ear-ASAP-Charge-Hea-1.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05182"
+  ],
+  "image_local_path": "web/NE-05182.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i7/1348Wx2000H/MP000000010999898_1348Wx2000H_202110241905337.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05183"
+  ],
+  "image_local_path": "web/NE-05183.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/products/main_grey_6aa6c302-2cfb-4e87-85f7-d67b6f149bf7_600x.png?v=1641980344",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05184"
+  ],
+  "image_local_path": "web/NE-05184.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000016239565_437Wx649H_202302071200491.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05185"
+  ],
+  "image_local_path": "web/NE-05185.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/Connect_Max.149-removebg-preview_500x.png?v=1685614028",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05186"
+  ],
+  "image_local_path": "web/NE-05186.jpg",
+  "image_source_url": "https://www.bbassets.com/media/uploads/p/l/40327624_1-boat-wcdv-20-w-pd-charging-adapter-20w-fast-charging-corrosion-resistant-pins-white.jpg",
+  "image_source_domain": "www.bigbasket.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05187"
+  ],
+  "image_local_path": "web/NE-05187.jpg",
+  "image_source_url": "http://www.boat-lifestyle.com/cdn/shop/products/MAINPRIMIA.png?v=1673000401",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "medium"
+ },
+ {
+  "member_ids": [
+   "NE-05188"
+  ],
+  "image_local_path": "web/NE-05188.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i15//437Wx649H/MP000000020716499_437Wx649H_202401102018161.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05189"
+  ],
+  "image_local_path": "web/NE-05189.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51RvtQ1Tl6L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05190"
+  ],
+  "image_local_path": "web/NE-05190.jpg",
+  "image_source_url": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard2_42_1500x.png?v=1690528691",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "low"
+ }
+]

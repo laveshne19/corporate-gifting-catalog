@@ -1,0 +1,53 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+
+# Canonical domain: corporategiftingindia.co
+# Every alternate domain and the www subdomain of every domain redirects
+# here (301) so Google indexes one URL instead of splitting authority
+# across four separate domains + www/non-www variants.
+[[redirects]]
+  from = "https://www.corporategiftingindia.co/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://corporategiftingindia.shop/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.corporategiftingindia.shop/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://corporategiftingindia.info/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.corporategiftingindia.info/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://corporategiftingindia.net/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.corporategiftingindia.net/*"
+  to = "https://corporategiftingindia.co/:splat"
+  status = 301
+  force = true

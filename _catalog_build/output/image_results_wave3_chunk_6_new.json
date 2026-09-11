@@ -1,0 +1,1922 @@
+[
+ {
+  "member_ids": [
+   "NE-09321"
+  ],
+  "image_local_path": "web/NE-09321.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/3/7/379471_base.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09385"
+  ],
+  "image_local_path": "web/NE-09385.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/232473_0_mvHBG3tYm.png?updatedAt=1774435580147",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09334",
+   "NE-09478"
+  ],
+  "image_local_path": "web/NE-09334.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41wLDWyby2L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09354"
+  ],
+  "image_local_path": "web/NE-09354.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41wLDWyby2L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09392"
+  ],
+  "image_local_path": "web/NE-09392.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/304248_0_vsAN-VKBSB.png?updatedAt=1758552116651",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09408"
+  ],
+  "image_local_path": "web/NE-09408.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/304248_2_ZkRu4JbYW.png?updatedAt=1778244721797",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09412"
+  ],
+  "image_local_path": "web/NE-09412.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09413"
+  ],
+  "image_local_path": "web/NE-09413.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519779001/JH/ZM/KM/37895958/whirlpool-230-impro-prm-5s-wine-antelia-z-single-door-refrigerator.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09414"
+  ],
+  "image_local_path": "web/NE-09414.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09427"
+  ],
+  "image_local_path": "web/NE-09427.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518290144/MF/BI/QI/37895958/whirlpool-205-impc-prm-3s-lumina-steel-z-single-door-fridge-500x500.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09428"
+  ],
+  "image_local_path": "web/NE-09428.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518290144/MF/BI/QI/37895958/whirlpool-205-impc-prm-3s-lumina-steel-z-single-door-fridge-500x500.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09431"
+  ],
+  "image_local_path": "web/NE-09431.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09435"
+  ],
+  "image_local_path": "web/NE-09435.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09436",
+   "NE-09872"
+  ],
+  "image_local_path": "web/NE-09436.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusroy5sinvbluebreez_421226_bluebreeze_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09437",
+   "NE-09873"
+  ],
+  "image_local_path": "web/NE-09437.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09438"
+  ],
+  "image_local_path": "web/NE-09438.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09439"
+  ],
+  "image_local_path": "web/NE-09439.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09440"
+  ],
+  "image_local_path": "web/NE-09440.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusprm_421228_add03.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09441"
+  ],
+  "image_local_path": "web/NE-09441.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09442"
+  ],
+  "image_local_path": "web/NE-09442.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusprm_421228_add03.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09446",
+   "NE-09840"
+  ],
+  "image_local_path": "web/NE-09446.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusprm_421228_add03.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09447",
+   "NE-09826"
+  ],
+  "image_local_path": "web/NE-09447.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusprm_421228_add03.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09456"
+  ],
+  "image_local_path": "web/NE-09456.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/b/i/a/neo-278lh-prm-sapphire-rose-2s-tl-22130-1587-2-2023-47-whirlpool-original-imah9dgsbya3gdmf.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09457"
+  ],
+  "image_local_path": "web/NE-09457.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/615E484t0RL._SL1500__20260624230035530.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09458"
+  ],
+  "image_local_path": "web/NE-09458.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51AiiG%2BtIXL._SL1500__20260624231004699.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09480"
+  ],
+  "image_local_path": "web/NE-09480.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215improgdprm4sinvsilvia73228_add02.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09482"
+  ],
+  "image_local_path": "web/NE-09482.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215improgdprm4sinvsilvia73228_add02.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09485"
+  ],
+  "image_local_path": "web/NE-09485.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215improgdprm4sinvsilvia73228_add02.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09486"
+  ],
+  "image_local_path": "web/NE-09486.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215improgdprm4sinvsilvia73228_add02.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09498"
+  ],
+  "image_local_path": "web/NE-09498.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/10/CF/MY/FQ/39749341/whirlpool-refrigerator-215l-230-impro-roy-3s-wine-mulia.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09499"
+  ],
+  "image_local_path": "web/NE-09499.jpg",
+  "image_source_url": "https://ankurelectricals.com/cdn/shop/files/2_63174c88-afc4-471c-a38b-7af8c1e63237.png?v=1727435984&width=1000",
+  "image_source_domain": "ankurelectricals.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09500"
+  ],
+  "image_local_path": "web/NE-09500.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy5swineanteliaz73338_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09501"
+  ],
+  "image_local_path": "web/NE-09501.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/71owWuVNjhL._SL1500__20260306124959670.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09502"
+  ],
+  "image_local_path": "web/NE-09502.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97cf1024-614b-4213-b92d-a23999289e9a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09511"
+  ],
+  "image_local_path": "web/NE-09511.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61JBre9lJeL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09512"
+  ],
+  "image_local_path": "web/NE-09512.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61JBre9lJeL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09513"
+  ],
+  "image_local_path": "web/NE-09513.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61JBre9lJeL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09514"
+  ],
+  "image_local_path": "web/NE-09514.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09519"
+  ],
+  "image_local_path": "web/NE-09519.jpg",
+  "image_source_url": "https://d1kivxjtmxnd4.cloudfront.net/filters:format(webp)/images/3_No0GaOs.jpg",
+  "image_source_domain": "www.greateasternretail.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09520"
+  ],
+  "image_local_path": "web/NE-09520.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/71owWuVNjhL._SL1500__20260306124959670.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09521"
+  ],
+  "image_local_path": "web/NE-09521.jpg",
+  "image_source_url": "https://d1kivxjtmxnd4.cloudfront.net/filters:format(webp)/images/3_No0GaOs.jpg",
+  "image_source_domain": "www.greateasternretail.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09522"
+  ],
+  "image_local_path": "web/NE-09522.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/71owWuVNjhL._SL1500__20260306124959670.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09526"
+  ],
+  "image_local_path": "web/NE-09526.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41L+asokAYL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09547"
+  ],
+  "image_local_path": "web/NE-09547.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71Sn0mm5V2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09548",
+   "NE-09850"
+  ],
+  "image_local_path": "web/NE-09548.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71Sn0mm5V2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09549"
+  ],
+  "image_local_path": "web/NE-09549.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i0FpU3euc-w1200-h1200/0FpU3euc.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09550"
+  ],
+  "image_local_path": "web/NE-09550.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i0FpU3euc-w1200-h1200/0FpU3euc.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09567"
+  ],
+  "image_local_path": "web/NE-09567.jpg",
+  "image_source_url": "https://electronicparadise.in/cdn/shop/files/1_5c5fdc3c-f9fa-423a-b9d4-3531d2605607.webp?v=1701684262&width=800",
+  "image_source_domain": "electronicparadise.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09568"
+  ],
+  "image_local_path": "web/NE-09568.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71+hm0QweXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09569"
+  ],
+  "image_local_path": "web/NE-09569.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71+hm0QweXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09570"
+  ],
+  "image_local_path": "web/NE-09570.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71+hm0QweXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09571"
+  ],
+  "image_local_path": "web/NE-09571.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71+hm0QweXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09572"
+  ],
+  "image_local_path": "web/NE-09572.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i8kroVKbN-w1200-h1200/8kroVKbN.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09573"
+  ],
+  "image_local_path": "web/NE-09573.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2025/02/28105127/whirlpool-215-impc-roy-5s-inv-sapphire-mulia-z-192-ltr-single-door-front.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09574"
+  ],
+  "image_local_path": "web/NE-09574.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i8kroVKbN-w1200-h1200/8kroVKbN.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09575"
+  ],
+  "image_local_path": "web/NE-09575.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2025/02/28105127/whirlpool-215-impc-roy-5s-inv-sapphire-mulia-z-192-ltr-single-door-front.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09576"
+  ],
+  "image_local_path": "web/NE-09576.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i8kroVKbN-w1200-h1200/8kroVKbN.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09577",
+   "NE-09792"
+  ],
+  "image_local_path": "web/NE-09577.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2025/02/28105127/whirlpool-215-impc-roy-5s-inv-sapphire-mulia-z-192-ltr-single-door-front.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09578"
+  ],
+  "image_local_path": "web/NE-09578.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-i8kroVKbN-w1200-h1200/8kroVKbN.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09579",
+   "NE-09801"
+  ],
+  "image_local_path": "web/NE-09579.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2025/02/28105127/whirlpool-215-impc-roy-5s-inv-sapphire-mulia-z-192-ltr-single-door-front.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09580"
+  ],
+  "image_local_path": "web/NE-09580.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/2/b/j/215-impro-roy-5s-inv-wine-silk-1371-5-2024-28-whirlpool-655-543-original-imah8uc87ryxevrp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09581"
+  ],
+  "image_local_path": "web/NE-09581.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462598/KF/BT/AM/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09582"
+  ],
+  "image_local_path": "web/NE-09582.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/2/b/j/215-impro-roy-5s-inv-wine-silk-1371-5-2024-28-whirlpool-655-543-original-imah8uc87ryxevrp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09583",
+   "NE-09865"
+  ],
+  "image_local_path": "web/NE-09583.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462598/KF/BT/AM/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09587"
+  ],
+  "image_local_path": "web/NE-09587.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-292-l-frost-free-double-door-2-star-refrigerator-neo-df305-prm-illusia-steel-Open-View.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09607"
+  ],
+  "image_local_path": "web/NE-09607.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/12/JQ/VH/ET/162120723/205-impc-roy-2s-sapphire-primrose-500x500.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09608"
+  ],
+  "image_local_path": "web/NE-09608.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/JM/XK/VJ/80296245/whirlpool-205-impc-roy-3s-wine-abyss-71383-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09609"
+  ],
+  "image_local_path": "web/NE-09609.jpg",
+  "image_source_url": "https://content.jdmagicbox.com/quickquotes/images_main/whirlpool-190-l-direct-cool-single-door-3-star-2020-refrigerator-sapphire-radiance-205-impc-roy-3s-sapphire-radiance-184491347-klw7s.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+  "image_source_domain": "www.justdial.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09610"
+  ],
+  "image_local_path": "web/NE-09610.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51XhvBD1W%2BL._SL1100__20260306130832871.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09611"
+  ],
+  "image_local_path": "web/NE-09611.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61JbkzuoIUL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09629"
+  ],
+  "image_local_path": "web/NE-09629.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2026/05/07190328/whirlpool-215-vmpro-roy-4s-inv-aura-steel-y-192-ltr-4-star-single-door-front.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09630"
+  ],
+  "image_local_path": "web/NE-09630.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09631"
+  ],
+  "image_local_path": "web/NE-09631.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/g/i/p/215-impro-gd-prm-3s-emerald-swarna-1243-3-2025-38-9-whirlpool-original-imahe93bpcnrzuzp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09633"
+  ],
+  "image_local_path": "web/NE-09633.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09634"
+  ],
+  "image_local_path": "web/NE-09634.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/g/i/p/215-impro-gd-prm-3s-emerald-swarna-1243-3-2025-38-9-whirlpool-original-imahe93bpcnrzuzp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09636",
+   "NE-09807"
+  ],
+  "image_local_path": "web/NE-09636.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09638"
+  ],
+  "image_local_path": "web/NE-09638.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09640"
+  ],
+  "image_local_path": "web/NE-09640.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09641"
+  ],
+  "image_local_path": "web/NE-09641.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09642"
+  ],
+  "image_local_path": "web/NE-09642.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/g/i/p/215-impro-gd-prm-3s-emerald-swarna-1243-3-2025-38-9-whirlpool-original-imahe93bpcnrzuzp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09643",
+   "NE-09814"
+  ],
+  "image_local_path": "web/NE-09643.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/g/i/p/215-impro-gd-prm-3s-emerald-swarna-1243-3-2025-38-9-whirlpool-original-imahe93bpcnrzuzp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09646"
+  ],
+  "image_local_path": "web/NE-09646.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09647",
+   "NE-09851"
+  ],
+  "image_local_path": "web/NE-09647.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iTto5YViU-w420-h420/whirlpool-215-impro.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09650"
+  ],
+  "image_local_path": "web/NE-09650.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/71PTccXrqeL._SL1500__20260306122340065.jpg",
+  "image_source_domain": "giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09652"
+  ],
+  "image_local_path": "web/NE-09652.jpg",
+  "image_source_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F783681IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09678"
+  ],
+  "image_local_path": "web/NE-09678.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09679"
+  ],
+  "image_local_path": "web/NE-09679.jpg",
+  "image_source_url": "https://rukminim2.flixcart.com/image/480/640/kkfrjww0/refrigerator-new/z/2/i/230-impro-prm-3s-wine-mulia-3-2020-whirlpool-original-imafzs9rfrazggwh.jpeg?q=20",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09680"
+  ],
+  "image_local_path": "web/NE-09680.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09687"
+  ],
+  "image_local_path": "web/NE-09687.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09689"
+  ],
+  "image_local_path": "web/NE-09689.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09702"
+  ],
+  "image_local_path": "web/NE-09702.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09703"
+  ],
+  "image_local_path": "web/NE-09703.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09704"
+  ],
+  "image_local_path": "web/NE-09704.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09705"
+  ],
+  "image_local_path": "web/NE-09705.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09710"
+  ],
+  "image_local_path": "web/NE-09710.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09711"
+  ],
+  "image_local_path": "web/NE-09711.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09712"
+  ],
+  "image_local_path": "web/NE-09712.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09713"
+  ],
+  "image_local_path": "web/NE-09713.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09714"
+  ],
+  "image_local_path": "web/NE-09714.jpg",
+  "image_source_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/refrigerator-new/l/i/e/215-impc-prm-5s-inv-wine-enchant-y-73629-136-5-2026-38-4-original-imahhdju2hbdx4hg.jpeg?q=20",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09715"
+  ],
+  "image_local_path": "web/NE-09715.jpg",
+  "image_source_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/refrigerator-new/l/i/e/215-impc-prm-5s-inv-wine-enchant-y-73629-136-5-2026-38-4-original-imahhdju2hbdx4hg.jpeg?q=20",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09716"
+  ],
+  "image_local_path": "web/NE-09716.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09717"
+  ],
+  "image_local_path": "web/NE-09717.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09718"
+  ],
+  "image_local_path": "web/NE-09718.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/5/8/d/205-impc-prm-2s-wine-belita-z-73213-1188-2-2023-33-4-whirlpool-original-imahedengfx7zuhc.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09719"
+  ],
+  "image_local_path": "web/NE-09719.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421207_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09724"
+  ],
+  "image_local_path": "web/NE-09724.jpg",
+  "image_source_url": "https://whitemart.in/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0989%2F9012%2F9440%2Ffiles%2FFABER__LPG_STOVE_3B_GT_JUMBO_3BB_BK_1.webp%3Fv%3D1776838598&w=3840&q=75",
+  "image_source_domain": "whitemart.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09725"
+  ],
+  "image_local_path": "web/NE-09725.jpg",
+  "image_source_url": "https://s3b.cashify.in/gpro/uploads/2026/04/25094758/whirlpool-pronxt-df285-3d-prm-gravity-black-237-ltr-2-star-triple-door-side.webp",
+  "image_source_domain": "www.cashify.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09726"
+  ],
+  "image_local_path": "web/NE-09726.jpg",
+  "image_source_url": "https://cdn.lotuselectronics.com/webpimages/761271IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09727"
+  ],
+  "image_local_path": "web/NE-09727.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/s/c/m/pronxt-sp285-3d-prm-wine-petalia-2s-y-166-3-2-2-54-whirlpool-56-original-imahktdfqghgpmrt.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09728"
+  ],
+  "image_local_path": "web/NE-09728.jpg",
+  "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/refrigerator-new/j/q/w/pronxt-sp285-3d-prm-blue-petalia-2s-y-166-3-2-2-54-whirlpool-56-original-imahktcg8hf2cn7g.jpeg?q=80",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09729"
+  ],
+  "image_local_path": "web/NE-09729.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/s/c/m/pronxt-sp285-3d-prm-wine-petalia-2s-y-166-3-2-2-54-whirlpool-56-original-imahktdfqghgpmrt.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09730"
+  ],
+  "image_local_path": "web/NE-09730.jpg",
+  "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/refrigerator-new/j/q/w/pronxt-sp285-3d-prm-blue-petalia-2s-y-166-3-2-2-54-whirlpool-56-original-imahktcg8hf2cn7g.jpeg?q=80",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09731"
+  ],
+  "image_local_path": "web/NE-09731.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41Vn7aXc5LL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09732"
+  ],
+  "image_local_path": "web/NE-09732.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iZnJqol2W-w420-h420/whirlpool-pronxt-df3.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09775"
+  ],
+  "image_local_path": "web/NE-09775.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iYTlCdSi9-w1200-h1200/YTlCdSi9.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09776"
+  ],
+  "image_local_path": "web/NE-09776.jpg",
+  "image_source_url": "https://static.wixstatic.com/media/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+  "image_source_domain": "www.valliz.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09777"
+  ],
+  "image_local_path": "web/NE-09777.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iHT1Uaksi-w1200-h1200/HT1Uaksi.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09778"
+  ],
+  "image_local_path": "web/NE-09778.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/12/JQ/VH/ET/162120723/205-impc-roy-2s-sapphire-primrose.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09779"
+  ],
+  "image_local_path": "web/NE-09779.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/JM/XK/VJ/80296245/whirlpool-205-impc-roy-3s-wine-abyss-71383-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09780"
+  ],
+  "image_local_path": "web/NE-09780.jpg",
+  "image_source_url": "https://electronicparadise.in/cdn/shop/files/WhirlpoolRefrigerator190L4.jpg?v=1702126541&width=1214",
+  "image_source_domain": "electronicparadise.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09782"
+  ],
+  "image_local_path": "web/NE-09782.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/12/JQ/VH/ET/162120723/205-impc-roy-2s-sapphire-primrose.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09783"
+  ],
+  "image_local_path": "web/NE-09783.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/JM/XK/VJ/80296245/whirlpool-205-impc-roy-3s-wine-abyss-71383-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09796"
+  ],
+  "image_local_path": "web/NE-09796.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/download-905.jpg",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09797"
+  ],
+  "image_local_path": "web/NE-09797.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/download-932.jpg",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09798"
+  ],
+  "image_local_path": "web/NE-09798.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/41ximr40qjL_20260306153049563.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09799"
+  ],
+  "image_local_path": "web/NE-09799.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/download-932.jpg",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09800"
+  ],
+  "image_local_path": "web/NE-09800.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/download-905.jpg",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09802"
+  ],
+  "image_local_path": "web/NE-09802.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/41ximr40qjL_20260306153049563.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09817"
+  ],
+  "image_local_path": "web/NE-09817.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462593/QL/ZJ/TR/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09818"
+  ],
+  "image_local_path": "web/NE-09818.jpg",
+  "image_source_url": "https://www.vasanthandco.in/UploadedFiles/productimages/20260708104228-Untitled-21.png",
+  "image_source_domain": "www.vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09820"
+  ],
+  "image_local_path": "web/NE-09820.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462593/QL/ZJ/TR/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09821"
+  ],
+  "image_local_path": "web/NE-09821.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519766595/WA/QX/BM/37895958/whirlpool-192-l-direct-cool-5-star-direct-cool-single-door-refrigerator-wine.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09822"
+  ],
+  "image_local_path": "web/NE-09822.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518718965/MK/AU/SP/37895958/whirlpool-215-impro-prm-5s-inv-cool-illusia-z-single-door-fridge.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09823"
+  ],
+  "image_local_path": "web/NE-09823.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/HL/UW/JJ/80296245/whirlpool-215-impro-prm-3s-neo-dutch-71638-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09824"
+  ],
+  "image_local_path": "web/NE-09824.jpg",
+  "image_source_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F776601IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09825"
+  ],
+  "image_local_path": "web/NE-09825.jpg",
+  "image_source_url": "https://www.vasanthandco.in/UploadedFiles/productimages/20260708104228-Untitled-21.png",
+  "image_source_domain": "www.vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09827"
+  ],
+  "image_local_path": "web/NE-09827.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519766595/WA/QX/BM/37895958/whirlpool-192-l-direct-cool-5-star-direct-cool-single-door-refrigerator-wine.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09830"
+  ],
+  "image_local_path": "web/NE-09830.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/HL/UW/JJ/80296245/whirlpool-215-impro-prm-3s-neo-dutch-71638-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09831"
+  ],
+  "image_local_path": "web/NE-09831.jpg",
+  "image_source_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F776601IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09832"
+  ],
+  "image_local_path": "web/NE-09832.jpg",
+  "image_source_url": "https://www.vasanthandco.in/UploadedFiles/productimages/20260708104228-Untitled-21.png",
+  "image_source_domain": "www.vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09833"
+  ],
+  "image_local_path": "web/NE-09833.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462598/KF/BT/AM/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09834"
+  ],
+  "image_local_path": "web/NE-09834.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519766595/WA/QX/BM/37895958/whirlpool-192-l-direct-cool-5-star-direct-cool-single-door-refrigerator-wine.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09835"
+  ],
+  "image_local_path": "web/NE-09835.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519766595/WA/QX/BM/37895958/whirlpool-192-l-direct-cool-5-star-direct-cool-single-door-refrigerator-wine.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09836"
+  ],
+  "image_local_path": "web/NE-09836.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518718965/MK/AU/SP/37895958/whirlpool-215-impro-prm-5s-inv-cool-illusia-z-single-door-fridge.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09837"
+  ],
+  "image_local_path": "web/NE-09837.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/HL/UW/JJ/80296245/whirlpool-215-impro-prm-3s-neo-dutch-71638-.png",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09838"
+  ],
+  "image_local_path": "web/NE-09838.jpg",
+  "image_source_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F776601IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09839"
+  ],
+  "image_local_path": "web/NE-09839.jpg",
+  "image_source_url": "https://www.vasanthandco.in/UploadedFiles/productimages/20260708104228-Untitled-21.png",
+  "image_source_domain": "www.vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09841"
+  ],
+  "image_local_path": "web/NE-09841.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519766595/WA/QX/BM/37895958/whirlpool-192-l-direct-cool-5-star-direct-cool-single-door-refrigerator-wine.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09844"
+  ],
+  "image_local_path": "web/NE-09844.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool215l3directcoolsingledoorrefrigeratoralphasteel_base.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09847"
+  ],
+  "image_local_path": "web/NE-09847.jpg",
+  "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/refrigerator-new/r/w/k/230-impro-gd-prm-3s-gold-dust-1320-3-2024-41-5-whirlpool-612-533-original-imah6j6zfuh4upzd.jpeg?q=90",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09849"
+  ],
+  "image_local_path": "web/NE-09849.jpg",
+  "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/refrigerator-new/r/w/k/230-impro-gd-prm-3s-gold-dust-1320-3-2024-41-5-whirlpool-612-533-original-imah6j6zfuh4upzd.jpeg?q=90",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09852"
+  ],
+  "image_local_path": "web/NE-09852.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy3salphasteel_add01.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09853"
+  ],
+  "image_local_path": "web/NE-09853.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61sqkjboMbL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09854"
+  ],
+  "image_local_path": "web/NE-09854.jpg",
+  "image_source_url": "https://www.sathya.store/img/product/LzAhuSu4imLbeJhD.png",
+  "image_source_domain": "www.sathya.store",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09855"
+  ],
+  "image_local_path": "web/NE-09855.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61ZabrqhLAL._SL1200__20260306124958521.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09856"
+  ],
+  "image_local_path": "web/NE-09856.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61ZabrqhLAL._SL1200__20260306124958521.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09857"
+  ],
+  "image_local_path": "web/NE-09857.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy3salphasteel_add01.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09858"
+  ],
+  "image_local_path": "web/NE-09858.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61sqkjboMbL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09859"
+  ],
+  "image_local_path": "web/NE-09859.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61sqkjboMbL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09860"
+  ],
+  "image_local_path": "web/NE-09860.jpg",
+  "image_source_url": "https://www.sathya.store/img/product/LzAhuSu4imLbeJhD.png",
+  "image_source_domain": "www.sathya.store",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09861"
+  ],
+  "image_local_path": "web/NE-09861.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61ZabrqhLAL._SL1200__20260306124958521.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09862"
+  ],
+  "image_local_path": "web/NE-09862.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61ZabrqhLAL._SL1200__20260306124958521.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09863"
+  ],
+  "image_local_path": "web/NE-09863.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61sqkjboMbL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09864"
+  ],
+  "image_local_path": "web/NE-09864.jpg",
+  "image_source_url": "https://www.sathya.store/img/product/LzAhuSu4imLbeJhD.png",
+  "image_source_domain": "www.sathya.store",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09866"
+  ],
+  "image_local_path": "web/NE-09866.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61ZabrqhLAL._SL1200__20260306124958521.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09867"
+  ],
+  "image_local_path": "web/NE-09867.jpg",
+  "image_source_url": "https://www.sathya.store/img/product/UznZoBa4b8KDEIAR.png",
+  "image_source_domain": "www.sathya.store",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09868"
+  ],
+  "image_local_path": "web/NE-09868.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/175206/260-IMPRO-PLUS-ROY-3S-WINE-VELVET-Y_1.jpg?v=639117542235630000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09869"
+  ],
+  "image_local_path": "web/NE-09869.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71sj1CTSDcL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09870"
+  ],
+  "image_local_path": "web/NE-09870.jpg",
+  "image_source_url": "https://www.sathya.store/img/product/UznZoBa4b8KDEIAR.png",
+  "image_source_domain": "www.sathya.store",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09871"
+  ],
+  "image_local_path": "web/NE-09871.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/175206/260-IMPRO-PLUS-ROY-3S-WINE-VELVET-Y_1.jpg?v=639117542235630000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09874"
+  ],
+  "image_local_path": "web/NE-09874.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/335570370/FH/RQ/SV/12560825/1.jpg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09875"
+  ],
+  "image_local_path": "web/NE-09875.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/175206/260-IMPRO-PLUS-ROY-3S-WINE-VELVET-Y_1.jpg?v=639117542235630000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09876"
+  ],
+  "image_local_path": "web/NE-09876.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71sj1CTSDcL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09877"
+  ],
+  "image_local_path": "web/NE-09877.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-236-l-direct-cool-single-door-4-star-refrigerator-260-impro-plus-prm-sapphire-breeze-Front-View.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09878"
+  ],
+  "image_local_path": "web/NE-09878.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421231_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09879"
+  ],
+  "image_local_path": "web/NE-09879.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-236-l-direct-cool-single-door-4-star-refrigerator-260-impro-plus-prm-sapphire-breeze-Front-View.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09880"
+  ],
+  "image_local_path": "web/NE-09880.jpg",
+  "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421231_add3.jpeg",
+  "image_source_domain": "www.bajajfinserv.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09882"
+  ],
+  "image_local_path": "web/NE-09882.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51DOLJIj7cL._SL1200__20260306124357139.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09883"
+  ],
+  "image_local_path": "web/NE-09883.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51DOLJIj7cL._SL1200__20260306124357139.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09885"
+  ],
+  "image_local_path": "web/NE-09885.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51DOLJIj7cL._SL1200__20260306124357139.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09886"
+  ],
+  "image_local_path": "web/NE-09886.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51DOLJIj7cL._SL1200__20260306124357139.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09894"
+  ],
+  "image_local_path": "web/NE-09894.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09895"
+  ],
+  "image_local_path": "web/NE-09895.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09896"
+  ],
+  "image_local_path": "web/NE-09896.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09897"
+  ],
+  "image_local_path": "web/NE-09897.jpg",
+  "image_source_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "image_source_domain": "www.moglix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09901"
+  ],
+  "image_local_path": "web/NE-09901.jpg",
+  "image_source_url": "https://shrimeenakshifanhouse.com/cdn/shop/files/Whirlpool-215-L-DC-Refrigerator-215-IMPC-PRM-4S-INV-ALPHA-STEEL-E-i1.png?v=1711011481",
+  "image_source_domain": "shrimeenakshifanhouse.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09902"
+  ],
+  "image_local_path": "web/NE-09902.jpg",
+  "image_source_url": "https://shrimeenakshifanhouse.com/cdn/shop/files/Whirlpool-215-L-DC-Refrigerator-215-IMPC-PRM-4S-INV-ALPHA-STEEL-E-i1.png?v=1711011481",
+  "image_source_domain": "shrimeenakshifanhouse.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09903"
+  ],
+  "image_local_path": "web/NE-09903.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/Untitled-9.png",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09904"
+  ],
+  "image_local_path": "web/NE-09904.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/Untitled-9.png",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09905"
+  ],
+  "image_local_path": "web/NE-09905.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09906"
+  ],
+  "image_local_path": "web/NE-09906.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/Untitled-9.png",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09907"
+  ],
+  "image_local_path": "web/NE-09907.jpg",
+  "image_source_url": "https://vasanthandco.in/UploadedFiles/productimages/20240806102831-20240730042342-Untitled-2.png",
+  "image_source_domain": "vasanthandco.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09908"
+  ],
+  "image_local_path": "web/NE-09908.jpg",
+  "image_source_url": "https://neuralsystemsindia.com/wp-content/uploads/2023/10/Untitled-9.png",
+  "image_source_domain": "neuralsystemsindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09912"
+  ],
+  "image_local_path": "web/NE-09912.jpg",
+  "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/2/393852004/IQ/PM/AF/213854617/whirlpool-230-impro-prm-3s-sapphire-peony-z-refrigerator-500x500.jpeg",
+  "image_source_domain": "www.indiamart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09914"
+  ],
+  "image_local_path": "web/NE-09914.jpg",
+  "image_source_url": "https://cdn1.smartprix.com/rx-iIUg0ztoH-w1200-h1200/IUg0ztoH.webp",
+  "image_source_domain": "www.smartprix.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09915"
+  ],
+  "image_local_path": "web/NE-09915.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/711gIj4FIRL._SL1500__20260624230137214.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09916"
+  ],
+  "image_local_path": "web/NE-09916.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/q/r/n/neo-sp278-prm-athena-steel-2s-tl-22149-1587-2-2023-47-whirlpool-original-imahdgyw6tfqjq5u.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09917"
+  ],
+  "image_local_path": "web/NE-09917.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/q/r/n/neo-sp278-prm-athena-steel-2s-tl-22149-1587-2-2023-47-whirlpool-original-imahdgyw6tfqjq5u.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09918"
+  ],
+  "image_local_path": "web/NE-09918.jpg",
+  "image_source_url": "https://cdn.lotuselectronics.com/webpimages/764223IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09920"
+  ],
+  "image_local_path": "web/NE-09920.jpg",
+  "image_source_url": "https://salesindia.com/media/catalog/product/cache/c63352ec18dff576bee6d933dcf3d741/i/m/image_1_796.jpg",
+  "image_source_domain": "salesindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09922"
+  ],
+  "image_local_path": "web/NE-09922.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/174147/NEO-SP278-PRM-Wine-Velvet-2s_6-callouts.jpg?v=639095010116370000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09923"
+  ],
+  "image_local_path": "web/NE-09923.jpg",
+  "image_source_url": "https://backend.paiinternational.in/media/images/3_BrrFdsZ.webp",
+  "image_source_domain": "www.paiinternational.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09924"
+  ],
+  "image_local_path": "web/NE-09924.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51a-XxHV4hL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09925"
+  ],
+  "image_local_path": "web/NE-09925.jpg",
+  "image_source_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/51AiiG%2BtIXL._SL1500__20260624231004699.jpg",
+  "image_source_domain": "www.giriasindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09931"
+  ],
+  "image_local_path": "web/NE-09931.jpg",
+  "image_source_url": "https://salesindia.com/media/catalog/product/cache/c63352ec18dff576bee6d933dcf3d741/i/m/image_1_796.jpg",
+  "image_source_domain": "salesindia.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09934"
+  ],
+  "image_local_path": "web/NE-09934.jpg",
+  "image_source_url": "https://www.myg.in/images/detailed/104/168542-800-auto.jpg",
+  "image_source_domain": "www.myg.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09935"
+  ],
+  "image_local_path": "web/NE-09935.jpg",
+  "image_source_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F764191IM.webp",
+  "image_source_domain": "www.lotuselectronics.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09936"
+  ],
+  "image_local_path": "web/NE-09936.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/174168/IFPRO-INV-CNV-278-SAPPHIRE-BREEZE-2S-_6-callouts.jpg?v=639095948135500000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09937"
+  ],
+  "image_local_path": "web/NE-09937.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/174383/IFPRO-INV-CNV-278-WINE-BREEZE-2S-_OPS.jpg?v=639233328788630000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09939"
+  ],
+  "image_local_path": "web/NE-09939.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wehgXqIML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09940"
+  ],
+  "image_local_path": "web/NE-09940.jpg",
+  "image_source_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/174168/IFPRO-INV-CNV-278-SAPPHIRE-BREEZE-2S-_6-callouts.jpg?v=639095948135500000",
+  "image_source_domain": "india.whirlpool.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09941"
+  ],
+  "image_local_path": "web/NE-09941.jpg",
+  "image_source_url": "https://img-prd-pim.poorvika.com/product/whirlpool-231-l-frost-free-double-door-2-star-refrigerator-ifpro-inv-cnv-278-wine-luxuria-5.png",
+  "image_source_domain": "www.poorvika.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-09942"
+  ],
+  "image_local_path": "web/NE-09942.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wehgXqIML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ }
+]

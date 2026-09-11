@@ -1,0 +1,4108 @@
+[
+ {
+  "brand": "Havells",
+  "product_name": "GENIE-N",
+  "category": "Small Domestic Appliances",
+  "mrp": 4705.0,
+  "member_ids": [
+   "NE-01695"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "TRIBECA",
+  "category": "Backpack",
+  "mrp": 7995.0,
+  "member_ids": [
+   "NE-01843"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aero Tune - Wireless Stereo Headset",
+  "category": "Audio",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-10504"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 01 Plus black",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 4645.0,
+  "member_ids": [
+   "NE-02526"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Electric Kettle (1.8 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-02722",
+   "NE-02723",
+   "NE-02724"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Pulse Pro S",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02963"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Majestic 4B AI",
+  "category": "Majestic",
+  "mrp": 26100.0,
+  "member_ids": [
+   "NE-03038"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE GT SGR 4B SS",
+  "category": "Cooktop",
+  "mrp": 11990.0,
+  "member_ids": [
+   "NE-03142"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED LIGHTNING-USB-A CABLE 2M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03311",
+   "NE-03312"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD450-4-1-NEO",
+  "category": "Home Appliances & Fans",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-03571"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213DIRN",
+  "category": "Home Appliances",
+  "mrp": 24600.0,
+  "member_ids": [
+   "NE-05631"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "GearLight LED Tactical Flashlight S1000 [2 PACK]",
+  "category": "Sports & Fitness",
+  "mrp": 1700.0,
+  "member_ids": [
+   "NE-06873"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "ANC Upto 32dB, 13mm Driver, 55Hr Playtime, Multipoint, BT 5.4 New",
+  "category": "HP",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-07468"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "600MM SWIFT W/O REG BR CF",
+  "category": "Home Appliances & Fans",
+  "mrp": 2745.0,
+  "member_ids": [
+   "NE-08116"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE HARMONY-Y-Inst Exclusive",
+  "category": "Home Appliances",
+  "mrp": 18850.0,
+  "member_ids": [
+   "NE-09753"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Aura Pitch Black",
+  "category": "Large Audio",
+  "mrp": 8498.99,
+  "member_ids": [
+   "NE-03990"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Endure Series Gracio 10L",
+  "category": "Water Heater",
+  "mrp": 18130.0,
+  "member_ids": [
+   "NE-00273",
+   "NE-00274"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "GOLDEN FALL",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00834"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Sodo Dinner Set - Assorted Design (Limited Stock, Old MRP)",
+  "category": "Dinnerware",
+  "mrp": 6795.0,
+  "member_ids": [
+   "NE-01022"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHEF 850 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 425.0,
+  "member_ids": [
+   "NE-01241"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "GLACE",
+  "category": "Small Domestic Appliances",
+  "mrp": 990.0,
+  "member_ids": [
+   "NE-01781"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "VIENNA 20\"",
+  "category": "Suitcase",
+  "mrp": 13995.0,
+  "member_ids": [
+   "NE-01814"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AeroDrive - Fresh clean and Healthy air Purifier",
+  "category": "Smart Gadgets",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-10678"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 02 SS - 2B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 7930.0,
+  "member_ids": [
+   "NE-02528"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Vacuum Bottle 1000ML",
+  "category": "Water Bottle",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-02880"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Quadro 4In1",
+  "category": "Audio & Wearables",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03221"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Metis 80L (TFT screen, Airfry basket)",
+  "category": "Built in Oven",
+  "mrp": 89100.0,
+  "member_ids": [
+   "NE-03125"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE GT SINGLE BURNER BK DX",
+  "category": "Cooktop",
+  "mrp": 3590.0,
+  "member_ids": [
+   "NE-03158"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED LIGHTNING-USB-C CABLE 2M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03317",
+   "NE-03318"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD450-4-3",
+  "category": "Home Appliances & Fans",
+  "mrp": 9199.0,
+  "member_ids": [
+   "NE-03572"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213DIRND",
+  "category": "Home Appliances",
+  "mrp": 26200.0,
+  "member_ids": [
+   "NE-05633"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "GearLight S2000  Flashlight- Super Bright, Powerful, Mid-Size Tactical Flashlights with High Lumens for Outdoor Activity &amp; Emergency Use",
+  "category": "Sports & Fitness",
+  "mrp": 2000.0,
+  "member_ids": [
+   "NE-06872"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Bluetooth/withTWS, Karaoke, Audio In, Party Light, 30W, Bass Boost",
+  "category": "Audio",
+  "mrp": 5490.0,
+  "member_ids": [
+   "NE-07453"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "600MM SWIFT W/O REG IVR CF",
+  "category": "Home Appliances & Fans",
+  "mrp": 2745.0,
+  "member_ids": [
+   "NE-08118"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE HARMONY-Z-Inst Exclusive",
+  "category": "Home Appliances",
+  "mrp": 18150.0,
+  "member_ids": [
+   "NE-09365"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Groove Premium Black",
+  "category": "Large Audio",
+  "mrp": 1449.0,
+  "member_ids": [
+   "NE-05367"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Endure Series Gracio 25L",
+  "category": "Water Heater",
+  "mrp": 22690.0,
+  "member_ids": [
+   "NE-00275"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "GOLDEN SHADES",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00842"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "The Little Pilot Temp 3 Pcs Kids Set",
+  "category": "Kids Dinnerware",
+  "mrp": 945.0,
+  "member_ids": [
+   "NE-01001"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHEF GIFT SET (500+850+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1275.0,
+  "member_ids": [
+   "NE-01250"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "GLO TC22",
+  "category": "Small Domestic Appliances",
+  "mrp": 4960.0,
+  "member_ids": [
+   "NE-01731"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "VIENNA 24\"",
+  "category": "Suitcase",
+  "mrp": 15995.0,
+  "member_ids": [
+   "NE-01815"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerolift Duo - Dual Monitor Desk Mount",
+  "category": "PC Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-10680"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 02+ AI  - 2B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 8665.0,
+  "member_ids": [
+   "NE-02529"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Vacuum Bottle 500ML",
+  "category": "Water Bottle",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-02879"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Quadro 4In1 (1.5M)",
+  "category": "Audio & Wearables",
+  "mrp": 2490.0,
+  "member_ids": [
+   "NE-03223"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Onyx 60",
+  "category": "Chimneys",
+  "mrp": 19980.0,
+  "member_ids": [
+   "NE-03093"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE OPTRA 2B",
+  "category": "Cooktop",
+  "mrp": 5545.0,
+  "member_ids": [
+   "NE-03199"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO C 100W CABLE 2M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03339",
+   "NE-03340",
+   "NE-03341",
+   "NE-03342"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD450-6-1",
+  "category": "Home Appliances & Fans",
+  "mrp": 7899.0,
+  "member_ids": [
+   "NE-03573"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213DISG",
+  "category": "Home Appliances",
+  "mrp": 26300.0,
+  "member_ids": [
+   "NE-05636"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "HF XYLUS MULTI (RAIN+FOAM FLOW) Only head",
+  "category": "Home Improvement & Safety",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-07234"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "C-Type, In-Ear Headphone New",
+  "category": "HP",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07476"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "600MM SWIFT W/O REG WH CF",
+  "category": "Home Appliances & Fans",
+  "mrp": 2745.0,
+  "member_ids": [
+   "NE-08117"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE LINNEA-Z-Inst  VC",
+  "category": "Home Appliances",
+  "mrp": 18150.0,
+  "member_ids": [
+   "NE-09222"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Joy : Premium Black",
+  "category": "Large Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-04917"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Endure Series Gracio 6L",
+  "category": "Water Heater",
+  "mrp": 15500.0,
+  "member_ids": [
+   "NE-00272"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "GRACE BLUE",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00807",
+   "NE-00808"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Timeless Dessert Plate 19 CM",
+  "category": "Dinnerware",
+  "mrp": 595.0,
+  "member_ids": [
+   "NE-00905"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHERISH 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 430.0,
+  "member_ids": [
+   "NE-01251"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "GLOW",
+  "category": "Small Domestic Appliances",
+  "mrp": 1900.0,
+  "member_ids": [
+   "NE-01792"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "VIENNA 28\"",
+  "category": "Suitcase",
+  "mrp": 17995.0,
+  "member_ids": [
+   "NE-01816"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerolift Solo - Single Monitor Desk Mount",
+  "category": "PC Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-10679"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 03+ AI - 3B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 11560.0,
+  "member_ids": [
+   "NE-02532"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Vacuum Bottle 600ML",
+  "category": "Water Bottle",
+  "mrp": 1049.0,
+  "member_ids": [
+   "NE-02881"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "RETRO CLASSIC 2.0",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 11990.0,
+  "member_ids": [
+   "NE-02954"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Opal 60 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 59940.0,
+  "member_ids": [
+   "NE-03045"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE OPTRA 3B",
+  "category": "Cooktop",
+  "mrp": 7815.0,
+  "member_ids": [
+   "NE-03200"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO C 240W CABLE 1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03343",
+   "NE-03344",
+   "NE-03345",
+   "NE-03346"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD600-6-1",
+  "category": "Home Appliances & Fans",
+  "mrp": 15499.0,
+  "member_ids": [
+   "NE-03574"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EIBC",
+  "category": "Home Appliances",
+  "mrp": 26100.0,
+  "member_ids": [
+   "NE-05638"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Health Faucet AXOR Only head",
+  "category": "Home Improvement & Safety",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-07222"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Dot Design (no-stem), Driver 10mm, 18Hrs Play, BT 5.3, Control Touch,  Hall Switch & FC, IPX4",
+  "category": "HP",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07471"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "750MM DOMINAIRE PEDESTAL FAN",
+  "category": "Home Appliances & Fans",
+  "mrp": 18120.0,
+  "member_ids": [
+   "NE-08018"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE ORBIT-Z-Inst Ex.",
+  "category": "Home Appliances",
+  "mrp": 18150.0,
+  "member_ids": [
+   "NE-09027"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Maven Pro Premium Black",
+  "category": "Large Audio",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-03687"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Eternal series Pentacle Digi 15L",
+  "category": "Water Heater",
+  "mrp": 19210.0,
+  "member_ids": [
+   "NE-00287",
+   "NE-00288"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "IMPERIAL GREY",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00863"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Timeless Dinner Plate 27 CM",
+  "category": "Dinnerware",
+  "mrp": 895.0,
+  "member_ids": [
+   "NE-00904"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHERISH 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 555.0,
+  "member_ids": [
+   "NE-01252"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "Grey",
+  "category": "Small Domestic Appliances",
+  "mrp": 6120.0,
+  "member_ids": [
+   "NE-01704",
+   "NE-01707"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "WAVE",
+  "category": "Backpack",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-01835"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Air X - Home Smart Air Purifier",
+  "category": "Smart Gadgets",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-10684"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 03L - 3B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 9745.0,
+  "member_ids": [
+   "NE-02530"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Vacuum Bottle 750 ML",
+  "category": "Water Bottle",
+  "mrp": 1049.0,
+  "member_ids": [
+   "NE-02877"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Raptor X",
+  "category": "Audio & Wearables",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-03212"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Opal 75 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 63900.0,
+  "member_ids": [
+   "NE-03046"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE OPTRA 4B",
+  "category": "Cooktop",
+  "mrp": 8735.0,
+  "member_ids": [
+   "NE-03201"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO LIGHTNING CAB1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03315",
+   "NE-03316"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD600-6-3",
+  "category": "Home Appliances & Fans",
+  "mrp": 15699.0,
+  "member_ids": [
+   "NE-03575"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EIBCD",
+  "category": "Home Appliances",
+  "mrp": 27600.0,
+  "member_ids": [
+   "NE-05639"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Home Gym Set 15kg Plate with Extension Barbell Rod and Dumbbells Rods with Gym Accessories for Home Workouts",
+  "category": "Sports & Fitness",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-06658"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Hi-Fi Studio Headphones, 50mm Driver, Open Back Design, Wired.",
+  "category": "HP",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-07475"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "750MM DOMINAIRE WALL FAN",
+  "category": "Home Appliances & Fans",
+  "mrp": 16090.0,
+  "member_ids": [
+   "NE-08058"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE ROSELY-Z",
+  "category": "Home Appliances",
+  "mrp": 15000.0,
+  "member_ids": [
+   "NE-09662"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Orion Plus Midnight Black",
+  "category": "Large Audio",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-04354"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Finito Neo 600W Mixer Grinder",
+  "category": "MIXERS",
+  "mrp": 5590.0,
+  "member_ids": [
+   "NE-00317"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "INDIGO BLISS",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00831"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Trompette Simply Bowl 10 CM",
+  "category": "Dinnerware",
+  "mrp": 1165.0,
+  "member_ids": [
+   "NE-00923"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHERISH 2500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 985.0,
+  "member_ids": [
+   "NE-01253"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HAND BLENDER",
+  "category": "Small Domestic Appliances",
+  "mrp": 17880.0,
+  "member_ids": [
+   "NE-01721"
+  ]
+ },
+ {
+  "brand": "NM",
+  "product_name": "WILLIAMSBERG",
+  "category": "Backpack",
+  "mrp": 13995.0,
+  "member_ids": [
+   "NE-01846"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AirCop - Portable Vacuum Cleaner & Blower",
+  "category": "Car Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-10676"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 03L SS - 3B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 10195.0,
+  "member_ids": [
+   "NE-02531"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Double Wall Water Bottle 750ML",
+  "category": "Water Bottle",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02878"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Reverb",
+  "category": "Audio & Wearables",
+  "mrp": 1040.0,
+  "member_ids": [
+   "NE-03224"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Opal 90 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 66960.0,
+  "member_ids": [
+   "NE-03047"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 2B BK",
+  "category": "Cooktop",
+  "mrp": 7290.0,
+  "member_ids": [
+   "NE-03176"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO USB-A CABLE 1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-03326",
+   "NE-03327",
+   "NE-03328",
+   "NE-03329"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "EXHD900-8-3",
+  "category": "Home Appliances & Fans",
+  "mrp": 39099.0,
+  "member_ids": [
+   "NE-03576"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EIBS",
+  "category": "Home Appliances",
+  "mrp": 25000.0,
+  "member_ids": [
+   "NE-05637"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Home Gym Set 5kg Plate with Extension Barbell Rod and Dumbbells Rods with Gym Accessories for Home Workouts",
+  "category": "Sports & Fitness",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06656"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "In Ear Bluetooth Neckband, Magnetic Play/Pause, 20 Hrs",
+  "category": "HP",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-07482"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "AEROSTYLE DESERT ELECTRONIC 70ASD1E WHIT",
+  "category": "Home Appliances & Fans",
+  "mrp": 22990.0,
+  "member_ids": [
+   "NE-08856",
+   "NE-08857",
+   "NE-08858",
+   "NE-08859"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE SPRING-Y",
+  "category": "Home Appliances",
+  "mrp": 16350.0,
+  "member_ids": [
+   "NE-09754"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Plus Rhythm Charcoal Black",
+  "category": "Large Audio",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-04928"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Herculo Dry Iron",
+  "category": "Dry Irons",
+  "mrp": 2560.0,
+  "member_ids": [
+   "NE-00219"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "IVORY BLUSH",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00792"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Trompette Simply Dessert Plate 21 CM",
+  "category": "Dinnerware",
+  "mrp": 1675.0,
+  "member_ids": [
+   "NE-00922"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHERISH 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1285.0,
+  "member_ids": [
+   "NE-01254"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HAWK",
+  "category": "Small Domestic Appliances",
+  "mrp": 1930.0,
+  "member_ids": [
+   "NE-01771"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Airlo - Mini Handheld Fan with Built-In Light",
+  "category": "Smart Gadgets",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-10658"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 04 - 4B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 11895.0,
+  "member_ids": [
+   "NE-02533"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Drum Rice Cooker 2.8 Ltr",
+  "category": "Rice Cooker",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-02785"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Ryze",
+  "category": "Audio & Wearables",
+  "mrp": 12990.0,
+  "member_ids": [
+   "NE-03216"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium 3B76",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 30150.0,
+  "member_ids": [
+   "NE-03117"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 2B SS",
+  "category": "Cooktop",
+  "mrp": 7490.0,
+  "member_ids": [
+   "NE-03177"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO USB-C 2M PACK OF 2 60W",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03338"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Cookie",
+  "category": "Home Appliances & Fans",
+  "mrp": 5649.0,
+  "member_ids": [
+   "NE-03457"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EIRM",
+  "category": "Home Appliances",
+  "mrp": 26100.0,
+  "member_ids": [
+   "NE-05640"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Inflatable Round Ring Baby Pool &amp; Portable Baby Bath tub",
+  "category": "Sports & Fitness",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06852"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "On Ear Headphones with Mic, Flat Foldable",
+  "category": "HP",
+  "mrp": 1990.0,
+  "member_ids": [
+   "NE-07474"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "AEROSTYLE TOWER ELECTRONIC 25AST1E WHITE",
+  "category": "Home Appliances & Fans",
+  "mrp": 15790.0,
+  "member_ids": [
+   "NE-08897",
+   "NE-08898",
+   "NE-08899"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC PRM 2S WINE SPRING-Z",
+  "category": "Home Appliances",
+  "mrp": 15640.0,
+  "member_ids": [
+   "NE-09676"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Plus SoniQ - D Raven Black",
+  "category": "Large Audio",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-04927"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj ICX 120TS Induction Stove",
+  "category": "INDUCTION STOVE",
+  "mrp": 4090.0,
+  "member_ids": [
+   "NE-00355"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "LIVELY HUES",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00833"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Trompette Simply Dinner Plate 26 CM",
+  "category": "Dinnerware",
+  "mrp": 2225.0,
+  "member_ids": [
+   "NE-00921"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHILLER 12 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2546.25,
+  "member_ids": [
+   "NE-01532"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HESTIO 11 FIN",
+  "category": "Small Domestic Appliances",
+  "mrp": 17650.0,
+  "member_ids": [
+   "NE-01795"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Airloop - Portable Desktop Mini Fan",
+  "category": "Smart Gadgets",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-10629"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 04 SS - 4B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 12465.0,
+  "member_ids": [
+   "NE-02534"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Dry Iron (1000W)",
+  "category": "Steam Iron | Dry Iron",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-02834"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SILQ",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02943"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium 4B76",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 34650.0,
+  "member_ids": [
+   "NE-03119"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 3B BK",
+  "category": "Cooktop",
+  "mrp": 9590.0,
+  "member_ids": [
+   "NE-03178"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL BRAIDED USB-C TO USB-C CABLE 1M BLK 60W",
+  "category": "Electronics Accessories",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-03334",
+   "NE-03335",
+   "NE-03336",
+   "NE-03337"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Groove Regmote",
+  "category": "Home Appliances & Fans",
+  "mrp": 6699.0,
+  "member_ids": [
+   "NE-03460"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EIRMD",
+  "category": "Home Appliances",
+  "mrp": 27600.0,
+  "member_ids": [
+   "NE-05641"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "It is equipped with a powerful 4000 mAh rechargeable battery, this portable air pump is perfect for cars, cycles, bikes, and sports balls. .",
+  "category": "Sports & Fitness",
+  "mrp": 5699.0,
+  "member_ids": [
+   "NE-06926"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "On Ear Sports Headphones with IP55",
+  "category": "HP",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-07477"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "BLENDER NUTRIMAGNA 350W LAVENDER",
+  "category": "Home Appliances & Fans",
+  "mrp": 3990.0,
+  "member_ids": [
+   "NE-08757"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC ROY 1S SAPPHIRE GLORIA-Z-Dist East-South",
+  "category": "Home Appliances",
+  "mrp": 15800.0,
+  "member_ids": [
+   "NE-09468"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Prime Maxx Cosmic Black",
+  "category": "Large Audio",
+  "mrp": 12499.01,
+  "member_ids": [
+   "NE-04923"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj ICX 140TS Induction Stove",
+  "category": "INDUCTION STOVE",
+  "mrp": 4390.0,
+  "member_ids": [
+   "NE-00356"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "LUSH GREENS",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00773"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHILLER 14 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2576.7,
+  "member_ids": [
+   "NE-01533"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HESTIO 13 FIN",
+  "category": "Small Domestic Appliances",
+  "mrp": 19750.0,
+  "member_ids": [
+   "NE-01794"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Akshr Prime - Wireless Keyboard",
+  "category": "PC Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-10331"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM 04+ Long - 4B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 12465.0,
+  "member_ids": [
+   "NE-02535"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Dry Iron (750W)",
+  "category": "Steam Iron | Dry Iron",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-02832"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SM 40",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 9990.0,
+  "member_ids": [
+   "NE-02958"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium FB 3B76",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 36540.0,
+  "member_ids": [
+   "NE-03118"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 3B SS",
+  "category": "Cooktop",
+  "mrp": 9790.0,
+  "member_ids": [
+   "NE-03179"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE AUD 3.5MM 2M PRT BLK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03354"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Groove Regmote AD",
+  "category": "Home Appliances & Fans",
+  "mrp": 6949.0,
+  "member_ids": [
+   "NE-03461"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-213EISG",
+  "category": "Home Appliances",
+  "mrp": 27700.0,
+  "member_ids": [
+   "NE-05642"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Jala Cleaning Broom/Brush with Long Extendable Handle and Flexible bristles LLCFLD104",
+  "category": "Home Improvement & Safety",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07246"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Over Ear Bluetooth Headphones,with ANC",
+  "category": "HP",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-07479",
+   "NE-07480"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "BLENDER NUTRIMAGNAPRO 600W MAROON",
+  "category": "Home Appliances & Fans",
+  "mrp": 5290.0,
+  "member_ids": [
+   "NE-08758"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "200 IMPC ROY 1S WINE GLORIA-Z-Dist East-South",
+  "category": "Home Appliances",
+  "mrp": 15800.0,
+  "member_ids": [
+   "NE-09469"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Prime Studio- DA Storm Black",
+  "category": "Large Audio",
+  "mrp": 16498.99,
+  "member_ids": [
+   "NE-04479"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj ICX 160TS Neo Induction Stove",
+  "category": "INDUCTION STOVE",
+  "mrp": 5790.0,
+  "member_ids": [
+   "NE-00357"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MAGICAL WAVES",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00759"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHILLER 3 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 641.55,
+  "member_ids": [
+   "NE-01530"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HESTIO 9 FIN",
+  "category": "Small Domestic Appliances",
+  "mrp": 15650.0,
+  "member_ids": [
+   "NE-01796"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Ampbox 10k - 10000 mAh Power Bank with Digital Display",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-09995"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTM02 - 2B",
+  "category": "Royale Plus Gas Stove Series",
+  "mrp": 7475.0,
+  "member_ids": [
+   "NE-02527"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Dual Cooking Pot (Cook n Serve) 2 x 1.5 Ltr.",
+  "category": "Cooking Pot | Buffet Server",
+  "mrp": 3599.0,
+  "member_ids": [
+   "NE-02776"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SM COMMAND HUB",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 3990.0,
+  "member_ids": [
+   "NE-02985"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium FB 4B76",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 41850.0,
+  "member_ids": [
+   "NE-03120"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 3B XL BK",
+  "category": "Cooktop",
+  "mrp": 9720.0,
+  "member_ids": [
+   "NE-03182"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE AUD 3.5MM/2xRCA 2M PRT BLK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03355"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Groove Regmote Wooden",
+  "category": "Home Appliances & Fans",
+  "mrp": 7449.0,
+  "member_ids": [
+   "NE-03462"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IAG",
+  "category": "Home Appliances",
+  "mrp": 25750.0,
+  "member_ids": [
+   "NE-05768"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Kettlebell for home exercise, indoor/ outdoor gymming and keeping fit,Made from high-quality solid cast iron that is sturdy and durable,Textured wide handle provides a secure and comfortable grip,Perform swings, squats, lunges, snatches and more - 02 Kg",
+  "category": "Sports & Fitness",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06691",
+   "NE-06692",
+   "NE-06693"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Portable Party Speaker with BT & Karaoke",
+  "category": "Audio",
+  "mrp": 16990.0,
+  "member_ids": [
+   "NE-07454",
+   "NE-07455"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CEILINGFAN 1200MM ENERGIA 32 BR W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 5370.0,
+  "member_ids": [
+   "NE-07515",
+   "NE-07516"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 GENIUS CLS 2S WINE-Z-MT",
+  "category": "Home Appliances",
+  "mrp": 15160.0,
+  "member_ids": [
+   "NE-09031"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Prime Thunder- D Storm Black",
+  "category": "Large Audio",
+  "mrp": 15998.99,
+  "member_ids": [
+   "NE-04478"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj ICX 190FS Induction Stove",
+  "category": "INDUCTION STOVE",
+  "mrp": 6490.0,
+  "member_ids": [
+   "NE-00358"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MEADOW BLUSH",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00789"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CHILLER 8 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1482.6,
+  "member_ids": [
+   "NE-01531"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO BIG FILL GRILL",
+  "category": "Small Domestic Appliances",
+  "mrp": 3730.0,
+  "member_ids": [
+   "NE-01745"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AnyMeal - 1.5L Multifunctional Electric Mini Hotpot",
+  "category": "Smart Gadgets",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-10659"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTMP 02 - 2B",
+  "category": "Efficia Gas Stove Series",
+  "mrp": 4760.0,
+  "member_ids": [
+   "NE-02538"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Dual Digital Air Fryer with Window",
+  "category": "Air Fryer",
+  "mrp": 18999.0,
+  "member_ids": [
+   "NE-02741"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SM RYZE",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 12990.0,
+  "member_ids": [
+   "NE-02956"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium Plus 4B76 TP",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 43650.0,
+  "member_ids": [
+   "NE-03121"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 4B BK",
+  "category": "Cooktop",
+  "mrp": 11490.0,
+  "member_ids": [
+   "NE-03180"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE HDMI 1M W/ETHERNET BLK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03357",
+   "NE-03360"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Riviera Regulator",
+  "category": "Home Appliances & Fans",
+  "mrp": 6149.0,
+  "member_ids": [
+   "NE-03464"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IBB",
+  "category": "Home Appliances",
+  "mrp": 23900.0,
+  "member_ids": [
+   "NE-05838"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Kick board for Swimming",
+  "category": "Sports & Fitness",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06863"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "Speaker Output: 450MW, AM/FM Tuner",
+  "category": "Audio",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-07460"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1067 MM USHA HUNTER BAYPORT WH",
+  "category": "Home Appliances & Fans",
+  "mrp": 18990.0,
+  "member_ids": [
+   "NE-08218",
+   "NE-08219",
+   "NE-08220"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 GENIUS CLS PLUS 2S COSMIC GREY-Z",
+  "category": "Home Appliances",
+  "mrp": 15800.0,
+  "member_ids": [
+   "NE-09032",
+   "NE-09755"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Prime Vortex Storm Black",
+  "category": "Large Audio",
+  "mrp": 11999.01,
+  "member_ids": [
+   "NE-04480"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj IRX 220F Infrared Cooktop",
+  "category": "INDUCTION STOVE",
+  "mrp": 8790.0,
+  "member_ids": [
+   "NE-00362"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MEDUSA GOLD",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00848"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CLICK 2 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 624.75,
+  "member_ids": [
+   "NE-01538"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO BLACK",
+  "category": "Small Domestic Appliances",
+  "mrp": 9975.0,
+  "member_ids": [
+   "NE-01685"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo 20 - 30W Wireless Speaker",
+  "category": "Audio",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-10212"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTMP 03 - 3B",
+  "category": "Efficia Gas Stove Series",
+  "mrp": 6460.0,
+  "member_ids": [
+   "NE-02539"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Dual Pot Slow Cooker 2x1.25 Ltr.",
+  "category": "Slow Cooker",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-02773"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SM TRAVEL CUBE",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 4990.0,
+  "member_ids": [
+   "NE-02986"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Osmium Plus FB 4B76 TP",
+  "category": "Osmium Hobs(Chromatic steel body)",
+  "mrp": 54360.0,
+  "member_ids": [
+   "NE-03122"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 4B SS",
+  "category": "Cooktop",
+  "mrp": 11590.0,
+  "member_ids": [
+   "NE-03181"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE HDMI 2M W/ETHERNET BLK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-03358",
+   "NE-03361"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Energion Riviera SC Regulator",
+  "category": "Home Appliances & Fans",
+  "mrp": 5149.0,
+  "member_ids": [
+   "NE-03465"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IBP",
+  "category": "Home Appliances",
+  "mrp": 24200.0,
+  "member_ids": [
+   "NE-05760"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "Kids scooter",
+  "category": "Sports & Fitness",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-06705"
+  ]
+ },
+ {
+  "brand": "Philips",
+  "product_name": "True Wireless Headphones,26 hrs,4 Mic ENC",
+  "category": "HP",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-07472"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1200MM ENERGIA 32 BR W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 5370.0,
+  "member_ids": [
+   "NE-07522"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 GENIUS CLS PLUS 2S SHERRY WINE-Z",
+  "category": "Home Appliances",
+  "mrp": 15800.0,
+  "member_ids": [
+   "NE-09033",
+   "NE-09756"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Bar Raga Pitch Black",
+  "category": "Large Audio",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-03873"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj IRX 220F Popular Infrared Cooktop",
+  "category": "INDUCTION STOVE",
+  "mrp": 8190.0,
+  "member_ids": [
+   "NE-00361"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MIDNIGHT BLACK",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00840",
+   "NE-00841"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CLICK 3 STEEL PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 975.45,
+  "member_ids": [
+   "NE-01539"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO EZ HEAT TC20",
+  "category": "Small Domestic Appliances",
+  "mrp": 6550.0,
+  "member_ids": [
+   "NE-01730"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo 30 - 30W Bluetooth Speaker With Wireless Karaoke Mic",
+  "category": "Audio",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-10213"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTMP 03 SS - 3B",
+  "category": "Efficia Gas Stove Series",
+  "mrp": 6910.0,
+  "member_ids": [
+   "NE-02540"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Egg Boiler (7 Eggs Capacity)",
+  "category": "Waffle Maker",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02761"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SM VOYAGER",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 7990.0,
+  "member_ids": [
+   "NE-02987"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 3B60",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 32490.0,
+  "member_ids": [
+   "NE-03098"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE PRIME 4B XL BK",
+  "category": "Cooktop",
+  "mrp": 12390.0,
+  "member_ids": [
+   "NE-03183"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE HDMI 5M W/ETHERNET BLK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03359",
+   "NE-03362"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Fluido Wave",
+  "category": "Home Appliances & Fans",
+  "mrp": 9949.0,
+  "member_ids": [
+   "NE-03442"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IBPD",
+  "category": "Home Appliances",
+  "mrp": 25600.0,
+  "member_ids": [
+   "NE-05765"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LIfelong Strong 24T Single speed bicycle",
+  "category": "Sports & Fitness",
+  "mrp": 18199.0,
+  "member_ids": [
+   "NE-06277"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1200MM ENERGIA 32 WH W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 5370.0,
+  "member_ids": [
+   "NE-07523"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 GENIUS CLS PLUS 3S SHERRY WINE-Z-Inst",
+  "category": "Home Appliances",
+  "mrp": 20180.0,
+  "member_ids": [
+   "NE-09034",
+   "NE-09757"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Groove Plus : Premium Black",
+  "category": "Large Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-03753"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Juicer Jar",
+  "category": "MIXERS",
+  "mrp": 1190.0,
+  "member_ids": [
+   "NE-00309"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MINT GRACE (NEW)",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00824"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CLICK 4 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 975.45,
+  "member_ids": [
+   "NE-01540"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO JUMBO (BLEND)",
+  "category": "Small Domestic Appliances",
+  "mrp": 7810.0,
+  "member_ids": [
+   "NE-01687"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo One - 20W Wireless Speaker",
+  "category": "Audio",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-10210"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTMP 04 SQ - 4B",
+  "category": "Efficia Gas Stove Series",
+  "mrp": 8045.0,
+  "member_ids": [
+   "NE-02541"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Egg Boiler (8 Eggs Capacity)",
+  "category": "Waffle Maker",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-02762"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SONIX",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-02946"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 3B78",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 34290.0,
+  "member_ids": [
+   "NE-03095"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SHAKTI 2B",
+  "category": "Cooktop",
+  "mrp": 3290.0,
+  "member_ids": [
+   "NE-03173"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL CABLE TO SLINK 2M BLACK GLD",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03356"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Fluido Wave BLDC",
+  "category": "Home Appliances & Fans",
+  "mrp": 10799.0,
+  "member_ids": [
+   "NE-03441"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IIG",
+  "category": "Home Appliances",
+  "mrp": 25750.0,
+  "member_ids": [
+   "NE-05767"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLAR02 Automatic Rebound Abdominal Exercise Elbow Support Wheel with timer &amp; Mobile Holder- with knee pad (Blue)",
+  "category": "Sports & Fitness",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-06256"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1200MM ENERGIA32 5STAR-WHITE WITH RMT",
+  "category": "Home Appliances & Fans",
+  "mrp": 5370.0,
+  "member_ids": [
+   "NE-07520"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S IMPERIAL STEEL-Y",
+  "category": "Home Appliances",
+  "mrp": 16450.0,
+  "member_ids": [
+   "NE-09891"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Maven Plus : Premium Black",
+  "category": "Large Audio",
+  "mrp": 8998.59,
+  "member_ids": [
+   "NE-03675"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj MX 16 Steam Iron. 1400 Watt",
+  "category": "Steam Irons",
+  "mrp": 2981.0,
+  "member_ids": [
+   "NE-00226"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MISTY DROPS",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00798"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "COOL JAZZ 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 595.72,
+  "member_ids": [
+   "NE-01128"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO PLUS",
+  "category": "Small Domestic Appliances",
+  "mrp": 13020.0,
+  "member_ids": [
+   "NE-01684"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Apollo One Plus - 20W Portable Speaker With Mic",
+  "category": "Audio",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-10211"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GTMP 04L - 4B",
+  "category": "Efficia Gas Stove Series",
+  "mrp": 8835.0,
+  "member_ids": [
+   "NE-02542"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric BBQ with 5 Skews",
+  "category": "Electric Barbecue",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02795"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "SPARK TRIO WIRELESS",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 4249.0,
+  "member_ids": [
+   "NE-02976"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 3B78 FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 38790.0,
+  "member_ids": [
+   "NE-03103"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SHAKTI DX 2B",
+  "category": "Cooktop",
+  "mrp": 4090.0,
+  "member_ids": [
+   "NE-03172"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL DISPLAYPORT TO HDMI ACTIVE ADAPTER",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03370"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Fluxair 9\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-03542"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IKS",
+  "category": "Home Appliances",
+  "mrp": 22950.0,
+  "member_ids": [
+   "NE-05758"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLAR03 Automatic Rebound Abdominal Exercise Elbow Support Wheel with timer &amp; Mobile Holder- with knee pad (Black)",
+  "category": "Sports & Fitness",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-06396"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1200MM TECHNOAIR BLDC M BROWN REG 5ST",
+  "category": "Home Appliances & Fans",
+  "mrp": 5195.0,
+  "member_ids": [
+   "NE-07524",
+   "NE-07525"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S PURPLE GLORIA-Z",
+  "category": "Home Appliances",
+  "mrp": 16050.0,
+  "member_ids": [
+   "NE-09054"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Octave Plus Premium Black",
+  "category": "Large Audio",
+  "mrp": 7953.35,
+  "member_ids": [
+   "NE-03706"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj MX 45 Steam iron 2000 Watt",
+  "category": "Steam Irons",
+  "mrp": 4180.0,
+  "member_ids": [
+   "NE-00229"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MISTY FLAIR",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00787"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "COSMOS 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1550.85,
+  "member_ids": [
+   "NE-01374"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HEXO PUNCH",
+  "category": "Small Domestic Appliances",
+  "mrp": 8950.0,
+  "member_ids": [
+   "NE-01686"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aqua 65 - 20000mAh Power Bank With 65W Output",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-10035"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Gas Cylinder Trolley",
+  "category": "Irons",
+  "mrp": 345.0,
+  "member_ids": [
+   "NE-02714"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Chopper 650 ML",
+  "category": "Electric Chopper",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02825"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "STRYX",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 2490.0,
+  "member_ids": [
+   "NE-02944"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B60",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 36990.0,
+  "member_ids": [
+   "NE-03097"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SHAKTI STAR 3B",
+  "category": "Cooktop",
+  "mrp": 6555.0,
+  "member_ids": [
+   "NE-03202"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL DUAL USB CAR CHARGER 24W",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03301"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Gianna",
+  "category": "Home Appliances & Fans",
+  "mrp": 5099.0,
+  "member_ids": [
+   "NE-03467"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IKSD",
+  "category": "Home Appliances",
+  "mrp": 24350.0,
+  "member_ids": [
+   "NE-05763"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLAR05 Lifelong Abs Roller For Men-Abdominal Exercise Equipment-Ab Roller With Timer,Mobile Holder & Knee Pad-Exercise Wheels",
+  "category": "Sports & Fitness",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-06398"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1270 MM AEROLUX BALLERINE WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 44990.0,
+  "member_ids": [
+   "NE-08237"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S PURPLE LINNEA-Z",
+  "category": "Home Appliances",
+  "mrp": 15700.0,
+  "member_ids": [
+   "NE-09266"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Play : Premium Black",
+  "category": "Large Audio",
+  "mrp": 8299.42,
+  "member_ids": [
+   "NE-03651"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty 15 L Horz (LW)",
+  "category": "Water Heater",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-00254"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MORNING GLORY",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00809"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "COSMOS 5",
+  "category": "Kitchen & Dining",
+  "mrp": 1922.55,
+  "member_ids": [
+   "NE-01375"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HOTSIP",
+  "category": "Small Domestic Appliances",
+  "mrp": 1730.0,
+  "member_ids": [
+   "NE-01758"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Arc Mini - Type C To C 60W 20CM Power Bank Cable",
+  "category": "Mobile Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-10482"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Grace 750W 3 Jar",
+  "category": "Induction",
+  "mrp": 5740.0,
+  "member_ids": [
+   "NE-02578"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Chopper 700 ML",
+  "category": "Electric Chopper",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02826"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Sodius",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 5490.0,
+  "member_ids": [
+   "NE-02968"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B60 FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 42390.0,
+  "member_ids": [
+   "NE-03106"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SINGLE BURNER DLX",
+  "category": "Cooktop",
+  "mrp": 2790.0,
+  "member_ids": [
+   "NE-03175"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EARPHONE WITH TYPE-C CONNECTOR BLK",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-03401",
+   "NE-03402"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "HS Decora",
+  "category": "Home Appliances & Fans",
+  "mrp": 5089.0,
+  "member_ids": [
+   "NE-03474"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IRB",
+  "category": "Home Appliances",
+  "mrp": 23900.0,
+  "member_ids": [
+   "NE-05837"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLAR06 Abdominal Roller with Elbow Support : Latest Upgraded High-Performance Exercise Machine With Automatic Rebound, Anti-Slip Design",
+  "category": "Sports & Fitness",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-06399"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320 MM AEOLUS Black WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 22500.0,
+  "member_ids": [
+   "NE-08241"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE GLORIA-Z",
+  "category": "Home Appliances",
+  "mrp": 16050.0,
+  "member_ids": [
+   "NE-09053"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime 5.1 5000DA",
+  "category": "Large Audio",
+  "mrp": 15998.99,
+  "member_ids": [
+   "NE-03588"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty 15 L Horz (RW)",
+  "category": "Water Heater",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-00253"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MOROCCAN GOLD",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00850",
+   "NE-00851"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "COSMOS 5 DELUXE",
+  "category": "Kitchen & Dining",
+  "mrp": 1922.55,
+  "member_ids": [
+   "NE-01376"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HUSKY",
+  "category": "Small Domestic Appliances",
+  "mrp": 4295.0,
+  "member_ids": [
+   "NE-01760"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Auto 10 - Car Power BT Handsfree Car kit with base",
+  "category": "Car Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-10123"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Grace 750W 4 Jar",
+  "category": "Induction",
+  "mrp": 6885.0,
+  "member_ids": [
+   "NE-02579"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Chopper Combo Set",
+  "category": "Electric Chopper",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02824"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Trio",
+  "category": "Audio & Wearables",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03218"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B78CR",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 38790.0,
+  "member_ids": [
+   "NE-03099"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SPECTRA 2B DX",
+  "category": "Cooktop",
+  "mrp": 6190.0,
+  "member_ids": [
+   "NE-03169"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ FRAME,15 PLUS,TEMPERED GLASS, 2PK",
+  "category": "Electronics Accessories",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03413"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "HS Plus 3 Star",
+  "category": "Home Appliances & Fans",
+  "mrp": 4549.0,
+  "member_ids": [
+   "NE-03476"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IRGD",
+  "category": "Home Appliances",
+  "mrp": 27550.0,
+  "member_ids": [
+   "NE-05766"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLBC1402 Lifelong Juniors Ride 14T Orange",
+  "category": "Sports & Fitness",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-06283"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320 MM AEROLUX CLYTIE WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 41990.0,
+  "member_ids": [
+   "NE-08236"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE HIBISCUS-Z",
+  "category": "Home Appliances",
+  "mrp": 15850.0,
+  "member_ids": [
+   "NE-09267"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime 5.1 5050D Premium Black",
+  "category": "Large Audio",
+  "mrp": 15999.01,
+  "member_ids": [
+   "NE-04155"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty 25 L Horz (LW)",
+  "category": "Water Heater",
+  "mrp": 16650.0,
+  "member_ids": [
+   "NE-00256"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MYSTRIO BLACK",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00797"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CROM X 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 455.8,
+  "member_ids": [
+   "NE-01129"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HYDRO",
+  "category": "Small Domestic Appliances",
+  "mrp": 6370.0,
+  "member_ids": [
+   "NE-01703"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Auto 10 Plus - Smart Audio Connector",
+  "category": "Car Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-10124"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "GrindMaster",
+  "category": "Nutri Blender",
+  "mrp": 10835.0,
+  "member_ids": [
+   "NE-02599"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Fry Pan",
+  "category": "Electric Frypans & Multi Cooking Pots",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02765"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Trooper",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 24990.0,
+  "member_ids": [
+   "NE-02961"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B78CR FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 44190.0,
+  "member_ids": [
+   "NE-03105"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SPECTRA 3B",
+  "category": "Cooktop",
+  "mrp": 8390.0,
+  "member_ids": [
+   "NE-03168"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ FRAME,15,TEMPERED GLASS, 2PK",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03412"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "HS Plus- 1 Star",
+  "category": "Home Appliances & Fans",
+  "mrp": 3879.0,
+  "member_ids": [
+   "NE-03479"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IRP",
+  "category": "Home Appliances",
+  "mrp": 24200.0,
+  "member_ids": [
+   "NE-05759"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLBC2003 Lifelong Foxy 20T Cycle",
+  "category": "Sports & Fitness",
+  "mrp": 9499.0,
+  "member_ids": [
+   "NE-06466"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320 MM AEROLUX DAEDALUS WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 36490.0,
+  "member_ids": [
+   "NE-08235"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE LINNEA-Z",
+  "category": "Home Appliances",
+  "mrp": 15700.0,
+  "member_ids": [
+   "NE-09265"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime 5.1 7050D Premium Black",
+  "category": "Large Audio",
+  "mrp": 18999.0,
+  "member_ids": [
+   "NE-03963"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty 25 L Horz (RW)",
+  "category": "Water Heater",
+  "mrp": 16650.0,
+  "member_ids": [
+   "NE-00255"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "OLIVE TRAILS",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00788"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CRUISER 10 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1735.54,
+  "member_ids": [
+   "NE-01195"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "HYDRO PLUS",
+  "category": "Small Domestic Appliances",
+  "mrp": 7695.0,
+  "member_ids": [
+   "NE-01689"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Auto 12 - BT Audio Receiver & Car Charger Kit",
+  "category": "Car Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-10125"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Hero 500W",
+  "category": "Induction",
+  "mrp": 4890.0,
+  "member_ids": [
+   "NE-02575"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Glass Kettle (1.7 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02727"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Troopz",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 19990.0,
+  "member_ids": [
+   "NE-02960"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B78TP",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 38790.0,
+  "member_ids": [
+   "NE-03096"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SPECTRA 4B DX",
+  "category": "Cooktop",
+  "mrp": 9690.0,
+  "member_ids": [
+   "NE-03167"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ FRAME,DEVICE 3,TEMPERED GLASS, 2PK",
+  "category": "Electronics Accessories",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03414"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "High Speed",
+  "category": "Home Appliances & Fans",
+  "mrp": 3819.0,
+  "member_ids": [
+   "NE-03478"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-2235IRPD",
+  "category": "Home Appliances",
+  "mrp": 25600.0,
+  "member_ids": [
+   "NE-05764"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLBC2792 Lifelong Conqueror GX21 27.5T",
+  "category": "Sports & Fitness",
+  "mrp": 19499.0,
+  "member_ids": [
+   "NE-06261"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320 MM AURELIA WALNUT WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 23000.0,
+  "member_ids": [
+   "NE-08242"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE MULIA-Z",
+  "category": "Home Appliances",
+  "mrp": 16150.0,
+  "member_ids": [
+   "NE-09709"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime 5.1.2 5050DA Premium Blk",
+  "category": "Large Audio",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-03747"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Canvas Green",
+  "category": "Dry Irons",
+  "mrp": 1730.0,
+  "member_ids": [
+   "NE-00211",
+   "NE-00212",
+   "NE-00213"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PEARL GREY",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00866",
+   "NE-00869"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CRUISER 20 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2724.22,
+  "member_ids": [
+   "NE-01196"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "INCLINO",
+  "category": "Small Domestic Appliances",
+  "mrp": 4130.0,
+  "member_ids": [
+   "NE-01789"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Auto One - Smart Audio Connector",
+  "category": "Car Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-10060"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Infrared Cooktop 1.0 - 2200W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 5420.0,
+  "member_ids": [
+   "NE-02569"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Glass Kettle (1.8 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02726"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "UNPLUG",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02947"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B78TP FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 44190.0,
+  "member_ids": [
+   "NE-03104"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE STAR 2B SS",
+  "category": "Cooktop",
+  "mrp": 3290.0,
+  "member_ids": [
+   "NE-03174"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ FRAME,DEVICE 4,TEMPERED GLASS, 2PK",
+  "category": "Electronics Accessories",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03415"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Jet Wind",
+  "category": "Home Appliances & Fans",
+  "mrp": 3039.0,
+  "member_ids": [
+   "NE-03495"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIAG",
+  "category": "Home Appliances",
+  "mrp": 26600.0,
+  "member_ids": [
+   "NE-05650"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLFAGB55- Gym Ball",
+  "category": "Sports & Fitness",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-06311"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320MM AEROLUX APHRODITE WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 36990.0,
+  "member_ids": [
+   "NE-08232"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE ROSELY-Z",
+  "category": "Home Appliances",
+  "mrp": 16050.0,
+  "member_ids": [
+   "NE-09425"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime Beat - Premium Black",
+  "category": "Large Audio",
+  "mrp": 13999.0,
+  "member_ids": [
+   "NE-03612"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  15L LW",
+  "category": "Water Heater",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-00303",
+   "NE-00304",
+   "NE-00305",
+   "NE-00306",
+   "NE-00307",
+   "NE-00308"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PERSIAN GREY",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00852",
+   "NE-00853"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CRUNCH BIG PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 260.4,
+  "member_ids": [
+   "NE-01378"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "INOX",
+  "category": "Small Domestic Appliances",
+  "mrp": 2415.0,
+  "member_ids": [
+   "NE-01765"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Auto Tune - Smart Audio Connector",
+  "category": "Car Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-10061"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Magnite - 750W",
+  "category": "Roti Maker",
+  "mrp": 940.0,
+  "member_ids": [
+   "NE-02710"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Electric Dry Iron Combo",
+  "category": "Coffee Set",
+  "mrp": 2298.0,
+  "member_ids": [
+   "NE-02927"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "UREE",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 7990.0,
+  "member_ids": [
+   "NE-02950"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B86TP",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 39690.0,
+  "member_ids": [
+   "NE-03100"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE STYLE 2B",
+  "category": "Cooktop",
+  "mrp": 3110.0,
+  "member_ids": [
+   "NE-03198"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ TRAY,15 PLUS/14 PRO MAX, AM",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03417"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Jura Designer",
+  "category": "Home Appliances & Fans",
+  "mrp": 5349.0,
+  "member_ids": [
+   "NE-03471"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIBM",
+  "category": "Home Appliances",
+  "mrp": 24600.0,
+  "member_ids": [
+   "NE-05645"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLFAGB65- Gym Ball",
+  "category": "Sports & Fitness",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06312"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320MM EX5 CHAMPAGNE ROSE W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 9290.0,
+  "member_ids": [
+   "NE-08243"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S SAPPHIRE SPRING-Z",
+  "category": "Home Appliances",
+  "mrp": 16150.0,
+  "member_ids": [
+   "NE-09604",
+   "NE-09758"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Prime X : Premium Black",
+  "category": "Large Audio",
+  "mrp": 37999.63,
+  "member_ids": [
+   "NE-03755"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Military Series Evoque 4 Jar 1000W",
+  "category": "MIXERS",
+  "mrp": 10890.0,
+  "member_ids": [
+   "NE-00327"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PETITE ROSES",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00778"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "CRUNCH SMALL PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 225.75,
+  "member_ids": [
+   "NE-01377"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "INSTA",
+  "category": "Small Domestic Appliances",
+  "mrp": 995.0,
+  "member_ids": [
+   "NE-01780"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 440 - Portable Projector",
+  "category": "PC Accessories",
+  "mrp": 18399.0,
+  "member_ids": [
+   "NE-10694"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "MultiChef All in One Air Fryer 6.5L",
+  "category": "Otg",
+  "mrp": 7695.0,
+  "member_ids": [
+   "NE-02699"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Hand Blender Combo",
+  "category": "Coffee Set",
+  "mrp": 3098.0,
+  "member_ids": [
+   "NE-02926"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "VEGA PRO",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 14990.0,
+  "member_ids": [
+   "NE-02932"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B86TP FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 46890.0,
+  "member_ids": [
+   "NE-03107"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE STYLE DLX 2B",
+  "category": "Cooktop",
+  "mrp": 4030.0,
+  "member_ids": [
+   "NE-03197"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ TRAY,15/14 PRO,PRIVACY AM",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03416"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Jura Prime Antidust",
+  "category": "Home Appliances & Fans",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03470"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIBMD",
+  "category": "Home Appliances",
+  "mrp": 26100.0,
+  "member_ids": [
+   "NE-05646"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLFAGB75- Gym Ball",
+  "category": "Sports & Fitness",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-06313"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320MM EX5 DIAMOND BLUE W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 9290.0,
+  "member_ids": [
+   "NE-08244"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S WINE GLORIA-Z",
+  "category": "Home Appliances",
+  "mrp": 16050.0,
+  "member_ids": [
+   "NE-09052"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Pulse : Premium Black",
+  "category": "Large Audio",
+  "mrp": 6499.07,
+  "member_ids": [
+   "NE-03611"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Military Series Finesse 750W",
+  "category": "MIXERS",
+  "mrp": 6990.0,
+  "member_ids": [
+   "NE-00320"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PINK FLORETS",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00762",
+   "NE-00763"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DECKER 2 MEDIUM 1.5 LTR (750 ML*2)",
+  "category": "Kitchen & Dining",
+  "mrp": 821.1,
+  "member_ids": [
+   "NE-01382"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "KITCHEN HARMONY COMBO",
+  "category": "Small Domestic Appliances",
+  "mrp": 18777.0,
+  "member_ids": [
+   "NE-01680"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 450 - Smart LED Android Projector",
+  "category": "PC Accessories",
+  "mrp": 31999.0,
+  "member_ids": [
+   "NE-10695"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "MultiKettle PMC 4.0 Cool Touch",
+  "category": "Rice Cooker",
+  "mrp": 2995.0,
+  "member_ids": [
+   "NE-02672"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Magnetic Coffee Mixer Combo",
+  "category": "Gift Combo Pack",
+  "mrp": 2698.0,
+  "member_ids": [
+   "NE-02917"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "VOLATIC PD 25W",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 1790.0,
+  "member_ids": [
+   "NE-02973"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B90CR",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 39690.0,
+  "member_ids": [
+   "NE-03101"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE SUGAM 2B DX",
+  "category": "Cooktop",
+  "mrp": 4090.0,
+  "member_ids": [
+   "NE-03171"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ TRAY,DEVICE 3,PRIVACY AM",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03418"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Lerone",
+  "category": "Home Appliances & Fans",
+  "mrp": 2950.0,
+  "member_ids": [
+   "NE-03487"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIBS",
+  "category": "Home Appliances",
+  "mrp": 23300.0,
+  "member_ids": [
+   "NE-05643"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLFAH01 Adjustable Cycling Helmet with Detachable Visor|Adjustable Light Weight Mountain Bike Cycle Helmet with Padding for Kids and Adults, (Matte Black)",
+  "category": "Sports & Fitness",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-06295"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320MM EX5 GALAXY WHITE W/O REG",
+  "category": "Home Appliances & Fans",
+  "mrp": 9290.0,
+  "member_ids": [
+   "NE-08245"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S WINE LINNEA-Z",
+  "category": "Home Appliances",
+  "mrp": 15700.0,
+  "member_ids": [
+   "NE-09264"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Quake Plus : Premium Black",
+  "category": "Large Audio",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-03606"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Military Series GlamMax 4 Jar 1000W Coral Grey Mixer Grinder",
+  "category": "MIXERS",
+  "mrp": 11090.0,
+  "member_ids": [
+   "NE-00328"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "RADIANT CURVES",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00770"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DECKER 3 BIG 3.0 LTR (1000 ML*3)",
+  "category": "Kitchen & Dining",
+  "mrp": 1362.9,
+  "member_ids": [
+   "NE-01384"
+  ]
+ },
+ {
+  "brand": "Havells",
+  "product_name": "KOMFI",
+  "category": "Small Domestic Appliances",
+  "mrp": 1255.0,
+  "member_ids": [
+   "NE-01776"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Beem 460 - Smart Led Projector",
+  "category": "PC Accessories",
+  "mrp": 27599.0,
+  "member_ids": [
+   "NE-10696"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Nakshatra Super 750W  4 Jar",
+  "category": "Mixer Grinders",
+  "mrp": 8170.0,
+  "member_ids": [
+   "NE-02586"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Oven Toaster 10 Ltr. Combo",
+  "category": "Coffee Set",
+  "mrp": 4698.0,
+  "member_ids": [
+   "NE-02925"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Verve Arc",
+  "category": "Audio & Wearables",
+  "mrp": 11990.0,
+  "member_ids": [
+   "NE-03208"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 4B90CR FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 46890.0,
+  "member_ids": [
+   "NE-03108"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SHA 380 ABS",
+  "category": "Cooktop",
+  "mrp": 17990.0,
+  "member_ids": [
+   "NE-03162"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL EZ TRAY,DEVICE 4,PRIVACY AM",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03419"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Montania",
+  "category": "Home Appliances & Fans",
+  "mrp": 3449.0,
+  "member_ids": [
+   "NE-03486"
+  ]
+ },
+ {
+  "brand": "IFB",
+  "product_name": "Advance-Cool IFBDC-223CIFG",
+  "category": "Home Appliances",
+  "mrp": 26600.0,
+  "member_ids": [
+   "NE-05647"
+  ]
+ },
+ {
+  "brand": "Lifelong",
+  "product_name": "LLFAH02 Adjustable Cycling Helmet with Detachable Visor|Adjustable Light Weight Mountain Bike Cycle Helmet with Padding for Kids and Adults, (Red/ White)",
+  "category": "Sports & Fitness",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06292"
+  ]
+ },
+ {
+  "brand": "Usha",
+  "product_name": "CF 1320MM EX7 BISCAY BLUE WITH REMOTE",
+  "category": "Home Appliances & Fans",
+  "mrp": 14490.0,
+  "member_ids": [
+   "NE-08246"
+  ]
+ },
+ {
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 1S WINE MULIA-Z",
+  "category": "Home Appliances",
+  "mrp": 16150.0,
+  "member_ids": [
+   "NE-09708"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Aavante Raga Plus - Premium Black",
+  "category": "Large Audio",
+  "mrp": 6299.02,
+  "member_ids": [
+   "NE-03678"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Military Series Glamore 800W Royal Blue",
+  "category": "MIXERS",
+  "mrp": 7890.0,
+  "member_ids": [
+   "NE-00323",
+   "NE-00326"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "REGENT BLUE",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00858",
+   "NE-00859"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DECKER 3 LARGE 4.5 LTR (1500 ML*3)",
+  "category": "Kitchen & Dining",
+  "mrp": 1954.05,
+  "member_ids": [
+   "NE-01385"
+  ]
+ }
+]

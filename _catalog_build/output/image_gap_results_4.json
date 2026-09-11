@@ -1,0 +1,902 @@
+[
+ {
+  "member_ids": [
+   "NE-11281"
+  ],
+  "image_local_path": "web/NE-11281.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51aVrfRlvhL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11360"
+  ],
+  "image_local_path": "web/NE-11360.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51Ws8bKFapL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11283"
+  ],
+  "image_local_path": "web/NE-11283.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61kGm4qyN3L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11285"
+  ],
+  "image_local_path": "web/NE-11285.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/512t8wsUmML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11286"
+  ],
+  "image_local_path": "web/NE-11286.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/510YZ5vXwZL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11287"
+  ],
+  "image_local_path": "web/NE-11287.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/612iYTqalpL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11288"
+  ],
+  "image_local_path": "web/NE-11288.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71QM1PHLqcL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11362"
+  ],
+  "image_local_path": "web/NE-11362.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61hcteRXPGL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11290"
+  ],
+  "image_local_path": "web/NE-11290.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ML6Y5NTlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11363"
+  ],
+  "image_local_path": "web/NE-11363.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/6168kkjv9+L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11292"
+  ],
+  "image_local_path": "web/NE-11292.jpg",
+  "image_source_url": "https://dersanet.ma/wp-content/uploads/2025/12/n-africa-galaxy-tab-s10-fe-plus-smart-book-cover-ef-bx620-ef-bx620pbegww-545766903.png",
+  "image_source_domain": "dersanet.ma",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11364"
+  ],
+  "image_local_path": "web/NE-11364.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Nnj6mwv+L._AC_UF894,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11296"
+  ],
+  "image_local_path": "web/NE-11296.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61G+0zQFl9L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11297"
+  ],
+  "image_local_path": "web/NE-11297.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ML6Y5NTlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11368"
+  ],
+  "image_local_path": "web/NE-11368.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61NQYK0u79L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11299"
+  ],
+  "image_local_path": "web/NE-11299.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41Nsk05N-zL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11369"
+  ],
+  "image_local_path": "web/NE-11369.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/311612_12_xnsd4q.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11301"
+  ],
+  "image_local_path": "web/NE-11301.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81CaEWruObL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11302"
+  ],
+  "image_local_path": "web/NE-11302.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81SWhwGTjxL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11370"
+  ],
+  "image_local_path": "web/NE-11370.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ux730cteguj/gallery/us-galaxy-tab-s11-anti-reflecting-screen-protector-ef-ux730-ef-ux730cteguj-548860696?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11305"
+  ],
+  "image_local_path": "web/NE-11305.jpg",
+  "image_source_url": "https://megaplace.hu/wp-content/uploads/2025/04/32731_1-500x500.webp",
+  "image_source_domain": "megaplace.hu",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11284"
+  ],
+  "image_local_path": "web/NE-11284.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164875474/in-feature-sturdy-outside--safe-inside-538797651?$FB_TYPE_A_MO_JPG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11365"
+  ],
+  "image_local_path": "web/NE-11365.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/ef-bx620plegca/gallery/ca-galaxy-tab-s10-fe-plus-smart-book-cover-ef-bx620-ef-bx620plegca-545820176?$624_468_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11367"
+  ],
+  "image_local_path": "web/NE-11367.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-bx620poegin/gallery/in-galaxy-tab-s10-fe-plus-smart-book-cover-ef-bx620-ef-bx620poegin-545974495?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11303"
+  ],
+  "image_local_path": "web/NE-11303.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-jx730cnegin/gallery/in-galaxy-tab-s11-frame-cover-ef-jx730-ef-jx730cnegin-549322183?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11306"
+  ],
+  "image_local_path": "web/NE-11306.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/613SI1oI6PL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11307"
+  ],
+  "image_local_path": "web/NE-11307.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51Ela-oahNL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11372"
+  ],
+  "image_local_path": "web/NE-11372.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/419lastPNLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11309"
+  ],
+  "image_local_path": "web/NE-11309.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61EdqHQVG2L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11373"
+  ],
+  "image_local_path": "web/NE-11373.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/sg/ef-ux930ctegww/gallery/sg-galaxy-tab-s11-ultra-anti-reflecting-screen-protector-ef-ux930-ef-ux930ctegww-549078681?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11374"
+  ],
+  "image_local_path": "web/NE-11374.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/31uBNuYDTpL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11311"
+  ],
+  "image_local_path": "web/NE-11311.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/feature/166971232/ca-feature-designed-to-fit-your-tablet-551398912?$FB_TYPE_A_MO_JPG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11312"
+  ],
+  "image_local_path": "web/NE-11312.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ej-px710bbegin/gallery/in-galaxy-tab-s9-series-s-pen-ej-px710-ej-px710bbegin-537865172?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11313"
+  ],
+  "image_local_path": "web/NE-11313.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/ej-px710buegww/gallery/au-galaxy-tab-s9-series-s-pen-ej-px710-ej-px710buegww-537842065?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11314"
+  ],
+  "image_local_path": "web/NE-11314.jpg",
+  "image_source_url": "https://bbpcdn.pstatic.gr/bpimg19/d7J4f/1UZzpf_SX818Y818/1758281761/samsung-book-cover-keyboard-black.jpg",
+  "image_source_domain": "www.bestprice.gr",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11315"
+  ],
+  "image_local_path": "web/NE-11315.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ML6Y5NTlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11317"
+  ],
+  "image_local_path": "web/NE-11317.jpg",
+  "image_source_url": "https://osiriss.lv/image/cache/catalog/f_image/productimages/big/ef-bx710pbegww-7-1000x1000.jpg",
+  "image_source_domain": "osiriss.lv",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11318"
+  ],
+  "image_local_path": "web/NE-11318.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/id/2307/gallery/id-galaxy-tab-s9-smart-book-cover-ef-bx710-ef-bx710pwegww-537236294?$624_468_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11319"
+  ],
+  "image_local_path": "web/NE-11319.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/ef-bx710pbegww/gallery/uk-galaxy-tab-s9-smart-book-cover-ef-bx710-ef-bx710pbegww-537724796?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11379"
+  ],
+  "image_local_path": "web/NE-11379.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61EaqIuBNCL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11418"
+  ],
+  "image_local_path": "web/NE-11418.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Te6U-Va+L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11419"
+  ],
+  "image_local_path": "web/NE-11419.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81+ZE2d898L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11420"
+  ],
+  "image_local_path": "web/NE-11420.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71BNbCQWwnL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11320"
+  ],
+  "image_local_path": "web/NE-11320.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41-DsG6tb7L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11321"
+  ],
+  "image_local_path": "web/NE-11321.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51nzRYP2TtL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11322"
+  ],
+  "image_local_path": "web/NE-11322.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/41E7J06zIGL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11323"
+  ],
+  "image_local_path": "web/NE-11323.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/619TsglUvwL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11324"
+  ],
+  "image_local_path": "web/NE-11324.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/et-snl70mbeguj/gallery/us-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mbeguj-551555104?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11421"
+  ],
+  "image_local_path": "web/NE-11421.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51hqyQULOTL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11375"
+  ],
+  "image_local_path": "web/NE-11375.jpg",
+  "image_source_url": "https://img-cdn.heureka.group/v1/cd21f7dd-f085-43db-9d9e-93b6b1be66db.jpg",
+  "image_source_domain": "heureka.cz",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11422"
+  ],
+  "image_local_path": "web/NE-11422.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61MdZsNXtnL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11429"
+  ],
+  "image_local_path": "web/NE-11429.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/ph/2407/gallery/ph-galaxy-watch-ultra-marine-band-small-and-medium-and-large-et-snl70mkegww-542030282?$624_468_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11328"
+  ],
+  "image_local_path": "web/NE-11328.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/et-svl70mbeguj/gallery/us-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70mbeguj-551554937?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11329"
+  ],
+  "image_local_path": "web/NE-11329.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/et-svl70mweguj/gallery/us-galaxy-watch-ultra-trail-band-small-and-medium-and-large-et-svl70mweguj-551554961?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11330"
+  ],
+  "image_local_path": "web/NE-11330.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/308374_1_GqPJbEmwY.png?updatedAt=1765785713319",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11331"
+  ],
+  "image_local_path": "web/NE-11331.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51DPEnp1kJL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11430"
+  ],
+  "image_local_path": "web/NE-11430.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/613b6ARMGPL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11431"
+  ],
+  "image_local_path": "web/NE-11431.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/et-sbl70moeguj/gallery/us-galaxy-watch-ultra-peakform-band-small-and-medium-and-large-et-sbl70moeguj-551601662?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11334"
+  ],
+  "image_local_path": "web/NE-11334.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2407/gallery/uk-galaxy-watch7-sport-band-medium-and-large-et-snl31lkegeu-542306697?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11335"
+  ],
+  "image_local_path": "web/NE-11335.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/612Xyv5w8JL.jpg",
+  "image_source_domain": "www.amazon.ae",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11336"
+  ],
+  "image_local_path": "web/NE-11336.jpg",
+  "image_source_url": "https://images-eu.ssl-images-amazon.com/images/I/612338EhUZL._AC_UL495_SR435,495_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11337"
+  ],
+  "image_local_path": "web/NE-11337.jpg",
+  "image_source_url": "https://images-eu.ssl-images-amazon.com/images/I/71lPmgEd22L._AC_UL600_SR600,600_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11338"
+  ],
+  "image_local_path": "web/NE-11338.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61vw8dYBXzL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11339"
+  ],
+  "image_local_path": "web/NE-11339.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61+bFzO7hLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11340"
+  ],
+  "image_local_path": "web/NE-11340.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/518JG7RQabL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11341"
+  ],
+  "image_local_path": "web/NE-11341.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Ci7IKkG-L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.co.uk",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11342"
+  ],
+  "image_local_path": "web/NE-11342.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51SR3GXgPsL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11343"
+  ],
+  "image_local_path": "web/NE-11343.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51MLSrjVbXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11344"
+  ],
+  "image_local_path": "web/NE-11344.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81vTCBvR6VL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11345"
+  ],
+  "image_local_path": "web/NE-11345.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61rQDoyrl9L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11346"
+  ],
+  "image_local_path": "web/NE-11346.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61squNXHpGL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11347"
+  ],
+  "image_local_path": "web/NE-11347.jpg",
+  "image_source_url": "https://images-eu.ssl-images-amazon.com/images/I/61tL1unAe8L._AC_UL495_SR435,495_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11348"
+  ],
+  "image_local_path": "web/NE-11348.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wDNAJ9hQL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11349"
+  ],
+  "image_local_path": "web/NE-11349.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51Dn+DwhGuL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.sa",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11350"
+  ],
+  "image_local_path": "web/NE-11350.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/711IN2+9BRL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11432"
+  ],
+  "image_local_path": "web/NE-11432.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61UZF3RI2WL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11433"
+  ],
+  "image_local_path": "web/NE-11433.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-watch7-athleisure-band-small-and-medium-et-sol30spegin-542031074?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11353"
+  ],
+  "image_local_path": "web/NE-11353.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61UnDcatM-L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11434"
+  ],
+  "image_local_path": "web/NE-11434.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/2407/gallery/au-galaxy-watch7-athleisure-band-medium-and-large-et-sol31lsegww-542027338?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11435"
+  ],
+  "image_local_path": "web/NE-11435.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71cRJBTS-FL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11356"
+  ],
+  "image_local_path": "web/NE-11356.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-watch8-classic-hybrid-band-small-and-medium-and-large-et-sll50-et-sll50lbeguj-547715312?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11436"
+  ],
+  "image_local_path": "web/NE-11436.jpg",
+  "image_source_url": "https://cdn.electronyat.qa/_next/image?url=https%3A%2F%2Fbackend.electronyat.qa%2Fmedia%2Fcatalog%2Fproduct%2Fs%2Fx%2Fsxl35lbegww_.png&w=3840&q=90",
+  "image_source_domain": "electronyat.qa",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11437"
+  ],
+  "image_local_path": "web/NE-11437.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61oS11aSyeL._AC_SX569_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11438"
+  ],
+  "image_local_path": "web/NE-11438.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-watch8-classic-hybrid-band-small-and-medium-and-large-et-sll50-et-sll50ljeguj-547715322?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11439"
+  ],
+  "image_local_path": "web/NE-11439.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-watch8-classic-hybrid-band-small-and-medium-and-large-et-sll50-et-sll50laeguj-547715292?$product-details-jpg$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11361"
+  ],
+  "image_local_path": "web/NE-11361.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61GRgvSgbAL._AC_SL1500_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11440"
+  ],
+  "image_local_path": "web/NE-11440.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-watch8-watch8-classic-sport-band-medium-and-large-et-snl33-et-snl33lwegww-547568677?$624_468_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11441"
+  ],
+  "image_local_path": "web/NE-11441.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61oS11aSyeL._AC_SX342_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11443"
+  ],
+  "image_local_path": "web/NE-11443.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/517y08Pe-OL._AC_SL1500_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11366"
+  ],
+  "image_local_path": "web/NE-11366.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61GRgvSgbAL._AC_SL1500_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11444"
+  ],
+  "image_local_path": "web/NE-11444.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-watch8-watch8-classic-fabric-band-medium-and-large-et-svl33-et-svl33lwegww-547568502?$720_576_JPG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11445"
+  ],
+  "image_local_path": "web/NE-11445.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61oS11aSyeL._AC_SX385_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11446"
+  ],
+  "image_local_path": "web/NE-11446.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-watch8-watch8-classic-fabric-band-medium-and-large-et-svl33-et-svl33lmegww-547568453?$624_468_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11447"
+  ],
+  "image_local_path": "web/NE-11447.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71jvOjP5-DL._AC_UF894,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11371"
+  ],
+  "image_local_path": "web/NE-11371.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61GRgvSgbAL._AC_SL1500_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11448"
+  ],
+  "image_local_path": "web/NE-11448.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Wql+YvhVL.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-11449"
+  ],
+  "image_local_path": "web/NE-11449.jpg",
+  "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/61K-mP1v85L._AC_UL600_SR600,600_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11450"
+  ],
+  "image_local_path": "web/NE-11450.jpg",
+  "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-watch8-watch8-classic-athleisure-band-medium-and-large-et-sol33-et-sol33lmegww-547568274?$1164_776_PNG$",
+  "image_source_domain": "www.samsung.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11442"
+  ],
+  "image_local_path": "web/NE-11442.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61e6jE8jn+L._AC_SX385_.jpg",
+  "image_source_domain": "www.amazon.ca",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-11451"
+  ],
+  "image_local_path": "web/NE-11451.jpg",
+  "image_source_url": "http://www.jbhifi.com.au/cdn/shop/files/816461-Product-0-I-638876148001854401_1024x1024.jpg",
+  "image_source_domain": "www.jbhifi.com.au",
+  "confidence": "low"
+ }
+]

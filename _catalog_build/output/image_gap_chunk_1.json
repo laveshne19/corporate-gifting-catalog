@@ -1,0 +1,5699 @@
+[
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Canvas Brown",
+  "category": "Dry Irons",
+  "mrp": 1730.0,
+  "member_ids": [
+   "NE-00212"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Canvas Pink",
+  "category": "Dry Irons",
+  "mrp": 1730.0,
+  "member_ids": [
+   "NE-00213"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Canvas Metallique Copper",
+  "category": "Dry Irons",
+  "mrp": 1380.0,
+  "member_ids": [
+   "NE-00217"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "DX 2 DRY IRON GREY 600 W",
+  "category": "Dry Irons",
+  "mrp": 1030.0,
+  "member_ids": [
+   "NE-00224"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Waterproof Immersion heater 1.5KW",
+  "category": "Water Heater",
+  "mrp": 1120.0,
+  "member_ids": [
+   "NE-00233"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Majesty Duetto Gas Water Heater ( PNG)",
+  "category": "Water Heater",
+  "mrp": 11230.0,
+  "member_ids": [
+   "NE-00235"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Flora Plus IWH 3L 3KW",
+  "category": "Water Heater",
+  "mrp": 7460.0,
+  "member_ids": [
+   "NE-00241"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Flora Plus IWH 3L 4.5KW",
+  "category": "Water Heater",
+  "mrp": 7850.0,
+  "member_ids": [
+   "NE-00242"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Aerono IWH 1L 4.5KW",
+  "category": "Water Heater",
+  "mrp": 5080.0,
+  "member_ids": [
+   "NE-00249"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Aerono IWH 3L 3KW",
+  "category": "Water Heater",
+  "mrp": 6640.0,
+  "member_ids": [
+   "NE-00250"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Aerono IWH 3L 4.5KW",
+  "category": "Water Heater",
+  "mrp": 7400.0,
+  "member_ids": [
+   "NE-00251"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Immorto 10L",
+  "category": "Water Heater",
+  "mrp": 13700.0,
+  "member_ids": [
+   "NE-00265"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Immorto 15L",
+  "category": "Water Heater",
+  "mrp": 14830.0,
+  "member_ids": [
+   "NE-00266"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Immorto 25L",
+  "category": "Water Heater",
+  "mrp": 17280.0,
+  "member_ids": [
+   "NE-00267"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armor Series Pentacle 10L",
+  "category": "Water Heater",
+  "mrp": 18460.0,
+  "member_ids": [
+   "NE-00269"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armor Series Pentacle 15L",
+  "category": "Water Heater",
+  "mrp": 20550.0,
+  "member_ids": [
+   "NE-00270"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armor Series Pentacle 25L",
+  "category": "Water Heater",
+  "mrp": 23420.0,
+  "member_ids": [
+   "NE-00271"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Endure Series Gracio 15L",
+  "category": "Water Heater",
+  "mrp": 19490.0,
+  "member_ids": [
+   "NE-00274"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield series Crest Plus 10L",
+  "category": "Water Heater",
+  "mrp": 12690.0,
+  "member_ids": [
+   "NE-00277"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield series Crest Plus 15L",
+  "category": "Water Heater",
+  "mrp": 13740.0,
+  "member_ids": [
+   "NE-00278"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield series Crest Plus 25L",
+  "category": "Water Heater",
+  "mrp": 16010.0,
+  "member_ids": [
+   "NE-00279"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Eternal series Pentacle Digi 25L",
+  "category": "Water Heater",
+  "mrp": 21630.0,
+  "member_ids": [
+   "NE-00288"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Reflecta 10L",
+  "category": "Water Heater",
+  "mrp": 15000.0,
+  "member_ids": [
+   "NE-00290"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Reflecta 15L",
+  "category": "Water Heater",
+  "mrp": 16300.0,
+  "member_ids": [
+   "NE-00291"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Reflecta 25L",
+  "category": "Water Heater",
+  "mrp": 18940.0,
+  "member_ids": [
+   "NE-00292"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armour series Contempo 10L",
+  "category": "Water Heater",
+  "mrp": 16080.0,
+  "member_ids": [
+   "NE-00294"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armour series Contempo 15L",
+  "category": "Water Heater",
+  "mrp": 17900.0,
+  "member_ids": [
+   "NE-00295"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armour series Contempo 25L",
+  "category": "Water Heater",
+  "mrp": 20010.0,
+  "member_ids": [
+   "NE-00296"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armor Series Contempo Neo 15L",
+  "category": "Water Heater",
+  "mrp": 18570.0,
+  "member_ids": [
+   "NE-00298"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Armor Series Contempo Neo 25L",
+  "category": "Water Heater",
+  "mrp": 21170.0,
+  "member_ids": [
+   "NE-00299"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  15L RW",
+  "category": "Water Heater",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-00304"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  15L CW",
+  "category": "Water Heater",
+  "mrp": 16390.0,
+  "member_ids": [
+   "NE-00305"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  25L LW",
+  "category": "Water Heater",
+  "mrp": 18320.0,
+  "member_ids": [
+   "NE-00306"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  25L RW",
+  "category": "Water Heater",
+  "mrp": 18320.0,
+  "member_ids": [
+   "NE-00307"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Majesty Pro Horizontal  25L CW",
+  "category": "Water Heater",
+  "mrp": 18320.0,
+  "member_ids": [
+   "NE-00308"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Military Series Glamore 4 Jar 1000W Jet Black Mixer Grinder",
+  "category": "MIXERS",
+  "mrp": 10790.0,
+  "member_ids": [
+   "NE-00326"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Ninja Series PowerBlend 1000W JMG",
+  "category": "JMG",
+  "mrp": 10190.0,
+  "member_ids": [
+   "NE-00335"
+  ]
+ },
+ {
+  "brand": "Qubo",
+  "product_name": "Smart Air Purifier & Heater (2 in 1)",
+  "category": "Air Purifier",
+  "mrp": null,
+  "member_ids": [
+   "NE-00556"
+  ]
+ },
+ {
+  "brand": "Amazon",
+  "product_name": "Fire TV Stick HD (New Model)",
+  "category": "Streaming Device",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-00564"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Specter 56",
+  "category": "Air Cooler",
+  "mrp": 16820.0,
+  "member_ids": [
+   "NE-00571"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Elevate 72",
+  "category": "Air Cooler",
+  "mrp": 19900.0,
+  "member_ids": [
+   "NE-00573"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Mighty 104",
+  "category": "Air Cooler",
+  "mrp": 18780.0,
+  "member_ids": [
+   "NE-00575"
+  ]
+ },
+ {
+  "brand": "Bajaj",
+  "product_name": "Bajaj Shield Series Elevate Digi 96",
+  "category": "Air Cooler",
+  "mrp": 21240.0,
+  "member_ids": [
+   "NE-00576"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose QuietComfort Headphones",
+  "category": "Headphones",
+  "mrp": 27900.0,
+  "member_ids": [
+   "NE-00596"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose QuietComfort Ultra Headphones (2nd Gen)",
+  "category": "Headphones",
+  "mrp": 49900.0,
+  "member_ids": [
+   "NE-00597"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Ultra Open Earbuds",
+  "category": "Earbuds",
+  "mrp": 25900.0,
+  "member_ids": [
+   "NE-00598"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose QuietComfort Earbuds",
+  "category": "Earbuds",
+  "mrp": 16900.0,
+  "member_ids": [
+   "NE-00599"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+  "category": "Earbuds",
+  "mrp": 32900.0,
+  "member_ids": [
+   "NE-00600"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose SoundLink Flex Portable Speaker (2nd Gen)",
+  "category": "Portable Speakers",
+  "mrp": 16900.0,
+  "member_ids": [
+   "NE-00601"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose SoundLink Plus Portable Speaker",
+  "category": "Portable Speakers",
+  "mrp": 31900.0,
+  "member_ids": [
+   "NE-00602"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose SoundLink Home Bluetooth Speaker",
+  "category": "Portable Speakers",
+  "mrp": 31900.0,
+  "member_ids": [
+   "NE-00603"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose SoundLink Max Portable Speaker",
+  "category": "Portable Speakers",
+  "mrp": 41900.0,
+  "member_ids": [
+   "NE-00604"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Smart Ultra Soundbar",
+  "category": "Soundbars",
+  "mrp": 104900.0,
+  "member_ids": [
+   "NE-00605"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Smart Soundbar",
+  "category": "Soundbars",
+  "mrp": 57900.0,
+  "member_ids": [
+   "NE-00606"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Lifestyle Ultra Soundbar",
+  "category": "Soundbars",
+  "mrp": 164900.0,
+  "member_ids": [
+   "NE-00607"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Lifestyle Ultra Speaker",
+  "category": "Home Theater",
+  "mrp": 49900.0,
+  "member_ids": [
+   "NE-00608"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Lifestyle Ultra Subwoofer",
+  "category": "Home Theater",
+  "mrp": 119900.0,
+  "member_ids": [
+   "NE-00609"
+  ]
+ },
+ {
+  "brand": "Bose",
+  "product_name": "Bose Bass Module 700",
+  "category": "Home Theater",
+  "mrp": 84900.0,
+  "member_ids": [
+   "NE-00612"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-M3D Digital Dual Lavalier Microphones",
+  "category": "Digital Lavalier Microphones",
+  "mrp": null,
+  "member_ids": [
+   "NE-00618"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-MM1 Universal Compact Microphone",
+  "category": "Shotgun Microphones",
+  "mrp": 2995.0,
+  "member_ids": [
+   "NE-00619"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-M1000 Pro Large Diaphragm Studio Microphone",
+  "category": "Vocal/Instrument Microphones",
+  "mrp": 14229.0,
+  "member_ids": [
+   "NE-00620"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-HM100 Omni-Directional Handheld Microphone",
+  "category": "Handheld Microphones",
+  "mrp": null,
+  "member_ids": [
+   "NE-00621"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-OMIC-U Wireless Microphone System",
+  "category": "Wireless Microphones",
+  "mrp": null,
+  "member_ids": [
+   "NE-00627"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYALINK Wireless Microphone System",
+  "category": "Wireless Microphones",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-00630"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYALINK 2 Wireless Microphone",
+  "category": "Wireless Microphones",
+  "mrp": 14250.0,
+  "member_ids": [
+   "NE-00631"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYALINK 3 AI-Powered Button-Sized Wireless Microphone",
+  "category": "Wireless Microphones",
+  "mrp": 14250.0,
+  "member_ids": [
+   "NE-00632"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYA MINI Wireless Lavalier Microphone",
+  "category": "Wireless Microphones",
+  "mrp": null,
+  "member_ids": [
+   "NE-00633"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYA MINI 2 Wireless Microphone",
+  "category": "Wireless Microphones",
+  "mrp": 6990.0,
+  "member_ids": [
+   "NE-00634"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-WM4 Pro-K2 Dual-Channel Wireless Microphone Kit",
+  "category": "Wireless Microphones",
+  "mrp": 14260.0,
+  "member_ids": [
+   "NE-00635"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BY-WM8 Pro-K2 UHF Dual-Channel Wireless Microphone Kit",
+  "category": "Wireless Microphones",
+  "mrp": 21000.0,
+  "member_ids": [
+   "NE-00636"
+  ]
+ },
+ {
+  "brand": "BOYA",
+  "product_name": "BOYAMAGIC Transformable AI-Powered Mini Wireless Microphone",
+  "category": "Wireless Microphones",
+  "mrp": 15250.0,
+  "member_ids": [
+   "NE-00643"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HBD 630",
+  "category": "Headphones",
+  "mrp": 54990.0,
+  "member_ids": [
+   "NE-00668"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 500 BAM (Boom Arm Mic)",
+  "category": "Accessories",
+  "mrp": null,
+  "member_ids": [
+   "NE-00669"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "MOMENTUM 4 Wireless",
+  "category": "Headphones",
+  "mrp": 34990.0,
+  "member_ids": [
+   "NE-00670"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "ACCENTUM Wireless",
+  "category": "Headphones",
+  "mrp": 14990.0,
+  "member_ids": [
+   "NE-00672"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "MOMENTUM Sport",
+  "category": "True Wireless Earbuds",
+  "mrp": 27990.0,
+  "member_ids": [
+   "NE-00676"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "ACCENTUM Open",
+  "category": "True Wireless Earbuds",
+  "mrp": 12990.0,
+  "member_ids": [
+   "NE-00678"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "BTD 700 Bluetooth Adapter",
+  "category": "Accessories",
+  "mrp": null,
+  "member_ids": [
+   "NE-00679"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "AMBEO Soundbar | Max",
+  "category": "Soundbars and Subs",
+  "mrp": 224990.0,
+  "member_ids": [
+   "NE-00680"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "AMBEO Soundbar | Plus",
+  "category": "Soundbars and Subs",
+  "mrp": 104990.0,
+  "member_ids": [
+   "NE-00681"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "AMBEO Soundbar | Mini",
+  "category": "Soundbars and Subs",
+  "mrp": 74990.0,
+  "member_ids": [
+   "NE-00682"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "AMBEO Sub",
+  "category": "Soundbars and Subs",
+  "mrp": 69990.0,
+  "member_ids": [
+   "NE-00683"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 820",
+  "category": "Audiophile Headphones",
+  "mrp": 209990.0,
+  "member_ids": [
+   "NE-00684"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 800S",
+  "category": "Audiophile Headphones",
+  "mrp": 169990.0,
+  "member_ids": [
+   "NE-00685"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 599",
+  "category": "Audiophile Headphones",
+  "mrp": 20990.0,
+  "member_ids": [
+   "NE-00690"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 569",
+  "category": "Audiophile Headphones",
+  "mrp": 13990.0,
+  "member_ids": [
+   "NE-00692"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "HD 505",
+  "category": "Audiophile Headphones",
+  "mrp": 29990.0,
+  "member_ids": [
+   "NE-00693"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "IE 900",
+  "category": "Audiophile In-ear",
+  "mrp": 144990.0,
+  "member_ids": [
+   "NE-00694"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "IE 600",
+  "category": "Audiophile In-ear",
+  "mrp": 66990.0,
+  "member_ids": [
+   "NE-00695"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "IE 300",
+  "category": "Audiophile In-ear",
+  "mrp": 32990.0,
+  "member_ids": [
+   "NE-00696"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "IE 200",
+  "category": "Audiophile In-ear",
+  "mrp": 14990.0,
+  "member_ids": [
+   "NE-00697"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "SoundProtex Plus",
+  "category": "Hearing Care",
+  "mrp": 5990.0,
+  "member_ids": [
+   "NE-00701"
+  ]
+ },
+ {
+  "brand": "Sennheiser",
+  "product_name": "RS 275 TV Headphones",
+  "category": "TV Hearing Headphones",
+  "mrp": 59461.58,
+  "member_ids": [
+   "NE-00703"
+  ]
+ },
+ {
+  "brand": "Qubo",
+  "product_name": "InstaView Edge HD Wired Video Door Phone",
+  "category": "Video Door Phone",
+  "mrp": 15990.0,
+  "member_ids": [
+   "NE-00757"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "BLUE FLORETS",
+  "category": "Dinnerware",
+  "mrp": 3295.0,
+  "member_ids": [
+   "NE-00763"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "YELLOW DAISY",
+  "category": "Dinnerware",
+  "mrp": 6495.0,
+  "member_ids": [
+   "NE-00794"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "ASTER PINK",
+  "category": "Dinnerware",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-00796"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "SWIRLS GREEN",
+  "category": "Dinnerware",
+  "mrp": 2295.0,
+  "member_ids": [
+   "NE-00806"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "GRACE RED",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00808"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MIDNIGHT RED",
+  "category": "Dinnerware",
+  "mrp": 825.0,
+  "member_ids": [
+   "NE-00841"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "MOROCCAN PINK",
+  "category": "Dinnerware",
+  "mrp": 4895.0,
+  "member_ids": [
+   "NE-00851"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PERSIAN SILVER",
+  "category": "Dinnerware",
+  "mrp": 4995.0,
+  "member_ids": [
+   "NE-00853"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "ROMAN BLUE",
+  "category": "Dinnerware",
+  "mrp": null,
+  "member_ids": [
+   "NE-00854"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "AMAYA BEIGE",
+  "category": "Dinnerware",
+  "mrp": 18900.0,
+  "member_ids": [
+   "NE-00857"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "REGENT RED",
+  "category": "Dinnerware",
+  "mrp": 4895.0,
+  "member_ids": [
+   "NE-00859"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "ARIA WHITE",
+  "category": "Dinnerware",
+  "mrp": 795.0,
+  "member_ids": [
+   "NE-00867"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "STELLA WHITE",
+  "category": "Dinnerware",
+  "mrp": 795.0,
+  "member_ids": [
+   "NE-00868"
+  ]
+ },
+ {
+  "brand": "La Opala",
+  "product_name": "PEARL WHITE",
+  "category": "Dinnerware",
+  "mrp": 2995.0,
+  "member_ids": [
+   "NE-00869"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Idea Tab Pro (TB373FU)",
+  "category": "Tablets",
+  "mrp": 34000.0,
+  "member_ids": [
+   "NE-00870"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab K9 (TB305XU)",
+  "category": "Tablets",
+  "mrp": 20000.0,
+  "member_ids": [
+   "NE-00871"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab K9 (TB305FU)",
+  "category": "Tablets",
+  "mrp": 10183.0,
+  "member_ids": [
+   "NE-00872"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab K11 Gen 2 (TB336FU)",
+  "category": "Tablets",
+  "mrp": 38001.0,
+  "member_ids": [
+   "NE-00873"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab K11 Gen 2 (TB336ZU)",
+  "category": "Tablets",
+  "mrp": 38001.0,
+  "member_ids": [
+   "NE-00874"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab K12",
+  "category": "Tablets",
+  "mrp": 56000.0,
+  "member_ids": [
+   "NE-00875"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Yoga Tab Plus (TB520FU)",
+  "category": "Tablets",
+  "mrp": 79001.0,
+  "member_ids": [
+   "NE-00876"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Tab (TB311XU)",
+  "category": "Tablets",
+  "mrp": 21000.0,
+  "member_ids": [
+   "NE-00877"
+  ]
+ },
+ {
+  "brand": "Lenovo",
+  "product_name": "Lenovo Idea Tab Plus (TB361ZU)",
+  "category": "Tablets",
+  "mrp": null,
+  "member_ids": [
+   "NE-00878"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Diwali Light Turquoise Bowl 21 CM",
+  "category": "Dinnerware",
+  "mrp": 875.0,
+  "member_ids": [
+   "NE-00894"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Dulashi Simply Dinner Plate 21 CM",
+  "category": "Dinnerware",
+  "mrp": 1675.0,
+  "member_ids": [
+   "NE-00913"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Aliya Blue Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 3995.0,
+  "member_ids": [
+   "NE-00931"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Ingmar Blue Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 7495.0,
+  "member_ids": [
+   "NE-00946"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Ingmar White Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 7495.0,
+  "member_ids": [
+   "NE-00947"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Vibesoft Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 7495.0,
+  "member_ids": [
+   "NE-00966"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Jardin Verde Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 8195.0,
+  "member_ids": [
+   "NE-00971"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Marble White Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 8195.0,
+  "member_ids": [
+   "NE-00972"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Artasym Forestsio Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 7795.0,
+  "member_ids": [
+   "NE-00975"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Inspire Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 8195.0,
+  "member_ids": [
+   "NE-00980"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Analee Green Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 8195.0,
+  "member_ids": [
+   "NE-00981"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Tarso Grey & Black Dinner Set",
+  "category": "Dinnerware",
+  "mrp": 5995.0,
+  "member_ids": [
+   "NE-00986"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Smart Cuisine Carine Oval Dish 32x20 CM",
+  "category": "Ovenware",
+  "mrp": 1795.0,
+  "member_ids": [
+   "NE-01006"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Smart Cuisine Carine Oval Dish 38x23 CM",
+  "category": "Ovenware",
+  "mrp": 1995.0,
+  "member_ids": [
+   "NE-01007"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Smart Cuisine Carine Rect Dish 30x22 CM",
+  "category": "Ovenware",
+  "mrp": 1595.0,
+  "member_ids": [
+   "NE-01012"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Smart Cuisine Diwali Round Dish 18 CM",
+  "category": "Ovenware",
+  "mrp": 955.0,
+  "member_ids": [
+   "NE-01016"
+  ]
+ },
+ {
+  "brand": "Luminarc",
+  "product_name": "Smart Cuisine Trianon Rect Dish 29x23 CM",
+  "category": "Ovenware",
+  "mrp": 1295.0,
+  "member_ids": [
+   "NE-01019"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Joy Projector",
+  "category": "Projectors",
+  "mrp": 13990.0,
+  "member_ids": [
+   "NE-01024"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Epic Projector",
+  "category": "Projectors",
+  "mrp": 12199.0,
+  "member_ids": [
+   "NE-01025"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Pixa Projector",
+  "category": "Projectors",
+  "mrp": 15699.0,
+  "member_ids": [
+   "NE-01026"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Epic 1122 Projector",
+  "category": "Projectors",
+  "mrp": 15699.0,
+  "member_ids": [
+   "NE-01027"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Pixa 1000 Projector",
+  "category": "Projectors",
+  "mrp": 21990.0,
+  "member_ids": [
+   "NE-01028"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Galaxy 100 Projector",
+  "category": "Projectors",
+  "mrp": 45999.0,
+  "member_ids": [
+   "NE-01031"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "330A Air Purifier",
+  "category": "Air Purifiers",
+  "mrp": 11990.0,
+  "member_ids": [
+   "NE-01037"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "352A Air Purifier",
+  "category": "Air Purifiers",
+  "mrp": 10990.0,
+  "member_ids": [
+   "NE-01038"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "ShineMate T9",
+  "category": "Robotic Window Cleaners",
+  "mrp": 21999.0,
+  "member_ids": [
+   "NE-01039"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "ShineMate T10",
+  "category": "Robotic Window Cleaners",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-01040"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "ShineMate W6",
+  "category": "Robotic Window Cleaners",
+  "mrp": 28999.0,
+  "member_ids": [
+   "NE-01041"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Mite Vanisher",
+  "category": "Vacuum Cleaners",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-01042"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Copilot 1K Dashcam",
+  "category": "Dashcams",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-01060"
+  ]
+ },
+ {
+  "brand": "Otek",
+  "product_name": "Copilot 2K Dashcam",
+  "category": "Dashcams",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-01061"
+  ]
+ },
+ {
+  "brand": "Symphony",
+  "product_name": "SWISH Hairfall Control Instant Geyser, 5.9L",
+  "category": "Water Heater",
+  "mrp": 9991.0,
+  "member_ids": [
+   "NE-01067"
+  ]
+ },
+ {
+  "brand": "Symphony",
+  "product_name": "Sypher 25 Ltr Geyser",
+  "category": "Water Heater",
+  "mrp": 14991.0,
+  "member_ids": [
+   "NE-01068"
+  ]
+ },
+ {
+  "brand": "Symphony",
+  "product_name": "Symphony Spa Hair Fall Control Geyser",
+  "category": "Water Heater",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-01070"
+  ]
+ },
+ {
+  "brand": "Symphony",
+  "product_name": "Symphony Soul Hair Fall Control Geyser",
+  "category": "Water Heater",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-01071"
+  ]
+ },
+ {
+  "brand": "Symphony",
+  "product_name": "Symphony Sauna Hair Fall Control Geyser",
+  "category": "Water Heater",
+  "mrp": 22490.0,
+  "member_ids": [
+   "NE-01072"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Smart 4.0",
+  "category": "Smartwatch",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-01073"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Crest 2.0",
+  "category": "Smartwatch",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-01074"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Evoke 2.0",
+  "category": "Smartwatch",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-01075"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Evoke S",
+  "category": "Smartwatch",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-01076"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Celestor",
+  "category": "Smartwatch",
+  "mrp": 9995.0,
+  "member_ids": [
+   "NE-01077"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Celestor 2.0",
+  "category": "Smartwatch",
+  "mrp": 11499.0,
+  "member_ids": [
+   "NE-01078"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Celestor Verv",
+  "category": "Smartwatch",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-01079"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Aira",
+  "category": "Smartwatch",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-01080"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Orbis",
+  "category": "Smartwatch",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-01081"
+  ]
+ },
+ {
+  "brand": "Titan",
+  "product_name": "Titan Valerie Aura",
+  "category": "Smartwatch",
+  "mrp": 9499.0,
+  "member_ids": [
+   "NE-01082"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Castle Double Bedsheet Set (DBS)",
+  "category": "Bedsheet Range",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-01083"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Ultima Double Bedsheet Set (DBS)",
+  "category": "Bedsheet Range",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-01084"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Neo-Soft Double Bedsheet",
+  "category": "Bedsheet Range",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-01085"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Neo-Fit Fitted Bedsheet",
+  "category": "Bedsheet Range",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-01086"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Crowning Touch Bedsheet",
+  "category": "Bedsheet Range",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-01087"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Symphony Bedsheet",
+  "category": "Bedsheet Range",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-01088"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Expression Double Bedsheet",
+  "category": "Bedsheet Range",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-01089"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Comfia King Size Double Bedsheet Set",
+  "category": "Bedsheet Range",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-01090"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Rangana Gold Double Bedsheet",
+  "category": "Bedsheet Range - Rangana Gold",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-01092"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Ritu Kumar Home Double Bedsheet (DBS)",
+  "category": "Bedsheet Range - Ritu Kumar Home",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-01093"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Embrace Double Bed Reversible Comforter",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-01095"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Lux Touch Double Bed Dohar",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-01096"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Ultima Charm Quilt",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-01097"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Rangana Bed in a Bag",
+  "category": "Comforter, Dohar, Quilt & BIAB Range - Rangana Gold",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-01103"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Ritu Kumar Dohar & Bedsheet Set",
+  "category": "Comforter, Dohar, Quilt & BIAB Range - Ritu Kumar Home",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-01104"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Mink Moment Double Bed Blanket - 1.5 KG",
+  "category": "Blanket Range",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-01105"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Soft Scape Double Bed Blanket - 2.5 KG",
+  "category": "Blanket Range",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-01106"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Rangana Gold Double Blanket - 3 KG",
+  "category": "Blanket Range - Rangana Gold",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-01107"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Serenity Double Bed Blanket - 4 KG",
+  "category": "Blanket Range",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-01108"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Wimbledon Sports Towel",
+  "category": "Bath Range",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-01109"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Elite Splendor Face Towel Set of 3",
+  "category": "Bath Range",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-01111"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Elite Splendor Hand Towel Set of 2",
+  "category": "Bath Range",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-01112"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Amaze Towel Set of 2 Hand Towels",
+  "category": "Bath Range",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-01113"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Cotton Bamboo Hand Towel Set of 2",
+  "category": "Bath Range",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-01114"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Hygrocotton Hand Towel Set of 2",
+  "category": "Bath Range",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-01115"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Cloud Twist Set of 2 Hand Towels",
+  "category": "Bath Range",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-01116"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Spaces Elara Set of 2 Hand Towel",
+  "category": "Bath Range",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-01117"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Elite Splendor 3 Pc Towel Set",
+  "category": "Bath Range",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-01119"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Cotton Bamboo Bath Towel",
+  "category": "Bath Range",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-01121"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Hygrocotton Bath Towel",
+  "category": "Bath Range - HygroCotton Technology",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-01122"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Cotton Bamboo 3PC Towel Set",
+  "category": "Bath Range",
+  "mrp": 2399.0,
+  "member_ids": [
+   "NE-01124"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Bath Carnival 4PC Towel Set",
+  "category": "Bath Range",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-01125"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Bath Carnival 6 PC Towel Set",
+  "category": "Bath Range",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-01126"
+  ]
+ },
+ {
+  "brand": "Welspun",
+  "product_name": "Chair Towel",
+  "category": "Bath Range",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-01127"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TUFF BOY 2000",
+  "category": "Kitchen & Dining",
+  "mrp": 530.0,
+  "member_ids": [
+   "NE-01131"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO ASPIRE 600",
+  "category": "Kitchen & Dining",
+  "mrp": 237.44,
+  "member_ids": [
+   "NE-01132"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO ASPIRE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 261.82,
+  "member_ids": [
+   "NE-01133"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO CROM-X 600",
+  "category": "Kitchen & Dining",
+  "mrp": 286.2,
+  "member_ids": [
+   "NE-01136"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO CROM-X 900",
+  "category": "Kitchen & Dining",
+  "mrp": 323.3,
+  "member_ids": [
+   "NE-01137"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO CLASSIC 600",
+  "category": "Kitchen & Dining",
+  "mrp": 187.62,
+  "member_ids": [
+   "NE-01140"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO CLASSIC 900",
+  "category": "Kitchen & Dining",
+  "mrp": 216.24,
+  "member_ids": [
+   "NE-01141"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO CLASSIC 1100",
+  "category": "Kitchen & Dining",
+  "mrp": 237.44,
+  "member_ids": [
+   "NE-01142"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO COOL X 600",
+  "category": "Kitchen & Dining",
+  "mrp": 198.22,
+  "member_ids": [
+   "NE-01143"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO COOL X 900",
+  "category": "Kitchen & Dining",
+  "mrp": 231.08,
+  "member_ids": [
+   "NE-01144"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO EXPRESS 2200",
+  "category": "Kitchen & Dining",
+  "mrp": 692.18,
+  "member_ids": [
+   "NE-01145"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO FASHION 600",
+  "category": "Kitchen & Dining",
+  "mrp": 198.22,
+  "member_ids": [
+   "NE-01150"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO FASHION 900",
+  "category": "Kitchen & Dining",
+  "mrp": 231.08,
+  "member_ids": [
+   "NE-01151"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO FIRST 400",
+  "category": "Kitchen & Dining",
+  "mrp": 178.08,
+  "member_ids": [
+   "NE-01152"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO FUNTRON NX 600",
+  "category": "Kitchen & Dining",
+  "mrp": 193.98,
+  "member_ids": [
+   "NE-01155"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO FUNTRON NX 900",
+  "category": "Kitchen & Dining",
+  "mrp": 223.66,
+  "member_ids": [
+   "NE-01156"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO GLISS 600",
+  "category": "Kitchen & Dining",
+  "mrp": 265.0,
+  "member_ids": [
+   "NE-01159"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO GLISS 900",
+  "category": "Kitchen & Dining",
+  "mrp": 297.86,
+  "member_ids": [
+   "NE-01160"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO ICETRON 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 198.22,
+  "member_ids": [
+   "NE-01161"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO ICETRON 900 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 231.08,
+  "member_ids": [
+   "NE-01162"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO MY SPORT 600",
+  "category": "Kitchen & Dining",
+  "mrp": 223.66,
+  "member_ids": [
+   "NE-01173"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO MY SPORT 900",
+  "category": "Kitchen & Dining",
+  "mrp": 256.52,
+  "member_ids": [
+   "NE-01174"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO POP 600",
+  "category": "Kitchen & Dining",
+  "mrp": 237.44,
+  "member_ids": [
+   "NE-01175"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO POP 900",
+  "category": "Kitchen & Dining",
+  "mrp": 261.82,
+  "member_ids": [
+   "NE-01176"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STRIKER 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 236.38,
+  "member_ids": [
+   "NE-01181"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STRIKER 900 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 260.76,
+  "member_ids": [
+   "NE-01182"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STREAK 600",
+  "category": "Kitchen & Dining",
+  "mrp": 198.22,
+  "member_ids": [
+   "NE-01183"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STREAK 900",
+  "category": "Kitchen & Dining",
+  "mrp": 231.08,
+  "member_ids": [
+   "NE-01184"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO SPORTS 600",
+  "category": "Kitchen & Dining",
+  "mrp": 223.66,
+  "member_ids": [
+   "NE-01185"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO SPORTS 900",
+  "category": "Kitchen & Dining",
+  "mrp": 256.52,
+  "member_ids": [
+   "NE-01186"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO WAVE 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 237.44,
+  "member_ids": [
+   "NE-01189"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO WAVE 900 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 261.82,
+  "member_ids": [
+   "NE-01190"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOUNTAIN 5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 888.1,
+  "member_ids": [
+   "NE-01197"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOUNTAIN 7.5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1170.58,
+  "member_ids": [
+   "NE-01198"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOUNTAIN 10 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1372.81,
+  "member_ids": [
+   "NE-01199"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOUNTAIN 15 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1891.76,
+  "member_ids": [
+   "NE-01200"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOUNTAIN 20 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2193.5,
+  "member_ids": [
+   "NE-01201"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "IGLOO 3500",
+  "category": "Kitchen & Dining",
+  "mrp": 656.98,
+  "member_ids": [
+   "NE-01202"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "IGLOO 6000",
+  "category": "Kitchen & Dining",
+  "mrp": 874.19,
+  "member_ids": [
+   "NE-01203"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "IGLOO 12000",
+  "category": "Kitchen & Dining",
+  "mrp": 1478.74,
+  "member_ids": [
+   "NE-01204"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "IGLOO 20000",
+  "category": "Kitchen & Dining",
+  "mrp": 3251.73,
+  "member_ids": [
+   "NE-01205"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "JUGSY 6000",
+  "category": "Kitchen & Dining",
+  "mrp": 967.28,
+  "member_ids": [
+   "NE-01206"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "JUGSY 12000",
+  "category": "Kitchen & Dining",
+  "mrp": 1504.42,
+  "member_ids": [
+   "NE-01207"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "KOOL STAR 5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 850.0,
+  "member_ids": [
+   "NE-01208"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "KOOL STAR 10 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1388.86,
+  "member_ids": [
+   "NE-01209"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "KOOL STAR 15 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2020.16,
+  "member_ids": [
+   "NE-01210"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "KOOL STAR 20 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2441.74,
+  "member_ids": [
+   "NE-01211"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR 3500",
+  "category": "Kitchen & Dining",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-01212"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR 5000",
+  "category": "Kitchen & Dining",
+  "mrp": 715.0,
+  "member_ids": [
+   "NE-01213"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR 12000",
+  "category": "Kitchen & Dining",
+  "mrp": 1449.85,
+  "member_ids": [
+   "NE-01214"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR 18000",
+  "category": "Kitchen & Dining",
+  "mrp": 2046.91,
+  "member_ids": [
+   "NE-01215"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR 22000",
+  "category": "Kitchen & Dining",
+  "mrp": 2434.25,
+  "member_ids": [
+   "NE-01216"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO COOL 6000",
+  "category": "Kitchen & Dining",
+  "mrp": 873.12,
+  "member_ids": [
+   "NE-01217"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO COOL 10000",
+  "category": "Kitchen & Dining",
+  "mrp": 1294.7,
+  "member_ids": [
+   "NE-01218"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRAVEL STAR 5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 715.0,
+  "member_ids": [
+   "NE-01219"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRAVEL STAR 7.5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1057.16,
+  "member_ids": [
+   "NE-01220"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRAVEL STAR 10 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1250.0,
+  "member_ids": [
+   "NE-01221"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRAVEL STAR 16 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 1683.11,
+  "member_ids": [
+   "NE-01222"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRAVEL STAR 20 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 2054.4,
+  "member_ids": [
+   "NE-01223"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW 6000",
+  "category": "Kitchen & Dining",
+  "mrp": 841.02,
+  "member_ids": [
+   "NE-01224"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW 12000",
+  "category": "Kitchen & Dining",
+  "mrp": 1384.58,
+  "member_ids": [
+   "NE-01225"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "EXOTIC 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 427.18,
+  "member_ids": [
+   "NE-01255"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "EXOTIC 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 623.28,
+  "member_ids": [
+   "NE-01256"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "EXOTIC 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 985.8,
+  "member_ids": [
+   "NE-01257"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "Exotic 3 PCS SET (500+1000+1500 Ml)",
+  "category": "Kitchen & Dining",
+  "mrp": 1355.74,
+  "member_ids": [
+   "NE-01258"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "Exotic 2 PCS SET (1000+1000 Ml)",
+  "category": "Kitchen & Dining",
+  "mrp": 879.8,
+  "member_ids": [
+   "NE-01259"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FABINA 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 549.08,
+  "member_ids": [
+   "NE-01260"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOLD CRUST 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 584.06,
+  "member_ids": [
+   "NE-01261"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOLD CRUST 3 PCS SET (500+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 1262.46,
+  "member_ids": [
+   "NE-01262"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOLD CRUST 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 926.44,
+  "member_ids": [
+   "NE-01263"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOURMET 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 413.4,
+  "member_ids": [
+   "NE-01264"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOURMET 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 575.58,
+  "member_ids": [
+   "NE-01265"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOURMET 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 910.54,
+  "member_ids": [
+   "NE-01266"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOURMET 3 PCS SET (500+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 1231.72,
+  "member_ids": [
+   "NE-01267"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 285.0,
+  "member_ids": [
+   "NE-01268"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 430.0,
+  "member_ids": [
+   "NE-01269"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 555.0,
+  "member_ids": [
+   "NE-01270"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 2000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 760.0,
+  "member_ids": [
+   "NE-01271"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 2500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 985.0,
+  "member_ids": [
+   "NE-01272"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT FLAVOUR 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1285.0,
+  "member_ids": [
+   "NE-01273"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "JEWEL NX 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 827.86,
+  "member_ids": [
+   "NE-01276"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "JEWEL NX 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 1204.16,
+  "member_ids": [
+   "NE-01277"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "JEWEL NX 3 PCS SET (500+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 2020.36,
+  "member_ids": [
+   "NE-01282"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LEISURE 500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 480.18,
+  "member_ids": [
+   "NE-01283"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LEISURE 800 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 572.4,
+  "member_ids": [
+   "NE-01284"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MIDAS 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 845.88,
+  "member_ids": [
+   "NE-01285"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MIDAS 3 PCS SET (500+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 1691.76,
+  "member_ids": [
+   "NE-01286"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 904.18,
+  "member_ids": [
+   "NE-01288"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 2000",
+  "category": "Kitchen & Dining",
+  "mrp": 1055.76,
+  "member_ids": [
+   "NE-01289"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 1173.42,
+  "member_ids": [
+   "NE-01290"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 2 PCS SET (1000+1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1455.38,
+  "member_ids": [
+   "NE-01291"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 3 PCS SET (1000+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 2382.88,
+  "member_ids": [
+   "NE-01292"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 3 PCS SET (1500+2000+2500) - BIG",
+  "category": "Kitchen & Dining",
+  "mrp": 3112.16,
+  "member_ids": [
+   "NE-01293"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 485.0,
+  "member_ids": [
+   "NE-01294"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 580.0,
+  "member_ids": [
+   "NE-01295"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 2500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 860.0,
+  "member_ids": [
+   "NE-01296"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 3500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 1340.0,
+  "member_ids": [
+   "NE-01297"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 5000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 1775.0,
+  "member_ids": [
+   "NE-01298"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PETRA 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1300.0,
+  "member_ids": [
+   "NE-01299"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "REGALIA 2000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 804.54,
+  "member_ids": [
+   "NE-01300"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RIPPLE 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1194.62,
+  "member_ids": [
+   "NE-01301"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ROTI PLUS 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 643.42,
+  "member_ids": [
+   "NE-01302"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ROTI PLUS 2000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 858.6,
+  "member_ids": [
+   "NE-01303"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ROTI PLUS 2500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 980.5,
+  "member_ids": [
+   "NE-01304"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SATIN 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 914.78,
+  "member_ids": [
+   "NE-01305"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SATIN 2000",
+  "category": "Kitchen & Dining",
+  "mrp": 974.14,
+  "member_ids": [
+   "NE-01306"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SATIN 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 1055.76,
+  "member_ids": [
+   "NE-01307"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SATIN 2 PCS SET (1000+1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1478.7,
+  "member_ids": [
+   "NE-01308"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SATIN 3 PCS SET (500 + 1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 2347.9,
+  "member_ids": [
+   "NE-01309"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SIGNATURE PRIDE MEDIUM 2.4",
+  "category": "Kitchen & Dining",
+  "mrp": 1972.66,
+  "member_ids": [
+   "NE-01311"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SIGNATURE PRIDE LARGE 3.2",
+  "category": "Kitchen & Dining",
+  "mrp": 2488.88,
+  "member_ids": [
+   "NE-01312"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SIGNATURE PRIDE LARGO 3.2",
+  "category": "Kitchen & Dining",
+  "mrp": 2488.88,
+  "member_ids": [
+   "NE-01313"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SIGNATURE MILANO ROUND",
+  "category": "Kitchen & Dining",
+  "mrp": 1408.74,
+  "member_ids": [
+   "NE-01314"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SONET 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1780.8,
+  "member_ids": [
+   "NE-01316"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SONET 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 702.78,
+  "member_ids": [
+   "NE-01317"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SOLARIS GIFT SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1267.76,
+  "member_ids": [
+   "NE-01320"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "STYLUS 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 675.22,
+  "member_ids": [
+   "NE-01321"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "STYLUS 3PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1539.12,
+  "member_ids": [
+   "NE-01322"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 389.02,
+  "member_ids": [
+   "NE-01324"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 511.98,
+  "member_ids": [
+   "NE-01325"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 2500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 785.46,
+  "member_ids": [
+   "NE-01326"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 3500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 1005.94,
+  "member_ids": [
+   "NE-01327"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 3 PCS SET (500+1000+1500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1186.14,
+  "member_ids": [
+   "NE-01328"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VISTA 3 PCS SET BIG (1000+1500+2500 ML)",
+  "category": "Kitchen & Dining",
+  "mrp": 1686.46,
+  "member_ids": [
+   "NE-01329"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 1500 DLX",
+  "category": "Kitchen & Dining",
+  "mrp": 974.14,
+  "member_ids": [
+   "NE-01330"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 2000 DLX",
+  "category": "Kitchen & Dining",
+  "mrp": 1079.08,
+  "member_ids": [
+   "NE-01331"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 2500 DLX",
+  "category": "Kitchen & Dining",
+  "mrp": 1173.42,
+  "member_ids": [
+   "NE-01332"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 1500",
+  "category": "Kitchen & Dining",
+  "mrp": 879.8,
+  "member_ids": [
+   "NE-01333"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 2000",
+  "category": "Kitchen & Dining",
+  "mrp": 985.8,
+  "member_ids": [
+   "NE-01334"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 2500",
+  "category": "Kitchen & Dining",
+  "mrp": 1087.56,
+  "member_ids": [
+   "NE-01335"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO 3 PCS SET (1500+1500+2000)",
+  "category": "Kitchen & Dining",
+  "mrp": 2700.88,
+  "member_ids": [
+   "NE-01336"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW 3 PCS SET (500+1000+1500)",
+  "category": "Kitchen & Dining",
+  "mrp": 1144.8,
+  "member_ids": [
+   "NE-01337"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DELTA 2 PCS GIFT SET (STELLAR 3 + PURO DELTA 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 1026.9,
+  "member_ids": [
+   "NE-01339"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DUPLEX 2 PCS GIFT SET (DUPLEX + PURO FIRST 400)",
+  "category": "Kitchen & Dining",
+  "mrp": 606.9,
+  "member_ids": [
+   "NE-01340"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOLD LINE 2 PCS GIFT SET (STYLUS 1500 + GOLD LINE 1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1276.24,
+  "member_ids": [
+   "NE-01341"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GEMINI GIFT SET",
+  "category": "Kitchen & Dining",
+  "mrp": 813.2,
+  "member_ids": [
+   "NE-01342"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FINESTA 3 GIFT 2 PCS SET (MY DECKER 3 + PURO TUFF JUG 1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1294.65,
+  "member_ids": [
+   "NE-01343"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW BREAKFAST 2 PCS SET ( WOW TUFF JUG 750 + WOW 1000 CASSROLE)",
+  "category": "Kitchen & Dining",
+  "mrp": 854.36,
+  "member_ids": [
+   "NE-01344"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HI TEA 2 PCS GIFT SET (NOVA 1000 ML+ PURO TUFF JUG 1 LTR)",
+  "category": "Kitchen & Dining",
+  "mrp": 957.18,
+  "member_ids": [
+   "NE-01345"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO SIP 3 PCS COFFEE SET\n(PURO SIP TUFF JUG 450 ML + PURO TEA CUP*2)",
+  "category": "Kitchen & Dining",
+  "mrp": 698.34,
+  "member_ids": [
+   "NE-01347"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TIFFANY 2 PCS SET (MERIT XL 2 + PURO SPORTS 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 688.8,
+  "member_ids": [
+   "NE-01348"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRIPLEX 2 PCS GIFT SET (TRIPLEX + PURO CHILL X 600 PET)",
+  "category": "Kitchen & Dining",
+  "mrp": 889.35,
+  "member_ids": [
+   "NE-01349"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TAURUS GIFT SET",
+  "category": "Kitchen & Dining",
+  "mrp": 638.79,
+  "member_ids": [
+   "NE-01350"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW HAPPY MEAL 2 PCS SET (WOW SNACK PACK + WOW FIRST 400 BOTTLE)",
+  "category": "Kitchen & Dining",
+  "mrp": 479.85,
+  "member_ids": [
+   "NE-01351"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MARVELLA 4 PCS SET",
+  "category": "Kitchen & Dining",
+  "mrp": 1670.56,
+  "member_ids": [
+   "NE-01355"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MID DAY 2 PCS GIFT SET (MF TRENT LUNCH BOX + PURO GLISS 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 808.92,
+  "member_ids": [
+   "NE-01356"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO PREMIER 2 PCS GIFT SET (ORNETTO 1000 + ORNETTO TUFF JUG 1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1521.1,
+  "member_ids": [
+   "NE-01357"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "POLAR GIFT SET (POLAR 5000 + WOW TUFF JUG 1000)",
+  "category": "Kitchen & Dining",
+  "mrp": 1181.28,
+  "member_ids": [
+   "NE-01358"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RENOVA 2 PCS GIFT SET (IGLOO 3500 + HEXA TUFF JUG 750)",
+  "category": "Kitchen & Dining",
+  "mrp": 1045.39,
+  "member_ids": [
+   "NE-01359"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SOUP & SNACK 2 PCS GIFT SET (SOUPMATE 500 + WOW FOODIE BIG)",
+  "category": "Kitchen & Dining",
+  "mrp": 1006.31,
+  "member_ids": [
+   "NE-01360"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SOUPMATE 3 PCS GIFT SET (SOUPMATE 500 + WOW TEA SET 2 PCS SET)",
+  "category": "Kitchen & Dining",
+  "mrp": 894.04,
+  "member_ids": [
+   "NE-01361"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TURBO 3 PCS SET  (Turbo 600+2 Expresso Cup)",
+  "category": "Kitchen & Dining",
+  "mrp": 951.72,
+  "member_ids": [
+   "NE-01363"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ZEST GIFT SET (HAPPY EATER + PURO COOL X 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 522.16,
+  "member_ids": [
+   "NE-01365"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ZION GIFT SET (BITE BUDDY + PURO COOL X 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 727.6,
+  "member_ids": [
+   "NE-01366"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOOD LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1255.8,
+  "member_ids": [
+   "NE-01379"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LUNCH BOX DUPLEX",
+  "category": "Kitchen & Dining",
+  "mrp": 428.4,
+  "member_ids": [
+   "NE-01380"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DOPPLER",
+  "category": "Kitchen & Dining",
+  "mrp": 417.9,
+  "member_ids": [
+   "NE-01381"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DECKER 3 MEDIUM 2.25 LTR (750 ML*3)",
+  "category": "Kitchen & Dining",
+  "mrp": 1086.75,
+  "member_ids": [
+   "NE-01383"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DECKER 4 MEDIUM 3.0 LTR (750 ML*4)",
+  "category": "Kitchen & Dining",
+  "mrp": 1426.95,
+  "member_ids": [
+   "NE-01386"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DESIGNER 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1171.8,
+  "member_ids": [
+   "NE-01387"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DUO MEDIUM LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1026.9,
+  "member_ids": [
+   "NE-01388"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DUO BIG LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1141.35,
+  "member_ids": [
+   "NE-01389"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FOOD MATE PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 350.7,
+  "member_ids": [
+   "NE-01392"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HAPPY EATER",
+  "category": "Kitchen & Dining",
+  "mrp": 380.0,
+  "member_ids": [
+   "NE-01394"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT EXPRESS 2",
+  "category": "Kitchen & Dining",
+  "mrp": 620.55,
+  "member_ids": [
+   "NE-01397"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT EXPRESS 3",
+  "category": "Kitchen & Dining",
+  "mrp": 782.25,
+  "member_ids": [
+   "NE-01398"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT EXPRESS 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1009.05,
+  "member_ids": [
+   "NE-01399"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT TRON TIFFIN 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1139.25,
+  "member_ids": [
+   "NE-01400"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT TRON TIFFIN 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1419.6,
+  "member_ids": [
+   "NE-01401"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT TRON 4 PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 1777.65,
+  "member_ids": [
+   "NE-01402"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT TRON 5 PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 2151.45,
+  "member_ids": [
+   "NE-01403"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LINEX 2",
+  "category": "Kitchen & Dining",
+  "mrp": 544.95,
+  "member_ids": [
+   "NE-01404"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LINEX 3",
+  "category": "Kitchen & Dining",
+  "mrp": 754.95,
+  "member_ids": [
+   "NE-01405"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LINEX 4",
+  "category": "Kitchen & Dining",
+  "mrp": 982.8,
+  "member_ids": [
+   "NE-01406"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LUNCH MATE PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 441.0,
+  "member_ids": [
+   "NE-01407"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LUNCH EXPRESS 2 PCS GIFT SET (HOT EXPRESS 3 + PURO SPORTS 600)",
+  "category": "Kitchen & Dining",
+  "mrp": 971.25,
+  "member_ids": [
+   "NE-01408"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MARK 4 DELUXE",
+  "category": "Kitchen & Dining",
+  "mrp": 1140.0,
+  "member_ids": [
+   "NE-01413"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MARK 2",
+  "category": "Kitchen & Dining",
+  "mrp": 710.0,
+  "member_ids": [
+   "NE-01414"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MARK 3",
+  "category": "Kitchen & Dining",
+  "mrp": 895.0,
+  "member_ids": [
+   "NE-01415"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MARK 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1140.0,
+  "member_ids": [
+   "NE-01416"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL KIT 2",
+  "category": "Kitchen & Dining",
+  "mrp": 674.1,
+  "member_ids": [
+   "NE-01417"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL KIT 3",
+  "category": "Kitchen & Dining",
+  "mrp": 862.05,
+  "member_ids": [
+   "NE-01418"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL KIT 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1116.15,
+  "member_ids": [
+   "NE-01419"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL STAR 4",
+  "category": "Kitchen & Dining",
+  "mrp": 2296.35,
+  "member_ids": [
+   "NE-01420"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL STAR 5",
+  "category": "Kitchen & Dining",
+  "mrp": 2793.0,
+  "member_ids": [
+   "NE-01421"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEAL STAR JUMBO",
+  "category": "Kitchen & Dining",
+  "mrp": 4159.05,
+  "member_ids": [
+   "NE-01422"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MEGA HOT 5",
+  "category": "Kitchen & Dining",
+  "mrp": 4162.2,
+  "member_ids": [
+   "NE-01423"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MERIT 3",
+  "category": "Kitchen & Dining",
+  "mrp": 593.25,
+  "member_ids": [
+   "NE-01425"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MERIT 2",
+  "category": "Kitchen & Dining",
+  "mrp": 417.9,
+  "member_ids": [
+   "NE-01426"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MERIT XL 2",
+  "category": "Kitchen & Dining",
+  "mrp": 457.8,
+  "member_ids": [
+   "NE-01427"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MERIT XL 3",
+  "category": "Kitchen & Dining",
+  "mrp": 642.6,
+  "member_ids": [
+   "NE-01428"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MY DECKER 2",
+  "category": "Kitchen & Dining",
+  "mrp": 544.95,
+  "member_ids": [
+   "NE-01429"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MY DECKER 3",
+  "category": "Kitchen & Dining",
+  "mrp": 754.95,
+  "member_ids": [
+   "NE-01430"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MY DECKER 4",
+  "category": "Kitchen & Dining",
+  "mrp": 982.8,
+  "member_ids": [
+   "NE-01431"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF ALFA COMBO",
+  "category": "Kitchen & Dining",
+  "mrp": 1525.82,
+  "member_ids": [
+   "NE-01432"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF CAMOTREAT LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1310.75,
+  "member_ids": [
+   "NE-01434"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF META LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1356.76,
+  "member_ids": [
+   "NE-01436"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF MICRO MEAL LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 677.31,
+  "member_ids": [
+   "NE-01437"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF MICRO DECK LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1017.57,
+  "member_ids": [
+   "NE-01438"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF MICRO DECK COMBO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1210.17,
+  "member_ids": [
+   "NE-01439"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF EXPRESS MICROFRESH LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1017.57,
+  "member_ids": [
+   "NE-01440"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF EXPRESS MICROFRESH COMBO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1209.1,
+  "member_ids": [
+   "NE-01441"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF SPARK LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1300.05,
+  "member_ids": [
+   "NE-01442"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO 3 LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 920.0,
+  "member_ids": [
+   "NE-01443"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PIONEER 2",
+  "category": "Kitchen & Dining",
+  "mrp": 1598.1,
+  "member_ids": [
+   "NE-01444"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PREETY POLY SS LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 875.0,
+  "member_ids": [
+   "NE-01445"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "QUBE BIG PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 352.8,
+  "member_ids": [
+   "NE-01446"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "QUBE BIG DELUXE",
+  "category": "Kitchen & Dining",
+  "mrp": 492.45,
+  "member_ids": [
+   "NE-01447"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "QUBE SQUARE PLASTIC",
+  "category": "Kitchen & Dining",
+  "mrp": 298.2,
+  "member_ids": [
+   "NE-01448"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RANGER 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1765.05,
+  "member_ids": [
+   "NE-01450"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RANGER 4",
+  "category": "Kitchen & Dining",
+  "mrp": 2234.4,
+  "member_ids": [
+   "NE-01451"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RANGER 5",
+  "category": "Kitchen & Dining",
+  "mrp": 2736.3,
+  "member_ids": [
+   "NE-01452"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RANGER 4 DELUXE",
+  "category": "Kitchen & Dining",
+  "mrp": 2234.4,
+  "member_ids": [
+   "NE-01454"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RANGER 5 DELUXE",
+  "category": "Kitchen & Dining",
+  "mrp": 2736.3,
+  "member_ids": [
+   "NE-01455"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "STELLAR 2",
+  "category": "Kitchen & Dining",
+  "mrp": 662.55,
+  "member_ids": [
+   "NE-01456"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "STELLAR 3",
+  "category": "Kitchen & Dining",
+  "mrp": 833.7,
+  "member_ids": [
+   "NE-01457"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "STELLAR 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1062.6,
+  "member_ids": [
+   "NE-01458"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SPICE 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1299.9,
+  "member_ids": [
+   "NE-01459"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SPICE 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1560.3,
+  "member_ids": [
+   "NE-01460"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "LUNCH BOX TRIPLEX",
+  "category": "Kitchen & Dining",
+  "mrp": 611.1,
+  "member_ids": [
+   "NE-01462"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TRI LUNCH - New",
+  "category": "Kitchen & Dining",
+  "mrp": 1198.05,
+  "member_ids": [
+   "NE-01463"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TOP LUNCH 2",
+  "category": "Kitchen & Dining",
+  "mrp": 998.55,
+  "member_ids": [
+   "NE-01464"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TOP LUNCH 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1198.05,
+  "member_ids": [
+   "NE-01465"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ULTRON JUNIOR LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 455.7,
+  "member_ids": [
+   "NE-01470"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ULTRON SENIOR LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 547.05,
+  "member_ids": [
+   "NE-01471"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO TIFFIN 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1198.05,
+  "member_ids": [
+   "NE-01472"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "VELVETTO TIFFIN 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1495.2,
+  "member_ids": [
+   "NE-01473"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW FOODIE SMALL",
+  "category": "Kitchen & Dining",
+  "mrp": 432.6,
+  "member_ids": [
+   "NE-01474"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW FOODIE BIG",
+  "category": "Kitchen & Dining",
+  "mrp": 544.95,
+  "member_ids": [
+   "NE-01475"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW TIFFIN 2",
+  "category": "Kitchen & Dining",
+  "mrp": 630.0,
+  "member_ids": [
+   "NE-01476"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW TIFFIN 3",
+  "category": "Kitchen & Dining",
+  "mrp": 792.75,
+  "member_ids": [
+   "NE-01477"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW TIFFIN 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1018.5,
+  "member_ids": [
+   "NE-01478"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW HAPPY MEAL",
+  "category": "Kitchen & Dining",
+  "mrp": 316.05,
+  "member_ids": [
+   "NE-01479"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "YUMMY LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1083.6,
+  "member_ids": [
+   "NE-01481"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ZOOM 2 LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1026.9,
+  "member_ids": [
+   "NE-01483"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ZOOM 3 LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1198.05,
+  "member_ids": [
+   "NE-01484"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ELECTRO 3",
+  "category": "Kitchen & Dining",
+  "mrp": 2569.35,
+  "member_ids": [
+   "NE-01486"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ELECTRO 4",
+  "category": "Kitchen & Dining",
+  "mrp": 3026.1,
+  "member_ids": [
+   "NE-01487"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEWTON 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1940.4,
+  "member_ids": [
+   "NE-01488"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEWTON 4",
+  "category": "Kitchen & Dining",
+  "mrp": 2226.0,
+  "member_ids": [
+   "NE-01489"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PROTON 2",
+  "category": "Kitchen & Dining",
+  "mrp": 1654.8,
+  "member_ids": [
+   "NE-01490"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF AXIS LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-01493"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF CRESTA LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1220.87,
+  "member_ids": [
+   "NE-01494"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF CARRY FRESH LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 847.44,
+  "member_ids": [
+   "NE-01495"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FRESHCO 2 PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 1017.57,
+  "member_ids": [
+   "NE-01496"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FRESHCO 4 PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 1479.0,
+  "member_ids": [
+   "NE-01497"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF HEROEATS",
+  "category": "Kitchen & Dining",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-01498"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF HIGH MEAL COMBO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1017.57,
+  "member_ids": [
+   "NE-01499"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF PRESIDENT COMBO LUNCH",
+  "category": "Kitchen & Dining",
+  "mrp": 1639.24,
+  "member_ids": [
+   "NE-01500"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF PRESIDENT LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1300.05,
+  "member_ids": [
+   "NE-01501"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF SENATOR",
+  "category": "Kitchen & Dining",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-01503"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF XLINE",
+  "category": "Kitchen & Dining",
+  "mrp": 869.91,
+  "member_ids": [
+   "NE-01504"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SENSATION 500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 420.2,
+  "member_ids": [
+   "NE-01505"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SENSATION 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 552.2,
+  "member_ids": [
+   "NE-01506"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEXUS 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 498.3,
+  "member_ids": [
+   "NE-01507"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEXUS 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 644.6,
+  "member_ids": [
+   "NE-01508"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SENORITA 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 500.5,
+  "member_ids": [
+   "NE-01509"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SENORITA 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 668.8,
+  "member_ids": [
+   "NE-01510"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PRUDENT 500",
+  "category": "Kitchen & Dining",
+  "mrp": 457.6,
+  "member_ids": [
+   "NE-01511"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PRUDENT 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 568.7,
+  "member_ids": [
+   "NE-01512"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "RIVO 500 TUFF FLASK",
+  "category": "Kitchen & Dining",
+  "mrp": 401.7,
+  "member_ids": [
+   "NE-01513"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "GOLD LINE 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 542.81,
+  "member_ids": [
+   "NE-01514"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEPTUNE 1000 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 592.25,
+  "member_ids": [
+   "NE-01515"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "NEPTUNE 1500 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 709.67,
+  "member_ids": [
+   "NE-01516"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "ORNETTO TUFF JUG 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 760.14,
+  "member_ids": [
+   "NE-01517"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO JUG 1 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 330.63,
+  "member_ids": [
+   "NE-01518"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO HEXA TUFF JUG 750 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 425.39,
+  "member_ids": [
+   "NE-01519"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO HEXA TUFF JUG 1 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 513.97,
+  "member_ids": [
+   "NE-01520"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO TUFF JUG 750 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 425.39,
+  "member_ids": [
+   "NE-01521"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO TUFF JUG 1 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 513.97,
+  "member_ids": [
+   "NE-01522"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO TUFF JUG 1.5 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 642.72,
+  "member_ids": [
+   "NE-01523"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO TUFF JUG 2 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 705.55,
+  "member_ids": [
+   "NE-01524"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO SIP 300",
+  "category": "Kitchen & Dining",
+  "mrp": 253.38,
+  "member_ids": [
+   "NE-01525"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO SIP 450",
+  "category": "Kitchen & Dining",
+  "mrp": 300.76,
+  "member_ids": [
+   "NE-01526"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SOUPMATE",
+  "category": "Kitchen & Dining",
+  "mrp": 462.47,
+  "member_ids": [
+   "NE-01527"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "TEA EXPRESS 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 542.81,
+  "member_ids": [
+   "NE-01528"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "WOW TUFF JUG 1000",
+  "category": "Kitchen & Dining",
+  "mrp": 508.82,
+  "member_ids": [
+   "NE-01529"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PICNIC 20 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 4794.3,
+  "member_ids": [
+   "NE-01534"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PICNIC 30 LTR",
+  "category": "Kitchen & Dining",
+  "mrp": 6343.05,
+  "member_ids": [
+   "NE-01535"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "FRESHCO PLUS",
+  "category": "Kitchen & Dining",
+  "mrp": 1275.75,
+  "member_ids": [
+   "NE-01541"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT N FRESH",
+  "category": "Kitchen & Dining",
+  "mrp": 878.85,
+  "member_ids": [
+   "NE-01542"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF BLAZE",
+  "category": "Kitchen & Dining",
+  "mrp": 1045.0,
+  "member_ids": [
+   "NE-01543"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FAB LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 960.86,
+  "member_ids": [
+   "NE-01544"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FRESHPRO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 598.13,
+  "member_ids": [
+   "NE-01545"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FRESHPRO PLUS LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 847.44,
+  "member_ids": [
+   "NE-01546"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FOOD JUNCTION",
+  "category": "Kitchen & Dining",
+  "mrp": 1129.92,
+  "member_ids": [
+   "NE-01547"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF FOOD JUNCTION JUMBO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1413.47,
+  "member_ids": [
+   "NE-01548"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF HOTIVA LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1300.05,
+  "member_ids": [
+   "NE-01549"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF OPTIMA JUMBO LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 1695.95,
+  "member_ids": [
+   "NE-01550"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF SAVOY LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 620.6,
+  "member_ids": [
+   "NE-01551"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF MEAL STATION 2 LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 553.19,
+  "member_ids": [
+   "NE-01552"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MF MEAL STATION 3 LUNCH BOX",
+  "category": "Kitchen & Dining",
+  "mrp": 677.31,
+  "member_ids": [
+   "NE-01553"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MATIZ 2 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 667.68,
+  "member_ids": [
+   "NE-01555"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MATIZ 3 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 864.56,
+  "member_ids": [
+   "NE-01556"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MATIZ COMBO STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 1142.76,
+  "member_ids": [
+   "NE-01557"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PRIME 3 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 954.44,
+  "member_ids": [
+   "NE-01558"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "QUICK LUNCH DLX",
+  "category": "Kitchen & Dining",
+  "mrp": 406.6,
+  "member_ids": [
+   "NE-01560"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SUPER 2 STEEL",
+  "category": "Kitchen & Dining",
+  "mrp": 762.91,
+  "member_ids": [
+   "NE-01561"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT WAVE 2",
+  "category": "Kitchen & Dining",
+  "mrp": 833.7,
+  "member_ids": [
+   "NE-01566"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT WAVE 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1020.6,
+  "member_ids": [
+   "NE-01567"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ARC 600",
+  "category": "Kitchen & Dining",
+  "mrp": 513.06,
+  "member_ids": [
+   "NE-01573"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ARC 900",
+  "category": "Kitchen & Dining",
+  "mrp": 580.38,
+  "member_ids": [
+   "NE-01574"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X BENZ 600",
+  "category": "Kitchen & Dining",
+  "mrp": 513.06,
+  "member_ids": [
+   "NE-01579"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X BENZ 900",
+  "category": "Kitchen & Dining",
+  "mrp": 565.08,
+  "member_ids": [
+   "NE-01580"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X BENZ 450",
+  "category": "Kitchen & Dining",
+  "mrp": 440.64,
+  "member_ids": [
+   "NE-01581"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X BENZ 1200",
+  "category": "Kitchen & Dining",
+  "mrp": 647.7,
+  "member_ids": [
+   "NE-01582"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL CHILL X 600",
+  "category": "Kitchen & Dining",
+  "mrp": 513.06,
+  "member_ids": [
+   "NE-01585"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL CHILL X 900",
+  "category": "Kitchen & Dining",
+  "mrp": 565.08,
+  "member_ids": [
+   "NE-01586"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X DELTA 600",
+  "category": "Kitchen & Dining",
+  "mrp": 419.22,
+  "member_ids": [
+   "NE-01587"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X DELTA 900",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01588"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X FELIX 900",
+  "category": "Kitchen & Dining",
+  "mrp": 565.08,
+  "member_ids": [
+   "NE-01592"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X FLINT 600",
+  "category": "Kitchen & Dining",
+  "mrp": 507.96,
+  "member_ids": [
+   "NE-01593"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X FLINT 900",
+  "category": "Kitchen & Dining",
+  "mrp": 569.16,
+  "member_ids": [
+   "NE-01594"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X GENX 600",
+  "category": "Kitchen & Dining",
+  "mrp": 444.72,
+  "member_ids": [
+   "NE-01595"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X GENX 900",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01596"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X GRIPPO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 507.96,
+  "member_ids": [
+   "NE-01597"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X GRIPPO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 569.16,
+  "member_ids": [
+   "NE-01598"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X LEGEND 600",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01607"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X LEGEND 900",
+  "category": "Kitchen & Dining",
+  "mrp": 496.74,
+  "member_ids": [
+   "NE-01608"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X OCTANE 600",
+  "category": "Kitchen & Dining",
+  "mrp": 434.52,
+  "member_ids": [
+   "NE-01609"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X OCTANE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01610"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X ORNATE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 578.0,
+  "member_ids": [
+   "NE-01611"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X POLO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 671.16,
+  "member_ids": [
+   "NE-01612"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X POLO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 773.16,
+  "member_ids": [
+   "NE-01613"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X POWER SIP 600",
+  "category": "Kitchen & Dining",
+  "mrp": 520.0,
+  "member_ids": [
+   "NE-01614"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X POWER SIP 900",
+  "category": "Kitchen & Dining",
+  "mrp": 587.0,
+  "member_ids": [
+   "NE-01615"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X RACE 600",
+  "category": "Kitchen & Dining",
+  "mrp": 513.06,
+  "member_ids": [
+   "NE-01616"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X RACE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 580.38,
+  "member_ids": [
+   "NE-01617"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ROYCE 600",
+  "category": "Kitchen & Dining",
+  "mrp": 502.86,
+  "member_ids": [
+   "NE-01618"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ROYCE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 554.88,
+  "member_ids": [
+   "NE-01619"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ROVER 600",
+  "category": "Kitchen & Dining",
+  "mrp": 492.66,
+  "member_ids": [
+   "NE-01620"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ROVER 900",
+  "category": "Kitchen & Dining",
+  "mrp": 547.74,
+  "member_ids": [
+   "NE-01621"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X SERRA 600",
+  "category": "Kitchen & Dining",
+  "mrp": 434.52,
+  "member_ids": [
+   "NE-01622"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X SERRA 900",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01623"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X SIP BUDDY 450",
+  "category": "Kitchen & Dining",
+  "mrp": 441.0,
+  "member_ids": [
+   "NE-01624"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X SPIKE 600",
+  "category": "Kitchen & Dining",
+  "mrp": 492.66,
+  "member_ids": [
+   "NE-01625"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X SPIKE 900",
+  "category": "Kitchen & Dining",
+  "mrp": 547.74,
+  "member_ids": [
+   "NE-01626"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X TURBO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 517.14,
+  "member_ids": [
+   "NE-01630"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X TURBO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 589.56,
+  "member_ids": [
+   "NE-01631"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X TURBO 1200",
+  "category": "Kitchen & Dining",
+  "mrp": 669.12,
+  "member_ids": [
+   "NE-01632"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X MARATHON 600 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 419.22,
+  "member_ids": [
+   "NE-01633"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X MARATHON 900 ML",
+  "category": "Kitchen & Dining",
+  "mrp": 465.12,
+  "member_ids": [
+   "NE-01634"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X MYLO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 510.0,
+  "member_ids": [
+   "NE-01635"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL-X MYLO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 577.0,
+  "member_ids": [
+   "NE-01636"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X NEO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 492.66,
+  "member_ids": [
+   "NE-01637"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X NEO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 547.74,
+  "member_ids": [
+   "NE-01638"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ULTIMO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 589.56,
+  "member_ids": [
+   "NE-01639"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ULTIMO 1200",
+  "category": "Kitchen & Dining",
+  "mrp": 669.12,
+  "member_ids": [
+   "NE-01640"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VERTU 600",
+  "category": "Kitchen & Dining",
+  "mrp": 507.96,
+  "member_ids": [
+   "NE-01641"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VERTU 900",
+  "category": "Kitchen & Dining",
+  "mrp": 569.16,
+  "member_ids": [
+   "NE-01642"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VITA 600",
+  "category": "Kitchen & Dining",
+  "mrp": 515.0,
+  "member_ids": [
+   "NE-01643"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VITA 900",
+  "category": "Kitchen & Dining",
+  "mrp": 565.0,
+  "member_ids": [
+   "NE-01644"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VOLVO 600",
+  "category": "Kitchen & Dining",
+  "mrp": 507.96,
+  "member_ids": [
+   "NE-01645"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X VOLVO 900",
+  "category": "Kitchen & Dining",
+  "mrp": 569.16,
+  "member_ids": [
+   "NE-01646"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ZEN 600",
+  "category": "Kitchen & Dining",
+  "mrp": 435.54,
+  "member_ids": [
+   "NE-01649"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X ZEN 900",
+  "category": "Kitchen & Dining",
+  "mrp": 489.6,
+  "member_ids": [
+   "NE-01650"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "PURO STEEL X QUICK FLIP 700",
+  "category": "Kitchen & Dining",
+  "mrp": 360.06,
+  "member_ids": [
+   "NE-01651"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DOUBLE DEAL JUMBO",
+  "category": "Kitchen & Dining",
+  "mrp": 855.75,
+  "member_ids": [
+   "NE-01655"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "DOUBLE DEAL LARGE",
+  "category": "Kitchen & Dining",
+  "mrp": 798.0,
+  "member_ids": [
+   "NE-01656"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT MAX 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1540.35,
+  "member_ids": [
+   "NE-01657"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT MAX 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1825.95,
+  "member_ids": [
+   "NE-01658"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT MAX 5",
+  "category": "Kitchen & Dining",
+  "mrp": 2596.65,
+  "member_ids": [
+   "NE-01659"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT MAX JUMBO 4",
+  "category": "Kitchen & Dining",
+  "mrp": 3201.45,
+  "member_ids": [
+   "NE-01660"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT MAX JUMBO 5",
+  "category": "Kitchen & Dining",
+  "mrp": 3966.9,
+  "member_ids": [
+   "NE-01661"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT STUFF 3",
+  "category": "Kitchen & Dining",
+  "mrp": 1214.85,
+  "member_ids": [
+   "NE-01662"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "HOT STUFF 4",
+  "category": "Kitchen & Dining",
+  "mrp": 1480.5,
+  "member_ids": [
+   "NE-01663"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MAX STEEL TIFFIN SMALL",
+  "category": "Kitchen & Dining",
+  "mrp": 551.25,
+  "member_ids": [
+   "NE-01664"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "MAX STEEL TIFFIN BIG",
+  "category": "Kitchen & Dining",
+  "mrp": 689.85,
+  "member_ids": [
+   "NE-01665"
+  ]
+ },
+ {
+  "brand": "Cello",
+  "product_name": "SNACKO PACK",
+  "category": "Kitchen & Dining",
+  "mrp": 329.7,
+  "member_ids": [
+   "NE-01666"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "BOA A2L 20W",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 749.0,
+  "member_ids": [
+   "NE-10731"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 1) The prices & ETD on Invoice  are inclusive of VAT/ Taxes. Valid till  30th SEP 2026",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01967"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 2) The prices are valid only in the state of  HARYANA & super cedes all previous Price list.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01968"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 3)The prices are subject to change without prior notice & price  prevailing at the time of delivery will be applicable.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01969"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 4) All Payments By way of DD/Cheque to be made in favor of \"HAIER   APPLIANCES (I) Pvt Ltd.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01970"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier payable at NEW DELHI Only.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01972"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 5) Haier Appl. Ind. Pvt. Will not take any responsibility for VERBAL/ANY commitments made by any of its employees,",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01973"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier other than Authorised Signatories mentioned below.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01974"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier 6) CD as per Policy.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01975"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier For Haier Appliances India Pvt. Ltd.",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01976"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier ANIL SINGH",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01977"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier STATE HEAD - HARYANA",
+  "category": "Home Appliances",
+  "mrp": null,
+  "member_ids": [
+   "NE-01978"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2002GSPB",
+  "category": "Home Appliances",
+  "mrp": 10990.0,
+  "member_ids": [
+   "NE-02075"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2002CSSH",
+  "category": "Home Appliances",
+  "mrp": 16990.0,
+  "member_ids": [
+   "NE-02076"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2302CRSH",
+  "category": "Home Appliances",
+  "mrp": 17990.0,
+  "member_ids": [
+   "NE-02077"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2501CBSH",
+  "category": "Home Appliances",
+  "mrp": 20490.0,
+  "member_ids": [
+   "NE-02078"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2801CBSB",
+  "category": "Home Appliances",
+  "mrp": 21490.0,
+  "member_ids": [
+   "NE-02079"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL2801DBSJ",
+  "category": "Home Appliances",
+  "mrp": 22000.0,
+  "member_ids": [
+   "NE-02080"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL3001CBSH",
+  "category": "Home Appliances",
+  "mrp": 25000.0,
+  "member_ids": [
+   "NE-02081"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HIL3001ARSB",
+  "category": "Home Appliances",
+  "mrp": 26490.0,
+  "member_ids": [
+   "NE-02082"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HAF-M403I",
+  "category": "Home Appliances",
+  "mrp": 8990.0,
+  "member_ids": [
+   "NE-02083"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HAF-M503I",
+  "category": "Home Appliances",
+  "mrp": 9990.0,
+  "member_ids": [
+   "NE-02085"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HAF-D503B",
+  "category": "Home Appliances",
+  "mrp": 12990.0,
+  "member_ids": [
+   "NE-02086"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-752KSA",
+  "category": "Home Appliances",
+  "mrp": 14890.0,
+  "member_ids": [
+   "NE-02087"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-1252KSA",
+  "category": "Home Appliances",
+  "mrp": 17490.0,
+  "member_ids": [
+   "NE-02088"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-1851BBRA-P",
+  "category": "Home Appliances",
+  "mrp": 18190.0,
+  "member_ids": [
+   "NE-02089"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-1851SMSA-P",
+  "category": "Home Appliances",
+  "mrp": 18190.0,
+  "member_ids": [
+   "NE-02090"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-1851SMEA-P",
+  "category": "Home Appliances",
+  "mrp": 18590.0,
+  "member_ids": [
+   "NE-02091"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-1851SREA-P",
+  "category": "Home Appliances",
+  "mrp": 18590.0,
+  "member_ids": [
+   "NE-02092"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SBRA-N",
+  "category": "Home Appliances",
+  "mrp": 19790.0,
+  "member_ids": [
+   "NE-02093"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SMSA-N",
+  "category": "Home Appliances",
+  "mrp": 19890.0,
+  "member_ids": [
+   "NE-02094"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SMSFA-N",
+  "category": "Home Appliances",
+  "mrp": 20290.0,
+  "member_ids": [
+   "NE-02095"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SMAA-N",
+  "category": "Home Appliances",
+  "mrp": 20490.0,
+  "member_ids": [
+   "NE-02096"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SPAA-N",
+  "category": "Home Appliances",
+  "mrp": 20490.0,
+  "member_ids": [
+   "NE-02098"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SRAA-N",
+  "category": "Home Appliances",
+  "mrp": 20490.0,
+  "member_ids": [
+   "NE-02099"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SCPA-N",
+  "category": "Home Appliances",
+  "mrp": 20490.0,
+  "member_ids": [
+   "NE-02100"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2061SCGA-N",
+  "category": "Home Appliances",
+  "mrp": 22890.0,
+  "member_ids": [
+   "NE-02101"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112BBSA-N",
+  "category": "Home Appliances",
+  "mrp": 22490.0,
+  "member_ids": [
+   "NE-02102"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112BRBA-N",
+  "category": "Home Appliances",
+  "mrp": 22490.0,
+  "member_ids": [
+   "NE-02103"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113BBSA-N",
+  "category": "Home Appliances",
+  "mrp": 24890.0,
+  "member_ids": [
+   "NE-02104"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2105BNSA-P",
+  "category": "Home Appliances",
+  "mrp": 27890.0,
+  "member_ids": [
+   "NE-02105"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2105CBSA-P",
+  "category": "Home Appliances",
+  "mrp": 27890.0,
+  "member_ids": [
+   "NE-02106"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112CSSA-N",
+  "category": "Home Appliances",
+  "mrp": 22990.0,
+  "member_ids": [
+   "NE-02107"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112CPSA-N",
+  "category": "Home Appliances",
+  "mrp": 22990.0,
+  "member_ids": [
+   "NE-02109"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112CTSA-N",
+  "category": "Home Appliances",
+  "mrp": 22990.0,
+  "member_ids": [
+   "NE-02110"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112PPSA-N",
+  "category": "Home Appliances",
+  "mrp": 24390.0,
+  "member_ids": [
+   "NE-02111"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2112PTSA-N",
+  "category": "Home Appliances",
+  "mrp": 24390.0,
+  "member_ids": [
+   "NE-02112"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113CMHA-N",
+  "category": "Home Appliances",
+  "mrp": 25690.0,
+  "member_ids": [
+   "NE-02113"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113CRHA-N",
+  "category": "Home Appliances",
+  "mrp": 25690.0,
+  "member_ids": [
+   "NE-02114"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113CMBA-N",
+  "category": "Home Appliances",
+  "mrp": 26090.0,
+  "member_ids": [
+   "NE-02115"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113CRBA-N",
+  "category": "Home Appliances",
+  "mrp": 26090.0,
+  "member_ids": [
+   "NE-02116"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113CGCA-N",
+  "category": "Home Appliances",
+  "mrp": 26290.0,
+  "member_ids": [
+   "NE-02117"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PRHA-N",
+  "category": "Home Appliances",
+  "mrp": 27590.0,
+  "member_ids": [
+   "NE-02118"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PMBA-N",
+  "category": "Home Appliances",
+  "mrp": 27690.0,
+  "member_ids": [
+   "NE-02119"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PGCA-N",
+  "category": "Home Appliances",
+  "mrp": 27890.0,
+  "member_ids": [
+   "NE-02120"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2114PMBA-N",
+  "category": "Home Appliances",
+  "mrp": 28690.0,
+  "member_ids": [
+   "NE-02121"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2114PRBA-N",
+  "category": "Home Appliances",
+  "mrp": 28690.0,
+  "member_ids": [
+   "NE-02122"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PMIA-N",
+  "category": "Home Appliances",
+  "mrp": 29690.0,
+  "member_ids": [
+   "NE-02123"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PMHA-N",
+  "category": "Home Appliances",
+  "mrp": 29890.0,
+  "member_ids": [
+   "NE-02124"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PRHA-N",
+  "category": "Home Appliances",
+  "mrp": 29890.0,
+  "member_ids": [
+   "NE-02125"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PMBA-N",
+  "category": "Home Appliances",
+  "mrp": 29990.0,
+  "member_ids": [
+   "NE-02126"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PRBA-N",
+  "category": "Home Appliances",
+  "mrp": 29990.0,
+  "member_ids": [
+   "NE-02127"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PWGA-N",
+  "category": "Home Appliances",
+  "mrp": 30390.0,
+  "member_ids": [
+   "NE-02128"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PRMGA-N",
+  "category": "Home Appliances",
+  "mrp": 30390.0,
+  "member_ids": [
+   "NE-02129"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2113PWBGA-N",
+  "category": "Home Appliances",
+  "mrp": 30390.0,
+  "member_ids": [
+   "NE-02131"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PGCA-N",
+  "category": "Home Appliances",
+  "mrp": 30490.0,
+  "member_ids": [
+   "NE-02132"
+  ]
+ },
+ {
+  "brand": "Haier",
+  "product_name": "Haier HRD-2115PWBGA-N",
+  "category": "Home Appliances",
+  "mrp": 33490.0,
+  "member_ids": [
+   "NE-02133"
+  ]
+ }
+]

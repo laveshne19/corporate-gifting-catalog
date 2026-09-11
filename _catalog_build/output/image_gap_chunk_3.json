@@ -1,0 +1,5699 @@
+[
+ {
+  "brand": "Portronics",
+  "product_name": "Adapto 100 PRO",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-06499"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06502"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate 2",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06533"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate 3",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-06544"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate 4",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06567"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate Go",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06568"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "JuiceMate Go Pro",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06569"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Zion 65",
+  "category": "Electronics Accessories",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-06570"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Volt 20",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06571"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VOLT 65 PRO",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-06572"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "UFO HOME",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06573"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "UFO PRO",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06574"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerodock Ultra",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06575"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerodock Pro",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-06581"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "My Buddy Air Pro",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06598"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY SPINLIGHT",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06599"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY HEXA 5",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06602"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY HEXA 22",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06605"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY HEXA 33",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06615"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY K",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06622"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MY BUDDY K LITE",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06671"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Portable Laptop Stand",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06672"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "360 Degree Rotational Metal Laptop Stand",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-06674"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Multi-Angle Adjustment",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06675"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Built-in cooling fan laptop stand",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06676"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Laptop Stand",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06681"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Metal Tablet Stand",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06682"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Twister",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06684"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerolift Solo",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06685"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Aerolift Duo",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-06693"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "My Buddy L",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06709"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Portable Laptop Stand With Cooling Fan",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-06712"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Multipurpose Movable & Adjustable Table",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06713"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Multifunctional Folding Table",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06714"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adjustable Laptop Table with soft",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-06716"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Multimedia Keyboard & Mouse Set",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06718"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Multimedia Wireless Keyboard",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06720"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bluetooth Keyboard with 2.4 GHz",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06721"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Wireless Keyboard With Mobile & Tablet Holder",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06726"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Foldable Wireless Keyboard",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06727"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bubble Dock",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06729"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Rechargeable Wireless Keyboard with Built -",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06732"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Wireless Mechanical Gaming Keyboard",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-06741"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Wireless Keyboard & Mouse",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06742"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Key10 Combo",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06748"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Key11 Combo",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06753"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Key12 Combo",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-06754"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KI-PAD 5",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06756"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bluetooth + 2.4 GHz USB Receiver Full Size",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-06757"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad Cap",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06759"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad Fold",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06760"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "320mAh Polymer Battery",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06782"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2.4 GHz + Bluetooth",
+  "category": "Electronics Accessories",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-06785"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2.4 GHz Wireless Connectivity",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06787"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2.4 GHz Wireless & 2x Bluetooth 5.3",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06790"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2.4 GHz Wireless & Dual Bluetooth",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-06793"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 1,499",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06800"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adjustable Optical DPI",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06801"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bluetooth & 2.4 GHz Wireless",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06802"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Ergonomic Design",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06803"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad Mino",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-06807"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB Nano Dongle",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06811"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "1.5 Meter Cable Length",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06821"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adjustable DPI Up To 1600",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06831"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adjustable DPI Up To 2400",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06847"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Noise-free & Quieter Clicking",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06850"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Rechargeable Battery",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06856"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 7",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06866"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 8",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06867"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Ergonomic Grip Design",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06868"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 34",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06876"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 35",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-06877"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad III Plus",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06886"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 103",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-06897"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 23 Pro",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06914"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad Go",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06915"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad Neo",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06916"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Vader 2.0",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06917"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Adjustable DPI Up To 12800",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-06918"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COMFIPAD SPACE",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-06920"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COMFIPAD-2",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06960"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COMFIPAD-3",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-06962"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COMFIPAD Atlas",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-06964"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COMFIPAD Glow",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-06965"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RUFFPAD Dino 8.5",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06967"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RUFFPAD Teddy 8.5",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-06968"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RUFFPAD PupX 10",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-07021"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DOODLE Pro",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-07063"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DRAW Buddy",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07068"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Single Colour LCD Screen",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07069"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 1,999",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07071"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 1,599",
+  "category": "Electronics Accessories",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-07195"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 3,999",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-07210"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 3,499",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-07223"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "₹ 2,499",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07233"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "RUFFPAD 16 LITE",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07295"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SKYCAST",
+  "category": "Electronics Accessories",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-07296"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 8",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07334"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 8 PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-07343"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 31",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07348"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 31 PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-07350"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 31C",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07351"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 31 PRO",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07355"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 41",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07356"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "DIGIBRIDGE",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07358"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT X1",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07359"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT X",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07361"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 7",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-07363"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "C-KONNECT",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07365"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "C-KONNECT PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-07366"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 11C",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-07367"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 3A",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-07368"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT ONE",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07375"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 4D",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07378"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 6C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07379"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 51",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-07383"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 52",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07386"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT MINO A",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07387"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT MINO C",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07455"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT 30 PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07462"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT SPIN C",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07463"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT View One",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07464"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT View Two",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07465"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT View Three",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-07480"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT Edge",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07485"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT Space",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-07486"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT Swift",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-07516"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT VAULT",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-07518"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT VAULT PRO",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-07519"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AUTO 10 PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07525"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AUTO 12",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-07552"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tune",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-07554"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tune Lite",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-07569"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tune Plus",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-07570"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tune Prime",
+  "category": "Electronics Accessories",
+  "mrp": 24999.0,
+  "member_ids": [
+   "NE-07611"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Mobike Prime",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07629"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLAMP Y",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-07708"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Phone Holder",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-07709"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLAMP M",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07733"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLAMP M2",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07747"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLAMP M3",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07750"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOBIKE 4",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-07754"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOBIKE 5",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-07763"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOGUN 2",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07787"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOGUN 3",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-07814"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magnetic Car Phone Holder",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-07841"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magnetic Universal Mobile Holder",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07845"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "15W Wireless Charging Stand",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07848"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "15W Wireless Charger",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07912"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magnetic Mobile Holder",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07913"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CHARGE CLAMP 2",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-07921"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CHARGE CLAMP 3",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07922"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CHARGE CLAMP 4",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-07923"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 3X",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07924"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 5",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-07928"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 6",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-07930"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 7",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-07954"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 16",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-07959"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 30",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-07960"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER MINI",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-07961"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power 80",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08074"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power View",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-08076"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power View Plus",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-08082"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power Retracto",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08086"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power One",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08087"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power Armour",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08093"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power Trail",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08106"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power Quard",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08219"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Car Power III Pro",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08220"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SPARK",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-08228"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ZAPTOR",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08280"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08281"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYUCOP NEO",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08282"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU NEO",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08283"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU SWIFT",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08306"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU HYBRID",
+  "category": "Electronics Accessories",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-08313"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU AIR PLUS",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-08314"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU AIR PRO",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-08315"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 2.0",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08316"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 3.0",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08325"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 3T",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08328"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 4.0",
+  "category": "Electronics Accessories",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-08332"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 5.0",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-08337"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 5.0 LITE",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08338"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 7.0",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08339"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 8.0",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08340"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 9.0",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08341"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU 10",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08342"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU LITE",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08343"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU COP",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-08344"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "VAYU NANO",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08345"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOPCOP PRO",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08352"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOPCOP",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08355"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOPCOP PRIME",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08357"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOPCOP 3",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-08359"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MOPCOP 4",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08364"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AirCop",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-08368"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ENCASE 102",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08369"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ENCASE 103",
+  "category": "Electronics Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-08371"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ENCASE 104",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08372"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ELEMENTS U",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08441"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Byte",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08442"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Byte Mini",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08443"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Byte 2",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08444"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FoamMatic",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08445"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "1500 mAh battery",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08446"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Built-In Hanging Hook",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08447"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "FrothMate",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08452"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tornado",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08454"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tornado Plus",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08456"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tornado Pro",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-08457"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tez",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08458"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AERO BREEZE",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08459"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Twin Cool",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08460"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Dual Breeze",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08461"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFAN MINI 2",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08468"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFANX",
+  "category": "Electronics Accessories",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-08472"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFANX MIST",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08473"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFANX LITE",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-08475"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFAN",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08477"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFAN NANO",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08479"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TOOFAN MINI",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08482"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "COOLCUBE",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08484"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AIRLO",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08492"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ClipCool",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08495"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CHILL ON",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08499"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Airloop",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08501"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CoolAid",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08503"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "GOBREEZE",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08504"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CoolXG",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08507"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Cool Pulse",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08509"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLEAN G",
+  "category": "Electronics Accessories",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-08511"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLEAN M",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08514"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLEAN N",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08516"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CLEAN P",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08517"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Clean T",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-08518"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Clean U",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-08696"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Clean One",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08705"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUMISTICK 2",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08717"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUMISTICK MINI",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08719"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUMISTICK AIR",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08723"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUMISTICK SNAP",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08727"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Detachable Bluetooth Remote",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08728"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SWIPE 2",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-08729"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SLIDEMATE",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08730"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TALK ONE",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-08736"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "GLIDE",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08737"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "GLIDE Pro",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08738"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Swipe 3",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08740"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Thermo Sip",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08741"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Anymeal",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-08742"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Eco Glow",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08759"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Eco Glow 2",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08777"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Eco Glow Bolt",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08779"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Tixie",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08781"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bit Box",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-08782"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bit Box 2",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08784"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bit Box Prime",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08785"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bluefi",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08792"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Zifro",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-08801"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Wallet X",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-08813"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magma",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08829"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magma Pro",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08831"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magma Lite",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08843"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Magma Go",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-08854"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Locksy",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08855"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Prysta",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-08857"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Zeno Go",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-08858"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "6 Removable Heads",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-08859"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Zeno L",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-08864"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Lithius Cell AA",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-08865"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Lithius Pro AA",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-08869"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Lithius Cell AAA",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-08871"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Lithius Pro AAA",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08875"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LOCA",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08886"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "WORLD TAG",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08892"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LINTX",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-08896"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LINTX PRO",
+  "category": "Electronics Accessories",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-08898"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LINTX LITE",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-08899"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Meteo",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-08904"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Glowtime",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-08905"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Zeno Pulse",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-08957"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AIR X",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-08967"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MAGICBIN",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-09019"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "TORQUE X",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-09041"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "keyLink C",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09042"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Griplet 3",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-09096"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "ProCharge 4",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-09104"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT RECOIL",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09107"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT TETRA",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09108"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT SYNC",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09109"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT LINK",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09110"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT LINK C",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09241"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT LINK CL",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09295"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SILKLINK",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09297"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT CL",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09298"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT 240C",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09305"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT VISION C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-09307"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C to 3.5mm Male Aux Cable",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09308"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C To 8 Pin Cable With LED Display",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09389"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB-A To 8 Pin With LED Display Cable",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09415"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C To Type C Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09416"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C Cable With Led Display",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09417"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB To Type C Cable",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09681"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB To 8 Pin Cable",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09755"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C To 8 Pin Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09756"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "8 Pin to 3.5mm Female AUX Port",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09757"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type -C To 3.5mm Female",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09758"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB To Type C Charging Cable",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09792"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "60W Multifunctional Charging Cable",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09801"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "2 In 1 Charging Cable (Micro + Type",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09807"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "20W Type C to 8 Pin Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09811"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "High Quality 3.5m AUX Cable",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09814"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB TO Micro Cable",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09815"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB A to Type C Cable",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09826"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB A to 8 Pin Cable",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-09829"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "3-in-1 Multi-Functional Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09840"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB TO 8 Pin Nylon Braided Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09850"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MagLink C Square",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09851"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MagLink CL",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09865"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "3.0A Output",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09872"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "USB To Micro Cable with Cable",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09873"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Desktop Power Cable",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09887"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Laptop Power Cable",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09888"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09938"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase 2",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-09947"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase 3",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09949"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase 4",
+  "category": "Electronics Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-09954"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase 5",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-09955"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase 6",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-09959"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "SnapCase Ultra",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-09960"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bridge X",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-09961"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Bridge Y",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-09998"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PrintLink 1.5",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-10009"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Uniconnect",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-10121"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Keylink 4-in-1",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-10151"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Nylon Braided",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-10297"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Konnect Aux 5",
+  "category": "Electronics Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-10380"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Hue X",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-10381"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Ether C",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-10404"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Rj45 Cat6 10M Cable",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-10412"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "High-Quality Core",
+  "category": "Electronics Accessories",
+  "mrp": 299.0,
+  "member_ids": [
+   "NE-10415"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Rj45 to RJ45 2M Cable",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-10425"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Rj45 Cat6 Cable",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-10426"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C to Type C Flat Braided Cable",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-10438"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Type C to Type C Cable With",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-10439"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "4-in-1 Retractable Cable",
+  "category": "Electronics Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-10440"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Efficia Convertible Hob 3B",
+  "category": "Gas Stoves",
+  "mrp": 19835.0,
+  "member_ids": [
+   "NE-10442"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Efficia Convertible Hob 4B",
+  "category": "Gas Stoves",
+  "mrp": 23235.0,
+  "member_ids": [
+   "NE-10443"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Agni Classic - 2B",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 5945.0,
+  "member_ids": [
+   "NE-10445"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 29.0 - Orange",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 6315.0,
+  "member_ids": [
+   "NE-10446"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKCT 1.5 L Cool Touch (Black)",
+  "category": "Rice Cooker",
+  "mrp": 1725.0,
+  "member_ids": [
+   "NE-10455"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari FLEXAGON 4W SMALL - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 10500.0,
+  "member_ids": [
+   "NE-10711"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari FLEXAGON 4W SMALL - CYAN",
+  "category": "Luggage & Bags",
+  "mrp": 10500.0,
+  "member_ids": [
+   "NE-10712"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W SMALL - CYAN",
+  "category": "Luggage & Bags",
+  "mrp": 11500.0,
+  "member_ids": [
+   "NE-10713"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W SMALL - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 11500.0,
+  "member_ids": [
+   "NE-10714"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W SMALL - DARK GREY",
+  "category": "Luggage & Bags",
+  "mrp": 11500.0,
+  "member_ids": [
+   "NE-10715"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W MEDIUM - CYAN",
+  "category": "Luggage & Bags",
+  "mrp": 13100.0,
+  "member_ids": [
+   "NE-10716"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W MEDIUM - DARK GREY",
+  "category": "Luggage & Bags",
+  "mrp": 13100.0,
+  "member_ids": [
+   "NE-10717"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 13100.0,
+  "member_ids": [
+   "NE-10718"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W LARGE - CYAN",
+  "category": "Luggage & Bags",
+  "mrp": 14300.0,
+  "member_ids": [
+   "NE-10719"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W LARGE - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 14300.0,
+  "member_ids": [
+   "NE-10721"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari WALTZ 4W LARGE - DARK GREY",
+  "category": "Luggage & Bags",
+  "mrp": 14300.0,
+  "member_ids": [
+   "NE-10722"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W SMALL - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 11500.0,
+  "member_ids": [
+   "NE-10723"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W SMALL - SAGE GREEN",
+  "category": "Luggage & Bags",
+  "mrp": 11500.0,
+  "member_ids": [
+   "NE-10725"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 13100.0,
+  "member_ids": [
+   "NE-10726"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W MEDIUM - SAGE GREEN",
+  "category": "Luggage & Bags",
+  "mrp": 13100.0,
+  "member_ids": [
+   "NE-10727"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W LARGE - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 14300.0,
+  "member_ids": [
+   "NE-10728"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari VENTURA 4W LARGE - SAGE GREEN",
+  "category": "Luggage & Bags",
+  "mrp": 14300.0,
+  "member_ids": [
+   "NE-10729"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Aeon SMALL -",
+  "category": "Luggage & Bags",
+  "mrp": 8560.0,
+  "member_ids": [
+   "NE-10730"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W SMALL - GRAPHITE BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 6980.0,
+  "member_ids": [
+   "NE-10732"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W MEDIUM - GRAPHITE BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 8780.0,
+  "member_ids": [
+   "NE-10733"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W LARGE - GRAPHITE BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 10580.0,
+  "member_ids": [
+   "NE-10735"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W SMALL - Thyme Green",
+  "category": "Luggage & Bags",
+  "mrp": 6980.0,
+  "member_ids": [
+   "NE-10736"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W MEDIUM - Thyme Green",
+  "category": "Luggage & Bags",
+  "mrp": 8780.0,
+  "member_ids": [
+   "NE-10737"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DEFENDER 4W LARGE - Thyme Green",
+  "category": "Luggage & Bags",
+  "mrp": 10580.0,
+  "member_ids": [
+   "NE-10738"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari CELSIOUS NEO DF SMALL - TEAL",
+  "category": "Luggage & Bags",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-10769"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari CELSIOUS NEO DF SMALL - BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11067"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DOODLE RL SMALL - GREY",
+  "category": "Luggage & Bags",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11079"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari DOODLE RL SMALL - BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11080"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin MEDIUM - GREY",
+  "category": "Luggage & Bags",
+  "mrp": 2399.0,
+  "member_ids": [
+   "NE-11084"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 2399.0,
+  "member_ids": [
+   "NE-11085"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin Pro MEDIUM - DARK GREY",
+  "category": "Luggage & Bags",
+  "mrp": 2599.0,
+  "member_ids": [
+   "NE-11094"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin Pro MEDIUM - OLIVE",
+  "category": "Luggage & Bags",
+  "mrp": 2599.0,
+  "member_ids": [
+   "NE-11096"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin Deluxe MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 2749.0,
+  "member_ids": [
+   "NE-11099"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Twin Deluxe MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 2749.0,
+  "member_ids": [
+   "NE-11100"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 2649.0,
+  "member_ids": [
+   "NE-11101"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 2649.0,
+  "member_ids": [
+   "NE-11112"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan Pro MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 2899.0,
+  "member_ids": [
+   "NE-11114"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan Pro MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 2899.0,
+  "member_ids": [
+   "NE-11129"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan Deluxe MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 3199.0,
+  "member_ids": [
+   "NE-11130"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Tritan Deluxe MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 3199.0,
+  "member_ids": [
+   "NE-11132"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Nex MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11133"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Nex MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11134"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Elite MEDIUM - BLACK",
+  "category": "Luggage & Bags",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11151"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Elite MEDIUM - GREY",
+  "category": "Luggage & Bags",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11152"
+  ]
+ },
+ {
+  "brand": "Safari",
+  "product_name": "Safari Elite MEDIUM - NAVY BLUE",
+  "category": "Luggage & Bags",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11153"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy NA",
+  "category": "Mobiles & Tablets",
+  "mrp": null,
+  "member_ids": [
+   "NE-10969"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Fit 3",
+  "category": "Wearables",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-11050"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Buds4 Pro",
+  "category": "Wearables",
+  "mrp": 29999.0,
+  "member_ids": [
+   "NE-11051"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Buds4",
+  "category": "Wearables",
+  "mrp": 22999.0,
+  "member_ids": [
+   "NE-11052"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Buds3 Pro",
+  "category": "Wearables",
+  "mrp": 24999.0,
+  "member_ids": [
+   "NE-11053"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Buds3",
+  "category": "Wearables",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-11054"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Buds3 FE",
+  "category": "Wearables",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-11055"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Buds Core",
+  "category": "Wearables",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-11056"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 5",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11057"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 6",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11058"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 7",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11059"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 8",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11060"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 9",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11061"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 10",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11062"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 11",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11063"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 12",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11064"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Galaxy Galaxy Ring Size 13",
+  "category": "Wearables",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-11065"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wired Stereo Headset (Headset_EHS64 - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-11066"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wired Stereo Headset (Headset_EHS64 - White)",
+  "category": "Mobile Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-11166"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Cardslot Case_A17 (CardSlot Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-11068"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Cardslot Case_A17 (CardSlot Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-11069"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_A17 (Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-11070"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_A26 (A26 Clear - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11071"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_A36 (A36 Clear - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11072"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_A56 (A56 Clear - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11073"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_A26 (A26 Rugged - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11074"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Screen Protector_A26 (A26 Screen Protector - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-11075"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Card Slot Case_A36 (A36 Card Slot - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11076"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Card Slot Case_A56 (A56 Card Slot - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11077"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A36 (A36 Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11078"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A36 (A36 Silicone Case - Saga Green)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11167"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A36 (A36 Silicone Case - Lavender)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11168"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_A36 (A36 Rugged - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11081"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Screen Protector_A36 (A36 Screen Protector - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-11082"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A56 (A56 Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11083"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A56 (A56 Silicone Case - Saga Green)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11170"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_A56 (A56 Silicone Case - Pink)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11171"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_A56 (A56 Rugged - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11086"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Screen Protector_A56 (A56 Screen Protector - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-11087"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Power Bank (10mAh, 25W Wireless Battery Pack - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11088"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Power Bank (20mAh, 45W Wired Battery Pack - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11089"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Power Bank (25W Power Bank 10000 mAh - Beige)",
+  "category": "Mobile Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-11090"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Type C Handsfree (Headset - Type C)",
+  "category": "Mobile Accessories",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-11091"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Type C Handsfree (Headset - Type C (AKG))",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11092"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (25W Travel Adaptor with Cable)",
+  "category": "Mobile Accessories",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-11093"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (25W Travel Adaptor without Cable)",
+  "category": "Mobile Accessories",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-11172"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 45W C2C - Black Without cable)",
+  "category": "Mobile Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-11095"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 45W C2C - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-11173"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 65W C2C - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11097"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 15W C2C - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-11098"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 15W C2C - White)",
+  "category": "Mobile Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-11175"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 15W C2C w/o - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-11176"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter 15W C2C w/o - White)",
+  "category": "Mobile Accessories",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-11178"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (Travel Adapter WC_35W - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-11102"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Car Adaptor (Car Adaptor 40W)",
+  "category": "Mobile Accessories",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-11103"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Cable (Type C) (Type C Cable - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 550.0,
+  "member_ids": [
+   "NE-11104"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Cable (Type C) (Type C 2 C Cable - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-11105"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Cable (Type C) (Type C 2 C Cable - White)",
+  "category": "Mobile Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-11106"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor (60W Travel Adaptor - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11107"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Travel Adaptor with Cable (50W Duo Travel Adaptor with Cable - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11108"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Power Bank (15W Magnetic Wireless Power bank)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11109"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "3-in-1 Wireless Charger (3 in 1 Wireless Charger SMAPP)",
+  "category": "Mobile Accessories",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-11110"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wireless Charger Pad (w/o TA) (Wireless Charger Single 15W - Dark Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-11111"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wireless Charger Pad (w/o TA) (Wireless Charger Single 15W - White)",
+  "category": "Mobile Accessories",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-11184"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wireless Charger Duo (w/o TA) (Wireless Charger Duo 15W - Dark Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5199.0,
+  "member_ids": [
+   "NE-11113"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wireless Charger Duo (w/o TA) (Wireless Charger Duo 15W - White)",
+  "category": "Mobile Accessories",
+  "mrp": 5199.0,
+  "member_ids": [
+   "NE-11185"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case - Neon Card_Flip 6 (Flipsuit Case - Neon Card (Gray ) (Gray ))",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11115"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case - Kieth Haring Card_Flip 6 (Flipsuit Case - Kieth Haring Card (White ))",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11116"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Flip 6 (Silicone Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11117"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Flip 6 (Silicone Case - Navy)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11118"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Flip 6 (Silicone Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11119"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Flip 6 (Silicone Case - Yellow)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11120"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Flip 6 (Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11121"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_Flip 6 (Clear Case - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-11122"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 6 (Kindsuit Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11123"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 6 (Kindsuit Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11124"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 6 (Kindsuit Case - Yellow)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11125"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_Flip 6 (Anti-reflective Film - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11126"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case_Flip 7 (Flip7 Flipsuit Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11127"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 7 (Flip7 Kindsuit Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11128"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 7 (Flip7 Kindsuit Case - Camel)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11187"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Flip 7 (Flip7 Kindsuit Case - Taupe)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11188"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Ring Case_Flip 7 (Flip7 Ring Case (Silicone) - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11131"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Ring Case_Flip 7 (Flip7 Ring Case (Silicone) - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11189"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Ring Case_Flip 7 (Flip7 Ring Case (Silicone) - Coral red)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11190"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Ring Case_Flip 7 (Flip7 Ring Case (Silicone) - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11192"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Ring Case_Flip 7 (Flip7 Ring Case (Clear) - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11135"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_Flip 7 (Flip7 Clear Case  - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-11136"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_Flip 7 (Flip7 Anti-reflecting Film - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11137"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Magnet Case_Flip 7 (Flip7 Clear Magnet Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11138"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case (Flip7 Spigen - Capella - Semi Color)",
+  "category": "Mobile Accessories",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-11139"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case (Flip7 Spigen - Thin-Fit - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-11193"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S Pen Case_Fold 6 (S Pen Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11140"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S Pen Case_Fold 6 (S Pen Case - Navy)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11141"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S Pen Case_Fold 6 (S Pen Case - Pink)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11142"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 6 (Silicone Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 6299.0,
+  "member_ids": [
+   "NE-11143"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 6 (Silicone Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 6299.0,
+  "member_ids": [
+   "NE-11144"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_Fold 6 (Clear Case - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11145"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Fold 6 (Kindsuit Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 7499.0,
+  "member_ids": [
+   "NE-11146"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_Fold 6 (Kindsuit Case - Brown)",
+  "category": "Mobile Accessories",
+  "mrp": 7499.0,
+  "member_ids": [
+   "NE-11147"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_Fold 6 (Anti-reflective Film - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11148"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Carbon Shield Case_Fold 7 (Fold7 Carbon Shield Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-11149"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 7 (Fold7 Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11150"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 7 (Fold7 Silicone Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11194"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 7 (Fold7 Silicone Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11201"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_Fold 7 (Fold7 Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11202"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Grip Case_Fold 7 (Fold7 Clear Grip Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11154"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Grip Case_Fold 7 (Fold7 Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-11155"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_Fold 7 (Fold7 Anti-reflecting Film - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11156"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Magnet Case_Fold 7 (Fold7 Clear Magnet Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11157"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Thin Fit Capella Case_Fold 7 (Fold7 Spigen - Capella - Semi Color)",
+  "category": "Mobile Accessories",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-11158"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case (Fold7 Spigen - Thin-Fit - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-11204"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S Pen Pro2 Creator Edition (S Pen Pro2 Creator Edition - White)",
+  "category": "Mobile Accessories",
+  "mrp": 10499.0,
+  "member_ids": [
+   "NE-11159"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Smart Keyboard (Smart Keyboard)",
+  "category": "Mobile Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-11160"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Wireless Charger (Magnetic 25W Wireless Charger - Dark Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-11161"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Sizing Kit (Galaxy Ring Sizing Kit New - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-11162"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Sizing Kit (Galaxy Ring Sizing Kit - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-11163"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S Pen_tab S10 Lite (Tab S10 Lite S pen - White)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11164"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Smart View Wallet Case_S24 FE (S24FE Smart View Wallet Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11165"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Smart View Wallet Case_S24 FE (S24FE Smart View Wallet Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11205"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Smart View Wallet Case_S24 FE (S24FE Smart View Wallet Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11209"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Smart View Wallet Case_S24 FE (S24FE Smart View Wallet Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11210"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S24 FE (S24FE Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11169"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S24 FE (S24FE Silicone Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11211"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S24 FE (S24FE Silicone Case - Yellow)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11224"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S24 FE (S24FE Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11225"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S24 FE (S24FE Silicone Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11227"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S24 FE (S24FE Standing Grip Case - Blue black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11174"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S24 FE (S24FE Standing Grip Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11228"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S24 FE (S24FE Standing Grip Case - Yellow)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11229"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case_S24 FE (S24FE Flipsuit Case - Yellow)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11177"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case_S24 FE (S24FE Flipsuit Case - Red)",
+  "category": "Mobile Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-11230"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Sctreen Protector_S24 FE (S24FE A/R Screen Protector - Transparancy)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11179"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Magnet Case_S25 (Clear Magnet Case)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11180"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Crocs Case_S25 (Crocs Case)",
+  "category": "Mobile Accessories",
+  "mrp": 6699.0,
+  "member_ids": [
+   "NE-11181"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Hershey's Milk Chocolate Snake Case_ S25 (Hershey's Milk Chocolate Snake Case)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11232"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case (Capella)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11182"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case (Enzo Aramid)",
+  "category": "Mobile Accessories",
+  "mrp": 7498.5,
+  "member_ids": [
+   "NE-11233"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 (S25 Standing Grip Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11183"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 (S25 Standing Grip Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11234"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 (S25 Standing Grip Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11241"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 (S25 Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11186"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 (S25 Silicone Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11243"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 (S25 Silicone Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11244"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 (S25 Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11245"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 (S25 Silicone Case - Red)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11246"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S25 Kindsuit Case_S25 (S25 Kindsuit Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11191"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S25 Kindsuit Case_S25 (S25 Kindsuit Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11247"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S25 Kindsuit Case_S25 (S25 Kindsuit Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11251"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "S25 Kindsuit Case_S25 (S25 Kindsuit Case - Camel)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11252"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_S25 (S25 Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11195"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_S25 (S25 Anti-Reflecting Film - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11196"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case_S25 (S25 Flipsuit Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11197"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Flipsuit Case_S25 (S25 Flipsuit Case (Rugged) - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11198"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_S25 (S25 Rugged Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11199"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Edge (Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11200"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Edge (Silicone Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11253"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Edge (Silicone Case - Light Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11257"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Edge (Kindsuit Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11203"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Edge (Kindsuit Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11258"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Edge (Kindsuit Case - Light Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11259"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_S25 Edge (Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11206"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_S25 Edge (Anti-reflective Film)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11207"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 FE (Standing Grip Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11208"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 FE (Standing Grip Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11263"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 FE (Standing Grip Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11264"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 FE (Standing Grip Case - Dark Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11265"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 FE (Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11212"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 FE (Silicone Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11213"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 FE (Silicone Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11214"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 FE (Silicone Case - Dark Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11215"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 FE (Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11216"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 FE (Kindsuit Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11217"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 FE (Kindsuit Case - Dark Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11218"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 FE (Kindsuit Case - Tan)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11219"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_S25 FE (Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11220"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_S25 FE (Rugged Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11221"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_S25 FE (Anti-reflecting Film - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11222"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 Ultra (S25 U Standing Grip Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11223"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 Ultra (S25 U Standing Grip Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11266"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Standing Grip Case_S25 Ultra (S25 U Standing Grip Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11267"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Ultra (S25 U Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11226"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Ultra (S25 U Silicone Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11270"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Ultra (S25 U Silicone Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11282"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Ultra (S25 U Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11289"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Case_S25 Ultra (S25 U Silicone Case - Red)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11291"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Ultra (S25 U Kindsuit Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11231"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Ultra (S25 U Kindsuit Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11293"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Ultra (S25 U Kindsuit Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11294"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25 Ultra (S25 U Kindsuit Case - Camel)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11295"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_S25 Ultra (S25 U Clear Case - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11235"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti Reflecting Film_S25 Ultra (S25 U Anti-Reflecting Film - Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-11236"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Flipsuit Case_S25 Ultra (S25 U Flipsuit Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11237"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Flipsuit Case_S25 Ultra (S25 U Flipsuit Case (Rugged) - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-11238"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Case_S25 Ultra (S25 U Rugged Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11239"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25+ (S25+ Kindsuit Case - Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11240"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Kindsuit Case_S25+ (S25+ Kindsuit Case - Camel)",
+  "category": "Mobile Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-11298"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11242"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-White)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11300"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-Blue Violet)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11304"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11308"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11310"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 (Silicone Magnet Case-Coral Red)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11316"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Magnet Case_S26 (Rugged Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-11248"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti-reflecting Film_S26 (Anti-reflecting Film-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11249"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 (Slim Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11250"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 (Slim Magnet Case-Blue Violet)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11325"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 (Slim Magnet Case-Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11326"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 (Slim Magnet Case-Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11327"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Magnet Case_S26 (Clear Magnet Case-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11254"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case-Transparent_S26 (Clear Case-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11255"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 Ultra (Slim Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11256"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 Ultra (Slim Magnet Case-Blue Violet)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11332"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 Ultra (Slim Magnet Case-Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11333"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Slim Magnet Case_S26 Ultra (Slim Magnet Case-Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-11351"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Magnet Case Case_S26 Utlra (Clear Magnet Case-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-11260"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Clear Case_S26 Utlra (Clear Case-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11261"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11262"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-White)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11352"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-Blue Violet)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11354"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-Light Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11355"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11357"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Silicone Magnet Case_S26 Ultra (Silicone Magnet Case-Coral Red)",
+  "category": "Mobile Accessories",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-11358"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Rugged Magnet Case_S26 Ultra (Rugged Magnet Case-Black)",
+  "category": "Mobile Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-11268"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti-reflecting Film-Transparent_S26 Ultra (Anti-reflecting Film-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11269"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Anti-reflecting Film-Transparent_S26+ (Anti-reflecting Film-Transparent)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11359"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "SmartTAG (SmartTag2 - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-11271"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "SmartTAG (SmartTag2 - White)",
+  "category": "Mobile Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-11272"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Silicone Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11273"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Silicone Case - Blue)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11274"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Silicone Case - Mint)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11275"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Silicone Case - Lavender)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11276"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Silicone Case - White)",
+  "category": "Mobile Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-11277"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Rugged Case - Black)",
+  "category": "Mobile Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-11278"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Rugged Case - Green)",
+  "category": "Mobile Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-11279"
+  ]
+ },
+ {
+  "brand": "Samsung",
+  "product_name": "Case_Smart Tag 2 (Rugged Case - Gray)",
+  "category": "Mobile Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-11280"
+  ]
+ }
+]

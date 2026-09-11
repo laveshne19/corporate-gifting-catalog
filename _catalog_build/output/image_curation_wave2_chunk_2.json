@@ -1,0 +1,5890 @@
+[
+ {
+  "brand": "Portronics",
+  "product_name": "Ki-Pad 4",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02182"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Toad 36",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-02208"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "MPORT SPIN",
+  "category": "Electronics Accessories",
+  "mrp": 699.0,
+  "member_ids": [
+   "NE-02257"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "AeroDrive",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02273"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CAR POWER 1C",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02292"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "CoolCube Mini",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02365"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "INSTAPOD 160",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02379"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Phone Clip with Ball Head",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02380"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "LUMISTICK",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02381"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Eco Glow Mini",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-02396"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Xlife",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02399"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Cleansify",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02400"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PulseLine",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02428"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Konnect Y",
+  "category": "Mobile Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-02436"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "KONNECT STREAM",
+  "category": "Electronics Accessories",
+  "mrp": 499.0,
+  "member_ids": [
+   "NE-02440"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "Omnicord",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-02447"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "100W Type C To Type C Cable",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-02454"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PrintLink 3",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-02486"
+  ]
+ },
+ {
+  "brand": "Portronics",
+  "product_name": "PrintLink 5",
+  "category": "Electronics Accessories",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-02487"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Efficia Convertible Hob 2B",
+  "category": "Gas Stoves",
+  "mrp": 14730.0,
+  "member_ids": [
+   "NE-02501",
+   "NE-02502",
+   "NE-02503"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh 2 Burner Black body",
+  "category": "Efficia Convertible Hob",
+  "mrp": 11630.0,
+  "member_ids": [
+   "NE-02507"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh 3 Burner Black body",
+  "category": "Efficia Convertible Hob",
+  "mrp": 15035.0,
+  "member_ids": [
+   "NE-02508"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh 4 Burner Black body",
+  "category": "Efficia Convertible Hob",
+  "mrp": 18330.0,
+  "member_ids": [
+   "NE-02509"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Premia 2B",
+  "category": "Svachh Black Gas Stove Series",
+  "mrp": 12580.0,
+  "member_ids": [
+   "NE-02510"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Premia 3B",
+  "category": "Svachh Black Gas Stove Series",
+  "mrp": 16315.0,
+  "member_ids": [
+   "NE-02511"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Premia 4B",
+  "category": "Svachh Black Gas Stove Series",
+  "mrp": 18585.0,
+  "member_ids": [
+   "NE-02512"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Vectra - 2B",
+  "category": "Edge Gas Stove Series",
+  "mrp": 9510.0,
+  "member_ids": [
+   "NE-02516"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Vectra - 3B",
+  "category": "Edge Gas Stove Series",
+  "mrp": 12010.0,
+  "member_ids": [
+   "NE-02517"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Vectra - 4B",
+  "category": "Edge Gas Stove Series",
+  "mrp": 15070.0,
+  "member_ids": [
+   "NE-02518"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Neo - 2B",
+  "category": "Vectra Gas Stove Series",
+  "mrp": 9805.0,
+  "member_ids": [
+   "NE-02519"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Neo - 3B",
+  "category": "Vectra Gas Stove Series",
+  "mrp": 13035.0,
+  "member_ids": [
+   "NE-02520"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Svachh Neo - 4B Long",
+  "category": "Vectra Gas Stove Series",
+  "mrp": 16500.0,
+  "member_ids": [
+   "NE-02521"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prithvi - Single Burner",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 2855.0,
+  "member_ids": [
+   "NE-02543"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prime - 2B",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 3510.0,
+  "member_ids": [
+   "NE-02544"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Star - 2B",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 4075.0,
+  "member_ids": [
+   "NE-02545"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Shakti - 2B",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 5150.0,
+  "member_ids": [
+   "NE-02546"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prime - 3B",
+  "category": "Magic Plus Gas Stove Series",
+  "mrp": 5890.0,
+  "member_ids": [
+   "NE-02548"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Perfect - 3B",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 8550.0,
+  "member_ids": [
+   "NE-02551"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "XPRESS - 1200W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 2885.0,
+  "member_ids": [
+   "NE-02554"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "RAY - 1350W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 3045.0,
+  "member_ids": [
+   "NE-02555"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 20 - 1600W N",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 3330.0,
+  "member_ids": [
+   "NE-02556"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 20.0 - 1600W Whistle Counter",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 3835.0,
+  "member_ids": [
+   "NE-02557"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 16.0 Plus",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 4685.0,
+  "member_ids": [
+   "NE-02558"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 15.0 Plus",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 5190.0,
+  "member_ids": [
+   "NE-02559"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 31.0 V4 Black  - 2000W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 5685.0,
+  "member_ids": [
+   "NE-02560"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Sleeq  - 2300W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 5695.0,
+  "member_ids": [
+   "NE-02561"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 29.0 - Blue",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 6315.0,
+  "member_ids": [
+   "NE-02562",
+   "NE-02563"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 3.1 V3 Whistle Preset",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 6820.0,
+  "member_ids": [
+   "NE-02564"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Swish V4 - Whistle - 2000W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 6875.0,
+  "member_ids": [
+   "NE-02565"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 6.1 V3",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 7045.0,
+  "member_ids": [
+   "NE-02566"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIC 2.0 V2",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 7385.0,
+  "member_ids": [
+   "NE-02567"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PDIC 3.0 - Double Induction",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 13110.0,
+  "member_ids": [
+   "NE-02568"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PIRC 3.0 Infrared - 2400W",
+  "category": "Stainless Steel Gas Stove Series",
+  "mrp": 5275.0,
+  "member_ids": [
+   "NE-02570"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Versa 500W - 2 Years",
+  "category": "Induction",
+  "mrp": 3735.0,
+  "member_ids": [
+   "NE-02571"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Superb Plus 500W",
+  "category": "Induction",
+  "mrp": 4470.0,
+  "member_ids": [
+   "NE-02573"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Nakshatra V2 550W",
+  "category": "Induction",
+  "mrp": 4780.0,
+  "member_ids": [
+   "NE-02574"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Regal 750W 3 Jar",
+  "category": "Induction",
+  "mrp": 5490.0,
+  "member_ids": [
+   "NE-02576"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Regal 750W 4 Jar",
+  "category": "Induction",
+  "mrp": 6510.0,
+  "member_ids": [
+   "NE-02577"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Supreme 750W",
+  "category": "Mixer Grinders",
+  "mrp": 7695.0,
+  "member_ids": [
+   "NE-02583"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prism 750W 3 Jar",
+  "category": "Mixer Grinders",
+  "mrp": 8030.0,
+  "member_ids": [
+   "NE-02587"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prism 750W 4 Jar",
+  "category": "Mixer Grinders",
+  "mrp": 9220.0,
+  "member_ids": [
+   "NE-02588"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prism Plus 1000W 3 Jar",
+  "category": "Mixer Grinders",
+  "mrp": 8680.0,
+  "member_ids": [
+   "NE-02589"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Prism Plus 1000W 4 Jar",
+  "category": "Mixer Grinders",
+  "mrp": 9730.0,
+  "member_ids": [
+   "NE-02590"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Nutri-Mate 400W 2 Jar",
+  "category": "Jmg",
+  "mrp": 3495.0,
+  "member_ids": [
+   "NE-02596"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Nutri-Jet 450W 2 Jar",
+  "category": "Jmg",
+  "mrp": 3995.0,
+  "member_ids": [
+   "NE-02597"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Nutri-Zen 800W 3 Jar",
+  "category": "Jmg",
+  "mrp": 6260.0,
+  "member_ids": [
+   "NE-02598"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Verna",
+  "category": "Nutri Blender",
+  "mrp": 6250.0,
+  "member_ids": [
+   "NE-02600"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PWG 08",
+  "category": "Nutri Blender",
+  "mrp": 6710.0,
+  "member_ids": [
+   "NE-02601"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PWG 07",
+  "category": "Nutri Blender",
+  "mrp": 7100.0,
+  "member_ids": [
+   "NE-02602"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PWG 10",
+  "category": "Nutri Blender",
+  "mrp": 8265.0,
+  "member_ids": [
+   "NE-02603"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PVG 1.5",
+  "category": "Nutri Blender",
+  "mrp": 8415.0,
+  "member_ids": [
+   "NE-02604"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PVG 2.0",
+  "category": "Nutri Blender",
+  "mrp": 8950.0,
+  "member_ids": [
+   "NE-02605"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PWG 09",
+  "category": "Nutri Blender",
+  "mrp": 9825.0,
+  "member_ids": [
+   "NE-02606"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PWG 01",
+  "category": "Nutri Blender",
+  "mrp": 10555.0,
+  "member_ids": [
+   "NE-02607"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCTJ 04",
+  "category": "Wet Grinders",
+  "mrp": 1760.0,
+  "member_ids": [
+   "NE-02608"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCTJ 03",
+  "category": "Wet Grinders",
+  "mrp": 1870.0,
+  "member_ids": [
+   "NE-02609"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCJ 5",
+  "category": "Wet Grinders",
+  "mrp": 3575.0,
+  "member_ids": [
+   "NE-02610"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCJ 7",
+  "category": "Wet Grinders",
+  "mrp": 5480.0,
+  "member_ids": [
+   "NE-02611"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PHB 12.0",
+  "category": "Juicers",
+  "mrp": 2305.0,
+  "member_ids": [
+   "NE-02614"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PHB 5.0",
+  "category": "Juicers",
+  "mrp": 2400.0,
+  "member_ids": [
+   "NE-02615"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PHM 1.0",
+  "category": "Juicers",
+  "mrp": 2705.0,
+  "member_ids": [
+   "NE-02616"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PHM 2.0",
+  "category": "Juicers",
+  "mrp": 2765.0,
+  "member_ids": [
+   "NE-02617"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PHB 6.0",
+  "category": "Juicers",
+  "mrp": 3460.0,
+  "member_ids": [
+   "NE-02618"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "SlimLine Ductless Black - 60cm",
+  "category": "Blenders",
+  "mrp": 15745.0,
+  "member_ids": [
+   "NE-02620"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Vista Deluxe - 60cm",
+  "category": "Blenders",
+  "mrp": 27805.0,
+  "member_ids": [
+   "NE-02621"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Vista Deluxe - 90cm",
+  "category": "Blenders",
+  "mrp": 29285.0,
+  "member_ids": [
+   "NE-02622"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Oscar Plus Black - 60cm",
+  "category": "Blenders",
+  "mrp": 29340.0,
+  "member_ids": [
+   "NE-02625"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Oscar Plus Black - 90cm",
+  "category": "Blenders",
+  "mrp": 31165.0,
+  "member_ids": [
+   "NE-02626"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Zen Split Kitchen Hood - 60cm",
+  "category": "Blenders",
+  "mrp": 28495.0,
+  "member_ids": [
+   "NE-02627"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Zen Split Kitchen Hood - 90cm",
+  "category": "Blenders",
+  "mrp": 30375.0,
+  "member_ids": [
+   "NE-02628"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Oscar Plus Safesense - 60cm",
+  "category": "Blenders",
+  "mrp": 32095.0,
+  "member_ids": [
+   "NE-02629"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Oscar Plus Safesense - 90cm",
+  "category": "Blenders",
+  "mrp": 34335.0,
+  "member_ids": [
+   "NE-02630"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Provo Plus - 60cm",
+  "category": "Blenders",
+  "mrp": 37275.0,
+  "member_ids": [
+   "NE-02631"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Provo Plus - 90cm",
+  "category": "Blenders",
+  "mrp": 40065.0,
+  "member_ids": [
+   "NE-02632"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Premia BLDC - 60cm",
+  "category": "Blenders",
+  "mrp": 33370.0,
+  "member_ids": [
+   "NE-02635"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Premia BLDC - 90cm",
+  "category": "Blenders",
+  "mrp": 35340.0,
+  "member_ids": [
+   "NE-02636"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 0.6-2",
+  "category": "Chimney",
+  "mrp": 3670.0,
+  "member_ids": [
+   "NE-02645"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 1.0",
+  "category": "Chimney",
+  "mrp": 3730.0,
+  "member_ids": [
+   "NE-02646"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 1.5",
+  "category": "Chimney",
+  "mrp": 3915.0,
+  "member_ids": [
+   "NE-02647"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWCS 1.2 - Closed Type",
+  "category": "Chimney",
+  "mrp": 4435.0,
+  "member_ids": [
+   "NE-02648"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 1.8",
+  "category": "Chimney",
+  "mrp": 4340.0,
+  "member_ids": [
+   "NE-02649"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 1.5-2",
+  "category": "Chimney",
+  "mrp": 4090.0,
+  "member_ids": [
+   "NE-02650"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 1.8-2",
+  "category": "Chimney",
+  "mrp": 4370.0,
+  "member_ids": [
+   "NE-02651"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWCS 1.8 - Closed Type",
+  "category": "Chimney",
+  "mrp": 5705.0,
+  "member_ids": [
+   "NE-02652"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Smart 1.8-2",
+  "category": "Chimney",
+  "mrp": 5530.0,
+  "member_ids": [
+   "NE-02653"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWO 2.8-2",
+  "category": "Chimney",
+  "mrp": 5805.0,
+  "member_ids": [
+   "NE-02654"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRWCS 2.8 - Closed Type",
+  "category": "Chimney",
+  "mrp": 6720.0,
+  "member_ids": [
+   "NE-02655"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRCO 4.2-2",
+  "category": "Chimney",
+  "mrp": 11095.0,
+  "member_ids": [
+   "NE-02656"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Travel Kettle 0.5 L",
+  "category": "Rice Cooker",
+  "mrp": 1280.0,
+  "member_ids": [
+   "NE-02657"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKNSS 1.0 L",
+  "category": "Rice Cooker",
+  "mrp": 1295.0,
+  "member_ids": [
+   "NE-02658"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKCS 1.2 L",
+  "category": "Rice Cooker",
+  "mrp": 1345.0,
+  "member_ids": [
+   "NE-02659"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKOSS 1.5 L",
+  "category": "Rice Cooker",
+  "mrp": 1445.0,
+  "member_ids": [
+   "NE-02660"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKOSS 1.8 L",
+  "category": "Rice Cooker",
+  "mrp": 1545.0,
+  "member_ids": [
+   "NE-02661"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKGSS 1.7 L",
+  "category": "Rice Cooker",
+  "mrp": 1545.0,
+  "member_ids": [
+   "NE-02662"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKLSS 1.7 L",
+  "category": "Rice Cooker",
+  "mrp": 1595.0,
+  "member_ids": [
+   "NE-02663"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKCT 1.5 L Cool Touch (White)",
+  "category": "Rice Cooker",
+  "mrp": 1725.0,
+  "member_ids": [
+   "NE-02664",
+   "NE-02665"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKGB 1.8 L Glass",
+  "category": "Rice Cooker",
+  "mrp": 1860.0,
+  "member_ids": [
+   "NE-02666"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKSS 1.0 L",
+  "category": "Rice Cooker",
+  "mrp": 2080.0,
+  "member_ids": [
+   "NE-02667"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PMC 1.0+",
+  "category": "Rice Cooker",
+  "mrp": 2135.0,
+  "member_ids": [
+   "NE-02668"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PKSS 1.5 Ltr",
+  "category": "Rice Cooker",
+  "mrp": 2045.0,
+  "member_ids": [
+   "NE-02669"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Smart 1.7 Kettle",
+  "category": "Rice Cooker",
+  "mrp": 2695.0,
+  "member_ids": [
+   "NE-02670"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PMC 3.0+",
+  "category": "Rice Cooker",
+  "mrp": 3100.0,
+  "member_ids": [
+   "NE-02671"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSSP",
+  "category": "Kettles",
+  "mrp": 1410.0,
+  "member_ids": [
+   "NE-02674"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGSP",
+  "category": "Kettles",
+  "mrp": 1410.0,
+  "member_ids": [
+   "NE-02675"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGMFB",
+  "category": "Kettles",
+  "mrp": 1960.0,
+  "member_ids": [
+   "NE-02676"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSMFB",
+  "category": "Kettles",
+  "mrp": 1960.0,
+  "member_ids": [
+   "NE-02677"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSMFB - D",
+  "category": "Kettles",
+  "mrp": 2015.0,
+  "member_ids": [
+   "NE-02678"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGMFB - D",
+  "category": "Kettles",
+  "mrp": 2015.0,
+  "member_ids": [
+   "NE-02679"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSFSP",
+  "category": "Kettles",
+  "mrp": 2070.0,
+  "member_ids": [
+   "NE-02680"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGFSP",
+  "category": "Kettles",
+  "mrp": 2070.0,
+  "member_ids": [
+   "NE-02681"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGMFS",
+  "category": "Kettles",
+  "mrp": 2100.0,
+  "member_ids": [
+   "NE-02682"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSMFS",
+  "category": "Kettles",
+  "mrp": 2100.0,
+  "member_ids": [
+   "NE-02683"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Waffle Maker PWM 01",
+  "category": "Kettles",
+  "mrp": 2230.0,
+  "member_ids": [
+   "NE-02684"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGDP 01 - Deep Plate - Grill",
+  "category": "Kettles",
+  "mrp": 2615.0,
+  "member_ids": [
+   "NE-02685"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSDP 02",
+  "category": "Kettles",
+  "mrp": 2615.0,
+  "member_ids": [
+   "NE-02686"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGDP 02",
+  "category": "Kettles",
+  "mrp": 2615.0,
+  "member_ids": [
+   "NE-02687"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PSDP 03 SS",
+  "category": "Kettles",
+  "mrp": 2725.0,
+  "member_ids": [
+   "NE-02688"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PGDP 03 SS",
+  "category": "Kettles",
+  "mrp": 2725.0,
+  "member_ids": [
+   "NE-02689"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Slice Pop Up Toaster",
+  "category": "Kettles",
+  "mrp": 2835.0,
+  "member_ids": [
+   "NE-02690"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PPTPKY - Yellow Pop Up Toaster",
+  "category": "Kettles",
+  "mrp": 2945.0,
+  "member_ids": [
+   "NE-02691"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PEG 7.0",
+  "category": "Sandwich Makers",
+  "mrp": 2940.0,
+  "member_ids": [
+   "NE-02692"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "POTG 16A",
+  "category": "Griller",
+  "mrp": 5730.0,
+  "member_ids": [
+   "NE-02693"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "POTG 28AC",
+  "category": "Griller",
+  "mrp": 10295.0,
+  "member_ids": [
+   "NE-02694"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "POTG 9 PC",
+  "category": "Griller",
+  "mrp": 4680.0,
+  "member_ids": [
+   "NE-02695"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "POTG 19 PCR",
+  "category": "Griller",
+  "mrp": 7615.0,
+  "member_ids": [
+   "NE-02696"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "NutriFry 4.5L",
+  "category": "Otg",
+  "mrp": 6290.0,
+  "member_ids": [
+   "NE-02698"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCMD 4.0",
+  "category": "Air Fryer",
+  "mrp": 2995.0,
+  "member_ids": [
+   "NE-02702"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PCMD 5.0",
+  "category": "Air Fryer",
+  "mrp": 3095.0,
+  "member_ids": [
+   "NE-02703"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PEC 4.0",
+  "category": "Coffee Maker",
+  "mrp": 2255.0,
+  "member_ids": [
+   "NE-02704"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Yogurt Maker PYM 02",
+  "category": "Electric Chopper",
+  "mrp": 1325.0,
+  "member_ids": [
+   "NE-02705"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRM 3.0",
+  "category": "Egg Boiler",
+  "mrp": 3225.0,
+  "member_ids": [
+   "NE-02707"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PRM 5.0",
+  "category": "Egg Boiler",
+  "mrp": 3995.0,
+  "member_ids": [
+   "NE-02708"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "Spark - 750W",
+  "category": "Roti Maker",
+  "mrp": 1050.0,
+  "member_ids": [
+   "NE-02711"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PDI 07 - 1000W",
+  "category": "Roti Maker",
+  "mrp": 1215.0,
+  "member_ids": [
+   "NE-02712"
+  ]
+ },
+ {
+  "brand": "Prestige",
+  "product_name": "PDI 06 - 1000W",
+  "category": "Roti Maker",
+  "mrp": 1990.0,
+  "member_ids": [
+   "NE-02713"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle (1.7 Ltr)",
+  "category": "Electric Kettle",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02715"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle (1.2 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-02716"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle SS (1.8 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-02717"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle SS (1.2 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-02718"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle SS (1.5 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-02719"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle (0.5 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-02720"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Round Electric Kettle (1.5 Ltr)",
+  "category": "Electric Kettle",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02721"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Plastic Kettle (1.2 Ltr.)",
+  "category": "Electric Kettle",
+  "mrp": 650.0,
+  "member_ids": [
+   "NE-02725"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Kettle & Noodle Maker (1.7 Ltr.)",
+  "category": "Multi Kettle",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02728"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Momos, Idli & Noodle Maker (1.7 Ltr.)",
+  "category": "Multi Kettle",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02729"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Multi Kettle with Steamer & Egg Attachment (1.5 Ltr.)",
+  "category": "Multi Kettle",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-02730",
+   "NE-02731"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Espresso Coffee Maker",
+  "category": "Coffee Makers",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-02735"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Wireless Milk Frother",
+  "category": "Coffee Makers",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-02736"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "USB Mini Food Chopper",
+  "category": "Coffee Makers",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02737"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Blender - Blend Mate",
+  "category": "Coffee Makers",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02738"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Manual Air Fryer 3.5 Ltr.",
+  "category": "Air Fryer",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02745"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Oven Toaster 10 ltr.",
+  "category": "Oven Toaster",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-02747"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Oven Toaster 12 ltr.",
+  "category": "Oven Toaster",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-02748"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Oven Toaster 18 ltr.",
+  "category": "Oven Toaster",
+  "mrp": 6599.0,
+  "member_ids": [
+   "NE-02749"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Oven Toaster Griller with Rotisserie 28 ltr.",
+  "category": "Oven Toaster",
+  "mrp": 7899.0,
+  "member_ids": [
+   "NE-02750",
+   "NE-02751"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Sandwich Grill Toaster",
+  "category": "Sandwich Makers",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02754"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Sandwich Maker / Grill Toaster",
+  "category": "Sandwich Makers",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-02756"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Jumbo 180° Grill",
+  "category": "Griller",
+  "mrp": 4599.0,
+  "member_ids": [
+   "NE-02757"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Super Jumbo 180° Grill",
+  "category": "Griller",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-02758"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Mini Griller",
+  "category": "Griller",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-02759"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Waffle Maker",
+  "category": "Waffle Maker",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-02760"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Momos & Multimaker",
+  "category": "Waffle Maker",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02763"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Food Steamer",
+  "category": "Waffle Maker",
+  "mrp": 4699.0,
+  "member_ids": [
+   "NE-02764"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Pizza Maker",
+  "category": "Electric Frypans & Multi Cooking Pots",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-02766"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Multifunction Electric Pan with Steamer Attachment",
+  "category": "Electric Frypans & Multi Cooking Pots",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02767",
+   "NE-02768"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Single Pot Slow Cooker 3 Ltr.",
+  "category": "Slow Cooker",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02772"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Tripple Pot Slow Cooker 3x1.5 Ltr.",
+  "category": "Slow Cooker",
+  "mrp": 7799.0,
+  "member_ids": [
+   "NE-02774"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Tripple Pot Slow Cooker 3x1.25 Ltr.",
+  "category": "Slow Cooker",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-02775"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Full Body Rice Cooker 1.2 Ltr",
+  "category": "Rice Cooker",
+  "mrp": 3399.0,
+  "member_ids": [
+   "NE-02780"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Full Body Rice Cooker (Single Pot) 1.8 Ltr",
+  "category": "Rice Cooker",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-02782",
+   "NE-02784"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Infrared Induction Cooker",
+  "category": "Induction Cooker",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-02787"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Touch Induction Cooker",
+  "category": "Induction Cooker",
+  "mrp": 4699.0,
+  "member_ids": [
+   "NE-02788"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Induction Cooker",
+  "category": "Induction Cooker",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-02789"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Induction Cooker with Touch Panel",
+  "category": "Induction Cooker",
+  "mrp": 4699.0,
+  "member_ids": [
+   "NE-02790"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hot Plate Powder Coated 1250 W",
+  "category": "Hot Plate",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-02792"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hot Plate Powder Coated 2000 W",
+  "category": "Hot Plate",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-02793"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hot Plate 1500 W",
+  "category": "Hot Plate",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02794"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Tandoor without Timer",
+  "category": "Electric Tandoor",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-02796"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Tandoor with Timer",
+  "category": "Electric Tandoor",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-02797"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Plus with 3 Jars",
+  "category": "Nutri Mixer",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02804"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Mix with 2 Jars",
+  "category": "Nutri Mixer",
+  "mrp": 3699.0,
+  "member_ids": [
+   "NE-02805"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Mix with 3 Jars",
+  "category": "Nutri Mixer",
+  "mrp": 5899.0,
+  "member_ids": [
+   "NE-02806"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Fresh with 2 Jars",
+  "category": "Nutri Mixer",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-02807"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Smart Blend with 2 Jars",
+  "category": "Nutri Mixer",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02808"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hand Press Juicer",
+  "category": "Juice Extractor",
+  "mrp": 2800.0,
+  "member_ids": [
+   "NE-02809"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Juice Extractor",
+  "category": "Juice Extractor",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02810"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Slow Juicer",
+  "category": "Slow Juicer",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-02811"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Smart Grinder (Chutney & Masala Grinder)",
+  "category": "Mixer Grinder",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02812"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Mixer Grinder with 2 Jars",
+  "category": "Mixer Grinder",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02813"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Mixer Grinder with 3 Jars",
+  "category": "Mixer Grinder",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02814"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Mixer Grinder with 4 Jars",
+  "category": "Mixer Grinder",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-02815"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Juicer Mixer Grinder",
+  "category": "Juicer Mixer Grinder",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-02817"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hand Mixer",
+  "category": "Hand Mixer & Blender",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02818"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hand Blender with Chopper & Whisker",
+  "category": "Hand Mixer & Blender",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-02819"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hand Blender with Chopper",
+  "category": "Hand Mixer & Blender",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02820"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hand Blender",
+  "category": "Hand Mixer & Blender",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02821"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Madhani (BIG)",
+  "category": "Electric Madhani",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02822"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Madhani",
+  "category": "Electric Madhani",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-02823"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Vegetable & Meat Chopper 2 Ltr.",
+  "category": "Electric Chopper",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02827"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Multi Function Electric Chopper 3 Ltr.",
+  "category": "Electric Chopper",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02828"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Roti Maker",
+  "category": "Roti Maker & Multi Maker",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02829"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Multi Maker",
+  "category": "Roti Maker & Multi Maker",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02830"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Steam & Spray Iron with Burst Function",
+  "category": "Steam Iron | Dry Iron",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02831"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Heavy Weight Dry Iron (1000W)",
+  "category": "Steam Iron | Dry Iron",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02833"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Insect Killer 2 FT.",
+  "category": "Insect Killer",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-02835"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Insect Killer 2 x 10W Tubes 1.25 FT.",
+  "category": "Insect Killer",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02836"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Insect Killer 2 x 20W Tubes 2 FT.",
+  "category": "Insect Killer",
+  "mrp": 5299.0,
+  "member_ids": [
+   "NE-02837"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Insect Killer 1 FT.",
+  "category": "Insect Killer",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02838"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Insect Killer 1.5 FT.",
+  "category": "Insect Killer",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-02839"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Garment Steamer (300 ML)",
+  "category": "Garment Steamer",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-02840"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Garment Steamer (60 ML)",
+  "category": "Garment Steamer",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02841"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Garment Steamer (100 ML)",
+  "category": "Garment Steamer",
+  "mrp": 2899.0,
+  "member_ids": [
+   "NE-02842"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Garment Steamer",
+  "category": "Garment Steamer",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-02843"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Garment Steamer with Double Rod",
+  "category": "Garment Steamer",
+  "mrp": 8299.0,
+  "member_ids": [
+   "NE-02844"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Steam Inhaler (200 ML)",
+  "category": "Steam Inhaler",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-02845"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hair Dryer",
+  "category": "Hair Brush | Hair Dryer",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-02846"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hotel Hair Dryer",
+  "category": "Hair Brush | Hair Dryer",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02847"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Professional Hair Dryer",
+  "category": "Hair Brush | Hair Dryer",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02848"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hot Air Brush 3-in-1 / Volumizer Hair Straightener Dry Hair",
+  "category": "Hair Brush | Hair Dryer",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02849"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hair Straightener Ceramic Plate",
+  "category": "Hair Straightener / Curler",
+  "mrp": 750.0,
+  "member_ids": [
+   "NE-02850"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Wet & Dry Hair Straightener Ceramic Plate",
+  "category": "Hair Straightener / Curler",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-02851"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hair Curler",
+  "category": "Hair Straightener / Curler",
+  "mrp": 695.0,
+  "member_ids": [
+   "NE-02853"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Vacuum Cleaner with Suction & Blow Function",
+  "category": "Vacuum Cleaner",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02855"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Function",
+  "category": "Vacuum Cleaner",
+  "mrp": 4899.0,
+  "member_ids": [
+   "NE-02856"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Handheld Vacuum Cleaner with HEPA Filter",
+  "category": "Vacuum Cleaner",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02858"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Wet & Dry Vacuum Cleaner",
+  "category": "Vacuum Cleaner",
+  "mrp": 6499.0,
+  "member_ids": [
+   "NE-02860"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Table Fan 9\" (225 mm)",
+  "category": "Ceiling Fan",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-02865"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Fresh Air Fan 9\" (225 mm)",
+  "category": "Fresh Air / Ventilation Fan",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02867"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Fresh Air Fan 12\" (300 mm)",
+  "category": "Fresh Air / Ventilation Fan",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-02868"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Quartz Heater",
+  "category": "Heater",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02870"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Halogen Heater",
+  "category": "Heater",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02871"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Sun Heater",
+  "category": "Heater",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02872"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Fan Heater",
+  "category": "Heater",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-02873"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Instant Geyser",
+  "category": "Portable Geyser",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02874"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Immersion Water Heater 1000W",
+  "category": "Immersion Water Heater",
+  "mrp": 800.0,
+  "member_ids": [
+   "NE-02875"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Immersion Water Heater (Water Proof) 1000W",
+  "category": "Immersion Water Heater",
+  "mrp": 900.0,
+  "member_ids": [
+   "NE-02876"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Single Wall Water Bottle",
+  "category": "Water Bottle",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-02882"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Stainless Steel Water Bottle",
+  "category": "Water Bottle",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-02883"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Hard Anodised Pressure Cooker 3 Ltr",
+  "category": "Pressure Cooker",
+  "mrp": 2899.0,
+  "member_ids": [
+   "NE-02886",
+   "NE-02887"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Stainless Steel Pressure Cooker (sandwich Bottom) 3ltr.",
+  "category": "Pressure Cooker",
+  "mrp": 2599.0,
+  "member_ids": [
+   "NE-02888",
+   "NE-02889"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Tri-Ply Pressure Cooker 3 Ltr",
+  "category": "Pressure Cooker",
+  "mrp": 3599.0,
+  "member_ids": [
+   "NE-02890"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Tri-Ply Pressure Cooker 5.5 Ltr",
+  "category": "Pressure Cooker",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-02891"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Kadhai With Glass Lid Induction Base",
+  "category": "Non Stick Cookware",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02892"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Frying Pan with Glass Lid Induction Base",
+  "category": "Non Stick Cookware",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-02893"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Non-Stick Grill Pan",
+  "category": "Non Stick Cookware",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-02896"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Tawa",
+  "category": "Non Stick Cookware",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-02897"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Pan, Dosa Tawa",
+  "category": "Non Stick Cookware",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-02898"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Non Stick Cookware Set Kadhai, Frying Pan, Dosa Tawa",
+  "category": "Non Stick Cookware",
+  "mrp": 2399.0,
+  "member_ids": [
+   "NE-02899"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove with Jumbo Burner 4 Burner",
+  "category": "Gas Stove",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-02900",
+   "NE-02901",
+   "NE-02907"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove 2 Burner",
+  "category": "Gas Stove",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02902"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove Auto Ignition 3 Burner",
+  "category": "Gas Stove",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-02903"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove Auto Ignition 2 Burner",
+  "category": "Gas Stove",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02904"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove 3 Burner",
+  "category": "Gas Stove",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02905"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove 3 Burner SS",
+  "category": "Gas Stove",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-02906"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "LPG Gas Stove 2 Burner SS",
+  "category": "Gas Stove",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-02908"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Lunch Box with 4 Stainless Steel Container",
+  "category": "Electric Lunch Box",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-02909"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Lunch Box with 2 Stainless Steel Container",
+  "category": "Electric Lunch Box",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-02910"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Lunch Box with 3 Stainless Steel Container",
+  "category": "Electric Lunch Box",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-02911"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Lunch Box with 3 Steel Container & Insulated Bag",
+  "category": "Lunch Box",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-02913"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Juice Blender & Steel Bottle Combo",
+  "category": "Coffee Set",
+  "mrp": 2998.0,
+  "member_ids": [
+   "NE-02919"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Portable Blender & Electric Kettle Combo",
+  "category": "Coffee Set",
+  "mrp": 3598.0,
+  "member_ids": [
+   "NE-02920"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Lunch & Steel Bottle Combo",
+  "category": "Coffee Set",
+  "mrp": 2098.0,
+  "member_ids": [
+   "NE-02921"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Nutri Fresh 2 Jars & Steel Bottle Combo",
+  "category": "Coffee Set",
+  "mrp": 3498.0,
+  "member_ids": [
+   "NE-02924"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Steel Bottle Combo",
+  "category": "Coffee Set",
+  "mrp": 1598.0,
+  "member_ids": [
+   "NE-02928"
+  ]
+ },
+ {
+  "brand": "Skyline",
+  "product_name": "Electric Kettle & Sandwich Maker Combo",
+  "category": "Coffee Set",
+  "mrp": 3098.0,
+  "member_ids": [
+   "NE-02929"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Voltaic 2.4+ with Micro Cable",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 690.0,
+  "member_ids": [
+   "NE-02970"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Voltaic 2.4+ with Type-C Cable",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 690.0,
+  "member_ids": [
+   "NE-02971"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Voltx 66 w",
+  "category": "Audio, Wearables & Accessories",
+  "mrp": 2490.0,
+  "member_ids": [
+   "NE-02975"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Stellar 4B",
+  "category": "STELLAR",
+  "mrp": 26280.0,
+  "member_ids": [
+   "NE-02991"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Stellar  3B",
+  "category": "STELLAR",
+  "mrp": 21510.0,
+  "member_ids": [
+   "NE-02992"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 4B",
+  "category": "PREMIUM",
+  "mrp": 25380.0,
+  "member_ids": [
+   "NE-02993",
+   "NE-03002"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 4B AI",
+  "category": "PREMIUM",
+  "mrp": 28980.0,
+  "member_ids": [
+   "NE-02994",
+   "NE-03003"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 3B",
+  "category": "PREMIUM",
+  "mrp": 21510.0,
+  "member_ids": [
+   "NE-02995",
+   "NE-03004"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 3B AI",
+  "category": "PREMIUM",
+  "mrp": 23940.0,
+  "member_ids": [
+   "NE-02996",
+   "NE-03005"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium Neo 3B",
+  "category": "PREMIUM",
+  "mrp": 20970.0,
+  "member_ids": [
+   "NE-02997"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 2B",
+  "category": "PREMIUM",
+  "mrp": 15210.0,
+  "member_ids": [
+   "NE-02998",
+   "NE-03006"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Premium 2B AI",
+  "category": "PREMIUM",
+  "mrp": 17100.0,
+  "member_ids": [
+   "NE-02999",
+   "NE-03007"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Regal 4B",
+  "category": "Regal",
+  "mrp": 17910.0,
+  "member_ids": [
+   "NE-03008"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Regal  3B",
+  "category": "Regal",
+  "mrp": 14400.0,
+  "member_ids": [
+   "NE-03009"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Regal 2B",
+  "category": "Regal",
+  "mrp": 10440.0,
+  "member_ids": [
+   "NE-03010"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 4B",
+  "category": "STANDARD",
+  "mrp": 13680.0,
+  "member_ids": [
+   "NE-03017"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 4B AI",
+  "category": "STANDARD",
+  "mrp": 16290.0,
+  "member_ids": [
+   "NE-03018"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 3B",
+  "category": "STANDARD",
+  "mrp": 11520.0,
+  "member_ids": [
+   "NE-03019"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 3B AI",
+  "category": "STANDARD",
+  "mrp": 13500.0,
+  "member_ids": [
+   "NE-03020"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 2B",
+  "category": "STANDARD",
+  "mrp": 8100.0,
+  "member_ids": [
+   "NE-03021"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Standard 2B AI",
+  "category": "STANDARD",
+  "mrp": 9270.0,
+  "member_ids": [
+   "NE-03022"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto CR 4B",
+  "category": "Robusto",
+  "mrp": 31500.0,
+  "member_ids": [
+   "NE-03023"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 4B",
+  "category": "Robusto",
+  "mrp": 31500.0,
+  "member_ids": [
+   "NE-03024"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 4B AI",
+  "category": "Robusto",
+  "mrp": 34650.0,
+  "member_ids": [
+   "NE-03025"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 3B",
+  "category": "Robusto",
+  "mrp": 26820.0,
+  "member_ids": [
+   "NE-03026"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 3B AI",
+  "category": "Robusto",
+  "mrp": 29250.0,
+  "member_ids": [
+   "NE-03027"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 2B",
+  "category": "Robusto",
+  "mrp": 16920.0,
+  "member_ids": [
+   "NE-03028"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Robusto 2B AI",
+  "category": "Robusto",
+  "mrp": 18540.0,
+  "member_ids": [
+   "NE-03029"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 4B",
+  "category": "Sterno",
+  "mrp": 26640.0,
+  "member_ids": [
+   "NE-03030"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 4B AI",
+  "category": "Sterno",
+  "mrp": 29430.0,
+  "member_ids": [
+   "NE-03031"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 3B",
+  "category": "Sterno",
+  "mrp": 22500.0,
+  "member_ids": [
+   "NE-03032"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 3B AI",
+  "category": "Sterno",
+  "mrp": 24660.0,
+  "member_ids": [
+   "NE-03033"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 2B",
+  "category": "Sterno",
+  "mrp": 15930.0,
+  "member_ids": [
+   "NE-03034"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 2B AI",
+  "category": "Sterno",
+  "mrp": 17190.0,
+  "member_ids": [
+   "NE-03035"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sterno 2B Plus",
+  "category": "Sterno",
+  "mrp": 17100.0,
+  "member_ids": [
+   "NE-03036"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zeolite 60 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 57600.0,
+  "member_ids": [
+   "NE-03048"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zeolite 75 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 61200.0,
+  "member_ids": [
+   "NE-03049"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zeolite 90 BLDC HS",
+  "category": "Chimneys",
+  "mrp": 64800.0,
+  "member_ids": [
+   "NE-03050"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Topaz 90",
+  "category": "Chimneys",
+  "mrp": 41490.0,
+  "member_ids": [
+   "NE-03054"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Topaz 75",
+  "category": "Chimneys",
+  "mrp": 39600.0,
+  "member_ids": [
+   "NE-03055"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Topaz 60",
+  "category": "Chimneys",
+  "mrp": 37980.0,
+  "member_ids": [
+   "NE-03056"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Quartz 90 BLDC",
+  "category": "Chimneys",
+  "mrp": 46080.0,
+  "member_ids": [
+   "NE-03057"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Quartz 75 BLDC",
+  "category": "Chimneys",
+  "mrp": 44280.0,
+  "member_ids": [
+   "NE-03058"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Quartz 60 BLDC",
+  "category": "Chimneys",
+  "mrp": 42480.0,
+  "member_ids": [
+   "NE-03059"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Ruby 90 BLDC",
+  "category": "Chimneys",
+  "mrp": 36990.0,
+  "member_ids": [
+   "NE-03060"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Ruby 75 BLDC",
+  "category": "Chimneys",
+  "mrp": 35100.0,
+  "member_ids": [
+   "NE-03061"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Ruby 60 BLDC",
+  "category": "Chimneys",
+  "mrp": 32400.0,
+  "member_ids": [
+   "NE-03062"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zircon 90 BLDC",
+  "category": "Chimneys",
+  "mrp": 49140.0,
+  "member_ids": [
+   "NE-03066"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zircon 75 BLDC",
+  "category": "Chimneys",
+  "mrp": 47340.0,
+  "member_ids": [
+   "NE-03067"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Zircon 60 BLDC",
+  "category": "Chimneys",
+  "mrp": 45540.0,
+  "member_ids": [
+   "NE-03068"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sapphire 90",
+  "category": "Chimneys",
+  "mrp": 35100.0,
+  "member_ids": [
+   "NE-03075"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sapphire 75",
+  "category": "Chimneys",
+  "mrp": 31500.0,
+  "member_ids": [
+   "NE-03076"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Sapphire 60",
+  "category": "Chimneys",
+  "mrp": 28260.0,
+  "member_ids": [
+   "NE-03077"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Turquoise 90 BLDC",
+  "category": "Chimneys",
+  "mrp": 36990.0,
+  "member_ids": [
+   "NE-03078"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Turquoise 75 BLDC",
+  "category": "Chimneys",
+  "mrp": 33840.0,
+  "member_ids": [
+   "NE-03079"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Turquoise 60 BLDC",
+  "category": "Chimneys",
+  "mrp": 30690.0,
+  "member_ids": [
+   "NE-03080"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Pearl 90",
+  "category": "Chimneys",
+  "mrp": 29970.0,
+  "member_ids": [
+   "NE-03087"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Pearl 75",
+  "category": "Chimneys",
+  "mrp": 28350.0,
+  "member_ids": [
+   "NE-03088"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Pearl 60",
+  "category": "Chimneys",
+  "mrp": 26820.0,
+  "member_ids": [
+   "NE-03089"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 5B86",
+  "category": "Palladium Hobs(Without FFD)",
+  "mrp": 46890.0,
+  "member_ids": [
+   "NE-03102"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Palladium FB 5B86 FFD",
+  "category": "Palladium Hobs(With FFD)",
+  "mrp": 54990.0,
+  "member_ids": [
+   "NE-03109"
+  ]
+ },
+ {
+  "brand": "Sujata",
+  "product_name": "Vesta 80L (Full Tuch with Airfry basket)",
+  "category": "Built in Oven",
+  "mrp": 69300.0,
+  "member_ids": [
+   "NE-03124"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SHA 480 AGS",
+  "category": "Cooktop",
+  "mrp": 22490.0,
+  "member_ids": [
+   "NE-03159"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SHA 380 AGS",
+  "category": "Cooktop",
+  "mrp": 18790.0,
+  "member_ids": [
+   "NE-03160"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SHA 480 ABS",
+  "category": "Cooktop",
+  "mrp": 21890.0,
+  "member_ids": [
+   "NE-03161"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SSS 4B AI",
+  "category": "Cooktop",
+  "mrp": 20290.0,
+  "member_ids": [
+   "NE-03163"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "LPG STOVE-SSS 3B AI",
+  "category": "Cooktop",
+  "mrp": 16890.0,
+  "member_ids": [
+   "NE-03164"
+  ]
+ },
+ {
+  "brand": "Sunflame",
+  "product_name": "SUNFLAME GAS LIGHTER",
+  "category": "Cooktop",
+  "mrp": 255.0,
+  "member_ids": [
+   "NE-03203"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Zeus Plus",
+  "category": "Audio & Wearables",
+  "mrp": 4690.0,
+  "member_ids": [
+   "NE-03210"
+  ]
+ },
+ {
+  "brand": "Swiss Military",
+  "product_name": "Water",
+  "category": "Audio & Wearables",
+  "mrp": 2190.0,
+  "member_ids": [
+   "NE-03220"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL WIRELESS CHARGING PAD 15W BLK",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03229",
+   "NE-03230"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL WIRELESS CHARGING STAND 15W WH",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03231"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL MAGSAFE WIRELES CHARGING PAD 7.5W",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03232"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL MAGSAFE WIRELES CHARGE STAND 7.5W WH",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-03233"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL MAGSAFE WIRELESS CAR CHARGER 10W",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03234"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL MAGSAFE PAD WITH STAND, NO PSU, BK, APL",
+  "category": "Electronics Accessories",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-03235",
+   "NE-03236"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "Convertible Magnetic Wireless Charging Stand + Qi2 15W",
+  "category": "Electronics Accessories",
+  "mrp": 8599.0,
+  "member_ids": [
+   "NE-03240"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL STANDALONE APPLE WATCH DONGLE BLK",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03245",
+   "NE-03246"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL QI2 3-IN-1 WIRELESS CHARGING STAND",
+  "category": "Electronics Accessories",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-03247"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BELKIN QI2 3-IN-1 TRAVEL PAD With Pouch",
+  "category": "Electronics Accessories",
+  "mrp": 23999.0,
+  "member_ids": [
+   "NE-03248"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BELKIN QI2 2-IN-1 TRAVEL PAD MASS",
+  "category": "Electronics Accessories",
+  "mrp": 21999.0,
+  "member_ids": [
+   "NE-03249"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL QI2 2-IN-1 MAG WIRELESS CHARG STAND",
+  "category": "Electronics Accessories",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-03250"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL PD 42W PPS USB-C WALL CHARGER, WHT",
+  "category": "Electronics Accessories",
+  "mrp": 4599.0,
+  "member_ids": [
+   "NE-03257"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL HYBRID AC PB 5K PD 25W W/IN PLUG",
+  "category": "Electronics Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-03268"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL HYBRID AC Wall Adapter Plugs only",
+  "category": "Electronics Accessories",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-03269"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL MAGSAFE WIRELES PWRBANK IPHONE12 BK",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-03288",
+   "NE-03289"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BOOSTCHARGE PRO MAGNETIC POWER BANK 10K, BLACK",
+  "category": "Electronics Accessories",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-03298",
+   "NE-03299"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL IPHONE MOUNT FOR MACBOOK BLACK",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03303",
+   "NE-03304"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL LIGHTNING TO USB-A CABLE 2M BLACK",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03307",
+   "NE-03308"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL LIGHTNING TO TYPE C CABLE WHT",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03313",
+   "NE-03314"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL M-USB TO USB 2.0 CAB 1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-03319"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL M-USB TO USB 2.0 CAB 1M WHT",
+  "category": "Electronics Accessories",
+  "mrp": 599.0,
+  "member_ids": [
+   "NE-03320"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB 3.1 TYPC-USB A 10GBPS 3A 1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03321"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-A CABLE 1M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03322"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-A CABLE 1M WHT",
+  "category": "Electronics Accessories",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03323"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-A CABLE 2M MBK",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03324"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-A CABLE 2M WHT",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03325"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-C CABLE 1M BLK 60W",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03330"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-C CABLE 1M WHT 60W",
+  "category": "Electronics Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03331"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-C CABLE 2M BLK 60W",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-03332"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO USB-C CABLE 2M WHT 60W",
+  "category": "Electronics Accessories",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-03333"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "Universal Cable 15W (USB-A cable with USB-C,® Micro-USB and Lightning connectors)",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03347"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BELKIN 2-IN-1 USB-C & LTG BRAIDED CABLE, PCR, 1.5M, BLK",
+  "category": "Electronics Accessories",
+  "mrp": 2599.0,
+  "member_ids": [
+   "NE-03348",
+   "NE-03349"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL THUNDERBOLT 4 CABLE 2M Active",
+  "category": "Electronics Accessories",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03350"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB 4.0  240W 20GBPS 2M CABLE",
+  "category": "Electronics Accessories",
+  "mrp": 4199.0,
+  "member_ids": [
+   "NE-03351"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB4 240W 20GBPS 1.2M CABLE",
+  "category": "Electronics Accessories",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-03352"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "Thunderbold 5 Cable 4 speed 80gbps to 120 gbps 4k uhd display supports upto 8k, 4k@540hz",
+  "category": "Electronics Accessories",
+  "mrp": 7599.0,
+  "member_ids": [
+   "NE-03353"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL ULTRA HD HIGH SPEED HDMI CABLE 2M",
+  "category": "Electronics Accessories",
+  "mrp": 4999.0,
+  "member_ids": [
+   "NE-03363"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO HDMI 2.1 CABLE 2M BLK",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03364"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO DP1.4 CABLE (2M)",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03365"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL LTG AUDIO + CHARGE ROCKSTAR ADAPTER",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-03366"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO VGA ADAPTOR WITH 60W PD",
+  "category": "Electronics Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03371"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO HDMI ADAPTOR WITH 60W PD",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03372"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO HDMI 2.1 ADAPTER",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03373"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO ETHERNET ADPT WITH 60W PD",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03374",
+   "NE-03375"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "USB-C 6-IN-1 MULTIPORT HUB WITH MOUNT",
+  "category": "Electronics Accessories",
+  "mrp": 4500.0,
+  "member_ids": [
+   "NE-03376"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO 2.5GB ETHERNET ADPT",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03377"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB TYPE-C 11-IN-1 MULTIPORT DOCK",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-03378"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C VIDEO ADAPTER",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03379"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 5-IN-1 MULTIPORT ADAPTER HUB",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-03381"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 7-IN-1 MULTIPORT ADAPTER",
+  "category": "Electronics Accessories",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-03382"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 7-IN-1 PORT ADAPTER-SPIDERMAN",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-03383"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 7-IN-1 PORT ADAPTER-IRONMAN",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-03384"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 5-IN-1 MULTIPORT HUB 4K60",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03385"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 6-IN-1 MULTIPORT HUB 4K60",
+  "category": "Electronics Accessories",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-03386"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 7-IN-1 MULTIPORT HUB 4K60",
+  "category": "Electronics Accessories",
+  "mrp": 7999.0,
+  "member_ids": [
+   "NE-03387"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB C MULTI-MEDIA HUB + CHARGE",
+  "category": "Electronics Accessories",
+  "mrp": 9999.0,
+  "member_ids": [
+   "NE-03388"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 7-IN-1 MULTIMEDIA HUB GEN 2",
+  "category": "Electronics Accessories",
+  "mrp": 12999.0,
+  "member_ids": [
+   "NE-03389"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C DUAL DISPLAY DOCKING STATION",
+  "category": "Electronics Accessories",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-03390"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL THUNDERBOLT 3 DOCK PRO",
+  "category": "Electronics Accessories",
+  "mrp": 39999.0,
+  "member_ids": [
+   "NE-03392"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL THUNDERBOLT 3 DOCK CORE",
+  "category": "Electronics Accessories",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-03393"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL PRO THUNDERBOLT 4 DOCK",
+  "category": "Electronics Accessories",
+  "mrp": 49999.0,
+  "member_ids": [
+   "NE-03394"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL THUNDERBOLT 4 HUB CORE",
+  "category": "Electronics Accessories",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-03395"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 11-IN-1 UNIVERSAL DOCK TRIPLE Display",
+  "category": "Electronics Accessories",
+  "mrp": 25999.0,
+  "member_ids": [
+   "NE-03396"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "Universal USB-C 8-in-1 Dual Display Core Hub",
+  "category": "Electronics Accessories",
+  "mrp": 14999.0,
+  "member_ids": [
+   "NE-03397"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "USB-C 6-in-1 Core GaN Dock 130W",
+  "category": "Electronics Accessories",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-03398"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB TYPE-C TO 3.5 MM AUDIO + 60W PD",
+  "category": "Electronics Accessories",
+  "mrp": 6599.0,
+  "member_ids": [
+   "NE-03399"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB TYPE-C TO TYPE-C AUDIO + 60W PD",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-03400"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C 4 PORT MINI HUB",
+  "category": "Electronics Accessories",
+  "mrp": 5499.0,
+  "member_ids": [
+   "NE-03403"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL USB-C TO 4-PORT USB-C HUB",
+  "category": "Electronics Accessories",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03404"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL IPHONE 15 TEMPERED GLASS 2 PACK",
+  "category": "Electronics Accessories",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03405"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL IPHONE 15/14 PRO PRIVACY AM",
+  "category": "Electronics Accessories",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-03408"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "TruePrivacy Screen Protector for MacBook 13 Air",
+  "category": "Electronics Accessories",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-03420",
+   "NE-03421"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BEL SOUNDFORM RHYTHM TWS EARBUDS BLACK",
+  "category": "Electronics Accessories",
+  "mrp": 4499.0,
+  "member_ids": [
+   "NE-03429",
+   "NE-03430"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "BELKIN SOUNDFORM ADAPT OVER EAR HEADSET",
+  "category": "Electronics Accessories",
+  "mrp": 6999.0,
+  "member_ids": [
+   "NE-03431"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "COVER/GRIP,TPU/PC,IPH 16,SF,CLEAR",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03432"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "COVER/GRIP,TPU/PC,IPH 16PRO,SF,CLEAR",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03433"
+  ]
+ },
+ {
+  "brand": "Belkin",
+  "product_name": "COVER/GRIP,TPU/PC,IPH 16PROMAX,SF,CLEAR",
+  "category": "Electronics Accessories",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03434"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "SilentPro Blossom Smart",
+  "category": "Home Appliances & Fans",
+  "mrp": 21029.0,
+  "member_ids": [
+   "NE-03435"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "SilentPro Blossom",
+  "category": "Home Appliances & Fans",
+  "mrp": 19999.0,
+  "member_ids": [
+   "NE-03436"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Silentpro Enso Wood",
+  "category": "Home Appliances & Fans",
+  "mrp": 17999.0,
+  "member_ids": [
+   "NE-03437"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Silentpro Enso Antidust",
+  "category": "Home Appliances & Fans",
+  "mrp": 13149.0,
+  "member_ids": [
+   "NE-03438"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Silentpro Enso Smart (IOT)",
+  "category": "Home Appliances & Fans",
+  "mrp": 12849.0,
+  "member_ids": [
+   "NE-03439"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Silentpro Enso",
+  "category": "Home Appliances & Fans",
+  "mrp": 11549.0,
+  "member_ids": [
+   "NE-03440"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Uranus",
+  "category": "Home Appliances & Fans",
+  "mrp": 12159.0,
+  "member_ids": [
+   "NE-03443"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Nucleoid",
+  "category": "Home Appliances & Fans",
+  "mrp": 5059.0,
+  "member_ids": [
+   "NE-03452"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Super-Efficient BLDC Ceiling Fans - Remote/IoT",
+  "category": "Home Appliances & Fans",
+  "mrp": 5400.0,
+  "member_ids": [
+   "NE-03453",
+   "NE-03463"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Roverr UL Smart",
+  "category": "Home Appliances & Fans",
+  "mrp": 16949.0,
+  "member_ids": [
+   "NE-03454"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Roverr UL",
+  "category": "Home Appliances & Fans",
+  "mrp": 13649.0,
+  "member_ids": [
+   "NE-03455"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Rover Non UL",
+  "category": "Home Appliances & Fans",
+  "mrp": 12549.0,
+  "member_ids": [
+   "NE-03456"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Niteo",
+  "category": "Home Appliances & Fans",
+  "mrp": 5749.0,
+  "member_ids": [
+   "NE-03458"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Decorative Ceiling Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 12699.0,
+  "member_ids": [
+   "NE-03466"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Toro",
+  "category": "Home Appliances & Fans",
+  "mrp": 5099.0,
+  "member_ids": [
+   "NE-03469"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Senorita",
+  "category": "Home Appliances & Fans",
+  "mrp": 5239.0,
+  "member_ids": [
+   "NE-03472"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Seno Prime",
+  "category": "Home Appliances & Fans",
+  "mrp": 5239.0,
+  "member_ids": [
+   "NE-03473"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Rapidus",
+  "category": "Home Appliances & Fans",
+  "mrp": 4699.0,
+  "member_ids": [
+   "NE-03475"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Standard Ceiling Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03477"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Riviera Ultra",
+  "category": "Home Appliances & Fans",
+  "mrp": 4089.0,
+  "member_ids": [
+   "NE-03480"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Riviera",
+  "category": "Home Appliances & Fans",
+  "mrp": 3649.0,
+  "member_ids": [
+   "NE-03481"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Riviera Neo",
+  "category": "Home Appliances & Fans",
+  "mrp": 3649.0,
+  "member_ids": [
+   "NE-03482"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Rushwind 900",
+  "category": "Home Appliances & Fans",
+  "mrp": 3411.0,
+  "member_ids": [
+   "NE-03483"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Economy Decorative Ceiling Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03485"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Super Briz Royale",
+  "category": "Home Appliances & Fans",
+  "mrp": 3839.0,
+  "member_ids": [
+   "NE-03489"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Optimus",
+  "category": "Home Appliances & Fans",
+  "mrp": 3849.0,
+  "member_ids": [
+   "NE-03491"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Economy Ceiling Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03492"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Sub Economy Ceiling Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 11999.0,
+  "member_ids": [
+   "NE-03496"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Sea Breeze",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03497"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Sea Wind",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03498"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Sea Bliss",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03499"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Star Drift",
+  "category": "Home Appliances & Fans",
+  "mrp": 3250.0,
+  "member_ids": [
+   "NE-03500"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Star Spin",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03501"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Star Briz",
+  "category": "Home Appliances & Fans",
+  "mrp": 2749.0,
+  "member_ids": [
+   "NE-03502"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Verno",
+  "category": "Home Appliances & Fans",
+  "mrp": 2839.0,
+  "member_ids": [
+   "NE-03503"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Winzer",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03504"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Pavan",
+  "category": "Home Appliances & Fans",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03505"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Star 220",
+  "category": "Home Appliances & Fans",
+  "mrp": 3299.0,
+  "member_ids": [
+   "NE-03506"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Nidus",
+  "category": "Home Appliances & Fans",
+  "mrp": 3500.0,
+  "member_ids": [
+   "NE-03507"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "TPW Range (Portable)",
+  "category": "Home Appliances & Fans",
+  "mrp": 24000.0,
+  "member_ids": [
+   "NE-03508"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Table Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 12699.0,
+  "member_ids": [
+   "NE-03509"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "TF HS Torpedo",
+  "category": "Home Appliances & Fans",
+  "mrp": 3899.0,
+  "member_ids": [
+   "NE-03510"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "TF Hiflo Wave Plus",
+  "category": "Home Appliances & Fans",
+  "mrp": 3149.0,
+  "member_ids": [
+   "NE-03511"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "TF Hi Flo Neo",
+  "category": "Home Appliances & Fans",
+  "mrp": 3149.0,
+  "member_ids": [
+   "NE-03512"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Pedestal Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 12699.0,
+  "member_ids": [
+   "NE-03513"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "PF Sstorm 2",
+  "category": "Home Appliances & Fans",
+  "mrp": 6799.0,
+  "member_ids": [
+   "NE-03514"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "PF HS Torpedo",
+  "category": "Home Appliances & Fans",
+  "mrp": 4699.0,
+  "member_ids": [
+   "NE-03517"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "PF Hiflo Wave Plus",
+  "category": "Home Appliances & Fans",
+  "mrp": 4449.0,
+  "member_ids": [
+   "NE-03518"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "PF Hi Flo Neo",
+  "category": "Home Appliances & Fans",
+  "mrp": 4449.0,
+  "member_ids": [
+   "NE-03519"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "PF Wave Star Neo",
+  "category": "Home Appliances & Fans",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03520"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Wall Mounting Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 12699.0,
+  "member_ids": [
+   "NE-03522"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM Sstorm 2",
+  "category": "Home Appliances & Fans",
+  "mrp": 6199.0,
+  "member_ids": [
+   "NE-03523"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM HS Torpedo 16\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-03524"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM HS Torpedo 12\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 3824.0,
+  "member_ids": [
+   "NE-03525"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM Hiflo Wave Plus",
+  "category": "Home Appliances & Fans",
+  "mrp": 3699.0,
+  "member_ids": [
+   "NE-03526"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM Hi Flo Neo 16\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 3699.0,
+  "member_ids": [
+   "NE-03527"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "WM Hi Flo Neo 12\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 3399.0,
+  "member_ids": [
+   "NE-03528"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Domestic Exhaust Range",
+  "category": "Home Appliances & Fans",
+  "mrp": 15499.0,
+  "member_ids": [
+   "NE-03529"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Metal Exhaust Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 15499.0,
+  "member_ids": [
+   "NE-03530"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Trans Air 12\" - Reversible",
+  "category": "Home Appliances & Fans",
+  "mrp": 3399.0,
+  "member_ids": [
+   "NE-03531"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Trans Air 12\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 3249.0,
+  "member_ids": [
+   "NE-03532"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Trans Air 9\" - Reversible",
+  "category": "Home Appliances & Fans",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-03533"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Trans Air 9\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 2899.0,
+  "member_ids": [
+   "NE-03534"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Trans Air 6\"",
+  "category": "Home Appliances & Fans",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-03535"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Plastic Ventilating Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 1649.0,
+  "member_ids": [
+   "NE-03544"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Ventilus 10\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 2349.0,
+  "member_ids": [
+   "NE-03545"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Ventilus 8\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03546"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Ventilus 6\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03547"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Ventilus HS 6\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03548"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Ventilus HS 8\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 2349.0,
+  "member_ids": [
+   "NE-03549"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Mount Air New 6\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-03550"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Mount Air New 6\" Wood",
+  "category": "Home Appliances & Fans",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-03551"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Mount Air New 4\" White",
+  "category": "Home Appliances & Fans",
+  "mrp": 1649.0,
+  "member_ids": [
+   "NE-03552"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Mount Air New 4\" Wood",
+  "category": "Home Appliances & Fans",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03553"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Heavy Duty Exhaust Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-03563"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Air Circulators",
+  "category": "Home Appliances & Fans",
+  "mrp": 24000.0,
+  "member_ids": [
+   "NE-03577"
+  ]
+ },
+ {
+  "brand": "Crompton",
+  "product_name": "Other Fans",
+  "category": "Home Appliances & Fans",
+  "mrp": 12699.0,
+  "member_ids": [
+   "NE-03584"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 450 Premium Black",
+  "category": "Large Audio",
+  "mrp": 15998.99,
+  "member_ids": [
+   "NE-03586"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 700 Premium Black",
+  "category": "Large Audio",
+  "mrp": 23998.86,
+  "member_ids": [
+   "NE-03587"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Summit Classic Black",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-03589"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB331 MagnaCharge Ash Black",
+  "category": "Accessories",
+  "mrp": 1564.16,
+  "member_ids": [
+   "NE-03590",
+   "NE-03610",
+   "NE-03669"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 148 Gen 2 Active Black",
+  "category": "Personal Audio",
+  "mrp": 1149.0,
+  "member_ids": [
+   "NE-03591",
+   "NE-03648"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra 3 - Active Black",
+  "category": "Wearables",
+  "mrp": 1566.0,
+  "member_ids": [
+   "NE-03592"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 213 Shadow Black",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03594"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 200 - Active Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03595"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 Lite Carbon Black",
+  "category": "Accessories",
+  "mrp": 923.92,
+  "member_ids": [
+   "NE-03596"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 101v2 Pitch Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03597"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 430 Iris Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03599"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Orbit 2 Active Black",
+  "category": "Wearables",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-03601"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 212 Noir Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03603"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Strive Onyx Black",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-03604"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 - Carbon Black",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03605"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra 4 Active Black",
+  "category": "Wearables",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-03607"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 161 ANC Elite Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03608",
+   "NE-03662",
+   "NE-03679"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Zen ANC Onyx Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03609"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Iris Crystal Black",
+  "category": "Personal Audio",
+  "mrp": 2398.99,
+  "member_ids": [
+   "NE-03613"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Crown Gunmetal Grey",
+  "category": "Personal Audio",
+  "mrp": 2999.01,
+  "member_ids": [
+   "NE-03614"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar orbit-Active Black",
+  "category": "Wearables",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03615",
+   "NE-03904"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 71 Active Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03616"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 - Carbon Black",
+  "category": "Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03618"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 700 ANC Blazing Silver",
+  "category": "Personal Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03619"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Bold Onyx Black",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-03620"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 480 Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-03621",
+   "NE-03689"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 90C Black",
+  "category": "Personal Audio",
+  "mrp": 449.01,
+  "member_ids": [
+   "NE-03622",
+   "NE-03744"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 210 ANC Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03623",
+   "NE-03846"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Gen 2 Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03624"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 701 ANC Obsidian Grey",
+  "category": "Personal Audio",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-03625"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Primo Active Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03626"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Lucid Zinc White",
+  "category": "Personal Audio",
+  "mrp": 1698.99,
+  "member_ids": [
+   "NE-03627"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Magma - Charcoal black",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03628"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 Pro - Carbon Black",
+  "category": "Accessories",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-03629"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Discovery Pro :- Active Black",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-03630"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "CineHead E1 Carbon Black",
+  "category": "CineHead",
+  "mrp": 8499.0,
+  "member_ids": [
+   "NE-03631"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 400 : Space Black",
+  "category": "Large Audio",
+  "mrp": 15998.99,
+  "member_ids": [
+   "NE-03632"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Vista - Active black",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-03633"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 68 Pro Premium Black",
+  "category": "Large Audio",
+  "mrp": 5699.0,
+  "member_ids": [
+   "NE-03634"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Elite ANC Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03635",
+   "NE-03681",
+   "NE-03698"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 111v2 Classic Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03636"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Prime 415 Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03637",
+   "NE-03818"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus 214 Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-03638"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Ace Gen 2 Shadow Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03639"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Aavante Bar 600 Jade Black",
+  "category": "Large Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03640"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Lucid Gunmetal Black",
+  "category": "Personal Audio",
+  "mrp": 1698.99,
+  "member_ids": [
+   "NE-03641"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Magma Steel black",
+  "category": "Wearables",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03642"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Plus 450 ANC Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-03643",
+   "NE-03875"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Immortal Katana Blade 2.0 Gunmetal black",
+  "category": "Personal Audio",
+  "mrp": 1670.21,
+  "member_ids": [
+   "NE-03644"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 358 Pro Raging Black",
+  "category": "Large Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03645"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Trendz Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03646"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 513 ANC Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-03647"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 421 Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03649"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 700 ANC Midnight Blue",
+  "category": "Personal Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03650"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Bold Fern Green",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-03652"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 280 ANC Active Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03653"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Loop Cool Grey",
+  "category": "Personal Audio",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03654"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 161 Pebble Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03655"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Alpha Jet Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03656"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 313 Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03657"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 181 Pro Mocha Elegance",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03658"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Beat Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03659"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 213 Sandstone",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03660"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Elite ANC Active Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03661",
+   "NE-03787",
+   "NE-03928"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 - Steel Blue",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03663"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Zen ANC Ivory White",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03664"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 512 ANC Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-03666"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Ultra Pro Gunmetal Black",
+  "category": "Personal Audio",
+  "mrp": 1998.99,
+  "member_ids": [
+   "NE-03668"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes ProClip Silk Grey",
+  "category": "Personal Audio",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03670"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 55 Black",
+  "category": "Personal Audio",
+  "mrp": 299.0,
+  "member_ids": [
+   "NE-03671",
+   "NE-03847"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 313 Jade Green",
+  "category": "Personal Audio",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03672"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 219 Carbon black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03673"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus 311 Charcoal Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03674",
+   "NE-04177"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 313 Gold Mist",
+  "category": "Personal Audio",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03676"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 111v2 Ivory White",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03677"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Ultra Pro Zinc White",
+  "category": "Personal Audio",
+  "mrp": 1998.99,
+  "member_ids": [
+   "NE-03680"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Infinity Active Black",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-03682"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 91 Active Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03683"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 513 ANC Ivory Glow",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-03684"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Ace Active Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03685"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 300C Active Black",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-03686"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 101v2 Smoke White",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03688"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus 318 Active Black",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-03690"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Gen 2 Cream White",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03691"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Rockerz 255 Neo Active Black",
+  "category": "Personal Audio",
+  "mrp": 1335.21,
+  "member_ids": [
+   "NE-03692"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 213 Berry Blue",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03693"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Strive Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-03694"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 203 - Active Black",
+  "category": "Personal Audio",
+  "mrp": 974.63,
+  "member_ids": [
+   "NE-03695"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Trendz Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03696"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Call 3 Plus - Active Black",
+  "category": "Wearables",
+  "mrp": 1599.04,
+  "member_ids": [
+   "NE-03697"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma 3 - Active black",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-03699"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 421 Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03700"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 91 Mist Grey",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03701"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat 55W Fast Car Charger Carbon Black",
+  "category": "Accessories",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-03702"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 350 Black Type C",
+  "category": "Large Audio",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03703",
+   "NE-04170"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal Bang Premium Black",
+  "category": "Large Audio",
+  "mrp": 3298.99,
+  "member_ids": [
+   "NE-03704"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra 4 Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-03705"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Summit Steel Black",
+  "category": "Wearables",
+  "mrp": 2498.82,
+  "member_ids": [
+   "NE-03707"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 - Steel Blue",
+  "category": "Accessories",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-03708"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 412 Active Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03709"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 212 Peach Blush",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03710"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes ProClip Satin White",
+  "category": "Personal Audio",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03711"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 600 Premium Black",
+  "category": "Large Audio",
+  "mrp": 22998.99,
+  "member_ids": [
+   "NE-03712"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 900 Pro Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03713"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma 3 Curv Active Black",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-03714"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 Pro - Carbon Black",
+  "category": "Accessories",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03715"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Crown Blazing Red",
+  "category": "Personal Audio",
+  "mrp": 2999.01,
+  "member_ids": [
+   "NE-03716"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 208 Raging Black",
+  "category": "Large Audio",
+  "mrp": 1139.21,
+  "member_ids": [
+   "NE-03717"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Unity ANC Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03718",
+   "NE-04040",
+   "NE-04582"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 210 ANC Starry Night",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-03719"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 900 C Pro Black",
+  "category": "Personal Audio",
+  "mrp": 1144.32,
+  "member_ids": [
+   "NE-03720"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 212 Ivory",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03721"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Summit Onyx Black",
+  "category": "Wearables",
+  "mrp": 2299.64,
+  "member_ids": [
+   "NE-03722",
+   "NE-03867"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal 195  Midnight Black",
+  "category": "Large Audio",
+  "mrp": 6498.99,
+  "member_ids": [
+   "NE-03724"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus 214 Lavender Haze",
+  "category": "Personal Audio",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-03725"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 71 Aqua Blue",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03726"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB435 Turbo 35W Onyx Black",
+  "category": "Accessories",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-03727",
+   "NE-03834",
+   "NE-03911"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 280 ANC Mint Blue",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03728"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus 214 Silver Mist",
+  "category": "Personal Audio",
+  "mrp": 1099.0,
+  "member_ids": [
+   "NE-03729"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Rush Infinite Black",
+  "category": "Large Audio",
+  "mrp": 2699.0,
+  "member_ids": [
+   "NE-03730"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Nyx Phantom Black",
+  "category": "Large Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-03731"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm call 3 - Active black",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-03733"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Elite ANC Dawn Blue",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03734"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 - Burgundy",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03735"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom MagnaCharge Air carbonblack",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-03736"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Crown Sapphire Blue",
+  "category": "Personal Audio",
+  "mrp": 2999.01,
+  "member_ids": [
+   "NE-03737"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Active Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-03738"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt PartyPal 300 Premium Black",
+  "category": "Large Audio",
+  "mrp": 12998.99,
+  "member_ids": [
+   "NE-03739"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Plus Neo Active Black",
+  "category": "Personal Audio",
+  "mrp": 1199.0,
+  "member_ids": [
+   "NE-03740",
+   "NE-04615",
+   "NE-04616"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 650 Pro Iris Black",
+  "category": "Personal Audio",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-03741"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Infinity max Active Black",
+  "category": "Wearables",
+  "mrp": 1534.53,
+  "member_ids": [
+   "NE-03742"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 650 Pro Starry Night",
+  "category": "Personal Audio",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-03743"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Ace Gen 2 Mystic Blue",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-03745"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Plus 550 ANC Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 3298.99,
+  "member_ids": [
+   "NE-03746"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 430 Starry Night",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03748"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 Pro - Emerald Green",
+  "category": "Accessories",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-03749"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime 412 Midnight Black",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-03750"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 Pro - Steel Blue",
+  "category": "Accessories",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-03751"
+  ]
+ }
+]

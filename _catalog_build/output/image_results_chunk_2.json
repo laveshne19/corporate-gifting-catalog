@@ -1,0 +1,4085 @@
+[
+ {
+  "member_ids": [
+   "NE-05485"
+  ],
+  "image_local_path": "web/NE-05485.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81PBfUijZmL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05687"
+  ],
+  "image_local_path": "web/NE-05687.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/clp-7in1-converticool-with-copper-boost-master-revised-aug?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06054"
+  ],
+  "image_local_path": "web/NE-06054.jpg",
+  "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/61o0v5lxudL._SL1500.jpg?v=1758605325",
+  "image_source_domain": "www.lifelongindiaonline.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07398"
+  ],
+  "image_local_path": "web/NE-07398.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81NmqsiPy-L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07425"
+  ],
+  "image_local_path": "web/NE-07425.jpg",
+  "image_source_url": "http://www.shop.preethi.in/cdn/shop/files/8901225784152-6_643664d6-ab45-4927-8e3c-dc4bb1aebfdf.jpg?v=1755594449",
+  "image_source_domain": "www.shop.preethi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07493"
+  ],
+  "image_local_path": "web/NE-07493.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81-sGvrZjsL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08102"
+  ],
+  "image_local_path": "web/NE-08102.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/618o0GNaaLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09749"
+  ],
+  "image_local_path": "web/NE-09749.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/r/y/x/72492-200-genius-cls-plus-1s-wine-1195-1-2025-32-whirlpool-615-original-imahggvr69ugw62g.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04143"
+  ],
+  "image_local_path": "web/NE-04143.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/c4771c72-6616-40d6-a314-87309c33dca4-1738973034/65W_Gan_Nano_charger_pp.94.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00089"
+  ],
+  "image_local_path": "web/NE-00089.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/SuperBox_Classic_copy.webp?v=1752944061",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00135"
+  ],
+  "image_local_path": "web/NE-00135.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/270457_2_l4e8no.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00155"
+  ],
+  "image_local_path": "web/NE-00155.jpg",
+  "image_source_url": "http://www.quboworld.com/cdn/shop/files/InstaView_VDB.jpg?v=1777537966",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00203"
+  ],
+  "image_local_path": "web/NE-00203.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ypQx4jD4L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00354"
+  ],
+  "image_local_path": "web/NE-00354.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/1_a6c536ef-49e1-4007-a637-e46ec5f22431.jpg?v=1749207275&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00664"
+  ],
+  "image_local_path": "web/NE-00664.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/l02r1jk0/microphone-accessory/b/c/v/shock-mount-abs-with-shoe-for-by-mm1-shotgun-mic-similar-mics-2-original-imagbyyfhahgquzh.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00675"
+  ],
+  "image_local_path": "web/NE-00675.jpg",
+  "image_source_url": "https://cdn.uc.assets.prezly.com/83369b56-0da9-425f-86e0-510e2678a190/Senn_MOMENTUM_True_Wireless_4_CGI_Hero_Black_Copper.png",
+  "image_source_domain": "newsroom.sennheiser.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00721"
+  ],
+  "image_local_path": "web/NE-00721.jpg",
+  "image_source_url": "http://www.intex.in/cdn/shop/files/InfraNova-08.jpg?v=1782365414",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00746"
+  ],
+  "image_local_path": "web/NE-00746.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i28//1348Wx2000H/MP000000028964805_1348Wx2000H_202510301844561.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00811"
+  ],
+  "image_local_path": "web/NE-00811.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81vP76DXblL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00890"
+  ],
+  "image_local_path": "web/NE-00890.jpg",
+  "image_source_url": "https://media.kitchenwarehouse.com.au/kitchenwarehouse/image/upload/c_fill,g_face,w_3840,f_auto,q_auto:best/Supplier%20Images%20/2000px/LUMINARC-Set-of-2-DIWALI-TURQUOISE-SALAD-BOWL-21x9-3_1_2000px.jpg",
+  "image_source_domain": "www.kitchenwarehouse.com.au",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-01053"
+  ],
+  "image_local_path": "web/NE-01053.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81vbdKqja4L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01230"
+  ],
+  "image_local_path": "web/NE-01230.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ntZnFcPaL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01688"
+  ],
+  "image_local_path": "web/NE-01688.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61B2UNnAg4L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01823"
+  ],
+  "image_local_path": "web/NE-01823.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i25//1348Wx2000H/MP000000016927601_1348Wx2000H_202507011849323.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10134"
+  ],
+  "image_local_path": "web/NE-10134.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i20//1348Wx2000H/MP000000023710509_1348Wx2000H_202409191748555.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02641"
+  ],
+  "image_local_path": "web/NE-02641.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i22//1348Wx2000H/MP000000025584514_1348Wx2000H_202503061437183.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02734"
+  ],
+  "image_local_path": "web/NE-02734.jpg",
+  "image_source_url": "https://ik.imagekit.io/l2ot4bhdb/Coffee%20Makers/VTL-7003.jpg?updatedAt=1728469525727",
+  "image_source_domain": "skylineappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02974"
+  ],
+  "image_local_path": "web/NE-02974.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/car-charger/phone-tablet-charger/x/6/u/cc-15-car-charger-versatile-charging-compact-durable-high-original-imah6znvstayzmfh.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03016"
+  ],
+  "image_local_path": "web/NE-03016.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ap46C9DzL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03195"
+  ],
+  "image_local_path": "web/NE-03195.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240297.png?v=1779183619",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03277",
+   "NE-03278",
+   "NE-03279",
+   "NE-03280",
+   "NE-03281",
+   "NE-03282",
+   "NE-03283"
+  ],
+  "image_local_path": "web/NE-03277.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ieZ7PKsjL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03448"
+  ],
+  "image_local_path": "web/NE-03448.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61BEOHQT4oL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05486"
+  ],
+  "image_local_path": "web/NE-05486.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81PBfUijZmL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05688"
+  ],
+  "image_local_path": "web/NE-05688.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/extra-height-master-2-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07251"
+  ],
+  "image_local_path": "web/NE-07251.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71YBY5bEKSL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07373"
+  ],
+  "image_local_path": "web/NE-07373.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/233861_1_ut5pgg.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07417"
+  ],
+  "image_local_path": "web/NE-07417.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/2/d/a/-original-imahnyzjtwbpfu3y.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07434"
+  ],
+  "image_local_path": "web/NE-07434.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/220462_1_wo4bry.jpg",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08803"
+  ],
+  "image_local_path": "web/NE-08803.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61S+GSuRHkL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09024"
+  ],
+  "image_local_path": "web/NE-09024.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/j/m/c/200-genius-cls-plus-1s-wine-1190-1-2020-32-whirlpool-530-610-original-imah85xdxgvgcfpk.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04115"
+  ],
+  "image_local_path": "web/NE-04115.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/09f44b8d-859e-47eb-850c-ecf7f0f01cda-203478507/67W_GaN_charger_pp.71.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00105"
+  ],
+  "image_local_path": "web/NE-00105.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Sound%20Bars/Images/274882_5_tohc7q.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00129"
+  ],
+  "image_local_path": "web/NE-00129.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71V4C1wYICL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00549"
+  ],
+  "image_local_path": "web/NE-00549.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/2_af07e364-4a51-4e14-ad39-ce2cd0f12677.jpg?v=1781874759&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00192"
+  ],
+  "image_local_path": "web/NE-00192.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81g28KCs-ML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00448"
+  ],
+  "image_local_path": "web/NE-00448.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/306520_7__jFXYACiN.png?updatedAt=1758554079937",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00665"
+  ],
+  "image_local_path": "web/NE-00665.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Xf52hImjL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00702"
+  ],
+  "image_local_path": "web/NE-00702.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71jScwuYuuL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00736"
+  ],
+  "image_local_path": "web/NE-00736.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/WIRED-GAME-PRO-COMBO-02.jpg?v=1774333799",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00745"
+  ],
+  "image_local_path": "web/NE-00745.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/323453_1_2d0L4aiui.png?updatedAt=1783943723627",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00776"
+  ],
+  "image_local_path": "web/NE-00776.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61UziGuk9mL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00893",
+   "NE-00894"
+  ],
+  "image_local_path": "web/NE-00893.jpg",
+  "image_source_url": "https://bizweb.dktcdn.net/100/126/362/products/202-203-204-5679c0b8-e1fb-42bb-8b0f-3c506c25bc35.jpg?v=1714186193693",
+  "image_source_domain": "luminarc.vn",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01054"
+  ],
+  "image_local_path": "web/NE-01054.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81KaCDHMmJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01229"
+  ],
+  "image_local_path": "web/NE-01229.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81rj+MPTqOL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01787"
+  ],
+  "image_local_path": "web/NE-01787.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/302703_0_prIrZ0N0V.png?updatedAt=1766430154541",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02643"
+  ],
+  "image_local_path": "web/NE-02643.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i22//1348Wx2000H/MP000000025584514_1348Wx2000H_202503061437183.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02869"
+  ],
+  "image_local_path": "web/NE-02869.jpg",
+  "image_source_url": "https://www.skyline-equipment.com/cdn/shop/16308/product/20240531/copy_of_FS800_DC_Motor_air_scrubber_with_GFCI_3_Stage_Filtration_HEPA_Purifier_System_air_cleaner_for_water_mold_damage_restoration_1717138306424_0.png",
+  "image_source_domain": "www.skyline-equipment.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02935"
+  ],
+  "image_local_path": "web/NE-02935.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71MomMnOmOL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03013"
+  ],
+  "image_local_path": "web/NE-03013.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ToNdhEyLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03185"
+  ],
+  "image_local_path": "web/NE-03185.jpg",
+  "image_source_url": "https://www.sunflame.com/cdn/shop/files/28-04-20240559_2.png?v=1779182442&width=1946",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03254"
+  ],
+  "image_local_path": "web/NE-03254.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51l80ukrhIL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03451"
+  ],
+  "image_local_path": "web/NE-03451.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61BEOHQT4oL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05467"
+  ],
+  "image_local_path": "web/NE-05467.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61cV-h+h6IL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05689"
+  ],
+  "image_local_path": "web/NE-05689.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/clp-7in1-converticool-with-copper-boost-master-revised-aug?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07377",
+   "NE-07378",
+   "NE-07379"
+  ],
+  "image_local_path": "web/NE-07377.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81-K68hZ5vL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07431"
+  ],
+  "image_local_path": "web/NE-07431.jpg",
+  "image_source_url": "http://www.shop.preethi.in/cdn/shop/files/PreethiGlitterMixerGrinderandPreethiHandBlenderCombo.jpg?v=1784893695",
+  "image_source_domain": "www.shop.preethi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07436"
+  ],
+  "image_local_path": "web/NE-07436.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/217786_12_gvhye5.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08069"
+  ],
+  "image_local_path": "web/NE-08069.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kb2jmvk0/fan/b/h/z/9-aeroclean-pro-55-1-exhaust-fan-230-usha-original-imafsg5zxhezwzgq.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09684"
+  ],
+  "image_local_path": "web/NE-09684.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/r/y/x/72492-200-genius-cls-plus-1s-wine-1195-1-2025-32-whirlpool-615-original-imahggvr69ugw62g.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04436"
+  ],
+  "image_local_path": "web/NE-04436.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/09f44b8d-859e-47eb-850c-ecf7f0f01cda-203478507/67W_GaN_charger_pp.71.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00117"
+  ],
+  "image_local_path": "web/NE-00117.jpg",
+  "image_source_url": "https://cdn.sanity.io/images/090mc8y6/production/4ed4d5874d6e83298b546e4c027cade43f4d68c5-4000x2500.png?auto=format&w=2800&q=90",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00152"
+  ],
+  "image_local_path": "web/NE-00152.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Wearables/Wearable%20Devices/Images/307780_v9oddr.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01824"
+  ],
+  "image_local_path": "web/NE-01824.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/r/g/d/65-istanbul-hard-sided-luggage-set-of-2-yellow-and-grey-55-65-cm-original-imahgb6j3ega5gec.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10136"
+  ],
+  "image_local_path": "web/NE-10136.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000014872728_1348Wx2000H_202210151335288.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06618",
+   "NE-06619"
+  ],
+  "image_local_path": "web/NE-06618.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sport-bag/o/r/l/llgb02-gym-bag-unisex-bag-adjustable-shoulder-bag-for-men-original-imahggxfqszhg2bm.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00550"
+  ],
+  "image_local_path": "web/NE-00550.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/9_4d8baed7-e583-4325-a70c-7695cbc91036.jpg?v=1780297246&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00179"
+  ],
+  "image_local_path": "web/NE-00179.jpg",
+  "image_source_url": "http://www.wiwu.com/cdn/shop/files/1_d72bf7fa-44a4-41aa-8708-d79f2c88be23.jpg?v=1776924924",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00417"
+  ],
+  "image_local_path": "web/NE-00417.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/5_113990c3-c698-4b71-a5e5-09adf427ee90.jpg?v=1749190832&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00656"
+  ],
+  "image_local_path": "web/NE-00656.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-K4_microphone_cable_2.png?v=1784976143&width=3840",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00714"
+  ],
+  "image_local_path": "web/NE-00714.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71rqoO3Y17L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00743"
+  ],
+  "image_local_path": "web/NE-00743.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61-MXf0o63L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00800"
+  ],
+  "image_local_path": "web/NE-00800.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61COTnHrBlL._AC_UF894,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00892"
+  ],
+  "image_local_path": "web/NE-00892.jpg",
+  "image_source_url": "https://www.kitchenwarehouse.com.au/_next/image?url=https%3A%2F%2Fmedia.kitchenwarehouse.com.au%2Fkitchenwarehouse%2Fimage%2Fupload%2Fc_fill%2Cg_face%2Cw_auto%2Cf_auto%2Cq_auto%2FSupplier%2520Images%2520%2F2000px%2FLUMINARC-Set-of-6-DIWALI-TURQUOISE-DINNER-PLATE-25x2_1_2000px.jpg%3Fimagetype%3Dpdp_full&w=3840&q=48",
+  "image_source_domain": "www.kitchenwarehouse.com.au",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-01050"
+  ],
+  "image_local_path": "web/NE-01050.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02965"
+  ],
+  "image_local_path": "web/NE-02965.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/Electra-Solidus-01.jpg?v=1778917172&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03014"
+  ],
+  "image_local_path": "web/NE-03014.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ToNdhEyLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03186"
+  ],
+  "image_local_path": "web/NE-03186.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/242825_2_zk62g8.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03300"
+  ],
+  "image_local_path": "web/NE-03300.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71WJcZh1dzL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05483"
+  ],
+  "image_local_path": "web/NE-05483.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Headphones%20And%20Earphones/Images/315591_0_gfH1VYmha.png?updatedAt=1761129021496",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05691"
+  ],
+  "image_local_path": "web/NE-05691.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71JU6K6xDkL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07384"
+  ],
+  "image_local_path": "web/NE-07384.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/249509_8_g6co4a.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01231"
+  ],
+  "image_local_path": "web/NE-01231.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0801/3922/3334/files/8901372238461_5.jpg?v=1742208562",
+  "image_source_domain": "celloworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01825"
+  ],
+  "image_local_path": "web/NE-01825.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i25//1348Wx2000H/MP000000016928098_1348Wx2000H_202507011844021.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10145"
+  ],
+  "image_local_path": "web/NE-10145.jpg",
+  "image_source_url": "https://www.portronics.com/cdn/shop/files/Adapto_70_sheet.jpg?v=13831979987246719155",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02584"
+  ],
+  "image_local_path": "web/NE-02584.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61f6i1XNpYL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02864"
+  ],
+  "image_local_path": "web/NE-02864.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51n3NWgNGvL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03459"
+  ],
+  "image_local_path": "web/NE-03459.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/e/t/4/aura2-prime-anti-dust-1200-55-1-ceiling-fan-1200-crompton-original-imah45k9phmjw3me.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06257"
+  ],
+  "image_local_path": "web/NE-06257.jpg",
+  "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/White_438ac692-16c0-426b-9d8b-07ca4cc5ba20.jpg?v=1752144710",
+  "image_source_domain": "www.lifelongindiaonline.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07427"
+  ],
+  "image_local_path": "web/NE-07427.jpg",
+  "image_source_url": "http://www.shop.preethi.in/cdn/shop/files/PreethiGlitterMixerGrinderandPreethiHandBlenderCombo.jpg?v=1784893695",
+  "image_source_domain": "www.shop.preethi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01783"
+  ],
+  "image_local_path": "web/NE-01783.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61BXsPWV6lL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07500"
+  ],
+  "image_local_path": "web/NE-07500.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81kA2-JQdhL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08070"
+  ],
+  "image_local_path": "web/NE-08070.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/exhaust-fan/p/j/d/aeroclean-plus-230mm-230-usha-original-imahaqcfn5fdegke.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09507"
+  ],
+  "image_local_path": "web/NE-09507.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/m/4/c/-original-imahm54r94phufqr.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04612",
+   "NE-04613",
+   "NE-04614"
+  ],
+  "image_local_path": "web/NE-04612.jpg",
+  "image_source_url": "http://www.boat-lifestyle.com/cdn/shop/files/00_13632dd8-9b54-4e6d-9938-42613784c4be.png?v=1783274629",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00112"
+  ],
+  "image_local_path": "web/NE-00112.jpg",
+  "image_source_url": "https://cdn.sanity.io/images/090mc8y6/production/f70fed86e199788a96f51537d213e6794df5ecbd-4000x2500.png?auto=format&w=2800&q=90",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00139"
+  ],
+  "image_local_path": "web/NE-00139.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0137/0292/2286/files/NCPP_01_4bb0dc47-3979-40c6-9f47-38d65dcdb3a4.jpg?v=1768041877",
+  "image_source_domain": "www.fireboltt.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01806"
+  ],
+  "image_local_path": "web/NE-01806.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Home%20Safety%20Security/Images/272176_olauyr.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00201"
+  ],
+  "image_local_path": "web/NE-00201.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/1_807cdd92-ba32-4105-b1b8-9878072e5541.jpg?v=1778483813&width=2000",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00371"
+  ],
+  "image_local_path": "web/NE-00371.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/8/x/0/-original-imahzb75yubf4whs.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00660"
+  ],
+  "image_local_path": "web/NE-00660.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzfvzww0/microphone-accessory/t/w/v/ea2-3-5mm-microphone-to-usb-adapter-with-headphone-jack-boya-original-imagbgmtzrwky9ex.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00737"
+  ],
+  "image_local_path": "web/NE-00737.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/3_b462ab54-5ca1-457d-8b1d-0992ffd21865.jpg?v=1784096634",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00744"
+  ],
+  "image_local_path": "web/NE-00744.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61NX00R6zhL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00802"
+  ],
+  "image_local_path": "web/NE-00802.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61kYu1aTksS.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00891"
+  ],
+  "image_local_path": "web/NE-00891.jpg",
+  "image_source_url": "https://media.kitchenwarehouse.com.au/kitchenwarehouse/image/upload/c_fill,g_face,w_auto,f_auto,q_auto/Supplier%20Images%20/2000px/LUMINARC-Set-of-6-DIWALI-TURQUOISE-DINNER-PLATE-25x2_1_2000px.jpg?imagetype=pdp_full",
+  "image_source_domain": "www.kitchenwarehouse.com.au",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-01051"
+  ],
+  "image_local_path": "web/NE-01051.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01674"
+  ],
+  "image_local_path": "web/NE-01674.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71vzYWmaO5L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01784"
+  ],
+  "image_local_path": "web/NE-01784.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71Wwsim9vBL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10135"
+  ],
+  "image_local_path": "web/NE-10135.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Adapto_35A_2.jpg?v=1730705201",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02585"
+  ],
+  "image_local_path": "web/NE-02585.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i7/1348Wx2000H/MP000000008407848_1348Wx2000H_202104090823142.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02912"
+  ],
+  "image_local_path": "web/NE-02912.jpg",
+  "image_source_url": "https://ik.imagekit.io/l2ot4bhdb/Combos/Office%20Set_blue.png?updatedAt=1758183655428",
+  "image_source_domain": "skylineappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02964"
+  ],
+  "image_local_path": "web/NE-02964.jpg",
+  "image_source_url": "https://swissmilitaryaudio.com/cdn/shop/files/Electra-10K-A-01.jpg?v=1778908400&width=1200",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03011"
+  ],
+  "image_local_path": "web/NE-03011.jpg",
+  "image_source_url": "https://houseofsujata.com/wp-content/uploads/2024/02/Deluxe-4B-Side.webp",
+  "image_source_domain": "houseofsujata.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03156"
+  ],
+  "image_local_path": "web/NE-03156.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/1_2f5e1263-884d-4bb4-8656-f31f59d37999.png?v=1783313023",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03263"
+  ],
+  "image_local_path": "web/NE-03263.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/616TWH3tfEL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03450"
+  ],
+  "image_local_path": "web/NE-03450.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/268745_0_sr1zuj.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05484"
+  ],
+  "image_local_path": "web/NE-05484.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71A0roq73EL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05692"
+  ],
+  "image_local_path": "web/NE-05692.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/clp-7in1-converticool-with-copper-boost-master-revised-aug?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06397"
+  ],
+  "image_local_path": "web/NE-06397.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/713N2awcVtL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07385",
+   "NE-07386",
+   "NE-07387"
+  ],
+  "image_local_path": "web/NE-07385.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71mTfSKhhTL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07428"
+  ],
+  "image_local_path": "web/NE-07428.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/f/s/v/-original-imahnymmgzheayqy.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07501"
+  ],
+  "image_local_path": "web/NE-07501.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/201357_1_Di1aAnlqx.png?updatedAt=1753185848066",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08068"
+  ],
+  "image_local_path": "web/NE-08068.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kb2jmvk0/fan/b/h/z/9-aeroclean-pro-55-1-exhaust-fan-230-usha-original-imafsg5zfkezx87d.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09395"
+  ],
+  "image_local_path": "web/NE-09395.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51T+deOw3bL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05425"
+  ],
+  "image_local_path": "web/NE-05425.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Home%20Theatres%20and%20Audio%20Systems/Images/310311_0_rf0ata.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00114"
+  ],
+  "image_local_path": "web/NE-00114.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/FirstImagecopy_336c7aef-c824-4020-a10e-853234031df2.webp?v=1769689360",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00149"
+  ],
+  "image_local_path": "web/NE-00149.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/smartwatch/e/d/v/-original-imah3ymzd5txdyzx.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01804"
+  ],
+  "image_local_path": "web/NE-01804.jpg",
+  "image_source_url": "http://www.quboworld.com/cdn/shop/files/3603MP_Packof2_1ce61dd0-6cb8-4a37-847d-5216ba6e09b6.png?v=1788258791",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00180"
+  ],
+  "image_local_path": "web/NE-00180.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71I2MqAwOlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00415"
+  ],
+  "image_local_path": "web/NE-00415.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/52RCD-Digital-OTG-5.jpg?v=1762256675&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00661"
+  ],
+  "image_local_path": "web/NE-00661.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzfvzww0/microphone-accessory/t/w/v/ea2-3-5mm-microphone-to-usb-adapter-with-headphone-jack-boya-original-imagbgmtzrwky9ex.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00726"
+  ],
+  "image_local_path": "web/NE-00726.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/1300_2000x.jpg?v=1753076665",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00752"
+  ],
+  "image_local_path": "web/NE-00752.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61YukZ-b71L._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00775"
+  ],
+  "image_local_path": "web/NE-00775.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71nmXts-uSL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00881"
+  ],
+  "image_local_path": "web/NE-00881.jpg",
+  "image_source_url": "https://cdn1.npcdn.net/images/1631596641bdead6dc7c90ea055128553cc640faf9.webp?md5id=cbc32b0f8a746c87884c5bb10a1a4289&new_width=1000&new_height=1000&w=1783491057&from=jpg&type=9",
+  "image_source_domain": "www.luminarcb2b.com.my",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01057"
+  ],
+  "image_local_path": "web/NE-01057.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/711FWP748+L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01491"
+  ],
+  "image_local_path": "web/NE-01491.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81Doal4b8LL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01716"
+  ],
+  "image_local_path": "web/NE-01716.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/hand-blender/q/g/z/-original-imahktcprgdekqqh.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10137"
+  ],
+  "image_local_path": "web/NE-10137.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_1_5a76027e-59ab-4a8f-84a2-4d3ce6e1867f.jpg?v=1749809543",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02582"
+  ],
+  "image_local_path": "web/NE-02582.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kij6f0w0-0/mixer-grinder-juicer/b/8/c/42513-prestige-original-imafyb2hqzsc93yh.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02884"
+  ],
+  "image_local_path": "web/NE-02884.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51P4V8aZ3zL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02945"
+  ],
+  "image_local_path": "web/NE-02945.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71RF-oMW98L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03012"
+  ],
+  "image_local_path": "web/NE-03012.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/h/n/1/4-lpg-12-55-4b-standard-auto-ignition-sujata-68-0-automatic-original-imahhvjagt9vnrmt.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03129"
+  ],
+  "image_local_path": "web/NE-03129.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/1_2f5e1263-884d-4bb4-8656-f31f59d37999.png?v=1783313023",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03284"
+  ],
+  "image_local_path": "web/NE-03284.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ieZ7PKsjL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03449"
+  ],
+  "image_local_path": "web/NE-03449.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/300152_1_avwt4m.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05464"
+  ],
+  "image_local_path": "web/NE-05464.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71PfN9HA72L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05670"
+  ],
+  "image_local_path": "web/NE-05670.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81TxsiBEfuL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06109"
+  ],
+  "image_local_path": "web/NE-06109.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71zt7fn6GjL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07389"
+  ],
+  "image_local_path": "web/NE-07389.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/headphone/4/6/q/ms-majvbt-brn-marshall-original-imah4sphr3wzmehb.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07408"
+  ],
+  "image_local_path": "web/NE-07408.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71KNNXPXABL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07488"
+  ],
+  "image_local_path": "web/NE-07488.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wrKaA3wSL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08109"
+  ],
+  "image_local_path": "web/NE-08109.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/b/f/maxx-air-55-1-pedestal-fan-400-usha-original-imagszhvthga6ycq.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09359"
+  ],
+  "image_local_path": "web/NE-09359.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/m/4/c/-original-imahm54r94phufqr.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00107"
+  ],
+  "image_local_path": "web/NE-00107.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/R18_copy.webp?v=1754117160",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00151"
+  ],
+  "image_local_path": "web/NE-00151.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Wearable/Wearable%20Devices/Images/304950_12_fc99db.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01803"
+  ],
+  "image_local_path": "web/NE-01803.jpg",
+  "image_source_url": "http://www.quboworld.com/cdn/shop/files/LI_01.jpg?v=1779694763",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00183"
+  ],
+  "image_local_path": "web/NE-00183.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/10_d70401d4-5b30-4ce9-b8eb-97ee67e422f2.jpg?v=1782383333",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00383"
+  ],
+  "image_local_path": "web/NE-00383.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fryers%20And%20Grills/Images/318956_0_DaFlX28VI.png?updatedAt=1767766363714",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00659"
+  ],
+  "image_local_path": "web/NE-00659.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-K4_microphone_cable_2.png?v=1784976143&width=3840",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00733"
+  ],
+  "image_local_path": "web/NE-00733.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61NULGJOfzL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00771"
+  ],
+  "image_local_path": "web/NE-00771.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71aTBiqWwGL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00882"
+  ],
+  "image_local_path": "web/NE-00882.jpg",
+  "image_source_url": "https://cdn1.npcdn.net/images/1631596641bdead6dc7c90ea055128553cc640faf9.webp?md5id=cbc32b0f8a746c87884c5bb10a1a4289&new_width=1000&new_height=1000&w=1783491057&from=jpg&type=9",
+  "image_source_domain": "www.luminarcb2b.com.my",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03593"
+  ],
+  "image_local_path": "web/NE-03593.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/48286fba-01a6-43f4-8334-809de5de577d-1413432510/Aavante_2.1_1600.9.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01059"
+  ],
+  "image_local_path": "web/NE-01059.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81KaCDHMmJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01371"
+  ],
+  "image_local_path": "web/NE-01371.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81R4tLH46bL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01714"
+  ],
+  "image_local_path": "web/NE-01714.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/hand-blender/q/g/z/-original-imahktcprgdekqqh.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10138"
+  ],
+  "image_local_path": "web/NE-10138.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i26//1348Wx2000H/MP000000027608891_1348Wx2000H_202507310001458.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02581"
+  ],
+  "image_local_path": "web/NE-02581.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i17//1348Wx2000H/MP000000022113509_1348Wx2000H_202405021617013.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02885"
+  ],
+  "image_local_path": "web/NE-02885.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61TU1VqIowL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02969"
+  ],
+  "image_local_path": "web/NE-02969.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/power-bank/p/l/j/electra-20k-pro-20000-mah-mah-power-bank-20000-electra-20k-pro-original-imahnmfnrtywh5ns.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03053"
+  ],
+  "image_local_path": "web/NE-03053.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71oRNagRHJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03128"
+  ],
+  "image_local_path": "web/NE-03128.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240352.png?v=1779187538",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03225"
+  ],
+  "image_local_path": "web/NE-03225.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electrical%20Equipments/Images/100655_2_ponzn0.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05491"
+  ],
+  "image_local_path": "web/NE-05491.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81-RUK4NVRL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05714"
+  ],
+  "image_local_path": "web/NE-05714.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/smart-camera-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07380"
+  ],
+  "image_local_path": "web/NE-07380.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/317836_11_JsGMDJWmm.png?updatedAt=1776764549100",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07407"
+  ],
+  "image_local_path": "web/NE-07407.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71O5F+oEp4L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08096"
+  ],
+  "image_local_path": "web/NE-08096.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61u5KGr6LLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09750"
+  ],
+  "image_local_path": "web/NE-09750.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/i/f/l/-original-imahm54qabgwz2ek.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01805"
+  ],
+  "image_local_path": "web/NE-01805.jpg",
+  "image_source_url": "http://www.quboworld.com/cdn/shop/files/B0H4TZN7WW.Main_e8b7f17a-82df-4fa3-92b0-2a51424bc34e.jpg?v=1785238026",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03561"
+  ],
+  "image_local_path": "web/NE-03561.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/l/m/a/axial-air-high-speed-plastic-pack-of-4-60-4-induction-exhaust-original-imahdvz7a8pbg68n.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06865",
+   "NE-06866",
+   "NE-06867",
+   "NE-06868"
+  ],
+  "image_local_path": "web/NE-06865.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kit/d/k/s/100-silicone-anti-fog-swimming-goggles-cap-earplug-noseplug-set-original-imahk64qhw3cncaw.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07489"
+  ],
+  "image_local_path": "web/NE-07489.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wrKaA3wSL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03947"
+  ],
+  "image_local_path": "web/NE-03947.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/1ed9976f-7f17-4fb4-86d2-a5ab77d1f54f-76118463/Aavante_2.1_1600D_Packaging_Re.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00104"
+  ],
+  "image_local_path": "web/NE-00104.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/4_mobile_copy.webp?v=1754548423",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00146"
+  ],
+  "image_local_path": "web/NE-00146.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Wearable%20Devices/Images/305817_11_yvxvlt.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00181"
+  ],
+  "image_local_path": "web/NE-00181.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/06_093711ae-1d89-4bef-9c04-39310a1a9573.jpg?v=1776157277&width=2000",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00382"
+  ],
+  "image_local_path": "web/NE-00382.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/1_c59a82d6-57a1-4dca-9e7e-a4a16e1d2928.jpg?v=1749203618&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00651"
+  ],
+  "image_local_path": "web/NE-00651.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ze6rm6+iL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00723"
+  ],
+  "image_local_path": "web/NE-00723.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/RAAG_3500-02.jpg?v=1777527728",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00828"
+  ],
+  "image_local_path": "web/NE-00828.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/618MLWmO7JL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00880"
+  ],
+  "image_local_path": "web/NE-00880.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51gvu5ymRjL.jpg",
+  "image_source_domain": "www.amazon.ie",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-01055"
+  ],
+  "image_local_path": "web/NE-01055.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01370"
+  ],
+  "image_local_path": "web/NE-01370.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81R4tLH46bL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01788"
+  ],
+  "image_local_path": "web/NE-01788.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Room%20Heaters/Images/319393_2_npHIw0lAG.png?updatedAt=1772023876166",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02673"
+  ],
+  "image_local_path": "web/NE-02673.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/814-AQvLMlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02895"
+  ],
+  "image_local_path": "web/NE-02895.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000013896953_1348Wx2000H_202207231823271.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02967"
+  ],
+  "image_local_path": "web/NE-02967.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/Electra-Solidus-01.jpg?v=1778917172&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03052"
+  ],
+  "image_local_path": "web/NE-03052.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71XOpJj4J5L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03192"
+  ],
+  "image_local_path": "web/NE-03192.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240405.png?v=1779187611",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05490"
+  ],
+  "image_local_path": "web/NE-05490.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81ksVMFW6jL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05671"
+  ],
+  "image_local_path": "web/NE-05671.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/clp-7in1-converticool-with-copper-boost-master-revised-aug?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07381"
+  ],
+  "image_local_path": "web/NE-07381.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/317839_11_RicVgGpym.png?updatedAt=1754313421591",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07411"
+  ],
+  "image_local_path": "web/NE-07411.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71lNat60o-L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08077"
+  ],
+  "image_local_path": "web/NE-08077.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/9/u/c/aeroclean-plus-72-1-exhaust-fan-300-usha-original-imahahts8cxdvxue.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09890"
+  ],
+  "image_local_path": "web/NE-09890.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/410Rq9xs6+L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00103"
+  ],
+  "image_local_path": "web/NE-00103.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/1_mobile_copy.webp?v=1754548383",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01799"
+  ],
+  "image_local_path": "web/NE-01799.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_04_9f0527d0-8a68-4cd8-b4c1-8132d8afb40f.jpg?v=1776242357&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00381"
+  ],
+  "image_local_path": "web/NE-00381.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fryers%20and%20Grills/Images/312556_sujgme.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00652"
+  ],
+  "image_local_path": "web/NE-00652.jpg",
+  "image_source_url": "https://image.makewebcdn.com/makeweb/m_1920x0/ZKNA0l2Tt/BOYA_BY_K1_BY_K2_BY_K3_BY_K4_BY_K5_BY_K6_BY_K7_BY_K8_BY_K9/BOYA_BY_K4.jpg",
+  "image_source_domain": "www.boyathailand.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00814"
+  ],
+  "image_local_path": "web/NE-00814.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71lcqrgih8L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00879"
+  ],
+  "image_local_path": "web/NE-00879.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i7/1348Wx2000H/MP000000008181835_1348Wx2000H_202011131626341.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01046"
+  ],
+  "image_local_path": "web/NE-01046.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81vbdKqja4L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01738"
+  ],
+  "image_local_path": "web/NE-01738.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81aiHJpZTqL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02697"
+  ],
+  "image_local_path": "web/NE-02697.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81BA7Udm09L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02739"
+  ],
+  "image_local_path": "web/NE-02739.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61zp72LQDcL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02966"
+  ],
+  "image_local_path": "web/NE-02966.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/Electra-Wee-01.jpg?v=1778917579&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03051"
+  ],
+  "image_local_path": "web/NE-03051.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71VyzYImVHL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03193"
+  ],
+  "image_local_path": "web/NE-03193.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240405.png?v=1779187611",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03285",
+   "NE-03286"
+  ],
+  "image_local_path": "web/NE-03285.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51Pzvy+xViL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05492"
+  ],
+  "image_local_path": "web/NE-05492.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81lo-LoiOAL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05772"
+  ],
+  "image_local_path": "web/NE-05772.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/smart-camera-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07183"
+  ],
+  "image_local_path": "web/NE-07183.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/819Ksplw7JL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01854"
+  ],
+  "image_local_path": "web/NE-01854.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/g/o/n/48-lynx-hard-top-laptop-overnighter-bag-laptop-roller-case-original-imagwj34bzz5zy2a.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10140"
+  ],
+  "image_local_path": "web/NE-10140.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i9/1348Wx2000H/MP000000014872730_1348Wx2000H_202301072108134.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03251",
+   "NE-03252"
+  ],
+  "image_local_path": "web/NE-03251.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Go3KiYP8L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03559"
+  ],
+  "image_local_path": "web/NE-03559.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/307605_1_lrcryl.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07236"
+  ],
+  "image_local_path": "web/NE-07236.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/819Ksplw7JL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07491"
+  ],
+  "image_local_path": "web/NE-07491.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ZnC0VLusL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04907"
+  ],
+  "image_local_path": "web/NE-04907.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/ce460aee-5265-48bc-94fd-b008161d229e-1564026826/Aavante_2.1_2450_pp.672.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00131"
+  ],
+  "image_local_path": "web/NE-00131.jpg",
+  "image_source_url": "https://media-ik.croma.com/303050_0_fdbb9q.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00188"
+  ],
+  "image_local_path": "web/NE-00188.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/06_093711ae-1d89-4bef-9c04-39310a1a9573.jpg?v=1776157277&width=2000",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00715"
+  ],
+  "image_local_path": "web/NE-00715.jpg",
+  "image_source_url": "http://www.intex.in/cdn/shop/files/BREEZE_WW_52.jpg?v=1767696623",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01373"
+  ],
+  "image_local_path": "web/NE-01373.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/813pQ31hjAL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01842"
+  ],
+  "image_local_path": "web/NE-01842.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71QUteGNAxL._SL1500_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10139"
+  ],
+  "image_local_path": "web/NE-10139.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i9/1348Wx2000H/MP000000015613144_1348Wx2000H_202212081522251.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03560"
+  ],
+  "image_local_path": "web/NE-03560.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/519GStbYIjL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07374",
+   "NE-07375"
+  ],
+  "image_local_path": "web/NE-07374.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i16//1348Wx2000H/MP000000017613598_1348Wx2000H_202402291034125.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07419"
+  ],
+  "image_local_path": "web/NE-07419.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/257148_1_l22jgx.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07492"
+  ],
+  "image_local_path": "web/NE-07492.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61tUCrYF9RL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08078"
+  ],
+  "image_local_path": "web/NE-08078.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81knV7hkZQL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09186"
+  ],
+  "image_local_path": "web/NE-09186.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51KTR0+bwUL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00091"
+  ],
+  "image_local_path": "web/NE-00091.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wgLKs5DlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00138"
+  ],
+  "image_local_path": "web/NE-00138.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/smartwatch/u/t/y/-original-imah4sspg5njb7yq.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01798"
+  ],
+  "image_local_path": "web/NE-01798.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_03_a56e3bd7-8af0-4576-b6d3-f59e125d00f6.jpg?v=1776242357&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00424"
+  ],
+  "image_local_path": "web/NE-00424.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/100440_17_0KvmIAYZn.png?updatedAt=1758550156523",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00653"
+  ],
+  "image_local_path": "web/NE-00653.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-K4_microphone_cable_2.png?v=1784976143&width=1920",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00728"
+  ],
+  "image_local_path": "web/NE-00728.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51ScHqr71KL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00780"
+  ],
+  "image_local_path": "web/NE-00780.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71yz1BshFPL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00897"
+  ],
+  "image_local_path": "web/NE-00897.jpg",
+  "image_source_url": "https://cdn1.npcdn.net/images/16315966419238d4e7cfb2669924471e5a8f60dbe1.webp?md5id=cbc32b0f8a746c87884c5bb10a1a4289&new_width=1000&new_height=1000&size=max&w=1786415765&from=jpg&type=1",
+  "image_source_domain": "www.luminarcb2b.com.my",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01043"
+  ],
+  "image_local_path": "web/NE-01043.jpg",
+  "image_source_url": "https://otekworld.com/cdn/shop/files/Artboard_1.webp?v=1774000139&width=1921",
+  "image_source_domain": "otekworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01372"
+  ],
+  "image_local_path": "web/NE-01372.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0801/3922/3334/files/8901372232766_1.jpg?v=1740547404",
+  "image_source_domain": "celloworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01720"
+  ],
+  "image_local_path": "web/NE-01720.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chopper/c/a/d/-enriched-transparent-original-imahfr8fggq6zhyf.png?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02915"
+  ],
+  "image_local_path": "web/NE-02915.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/backpack/v/3/8/13-40-l-laptop-backpack-travel-office-college-school-bag-for-men-original-imah6w9anaxu3bhy.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02959"
+  ],
+  "image_local_path": "web/NE-02959.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/1_c480fada-9901-444a-b4f4-6551f335b297.jpg?v=1778573371&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03152"
+  ],
+  "image_local_path": "web/NE-03152.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240398.png?v=1779187350",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03872"
+  ],
+  "image_local_path": "web/NE-03872.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/3ad8e842-26b2-4194-b18d-956fd61e26e3-1569567952/Aavante_2.1_2450_pp.678.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00191"
+  ],
+  "image_local_path": "web/NE-00191.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/1_599d1d91-a511-4ea0-9268-e6eabd20fd7b.png?v=1783046633&width=5000",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01847"
+  ],
+  "image_local_path": "web/NE-01847.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81Jo3O5eYwL._AC_UY200_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10143"
+  ],
+  "image_local_path": "web/NE-10143.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i9/1348Wx2000H/MP000000015612666_1348Wx2000H_202212081515464.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02572"
+  ],
+  "image_local_path": "web/NE-02572.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000012058144_1348Wx2000H_202202082203181.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03044"
+  ],
+  "image_local_path": "web/NE-03044.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71jD+VcMNoL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03256"
+  ],
+  "image_local_path": "web/NE-03256.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/265569_1_kaornj.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03585"
+  ],
+  "image_local_path": "web/NE-03585.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/l/b/b/brasso-semi-decor-70-1-induction-ceiling-fan-300-crompton-original-imahz6xfysvmqysf.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05460"
+  ],
+  "image_local_path": "web/NE-05460.jpg",
+  "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/goboult/494749637/0/_5-4OFLIBm-N9rcCiruG-GOBOULT-Raven-Earbuds-494749637-i-1.jpg",
+  "image_source_domain": "www.reliancedigital.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05773"
+  ],
+  "image_local_path": "web/NE-05773.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/smart-camera-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07393"
+  ],
+  "image_local_path": "web/NE-07393.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/323622_15_9F7-tX2mSx.png?updatedAt=1786959846251",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08075",
+   "NE-08076"
+  ],
+  "image_local_path": "web/NE-08075.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/6164CQHfYNL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00154"
+  ],
+  "image_local_path": "web/NE-00154.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/244250_rnnktv.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01800"
+  ],
+  "image_local_path": "web/NE-01800.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_03_a56e3bd7-8af0-4576-b6d3-f59e125d00f6.jpg?v=1776242357&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00189"
+  ],
+  "image_local_path": "web/NE-00189.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/4_272398b4-6825-4a3d-9790-00775a0c6c8d.jpg?v=1782903242",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00350"
+  ],
+  "image_local_path": "web/NE-00350.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/100440_2_ZfSOtzXZTK.png?updatedAt=1758550123772",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00654"
+  ],
+  "image_local_path": "web/NE-00654.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-K4_microphone_cable_2.png?v=1784976143&width=1920",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00711"
+  ],
+  "image_local_path": "web/NE-00711.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/SA80MWFG-SA80BGFG-8_KG_8.jpg?v=1778847963",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00815"
+  ],
+  "image_local_path": "web/NE-00815.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dinner-set/b/v/s/yes-13-la-opala-13-pcs-diva-dazzle-purple-dinner-set-laopala-original-imagv9mxzuvysmum.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00899"
+  ],
+  "image_local_path": "web/NE-00899.jpg",
+  "image_source_url": "https://cdn1.npcdn.net/images/16315966419238d4e7cfb2669924471e5a8f60dbe1.webp?md5id=cbc32b0f8a746c87884c5bb10a1a4289&new_width=1000&new_height=1000&size=max&w=1786415765&from=jpg&type=1",
+  "image_source_domain": "www.luminarcb2b.com.my",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01044"
+  ],
+  "image_local_path": "web/NE-01044.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/surge-protector/k/z/h/2-voltsafe-524-yes-otek-original-imahn9qu5wufv9bn.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01652"
+  ],
+  "image_local_path": "web/NE-01652.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/610dtvIt06L._AC_UF1000,1000_QL80_AIweblab1381794,T1_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01677"
+  ],
+  "image_local_path": "web/NE-01677.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Steamers%20Cookers/Images/229086_0_aoyk9y.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07255"
+  ],
+  "image_local_path": "web/NE-07255.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61gHV7UktmL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07415"
+  ],
+  "image_local_path": "web/NE-07415.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/257147_17_v93qw1.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07487"
+  ],
+  "image_local_path": "web/NE-07487.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81-sGvrZjsL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09683"
+  ],
+  "image_local_path": "web/NE-09683.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/410Rq9xs6+L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04473"
+  ],
+  "image_local_path": "web/NE-04473.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/fa6db68d-7927-4386-ad78-878c6345215d-1327713504/Aavante_2.140.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01839"
+  ],
+  "image_local_path": "web/NE-01839.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/6/t/u/56-meridian-55-8w-ghost-grey-limestone-grey-1-prppmerisgry20-original-imahzwbfdmcsypev.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10142"
+  ],
+  "image_local_path": "web/NE-10142.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Chargers%20and%20Batteries/Images/234690_0_mkfcv5.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00111"
+  ],
+  "image_local_path": "web/NE-00111.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81QP3C+rTbL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02552"
+  ],
+  "image_local_path": "web/NE-02552.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/613+h+w8WgL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02983"
+  ],
+  "image_local_path": "web/NE-02983.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/Flow-C2C.jpg?v=1778911272&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03196"
+  ],
+  "image_local_path": "web/NE-03196.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/1_d426f4ad-2e73-4e92-9f0f-2b1de4f98345.png?v=1779184466",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03226"
+  ],
+  "image_local_path": "web/NE-03226.jpg",
+  "image_source_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw21b8d2e8/images/hi-res/1/1db1738e24bf4034_cac003fq-hp1-5bk-pro-2-in-1-cable-usb-c-lightning-connector--gallery-hero-01-fq-hq.jpg?sfrm=png",
+  "image_source_domain": "www.belkin.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03562"
+  ],
+  "image_local_path": "web/NE-03562.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/307604_1_rihfbv.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05806"
+  ],
+  "image_local_path": "web/NE-05806.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/smart-camera-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07382",
+   "NE-07383"
+  ],
+  "image_local_path": "web/NE-07382.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/307535_1_WkQp3tOSJ.png?updatedAt=1755876258141",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07414"
+  ],
+  "image_local_path": "web/NE-07414.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/257147_2_xqxaai.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08072"
+  ],
+  "image_local_path": "web/NE-08072.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/exhaust-fan/o/d/b/aeroclean-pack-of-2-230-usha-original-imahaqceauenseef.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09030"
+  ],
+  "image_local_path": "web/NE-09030.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/m/4/c/-original-imahm54r94phufqr.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04474"
+  ],
+  "image_local_path": "web/NE-04474.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81Aw+dN2XBL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00094"
+  ],
+  "image_local_path": "web/NE-00094.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/Roam_2_blue_2000x2000_copy.webp?v=1752754733",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00132"
+  ],
+  "image_local_path": "web/NE-00132.jpg",
+  "image_source_url": "http://www.fireboltt.com/cdn/shop/files/talk-grey_1_65e32eef-5491-434b-bf23-8a377c4cfd54.png?v=1768795340",
+  "image_source_domain": "www.fireboltt.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01797"
+  ],
+  "image_local_path": "web/NE-01797.jpg",
+  "image_source_url": "https://www.quboworld.com/cdn/shop/files/ultra-wi-fi-smart-door-lock_listing_02_2ad5c1a3-1f29-4c22-9ce4-c844520961d3.jpg?v=1775722264&width=3840",
+  "image_source_domain": "www.quboworld.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00187"
+  ],
+  "image_local_path": "web/NE-00187.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/715Hbrpj07L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00401"
+  ],
+  "image_local_path": "web/NE-00401.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81OL1zmZhxL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00655"
+  ],
+  "image_local_path": "web/NE-00655.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71wSl54hXtL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00710"
+  ],
+  "image_local_path": "web/NE-00710.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/SA80MWFG-SA80BGFG-8_KG_5.jpg?v=1778847963",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00781"
+  ],
+  "image_local_path": "web/NE-00781.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61M1rY3D95L._AC_UF894,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00903"
+  ],
+  "image_local_path": "web/NE-00903.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/31zBId-7iRL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02916"
+  ],
+  "image_local_path": "web/NE-02916.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61MDyD-aPVL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03123"
+  ],
+  "image_local_path": "web/NE-03123.jpg",
+  "image_source_url": "https://houseofsujata.com/wp-content/uploads/2026/07/erosfront.webp",
+  "image_source_domain": "houseofsujata.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05482"
+  ],
+  "image_local_path": "web/NE-05482.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71U3KtT88dL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07242"
+  ],
+  "image_local_path": "web/NE-07242.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81InyiZqSEL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07435"
+  ],
+  "image_local_path": "web/NE-07435.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71buyayuaWL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01047"
+  ],
+  "image_local_path": "web/NE-01047.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01653"
+  ],
+  "image_local_path": "web/NE-01653.jpg",
+  "image_source_url": "https://celloindia.co.in/cdn/shop/files/imgi_4_3-lpg-7-platinum-3-burners-lpg-gas-stove-cello-13-automatic-original-imahzmcpkkceegcn_fb54b6ef-e39f-4bae-bda2-7463a89c9b02_1920x.jpg?v=1784370875",
+  "image_source_domain": "celloindia.co.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01679"
+  ],
+  "image_local_path": "web/NE-01679.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/91ku8ybR1ML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02553"
+  ],
+  "image_local_path": "web/NE-02553.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61ieXFBS28L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02984"
+  ],
+  "image_local_path": "web/NE-02984.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/FlowA2CPRO2.jpg?v=1778911109&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03074"
+  ],
+  "image_local_path": "web/NE-03074.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71oRNagRHJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03187"
+  ],
+  "image_local_path": "web/NE-03187.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240478_2.png?v=1783151011",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05481"
+  ],
+  "image_local_path": "web/NE-05481.jpg",
+  "image_source_url": "https://goboult.co.in/cdn/shop/files/Saber-new-R2-black-for-slices_01_result.webp?v=1780313411&width=1920",
+  "image_source_domain": "goboult.co.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05812"
+  ],
+  "image_local_path": "web/NE-05812.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71BRisNyPlL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07390"
+  ],
+  "image_local_path": "web/NE-07390.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/311488_12_wnov2m.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08073",
+   "NE-08074"
+  ],
+  "image_local_path": "web/NE-08073.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/exhaust-fan/f/p/6/aeroclean-plus-230mm-230-usha-original-imah8j9hzcfkuqyp.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09516"
+  ],
+  "image_local_path": "web/NE-09516.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/224544_0_szje0y.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00108"
+  ],
+  "image_local_path": "web/NE-00108.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/0828/1391/1317/files/Nex900copy.webp?v=1758879875",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00148"
+  ],
+  "image_local_path": "web/NE-00148.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/smartwatch/1/i/0/33-bsw151-android-ios-fire-boltt-yes-original-imagsm58achsgaqa.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01801"
+  ],
+  "image_local_path": "web/NE-01801.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Safety%20Security/Images/244826_6_ljgulz.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00185"
+  ],
+  "image_local_path": "web/NE-00185.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/715Hbrpj07L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01852"
+  ],
+  "image_local_path": "web/NE-01852.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i25//1348Wx2000H/MP000000024341724_1348Wx2000H_202507011901201.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10141"
+  ],
+  "image_local_path": "web/NE-10141.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i9/1348Wx2000H/MP000000015611457_1348Wx2000H_202212081458131.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02914"
+  ],
+  "image_local_path": "web/NE-02914.jpg",
+  "image_source_url": "https://ik.imagekit.io/l2ot4bhdb/Combos/Office%20Set_blue.png?updatedAt=1758183655428",
+  "image_source_domain": "skylineappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03264",
+   "NE-03265"
+  ],
+  "image_local_path": "web/NE-03264.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61lXYVMBAcL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03554"
+  ],
+  "image_local_path": "web/NE-03554.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61nqFg4ssvL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06540"
+  ],
+  "image_local_path": "web/NE-06540.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81-8ckNKbNL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07412"
+  ],
+  "image_local_path": "web/NE-07412.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/245729_1_q3q81w.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07457"
+  ],
+  "image_local_path": "web/NE-07457.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81c3Lpu9heL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03941"
+  ],
+  "image_local_path": "web/NE-03941.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/0911bbd0-162a-4e36-8de8-1485e157d843-677470007/AB_5.2.4_6250DA_(7).png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00418"
+  ],
+  "image_local_path": "web/NE-00418.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/3_b6be4c2e-505c-4b35-8668-ca10bfcd994c.jpg?v=1749190352&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00615"
+  ],
+  "image_local_path": "web/NE-00615.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-M1_Omnidirectional_Lavalier_Microphone_2.jpg?v=1784377022&width=3840",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00724"
+  ],
+  "image_local_path": "web/NE-00724.jpg",
+  "image_source_url": "http://www.intex.in/cdn/shop/files/4_a3ca4cb0-2a55-4223-9035-187321d943b2.jpg?v=1749555100",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00902"
+  ],
+  "image_local_path": "web/NE-00902.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/plate-tray-dish/t/c/3/feston-white-19-cm-6-quarter-plate-luminarc-enriched-2-original-imafyydvh7bgwrkz.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01045"
+  ],
+  "image_local_path": "web/NE-01045.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01654"
+  ],
+  "image_local_path": "web/NE-01654.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61OSYoOgquL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01678"
+  ],
+  "image_local_path": "web/NE-01678.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Toasters%20Sandwich%20Makers/Images/270392_1_htghky.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02981"
+  ],
+  "image_local_path": "web/NE-02981.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/FlowA2CPRO2.jpg?v=1778911109&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03073"
+  ],
+  "image_local_path": "web/NE-03073.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71oRNagRHJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03188"
+  ],
+  "image_local_path": "web/NE-03188.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240478_2.png?v=1783151011",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05489"
+  ],
+  "image_local_path": "web/NE-05489.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/headphone/0/a/9/-original-imahpqfqknfarjux.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05816"
+  ],
+  "image_local_path": "web/NE-05816.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/smart-camera-r?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07392"
+  ],
+  "image_local_path": "web/NE-07392.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/302220_1_b7f8mm.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08032"
+  ],
+  "image_local_path": "web/NE-08032.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/a/o/b/striker-hs-90-1-wall-fan-300-usha-original-imagh6xggbqvwmnz.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09751"
+  ],
+  "image_local_path": "web/NE-09751.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/k19lvgw0/refrigerator-new/b/q/g/205-impc-roy-5s-sapphire-radiance-e-205-impwcl-roy-5s-sapphire-original-imafkvhgahhmz7wt.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00835"
+  ],
+  "image_local_path": "web/NE-00835.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dinner-set/z/b/r/yes-35-lnrg35-laopala-original-imahe3fjhyzgggqy.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01844"
+  ],
+  "image_local_path": "web/NE-01844.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/backpack/3/r/e/-original-imahhnzvrbdu87b3.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10111"
+  ],
+  "image_local_path": "web/NE-10111.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1400_x_1800_-_2_91195bb6-65e4-4183-814b-3298a0840351.jpg?v=1661247230",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02619"
+  ],
+  "image_local_path": "web/NE-02619.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/266973_0_s1kruz.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02866"
+  ],
+  "image_local_path": "web/NE-02866.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51NQM3i-TBL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03255"
+  ],
+  "image_local_path": "web/NE-03255.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Chargers%20and%20Batteries/Images/247054_7_xfqz5d.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03556"
+  ],
+  "image_local_path": "web/NE-03556.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/307605_1_lrcryl.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-06849",
+   "NE-06850"
+  ],
+  "image_local_path": "web/NE-06849.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61Jc0UxwRAL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07416"
+  ],
+  "image_local_path": "web/NE-07416.jpg",
+  "image_source_url": "http://www.shop.preethi.in/cdn/shop/files/MIXHHRE3FZ7DDXTD_00.jpg?v=1788256768",
+  "image_source_domain": "www.shop.preethi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07484",
+   "NE-07485",
+   "NE-07486"
+  ],
+  "image_local_path": "web/NE-07484.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71OtXoo+ncL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00098"
+  ],
+  "image_local_path": "web/NE-00098.jpg",
+  "image_source_url": "https://cdn.sanity.io/images/090mc8y6/production/8f2f90bec27ae6c721a6484c7364dbffc54abb71-4000x2500.png?auto=format&w=2800&q=90",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00140"
+  ],
+  "image_local_path": "web/NE-00140.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51wgNvwdLVL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00184"
+  ],
+  "image_local_path": "web/NE-00184.jpg",
+  "image_source_url": "https://www.wiwu.com/cdn/shop/files/6_59661fa0-be63-4ee4-abe1-7ab197e1dc7c.jpg?v=1773818132",
+  "image_source_domain": "www.wiwu.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00246"
+  ],
+  "image_local_path": "web/NE-00246.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/9/d/a/2020-150973-3000-bajaj-3-original-imagrdq2rtwgyfkn.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00616"
+  ],
+  "image_local_path": "web/NE-00616.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/BOYA_BY-M1_Omnidirectional_Lavalier_Microphone_2.jpg?v=1784377022&width=3840",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00709"
+  ],
+  "image_local_path": "web/NE-00709.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/10KG_BLACKmetal-01_e6769000-44cb-448e-b244-984881d47d49.jpg?v=1784091011",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00816"
+  ],
+  "image_local_path": "web/NE-00816.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71HaK9K0hhL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00901"
+  ],
+  "image_local_path": "web/NE-00901.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/plate-tray-dish/t/c/3/feston-white-19-cm-6-quarter-plate-luminarc-enriched-2-original-imafyydvh7bgwrkz.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01048"
+  ],
+  "image_local_path": "web/NE-01048.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81B8meYGU2L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01669"
+  ],
+  "image_local_path": "web/NE-01669.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61zURjQNxtL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01676"
+  ],
+  "image_local_path": "web/NE-01676.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/electric-cooker/l/r/a/craft-havells-original-imahhzmf8yy2vcxb.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02513"
+  ],
+  "image_local_path": "web/NE-02513.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71CPs5UxHaL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03072"
+  ],
+  "image_local_path": "web/NE-03072.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71oRNagRHJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03155"
+  ],
+  "image_local_path": "web/NE-03155.jpg",
+  "image_source_url": "https://www.sunflame.com/cdn/shop/files/27-05-20240387.png?v=1783150528&width=1946",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05462"
+  ],
+  "image_local_path": "web/NE-05462.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71ScZGfillL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07137"
+  ],
+  "image_local_path": "web/NE-07137.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81IabkAENaL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07354",
+   "NE-07355",
+   "NE-07356"
+  ],
+  "image_local_path": "web/NE-07354.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/speaker/t/o/w/-original-imah3h9uwbmbnnzs.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03600"
+  ],
+  "image_local_path": "web/NE-03600.jpg",
+  "image_source_url": "https://prod4-sprcdn-assets.sprinklr.com/200052/76e82ca7-86e0-4a0f-90a1-c4f008f1e7f5-1535694335/Aavante_2.42.png",
+  "image_source_domain": "support.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01807"
+  ],
+  "image_local_path": "web/NE-01807.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71owE0KeaXL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10115"
+  ],
+  "image_local_path": "web/NE-10115.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_1_4df67c11-fc50-46ca-a1d0-4366820dd524.jpg?v=1739622857",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02862"
+  ],
+  "image_local_path": "web/NE-02862.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61GhAYBumQL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02982"
+  ],
+  "image_local_path": "web/NE-02982.jpg",
+  "image_source_url": "http://swissmilitaryaudio.com/cdn/shop/files/Flow-C2L-01.jpg?v=1778910567&width=2048",
+  "image_source_domain": "swissmilitaryaudio.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03302"
+  ],
+  "image_local_path": "web/NE-03302.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51j0dY5pfxL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03555"
+  ],
+  "image_local_path": "web/NE-03555.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71t4WeyyDML.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05743"
+  ],
+  "image_local_path": "web/NE-05743.jpg",
+  "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:6a87c69e-26c6-4264-92aa-39320aea9b46/as/8905799101445-.webp?quality=60",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07421"
+  ],
+  "image_local_path": "web/NE-07421.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/r/w/3/-original-imahqt68jy9meq7h.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08081",
+   "NE-08082"
+  ],
+  "image_local_path": "web/NE-08081.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/d/n/8/12-aeroclean-plus-pack-of-2-72-2-exhaust-fan-300-usha-original-imah9hqfhqqkffg9.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09184",
+   "NE-09681",
+   "NE-09888"
+  ],
+  "image_local_path": "web/NE-09184.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61MPsq2WjxL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04214"
+  ],
+  "image_local_path": "web/NE-04214.jpg",
+  "image_source_url": "http://www.boat-lifestyle.com/cdn/shop/files/Artboard1_1cb0e803-f4cc-45ed-8633-7a33474c7ceb.png?v=1761896896",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00097"
+  ],
+  "image_local_path": "web/NE-00097.jpg",
+  "image_source_url": "https://cdn.sanity.io/images/090mc8y6/production/a4a0ee4b2d8d8a4273d9af1bbf8277213c613a64-4000x2500.png?auto=format&w=2800&q=90",
+  "image_source_domain": "www.mivi.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00127"
+  ],
+  "image_local_path": "web/NE-00127.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71mEkWWN3VL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00247"
+  ],
+  "image_local_path": "web/NE-00247.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/s/s/n/-original-imahp54eygscygze.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00617"
+  ],
+  "image_local_path": "web/NE-00617.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/710CWoZvC6L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00725"
+  ],
+  "image_local_path": "web/NE-00725.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61zH2AbSu5L.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00782"
+  ],
+  "image_local_path": "web/NE-00782.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71SeP9ApjKL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01049"
+  ],
+  "image_local_path": "web/NE-01049.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81KaCDHMmJL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01670"
+  ],
+  "image_local_path": "web/NE-01670.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61pAxCZ0GLL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01750"
+  ],
+  "image_local_path": "web/NE-01750.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61zJbCcGuhL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02514"
+  ],
+  "image_local_path": "web/NE-02514.jpg",
+  "image_source_url": "https://img.tatacliq.com/images/i3/1348Wx2000H/MP000000004212713_1348Wx2000H_20190116212659.jpeg",
+  "image_source_domain": "www.tatacliq.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03219"
+  ],
+  "image_local_path": "web/NE-03219.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/610hl-vJOOL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03113"
+  ],
+  "image_local_path": "web/NE-03113.jpg",
+  "image_source_url": "https://houseofsujata.com/wp-content/uploads/2025/06/indium3b.webp",
+  "image_source_domain": "houseofsujata.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03127"
+  ],
+  "image_local_path": "web/NE-03127.jpg",
+  "image_source_url": "http://www.sunflame.com/cdn/shop/files/27-05-20240405.png?v=1779187611",
+  "image_source_domain": "www.sunflame.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03391"
+  ],
+  "image_local_path": "web/NE-03391.jpg",
+  "image_source_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw95d2d595/images/hi-res/9/9bd2073035187_INC002_Web.jpg?sfrm=png",
+  "image_source_domain": "www.belkin.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05475"
+  ],
+  "image_local_path": "web/NE-05475.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81qCSRlXsDL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07447"
+  ],
+  "image_local_path": "web/NE-07447.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71qvOfkDdGL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01021"
+  ],
+  "image_local_path": "web/NE-01021.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjd6nww0-0/plate-tray-dish/t/c/3/feston-white-19-cm-6-quarter-plate-luminarc-original-imafyydvh7bgwrkz.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01838"
+  ],
+  "image_local_path": "web/NE-01838.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/backpack/a/y/s/5-9-nm-onyx-black-backpack-13-38-nm-onyx-black-backpack-laptop-original-imahgdpgux3eufp5.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10114"
+  ],
+  "image_local_path": "web/NE-10114.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_1_4df67c11-fc50-46ca-a1d0-4366820dd524.jpg?v=1739622857",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02861"
+  ],
+  "image_local_path": "web/NE-02861.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/o/i/k/48-inch-ceiling-fan-1200mm-high-speed-energy-efficient-brown-original-imahgfzqxnymsasr.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03558"
+  ],
+  "image_local_path": "web/NE-03558.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/m/f/l/brisk-air-plus-200-mm-30-1-exhaust-fan-200-crompton-original-imahycnskxc9fayb.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07159"
+  ],
+  "image_local_path": "web/NE-07159.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81IabkAENaL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07371"
+  ],
+  "image_local_path": "web/NE-07371.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/249508_1_b5mnu0.jpg",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-08079"
+  ],
+  "image_local_path": "web/NE-08079.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/w/6/aeroclean-plus-300mm-pack-of-1-72-1-exhaust-fan-300-usha-original-imah8seeg6mvdyh6.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-09361"
+  ],
+  "image_local_path": "web/NE-09361.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61MPsq2WjxL._AC_UF1000,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-04138"
+  ],
+  "image_local_path": "web/NE-04138.jpg",
+  "image_source_url": "http://www.boat-lifestyle.com/cdn/shop/files/Artboard2_40751b68-cd17-478d-93d2-ee732f5fec49.png?v=1753685658",
+  "image_source_domain": "www.boat-lifestyle.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00093"
+  ],
+  "image_local_path": "web/NE-00093.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/619gtwR8LtL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00283"
+  ],
+  "image_local_path": "web/NE-00283.jpg",
+  "image_source_url": "https://www.bajajelectricals.com/cdn/shop/files/2_b758b45d-35f3-492e-8f52-d7a93e9a6cdf.jpg?v=1749014599&width=1500",
+  "image_source_domain": "www.bajajelectricals.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00622"
+  ],
+  "image_local_path": "web/NE-00622.jpg",
+  "image_source_url": "https://boya-mic.in/cdn/shop/files/61RJqOgmHAL._SL1500.jpg?v=1762934104&width=3840",
+  "image_source_domain": "boya-mic.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00722"
+  ],
+  "image_local_path": "web/NE-00722.jpg",
+  "image_source_url": "https://www.intex.in/cdn/shop/files/PDP-BANNER1_2000x.jpg?v=1747474185",
+  "image_source_domain": "www.intex.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00817"
+  ],
+  "image_local_path": "web/NE-00817.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/711dh4OPeiL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00900"
+  ],
+  "image_local_path": "web/NE-00900.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/31n+nkuKXWL._AC_UF894,1000_QL80_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01671"
+  ],
+  "image_local_path": "web/NE-01671.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2ghgnk0/water-bottle/q/w/f/2000-cool-titan-insulated-water-bottle-2-litre-red-1-cello-original-imagdsucvgmfnmzg.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01774"
+  ],
+  "image_local_path": "web/NE-01774.jpg",
+  "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/c/u/s/czar-dry-iron-1000-watt-havells-original-imah72dmkbhwwayr.jpeg?q=70",
+  "image_source_domain": "www.flipkart.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02515"
+  ],
+  "image_local_path": "web/NE-02515.jpg",
+  "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/266970_0_inyrlz.png",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-02803"
+  ],
+  "image_local_path": "web/NE-02803.jpg",
+  "image_source_url": "https://ik.imagekit.io/l2ot4bhdb/Charcoal%20Barbecue%20&%20Electric%20Barbecue%20Grills/VTL-4900.jpg?updatedAt=1728632073371",
+  "image_source_domain": "skylineappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03222"
+  ],
+  "image_local_path": "web/NE-03222.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71bik8-oLUL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03110"
+  ],
+  "image_local_path": "web/NE-03110.jpg",
+  "image_source_url": "https://houseofsujata.com/wp-content/uploads/2025/06/indium3b.webp",
+  "image_source_domain": "houseofsujata.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03126"
+  ],
+  "image_local_path": "web/NE-03126.jpg",
+  "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/310979_1_CUF9norUy.png?updatedAt=1762783546355",
+  "image_source_domain": "www.croma.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-05748"
+  ],
+  "image_local_path": "web/NE-05748.jpg",
+  "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/clp-7in1-converticool-with-copper-boost-master-revised-aug?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+  "image_source_domain": "www.ifbappliances.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07410"
+  ],
+  "image_local_path": "web/NE-07410.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/51sZJ0hX2QL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-07456"
+  ],
+  "image_local_path": "web/NE-07456.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/81rHmV6L-vL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-00128"
+  ],
+  "image_local_path": "web/NE-00128.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/71w4Rvuf2fL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01831"
+  ],
+  "image_local_path": "web/NE-01831.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61tcaXYgo5L._SL1500_.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-10112"
+  ],
+  "image_local_path": "web/NE-10112.jpg",
+  "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_1-4_c3cb65d3-6677-41e0-8429-68fd44c05f21.png?v=1742549258",
+  "image_source_domain": "www.portronics.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-03294",
+   "NE-03295"
+  ],
+  "image_local_path": "web/NE-03294.jpg",
+  "image_source_url": "https://m.media-amazon.com/images/I/61HjD7Vw1PL.jpg",
+  "image_source_domain": "www.amazon.in",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01808"
+  ],
+  "image_local_path": "web/NE-01808.jpg",
+  "image_source_url": "https://nashermiles.com/cdn/shop/files/M1_a17799b7-438d-4c64-8f39-4b943c54e1dc.jpg?crop=center&height=2000&v=1743657701&width=2000",
+  "image_source_domain": "nashermiles.com",
+  "confidence": "high"
+ },
+ {
+  "member_ids": [
+   "NE-01809"
+  ],
+  "image_local_path": "web/NE-01809.jpg",
+  "image_source_url": "https://assets.myntassets.com/assets/images/33424993/2025/5/24/69e3f4b9-a9fa-4ed5-8a54-332546d41dbd1748082874131-Nasher-Miles-Jupiter-Hard-Sided-Polypropylene-Medium-Purple--1.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "low"
+ },
+ {
+  "member_ids": [
+   "NE-01810"
+  ],
+  "image_local_path": "web/NE-01810.jpg",
+  "image_source_url": "https://assets.myntassets.com/assets/images/33424999/2025/5/24/4d8a3bb2-481e-44ba-8888-f649b0fef8f91748083006660-Nasher-Miles-Jupiter-Hard-Sided-Polypropylene-Large-Black-Tr-1.jpg",
+  "image_source_domain": "www.myntra.com",
+  "confidence": "low"
+ }
+]

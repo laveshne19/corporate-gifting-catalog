@@ -1,0 +1,2360 @@
+[
+  {
+    "member_ids": [
+      "NE-02134"
+    ],
+    "image_local_path": "web/NE-02134.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321450_0_z_plG57A8.png?updatedAt=1781782803465",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02135"
+    ],
+    "image_local_path": "web/NE-02135.jpg",
+    "image_source_url": "https://www.navinmart.com/cdn/shop/files/HRD-2115PFGG-N-01.webp?v=1781261604",
+    "image_source_domain": "www.navinmart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02136"
+    ],
+    "image_local_path": "web/NE-02136.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/refrigerators/FUR.REF.741900536_1776861042701.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02137"
+    ],
+    "image_local_path": "web/NE-02137.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/B_ZDV9l1m2-Haier-Single-Door-Ref-494606571-74-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02157"
+    ],
+    "image_local_path": "web/NE-02157.jpg",
+    "image_source_url": "https://img-prd-pim.poorvika.com/product/Haier-253-l-direct-cool-single-door-3-star-refrigerator-hrd-2743bgsa-n-grey-Front-View.webp",
+    "image_source_domain": "www.poorvika.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02158"
+    ],
+    "image_local_path": "web/NE-02158.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/refrigerators/FUR.REF.941907380_1776944849700.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02159"
+    ],
+    "image_local_path": "web/NE-02159.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/refrigerators/FUR.REF.341907397_1776944746945.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02178"
+    ],
+    "image_local_path": "web/NE-02178.jpg",
+    "image_source_url": "https://backend.paiinternational.in/media/images/ff_0ZFH7Wq.webp",
+    "image_source_domain": "www.paiinternational.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02181"
+    ],
+    "image_local_path": "web/NE-02181.jpg",
+    "image_source_url": "https://assets.nikshanonline.com/wp-content/uploads/2026/02/1-111-150x150.png",
+    "image_source_domain": "nikshanonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02179"
+    ],
+    "image_local_path": "web/NE-02179.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606578/2/zkS3EC3-pg-qIxD-wTwnA-Haier-Double-Door-Ref-494606578-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02180"
+    ],
+    "image_local_path": "web/NE-02180.jpg",
+    "image_source_url": "https://www.giriasindia.com/_next/image?url=https%3A%2F%2Fbc-storage.sfo2.cdn.digitaloceanspaces.com%2Fgirias%2Fproduct%2FScreenshot%25202026-03-19%2520115343_20260319120110532.jpg&w=640&q=75",
+    "image_source_domain": "www.giriasindia.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02184"
+    ],
+    "image_local_path": "web/NE-02184.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/137/screencapture-haier-in-refrigerators-237-litres-frost-free-inverter-bottom-mounted-refrigerator-hrb-2872ekga-p-shtml-2026-08-22-13_00_48_357x587-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02185"
+    ],
+    "image_local_path": "web/NE-02185.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/137/screencapture-haier-in-refrigerators-237-litres-frost-free-inverter-bottom-mounted-refrigerator-hrb-2872ekga-p-shtml-2026-08-22-13_00_48_357x587-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02186"
+    ],
+    "image_local_path": "web/NE-02186.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/137/screencapture-haier-in-refrigerators-237-litres-frost-free-inverter-bottom-mounted-refrigerator-hrb-2872ekga-p-shtml-2026-08-22-13_00_48_357x587-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02187"
+    ],
+    "image_local_path": "web/NE-02187.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/137/screencapture-haier-in-refrigerators-237-litres-frost-free-inverter-bottom-mounted-refrigerator-hrb-2872ekga-p-shtml-2026-08-22-13_00_48_357x587-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02188"
+    ],
+    "image_local_path": "web/NE-02188.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/132/HRB-3152IBNS-P-05-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02189"
+    ],
+    "image_local_path": "web/NE-02189.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/132/HRB-3152IBNS-P-05-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02190"
+    ],
+    "image_local_path": "web/NE-02190.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/132/HRB-3152IBNS-P-05-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02191"
+    ],
+    "image_local_path": "web/NE-02191.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/132/HRB-3152IBNS-P-05-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02193"
+    ],
+    "image_local_path": "web/NE-02193.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606580/2/ERDlsVB24a-NdhsFubqyR-Haier-Double-Door-Ref-494606580-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02194"
+    ],
+    "image_local_path": "web/NE-02194.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606580/2/ERDlsVB24a-NdhsFubqyR-Haier-Double-Door-Ref-494606580-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02195"
+    ],
+    "image_local_path": "web/NE-02195.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606580/2/ERDlsVB24a-NdhsFubqyR-Haier-Double-Door-Ref-494606580-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02196"
+    ],
+    "image_local_path": "web/NE-02196.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606580/2/ERDlsVB24a-NdhsFubqyR-Haier-Double-Door-Ref-494606580-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02197"
+    ],
+    "image_local_path": "web/NE-02197.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606580/2/ERDlsVB24a-NdhsFubqyR-Haier-Double-Door-Ref-494606580-i-3.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02199"
+    ],
+    "image_local_path": "web/NE-02199.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/ga1S4Nss0-Haier-Double-Door-Ref-494606582-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02200"
+    ],
+    "image_local_path": "web/NE-02200.jpg",
+    "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/h/r/hrf4082blgkap_base.jpeg",
+    "image_source_domain": "www.bajajfinserv.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02201"
+    ],
+    "image_local_path": "web/NE-02201.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/ga1S4Nss0-Haier-Double-Door-Ref-494606582-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02202"
+    ],
+    "image_local_path": "web/NE-02202.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71tP4H0iAPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02203"
+    ],
+    "image_local_path": "web/NE-02203.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321462_0_SZq12na11.png?updatedAt=1775440052577",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02220"
+    ],
+    "image_local_path": "web/NE-02220.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/311035_1_ENv3xs-_c.png?updatedAt=1776679276081",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02221"
+    ],
+    "image_local_path": "web/NE-02221.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/311035_1_ENv3xs-_c.png?updatedAt=1776679276081",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02222"
+    ],
+    "image_local_path": "web/NE-02222.jpg",
+    "image_source_url": "https://s3b.cashify.in/gpro/uploads/2026/07/28172253/haier-hrb-4951pbga-p-445-ltr-1-star-double-door-front.webp",
+    "image_source_domain": "www.cashify.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02223"
+    ],
+    "image_local_path": "web/NE-02223.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/subcategory/image/3DoorSBS.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02224"
+    ],
+    "image_local_path": "web/NE-02224.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/578861557/EG/SG/KY/255762704/haier-hrb-4952bgk-p-bottom-mount-refrigerator.png",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02237"
+    ],
+    "image_local_path": "web/NE-02237.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a740d8ef-efeb-4e00-b102-ed0d45594d38.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02238"
+    ],
+    "image_local_path": "web/NE-02238.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a740d8ef-efeb-4e00-b102-ed0d45594d38.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02239"
+    ],
+    "image_local_path": "web/NE-02239.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a740d8ef-efeb-4e00-b102-ed0d45594d38.__CR0,0,600,450_PT0_SX600_V1___.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02240"
+    ],
+    "image_local_path": "web/NE-02240.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494510414/0/U7bawvWrHz-vSq2YDLsk0-Haier-520L-HRB-600KGU1-Refrigator-494510414-i-1-1200Wx1200H.jpeg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02241"
+    ],
+    "image_local_path": "web/NE-02241.jpg",
+    "image_source_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494510414/0/U7bawvWrHz-vSq2YDLsk0-Haier-520L-HRB-600KGU1-Refrigator-494510414-i-1-1200Wx1200H.jpeg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02242"
+    ],
+    "image_local_path": "web/NE-02242.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/506801391/HC/IC/UY/18785868/haier-520l-mirror-glass-4-door-convertible-refrigerator-hrb-600mgu1.jpeg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02244"
+    ],
+    "image_local_path": "web/NE-02244.jpg",
+    "image_source_url": "https://shreejeeelectronics.in/wp-content/uploads/2025/12/683KWG-3.jpg",
+    "image_source_domain": "shreejeeelectronics.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02261"
+    ],
+    "image_local_path": "web/NE-02261.jpg",
+    "image_source_url": "https://whitemart.in/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0989%2F9012%2F9440%2Ffiles%2Ffhwswhsblk16_1.webp%3Fv%3D1778154207&w=3840&q=75",
+    "image_source_domain": "whitemart.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02262"
+    ],
+    "image_local_path": "web/NE-02262.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/270726_4_dx0vlt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02263"
+    ],
+    "image_local_path": "web/NE-02263.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/270726_4_dx0vlt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02264"
+    ],
+    "image_local_path": "web/NE-02264.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/270726_4_dx0vlt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02265"
+    ],
+    "image_local_path": "web/NE-02265.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/270726_4_dx0vlt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02266"
+    ],
+    "image_local_path": "web/NE-02266.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/108/hw80im12929ebkf_450957_base-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02267"
+    ],
+    "image_local_path": "web/NE-02267.jpg",
+    "image_source_url": "https://www.myg.in/images/detailed/108/hw80im12929ebkf_450957_add02-removebg-preview.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02272"
+    ],
+    "image_local_path": "web/NE-02272.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2024/10/459468843/SA/CX/HT/23874183/product-jpeg-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02281"
+    ],
+    "image_local_path": "web/NE-02281.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2024/10/459468843/SA/CX/HT/23874183/product-jpeg-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02282"
+    ],
+    "image_local_path": "web/NE-02282.jpg",
+    "image_source_url": "https://services.ibo.com/media/v1/products/images/04aa9d57-7698-45d4-bbad-16c68ab0758f/haier-top-load-wm-hwm90688s8noida-9kg-blk-gry-1.webp",
+    "image_source_domain": "www.ibo.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02283"
+    ],
+    "image_local_path": "web/NE-02283.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Washers%20And%20Dryers/Images/321495_0_53R0sO40t.png?updatedAt=1773147555052",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02284"
+    ],
+    "image_local_path": "web/NE-02284.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Washers%20And%20Dryers/Images/321495_0_53R0sO40t.png?updatedAt=1773147555052",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02285"
+    ],
+    "image_local_path": "web/NE-02285.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/312973_0_o-1su9TnC.png?updatedAt=1766429955059",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02286"
+    ],
+    "image_local_path": "web/NE-02286.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/2/490344748/MP/OZ/VL/31143669/haier-washing-machine-top-load-8kg-hsw80-678es8-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02287"
+    ],
+    "image_local_path": "web/NE-02287.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/321480_0_9Bb4qc5D_.png?updatedAt=1772017394145",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02288"
+    ],
+    "image_local_path": "web/NE-02288.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HWM80-H320BK__1_-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02289"
+    ],
+    "image_local_path": "web/NE-02289.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/2/490344953/NQ/PK/IB/31143669/haier-washing-machine-top-load-8kg-hsw80-678es8-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02290"
+    ],
+    "image_local_path": "web/NE-02290.jpg",
+    "image_source_url": "https://services.ibo.com/media/v1/products/images/04aa9d57-7698-45d4-bbad-16c68ab0758f/haier-top-load-wm-hwm90688s8noida-9kg-blk-gry-1.webp",
+    "image_source_domain": "www.ibo.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02291"
+    ],
+    "image_local_path": "web/NE-02291.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/321480_0_9Bb4qc5D_.png?updatedAt=1772017394145",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02293"
+    ],
+    "image_local_path": "web/NE-02293.jpg",
+    "image_source_url": "https://img-prd-pim.poorvika.com/product/Haier-8-0kg-fully-automatic-top-load-washing-machine-hwm80-310bk-black-Option-View.webp",
+    "image_source_domain": "www.poorvika.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02295"
+    ],
+    "image_local_path": "web/NE-02295.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/321480_0_9Bb4qc5D_.png?updatedAt=1772017394145",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02296"
+    ],
+    "image_local_path": "web/NE-02296.jpg",
+    "image_source_url": "https://www.thechennaimobiles.com/_next/image?url=https%3A%2F%2Fapi.thechennaimobiles.com%2F1766252488262.jpg&w=1600&q=75",
+    "image_source_domain": "www.thechennaimobiles.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02303"
+    ],
+    "image_local_path": "web/NE-02303.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/laundry-machine-and-appliances/washing-machine/FUR.WAS.541994691_1777354642597.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02304"
+    ],
+    "image_local_path": "web/NE-02304.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/laundry-machine-and-appliances/washing-machine/FUR.WAS.541994691_1777354642597.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02305"
+    ],
+    "image_local_path": "web/NE-02305.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02306"
+    ],
+    "image_local_path": "web/NE-02306.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02307"
+    ],
+    "image_local_path": "web/NE-02307.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02308"
+    ],
+    "image_local_path": "web/NE-02308.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02309"
+    ],
+    "image_local_path": "web/NE-02309.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02310"
+    ],
+    "image_local_path": "web/NE-02310.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02311"
+    ],
+    "image_local_path": "web/NE-02311.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02312"
+    ],
+    "image_local_path": "web/NE-02312.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02313"
+    ],
+    "image_local_path": "web/NE-02313.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02314"
+    ],
+    "image_local_path": "web/NE-02314.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02315"
+    ],
+    "image_local_path": "web/NE-02315.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02316"
+    ],
+    "image_local_path": "web/NE-02316.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02318"
+    ],
+    "image_local_path": "web/NE-02318.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02319"
+    ],
+    "image_local_path": "web/NE-02319.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02320"
+    ],
+    "image_local_path": "web/NE-02320.jpg",
+    "image_source_url": "https://www.cherahomejunction.com/cdn/shop/files/HaierHWM65-1269S5DBFullyAutomaticTopLoadWashingMachine6.5Kg-MoonlightGrey_FrontView_1.jpg?v=1787224763&width=1080",
+    "image_source_domain": "www.cherahomejunction.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02321"
+    ],
+    "image_local_path": "web/NE-02321.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/260/260/detailed/134/HTW140-196BK_01-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02323"
+    ],
+    "image_local_path": "web/NE-02323.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/400812056/PW/TN/RP/206159090/haier-htw85-186-washing-machine.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02324"
+    ],
+    "image_local_path": "web/NE-02324.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/washing-machine-new/c/1/q/8-46-3-htw80-178-5-380-78-24-haier-96-original-imahg4gfsfpcpxsd.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02325"
+    ],
+    "image_local_path": "web/NE-02325.jpg",
+    "image_source_url": "https://neverowned.in/cdn/shop/files/FUR.WAS.841994785_1777354668887_800x.webp?v=1788349674",
+    "image_source_domain": "neverowned.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02326"
+    ],
+    "image_local_path": "web/NE-02326.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71YPrbc018L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02327"
+    ],
+    "image_local_path": "web/NE-02327.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41raEzBcPYL._AC_UF350,350_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02328"
+    ],
+    "image_local_path": "web/NE-02328.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61rSvIhxGuL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02329"
+    ],
+    "image_local_path": "web/NE-02329.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/400812056/PW/TN/RP/206159090/haier-htw85-186-washing-machine.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02330"
+    ],
+    "image_local_path": "web/NE-02330.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/400812056/PW/TN/RP/206159090/haier-htw85-186-washing-machine.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02331"
+    ],
+    "image_local_path": "web/NE-02331.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61rSvIhxGuL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02332"
+    ],
+    "image_local_path": "web/NE-02332.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61rSvIhxGuL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02363"
+    ],
+    "image_local_path": "web/NE-02363.jpg",
+    "image_source_url": "https://naveenelectronics.com/storage/productimages/HAIER2-(3).jpg",
+    "image_source_domain": "naveenelectronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02364"
+    ],
+    "image_local_path": "web/NE-02364.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/IPX4%207.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02366"
+    ],
+    "image_local_path": "web/NE-02366.jpg",
+    "image_source_url": "https://naveenelectronics.com/storage/productimages/HAIER5.jpg",
+    "image_source_domain": "naveenelectronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02367"
+    ],
+    "image_local_path": "web/NE-02367.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/311536_2_IgbfNLFKG.png?updatedAt=1771321468975",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02368"
+    ],
+    "image_local_path": "web/NE-02368.jpg",
+    "image_source_url": "https://rukminim2.flixcart.com/image/160/210/xif0q/water-geyser/g/5/o/-original-imah4mcgvssaphz2.jpeg?q=90",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02369"
+    ],
+    "image_local_path": "web/NE-02369.jpg",
+    "image_source_url": "https://darlingretail.com/cdn/shop/files/3_dde70824-fdf7-4783-8585-ec18c984c051_600x600_crop_center.jpg?v=1770122693",
+    "image_source_domain": "darlingretail.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02370"
+    ],
+    "image_local_path": "web/NE-02370.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/311536_2_IgbfNLFKG.png?updatedAt=1771321468975",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02371"
+    ],
+    "image_local_path": "web/NE-02371.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/bwUSJaCj5-HAIER-STORAGE-494426440-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02372"
+    ],
+    "image_local_path": "web/NE-02372.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/2/a/w/2022-es15v-regenta-white-2200-haier-15-original-imahjrvqkgrpz5af.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02373"
+    ],
+    "image_local_path": "web/NE-02373.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/bwUSJaCj5-HAIER-STORAGE-494426440-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02374"
+    ],
+    "image_local_path": "web/NE-02374.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/2/a/w/2022-es15v-regenta-white-2200-haier-15-original-imahjrvqkgrpz5af.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02375"
+    ],
+    "image_local_path": "web/NE-02375.jpg",
+    "image_source_url": "https://content.jdmagicbox.com/quickquotes/images_main/hawaes15v-regenta-digi-w-273654469-5q10e.png?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+    "image_source_domain": "www.justdial.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02376"
+    ],
+    "image_local_path": "web/NE-02376.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/2/a/w/2022-es15v-regenta-white-2200-haier-15-original-imahjrvqkgrpz5af.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02377"
+    ],
+    "image_local_path": "web/NE-02377.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/311536_2_IgbfNLFKG.png?updatedAt=1771321468975",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02378"
+    ],
+    "image_local_path": "web/NE-02378.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/bwUSJaCj5-HAIER-STORAGE-494426440-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02382"
+    ],
+    "image_local_path": "web/NE-02382.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/2/a/w/2022-es15v-regenta-white-2200-haier-15-original-imahjrvqkgrpz5af.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02383"
+    ],
+    "image_local_path": "web/NE-02383.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/bwUSJaCj5-HAIER-STORAGE-494426440-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02384"
+    ],
+    "image_local_path": "web/NE-02384.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/2/a/w/2022-es15v-regenta-white-2200-haier-15-original-imahjrvqkgrpz5af.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02386"
+    ],
+    "image_local_path": "web/NE-02386.jpg",
+    "image_source_url": "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/bwUSJaCj5-HAIER-STORAGE-494426440-21.jpg",
+    "image_source_domain": "www.reliancedigital.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02387"
+    ],
+    "image_local_path": "web/NE-02387.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/s/n/n/2020-es25v-s1w-2000-haier-25-original-imahgg4uxpc4gqzf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02388"
+    ],
+    "image_local_path": "web/NE-02388.jpg",
+    "image_source_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/water-geyser/9/6/t/2022-spa-mechanical-es10v-s1i-with-shock-proof-2000-haier-10-original-imagqsj7dtjc6gkv.jpeg?q=20",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02389"
+    ],
+    "image_local_path": "web/NE-02389.jpg",
+    "image_source_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/water-geyser/v/q/t/2022-es15v-s1w-2000-haier-15-original-imah6hsvttczm3e7.jpeg?q=90",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02390"
+    ],
+    "image_local_path": "web/NE-02390.jpg",
+    "image_source_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/water-geyser/9/6/t/2022-spa-mechanical-es10v-s1i-with-shock-proof-2000-haier-10-original-imagqsj7dtjc6gkv.jpeg?q=20",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02391"
+    ],
+    "image_local_path": "web/NE-02391.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/u/n/y/2021-es10v-s1-spa-mechanical-with-bps-function-umc-tank-2000-original-imagjsrwhjpvch9r.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02392"
+    ],
+    "image_local_path": "web/NE-02392.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02393"
+    ],
+    "image_local_path": "web/NE-02393.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/318754_0_GAiqAGjhR.png?updatedAt=1771321341270",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02394"
+    ],
+    "image_local_path": "web/NE-02394.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/u/n/y/2021-es10v-s1-spa-mechanical-with-bps-function-umc-tank-2000-original-imagjsrwhjpvch9r.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02395"
+    ],
+    "image_local_path": "web/NE-02395.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02397"
+    ],
+    "image_local_path": "web/NE-02397.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/u/a/z/2020-es25v-aqualad-green-2200-haier-25-original-imahgzugwapfu3pb.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02398"
+    ],
+    "image_local_path": "web/NE-02398.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/u/n/y/2021-es10v-s1-spa-mechanical-with-bps-function-umc-tank-2000-original-imagjsrwhjpvch9r.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02401"
+    ],
+    "image_local_path": "web/NE-02401.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02402"
+    ],
+    "image_local_path": "web/NE-02402.jpg",
+    "image_source_url": "https://content.jdmagicbox.com/quickquotes/images_main/hawaes25v-aqualad-black-273654450-2czy3.png?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+    "image_source_domain": "www.justdial.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02403"
+    ],
+    "image_local_path": "web/NE-02403.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02404"
+    ],
+    "image_local_path": "web/NE-02404.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/318754_0_GAiqAGjhR.png?updatedAt=1771321341270",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02405"
+    ],
+    "image_local_path": "web/NE-02405.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02406"
+    ],
+    "image_local_path": "web/NE-02406.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/a/c/y/-original-imahqka5qng7zzuh.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02407"
+    ],
+    "image_local_path": "web/NE-02407.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/447232134/MD/MS/CC/94248569/aqualad-20pro-20-1-1.webp",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02408"
+    ],
+    "image_local_path": "web/NE-02408.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/318754_0_GAiqAGjhR.png?updatedAt=1771321341270",
+    "image_source_domain": "www.croma.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02409"
+    ],
+    "image_local_path": "web/NE-02409.jpg",
+    "image_source_url": "https://mc.bajajfinserv.in/media/catalog/product/e/s/es15vsdw_452674_add02.jpeg",
+    "image_source_domain": "www.bajajfinserv.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02410"
+    ],
+    "image_local_path": "web/NE-02410.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/4/XL/QT/AI/147853314/haier-es25v-sdw-spa-digital-water-heater-white.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02411"
+    ],
+    "image_local_path": "web/NE-02411.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/317448972/NC/KI/QO/147853314/es-15v-sd-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02412"
+    ],
+    "image_local_path": "web/NE-02412.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/317448972/NC/KI/QO/147853314/es-15v-sd-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02413"
+    ],
+    "image_local_path": "web/NE-02413.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2022/7/YZ/FU/IN/147853314/whatsapp-image-2022-07-11-at-1-34-57-pm.jpeg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02414"
+    ],
+    "image_local_path": "web/NE-02414.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/522015201/ZQ/CL/QC/32732224/johnson-water-heater-geyser-250x250.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02416"
+    ],
+    "image_local_path": "web/NE-02416.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/522015201/ZQ/CL/QC/32732224/johnson-water-heater-geyser-250x250.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02418"
+    ],
+    "image_local_path": "web/NE-02418.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/522015201/ZQ/CL/QC/32732224/johnson-water-heater-geyser-250x250.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02420"
+    ],
+    "image_local_path": "web/NE-02420.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/522015201/ZQ/CL/QC/32732224/johnson-water-heater-geyser-250x250.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02431"
+    ],
+    "image_local_path": "web/NE-02431.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2021/6/LD/DN/WG/20208028/gv270rnf-haier-digital-solar.jpeg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02433"
+    ],
+    "image_local_path": "web/NE-02433.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02434"
+    ],
+    "image_local_path": "web/NE-02434.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02435"
+    ],
+    "image_local_path": "web/NE-02435.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02437"
+    ],
+    "image_local_path": "web/NE-02437.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02441"
+    ],
+    "image_local_path": "web/NE-02441.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02449"
+    ],
+    "image_local_path": "web/NE-02449.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02452"
+    ],
+    "image_local_path": "web/NE-02452.jpg",
+    "image_source_url": "https://5.imimg.com/data5/ANDROID/Default/2025/12/571438919/SF/YA/QL/51478052/product-jpeg.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02455"
+    ],
+    "image_local_path": "web/NE-02455.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/HIH-G90HM-N%20Speed%202.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02456"
+    ],
+    "image_local_path": "web/NE-02456.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen-appliances-and-equipments/chimney-hoods/FUR.CHI.242013978_1777375828919.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02457"
+    ],
+    "image_local_path": "web/NE-02457.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/HIH-G90HM-N%20Speed%202.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02458"
+    ],
+    "image_local_path": "web/NE-02458.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen-appliances-and-equipments/chimney-hoods/FUR.CHI.242013978_1777375828919.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02460"
+    ],
+    "image_local_path": "web/NE-02460.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/HIH-G90HM-N%20Speed%202.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02461"
+    ],
+    "image_local_path": "web/NE-02461.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/HIH-G90HM-N%20Speed%202.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02462"
+    ],
+    "image_local_path": "web/NE-02462.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen-appliances-and-equipments/chimney-hoods/FUR.CHI.242013978_1777375828919.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02464"
+    ],
+    "image_local_path": "web/NE-02464.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen-appliances-and-equipments/chimney-hoods/FUR.CHI.242013978_1777375828919.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02465"
+    ],
+    "image_local_path": "web/NE-02465.jpg",
+    "image_source_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-kitchen-appliances-and-equipments/chimney-hoods/FUR.CHI.242013978_1777375828919.webp",
+    "image_source_domain": "www.industrybuying.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02474"
+    ],
+    "image_local_path": "web/NE-02474.jpg",
+    "image_source_url": "https://cdn.cayroshop.com/cayroshop/product/6757f77919783123bc26070c/1733893633632_1733893633600.webp",
+    "image_source_domain": "www.cayroshop.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02476"
+    ],
+    "image_local_path": "web/NE-02476.jpg",
+    "image_source_url": "https://cdn.cayroshop.com/cayroshop/product/6757f77919783123bc26070c/1733893633632_1733893633600.webp",
+    "image_source_domain": "www.cayroshop.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02478"
+    ],
+    "image_local_path": "web/NE-02478.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514lyzpS1qL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02479"
+    ],
+    "image_local_path": "web/NE-02479.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514lyzpS1qL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02480"
+    ],
+    "image_local_path": "web/NE-02480.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514lyzpS1qL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02481"
+    ],
+    "image_local_path": "web/NE-02481.jpg",
+    "image_source_url": "https://www.myg.in/images/detailed/134/1-7-removebg-preview.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02482"
+    ],
+    "image_local_path": "web/NE-02482.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/CIVIC%20X11%205.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02483"
+    ],
+    "image_local_path": "web/NE-02483.jpg",
+    "image_source_url": "https://d1umdo9vc693vx.cloudfront.net/Haier/feature/image/CIVIC%20X11%205.webp",
+    "image_source_domain": "shop.haierindia.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05523"
+    ],
+    "image_local_path": "web/NE-05523.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:9bfc2064-1ed8-4557-b3b1-d981186e2396",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02491"
+    ],
+    "image_local_path": "web/NE-02491.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:75c791f6-1ccb-48e6-bfc3-9440bd2d9828/as/8903287027864-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02490"
+    ],
+    "image_local_path": "web/NE-02490.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:82decfd8-0c05-4d91-b4a8-52ee804def9b/as/8903287027734-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05526"
+    ],
+    "image_local_path": "web/NE-05526.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:03b5ed16-f188-43d8-92aa-3c3e6ab7dfe1/as/8903287032202-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02492"
+    ],
+    "image_local_path": "web/NE-02492.jpg",
+    "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/washing-machine-new/n/d/7/-original-imah2wa8guhftgux.jpeg?q=80",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05530"
+    ],
+    "image_local_path": "web/NE-05530.jpg",
+    "image_source_url": "https://mahajanelectronics.com/cdn/shop/files/tl-701ag1-dotv.webp?v=1765714954&width=1800",
+    "image_source_domain": "mahajanelectronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02493"
+    ],
+    "image_local_path": "web/NE-02493.jpg",
+    "image_source_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/washing-machine-new/n/d/7/-original-imah2wa8guhftgux.jpeg?q=80",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02494"
+    ],
+    "image_local_path": "web/NE-02494.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/soft-closing-door?dpr=on,2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05534"
+    ],
+    "image_local_path": "web/NE-05534.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uuVsfOivL._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05536"
+    ],
+    "image_local_path": "web/NE-05536.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61QZSEQb9PL._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02496"
+    ],
+    "image_local_path": "web/NE-02496.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:2dca85d1-d270-464a-a0cd-1861046beda5/as/MANSOONWMCD54-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05541"
+    ],
+    "image_local_path": "web/NE-05541.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:2dca85d1-d270-464a-a0cd-1861046beda5/as/MANSOONWMCD54-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05542"
+    ],
+    "image_local_path": "web/NE-05542.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:2dca85d1-d270-464a-a0cd-1861046beda5/as/MANSOONWMCD54-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02497"
+    ],
+    "image_local_path": "web/NE-02497.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:ce188fc0-5ad7-46d7-b30e-994a47a4c933/as/8903287000768-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02498"
+    ],
+    "image_local_path": "web/NE-02498.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:8797c1ef-0290-4d27-9144-4aad50ae4327/as/8903287033162-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02499"
+    ],
+    "image_local_path": "web/NE-02499.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:ad79b3cf-b9ce-4907-bcb9-8558a9a8b2c6/as/8903287033193-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02500"
+    ],
+    "image_local_path": "web/NE-02500.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/612065676/HT/RU/ZW/11289094/ifb-elite-mxs-7012-washing-machine-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05498"
+    ],
+    "image_local_path": "web/NE-05498.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/612065676/HT/RU/ZW/11289094/ifb-elite-mxs-7012-washing-machine-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02502"
+    ],
+    "image_local_path": "web/NE-02502.jpg",
+    "image_source_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/612065676/HT/RU/ZW/11289094/ifb-elite-mxs-7012-washing-machine-500x500.jpg",
+    "image_source_domain": "www.indiamart.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05504"
+    ],
+    "image_local_path": "web/NE-05504.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:fec0e221-dd85-4a14-a558-3ffdbf71104f/as/8903287033360-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02503"
+    ],
+    "image_local_path": "web/NE-02503.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:c965c2f8-db7d-40f4-9640-24dfcb5d2f55/as/8903287033407-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-02549"
+    ],
+    "image_local_path": "web/NE-02549.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:7c83aa74-ab9a-42c7-bc2c-d6421d10d50e/as/8903287033421-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05508"
+    ],
+    "image_local_path": "web/NE-05508.jpg",
+    "image_source_url": "https://static.toiimg.com/thumb/resizemode-4,msid-132873648,width-1070/132873648.jpg",
+    "image_source_domain": "gadgetsnow.indiatimes.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05509"
+    ],
+    "image_local_path": "web/NE-05509.jpg",
+    "image_source_url": "https://static.toiimg.com/thumb/resizemode-4,msid-132873377,width-1070/132873377.jpg",
+    "image_source_domain": "gadgetsnow.indiatimes.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02563"
+    ],
+    "image_local_path": "web/NE-02563.jpg",
+    "image_source_url": "https://www.pittappillilonline.com/uploads/products/ifb-9kg-front-load-washing-machine-executive-oxn-9014k-cms684d6d6509843.webp",
+    "image_source_domain": "www.pittappillilonline.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-11533"
+    ],
+    "image_local_path": "web/NE-11533.jpg",
+    "image_source_url": "https://www.pittappillilonline.com/uploads/products/ifb-100-kg-fully-automatic-front-load-washing-machine-executive-plus-bxn-1014kh679b364a60bb1.webp",
+    "image_source_domain": "www.pittappillilonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05512"
+    ],
+    "image_local_path": "web/NE-05512.jpg",
+    "image_source_url": "https://www.pittappillilonline.com/uploads/products/ifb-100-kg-fully-automatic-front-load-washing-machine-executive-plus-bxn-1014kh679b364a60bb1.webp",
+    "image_source_domain": "www.pittappillilonline.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05513"
+    ],
+    "image_local_path": "web/NE-05513.jpg",
+    "image_source_url": "https://www.pittappillilonline.com/uploads/products/ifb-100-kg-fully-automatic-front-load-washing-machine-executive-plus-bxn-1014kh679b364a60bb1.webp",
+    "image_source_domain": "www.pittappillilonline.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05571"
+    ],
+    "image_local_path": "web/NE-05571.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:0c64127d-870e-44dc-a742-6c89cdd73710/as/8903287040306-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05572"
+    ],
+    "image_local_path": "web/NE-05572.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifbstage/70-degree-hot-wash-with-steam-june?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05573"
+    ],
+    "image_local_path": "web/NE-05573.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:e5e719a3-05c9-433a-b20b-1cfb6e7b2589/as/8903287040474-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05574"
+    ],
+    "image_local_path": "web/NE-05574.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Dishwashers/Images/308083_6_xqpmrk.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05575"
+    ],
+    "image_local_path": "web/NE-05575.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifbstage/70-degree-hot-wash-with-steam-june?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05569"
+    ],
+    "image_local_path": "web/NE-05569.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:86e6f4cc-9ed1-448c-9320-3d0daacd2c3b/as/8903287040306-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05568"
+    ],
+    "image_local_path": "web/NE-05568.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:86e6f4cc-9ed1-448c-9320-3d0daacd2c3b/as/8903287040306-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05567"
+    ],
+    "image_local_path": "web/NE-05567.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:0c737a65-05b2-450a-8b2e-0640ac87359c/as/8903287040306-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05564"
+    ],
+    "image_local_path": "web/NE-05564.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:86e6f4cc-9ed1-448c-9320-3d0daacd2c3b/as/8903287040306-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05562"
+    ],
+    "image_local_path": "web/NE-05562.jpg",
+    "image_source_url": "https://www.myg.in/images/thumbnails/300/300/detailed/93/20BC4-3-removebg-preview.png.png",
+    "image_source_domain": "www.myg.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-05560"
+    ],
+    "image_local_path": "web/NE-05560.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:29fdaec6-a329-4a86-93b0-9fe1cfbda09c/as/8903287005671-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05561"
+    ],
+    "image_local_path": "web/NE-05561.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05556"
+    ],
+    "image_local_path": "web/NE-05556.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71rMTQ7sQeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05557"
+    ],
+    "image_local_path": "web/NE-05557.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/mwo-convection-dual-heaters?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05555"
+    ],
+    "image_local_path": "web/NE-05555.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05554"
+    ],
+    "image_local_path": "web/NE-05554.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05551"
+    ],
+    "image_local_path": "web/NE-05551.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05548"
+    ],
+    "image_local_path": "web/NE-05548.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05547"
+    ],
+    "image_local_path": "web/NE-05547.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05546"
+    ],
+    "image_local_path": "web/NE-05546.jpg",
+    "image_source_url": "https://s7ap1.scene7.com/is/image/ifb/air-fry-20bc5-23bc5-21sc5-30bc5?fmt=png-alpha&dpr=on%2C2.625&bfc=on&qlt=80",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05543"
+    ],
+    "image_local_path": "web/NE-05543.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:a11552df-550d-415f-a471-f8bafd0499e7/as/8903287005367-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05545"
+    ],
+    "image_local_path": "web/NE-05545.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:415674ef-221f-455f-b4e9-4c1489d7e158/as/8903287005534-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-05544"
+    ],
+    "image_local_path": "web/NE-05544.jpg",
+    "image_source_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:415674ef-221f-455f-b4e9-4c1489d7e158/as/8903287005534-.webp?quality=60",
+    "image_source_domain": "www.ifbappliances.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02488"
+    ],
+    "image_local_path": "web/NE-02488.jpg",
+    "image_source_url": "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/ExtraLarge/havells-blaze-dry-iron-black-1-20260319204911055.webp",
+    "image_source_domain": "www.aajjo.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-02665"
+    ],
+    "image_local_path": "web/NE-02665.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/ie/np940xha-kg2uk/gallery/ie-galaxy-book5-pro-14-inch-np940-np940xha-kg2uk-544645170?$Q90_684_547_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03329"
+    ],
+    "image_local_path": "web/NE-03329.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/portronics_sono_portable_bluetooth_wireless_speaker.jpg?v=1781163826",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03335"
+    ],
+    "image_local_path": "web/NE-03335.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_sounddrum1_portable_tws_bluetooth_speaker.jpg?v=1768909426",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03336"
+    ],
+    "image_local_path": "web/NE-03336.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/714j2SzfPrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03337"
+    ],
+    "image_local_path": "web/NE-03337.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_Nebula_X_Karaoke_Speaker_with_Wireless_Mic.jpg?v=1756124656",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03340"
+    ],
+    "image_local_path": "web/NE-03340.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Portronics_Rumble_25W_wireless_party_speaker_with_wired_mic.jpg?v=1755068271",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03344"
+    ],
+    "image_local_path": "web/NE-03344.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_Resound_2_portable_wireless_bluetooth_speakers_with_15watt_hd_sound.jpg?v=1736943394",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03345"
+    ],
+    "image_local_path": "web/NE-03345.jpg",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1400x1800-8_15322d61-9631-4828-82a0-940505251678.jpg?v=1651214608",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03346"
+    ],
+    "image_local_path": "web/NE-03346.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_sounddrum1_portable_tws_bluetooth_speaker.jpg?v=1768909426",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03423"
+    ],
+    "image_local_path": "web/NE-03423.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/613Komg6bML._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03426"
+    ],
+    "image_local_path": "web/NE-03426.jpg",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/SoundPot_Pro_7.jpg?v=1729061196",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03662"
+    ],
+    "image_local_path": "web/NE-03662.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Portronics_Resonate_2_14w_portable_speaker_with_wireless_karaoke_mic.jpg?v=1745829069",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03667"
+    ],
+    "image_local_path": "web/NE-03667.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Portronics_Resonate_2_14w_portable_speaker_with_wireless_karaoke_mic.jpg?v=1745829069",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03427"
+    ],
+    "image_local_path": "web/NE-03427.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Thunder2.0_3.jpg?v=1735560298",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03428"
+    ],
+    "image_local_path": "web/NE-03428.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_Nugget_Wireless_Bluetooth_Speaker_with_4_Hours_Battery_Life.jpg?v=1757595855",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03648"
+    ],
+    "image_local_path": "web/NE-03648.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Portronics_Nugget_3w_portable_wireless_buletooth_speaker.jpg?v=1734095568",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03669"
+    ],
+    "image_local_path": "web/NE-03669.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/portronics_fynix_mini_wireless_speakers_online.jpg?v=1768988711",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03679"
+    ],
+    "image_local_path": "web/NE-03679.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/portronics_fynix_mini_wireless_speakers_online.jpg?v=1768988711",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03681"
+    ],
+    "image_local_path": "web/NE-03681.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_plugs_3_portable_wireless_speaker.jpg?v=1788179508&width=533",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03689"
+    ],
+    "image_local_path": "web/NE-03689.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Pixel31200X12001_63122d06-1dd0-41b0-a2a0-1ef5b74fb959.jpg?v=1721047628",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03698"
+    ],
+    "image_local_path": "web/NE-03698.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Artboard1copy-1_d7d9cbe9-9937-4fa7-9cb3-16e2266a5f09.jpg?v=1701152907",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03744"
+    ],
+    "image_local_path": "web/NE-03744.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/304487_1_7MUoXOB73.png?updatedAt=1762781579617",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03787"
+    ],
+    "image_local_path": "web/NE-03787.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Artboard1copy-1_d7d9cbe9-9937-4fa7-9cb3-16e2266a5f09.jpg?v=1701152907",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03818"
+    ],
+    "image_local_path": "web/NE-03818.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_plugs_3_portable_wireless_speaker.jpg?v=1788179508&width=1445",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03834"
+    ],
+    "image_local_path": "web/NE-03834.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Dash10_best_party_speaker.jpg?v=1741340361",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03835"
+    ],
+    "image_local_path": "web/NE-03835.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Dash10_best_party_speaker.jpg?v=1741340361",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03846"
+    ],
+    "image_local_path": "web/NE-03846.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_dash_14_bluetooth_party_speaker_with_bluetooth_5.3_wireless_connectivity.jpg?v=1779098375",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03865"
+    ],
+    "image_local_path": "web/NE-03865.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_apollo_one_plus_20w_portable_bluetooth_speaker_with_wireless_karaoke_mic.jpg?v=1783078851&width=533",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03867"
+    ],
+    "image_local_path": "web/NE-03867.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71l8r-DUxPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03875"
+    ],
+    "image_local_path": "web/NE-03875.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_Iron_Beats_5_Prime_TWS_Wireless_party_Speaker_with_led_light.jpg?v=1765356301",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03877"
+    ],
+    "image_local_path": "web/NE-03877.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/8_bdd59e32-cafe-4082-8a60-3df9eb586ce3.jpg?v=1738323690",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03902"
+    ],
+    "image_local_path": "web/NE-03902.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_iron_beats_5_karaoke_speaker_with_wireless_mic_150w_wireless_bluetooth_speaker.jpg?v=1771235853",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03904"
+    ],
+    "image_local_path": "web/NE-03904.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_Iron_Beats_5_Prime_250W_Party_Speaker.jpg?v=1765355340",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03920"
+    ],
+    "image_local_path": "web/NE-03920.jpg",
+    "image_source_url": "https://thepcbuilderstore.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-10-at-10.49.39-AM.webp",
+    "image_source_domain": "thepcbuilderstore.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03927"
+    ],
+    "image_local_path": "web/NE-03927.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_neo_wireless_microphone_omnidirectional.jpg?v=1781170069&width=1445",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-03928"
+    ],
+    "image_local_path": "web/NE-03928.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/2_a7000d7b-905a-47e7-8648-d5d32a06ada7.png?v=1721201112",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03961"
+    ],
+    "image_local_path": "web/NE-03961.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_neo_wireless_microphone_omnidirectional.jpg?v=1781170069&width=1445",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-03974"
+    ],
+    "image_local_path": "web/NE-03974.jpg",
+    "image_source_url": "http://www.portronics.com/cdn/shop/files/Portronics_VlogMate_One_dual_wireless_microphone.jpg?v=1748952602",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-04001"
+    ],
+    "image_local_path": "web/NE-04001.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GOQKGdDiL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-04009"
+    ],
+    "image_local_path": "web/NE-04009.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_neo_wireless_microphone_omnidirectional.jpg?v=1781170069&width=1445",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04040"
+    ],
+    "image_local_path": "web/NE-04040.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61J9cfAMe3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04047"
+    ],
+    "image_local_path": "web/NE-04047.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61J9cfAMe3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04080"
+    ],
+    "image_local_path": "web/NE-04080.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/2_a7000d7b-905a-47e7-8648-d5d32a06ada7.png?v=1721201112",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04094"
+    ],
+    "image_local_path": "web/NE-04094.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/2_a7000d7b-905a-47e7-8648-d5d32a06ada7.png?v=1721201112",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04097"
+    ],
+    "image_local_path": "web/NE-04097.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/1_1d8e07de-8179-4dc8-ac16-123d49260ad8.jpg?v=1721201112&width=1445",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04101"
+    ],
+    "image_local_path": "web/NE-04101.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/2_a7000d7b-905a-47e7-8648-d5d32a06ada7.png?v=1721201112",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  },
+  {
+    "member_ids": [
+      "NE-04111"
+    ],
+    "image_local_path": "web/NE-04111.jpg",
+    "image_source_url": "https://www.portronics.com/cdn/shop/files/Portronics_VlogMate_3_omni_direction_wireless_microphone.jpg?v=1732524492",
+    "image_source_domain": "www.portronics.com",
+    "confidence": "low"
+  }
+]

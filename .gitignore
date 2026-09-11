@@ -1,0 +1,27 @@
+# Local Netlify folder
+.netlify
+
+# macOS
+.DS_Store
+
+# Claude Code local session/project files
+.claude/
+
+# Raw vendor price lists / catalogues (source PDFs, xlsx, pptx, images at repo root)
+# — large, regeneratable inputs, not tracked. The pipeline scripts and their
+# output (_catalog_build/scripts, output, site) are what's tracked.
+*.pdf
+*.PDF
+*.xlsx
+*.xls
+*.pptx
+*.jpeg
+*.jpg
+*.png
+!_catalog_build/output/**
+!_catalog_build/scripts/**
+!_catalog_build/site/**
+
+# Scraped/extracted intermediate build data (regeneratable from source + scripts)
+_catalog_build/images/
+_catalog_build/extracted/

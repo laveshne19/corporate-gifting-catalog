@@ -1,0 +1,5904 @@
+[
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 152 White Purity",
+  "category": "Personal Audio",
+  "mrp": 523.96,
+  "member_ids": [
+   "NE-04526"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 172 Aztec Fusion",
+  "category": "Personal Audio",
+  "mrp": 380.79,
+  "member_ids": [
+   "NE-04527"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 172 Raging Red",
+  "category": "Personal Audio",
+  "mrp": 380.79,
+  "member_ids": [
+   "NE-04528"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 182 Raging Red",
+  "category": "Personal Audio",
+  "mrp": 476.24,
+  "member_ids": [
+   "NE-04529"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 200 Molten Orange",
+  "category": "Personal Audio",
+  "mrp": 667.11,
+  "member_ids": [
+   "NE-04530"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 220 Indi Black",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04531",
+   "NE-04532"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 220 Indi Lime",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04533"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 220 Molten Orange",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04534"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 220 Neon Lime",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04535"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Black Indi",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04536",
+   "NE-04539"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Frosty White",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04537"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Green Ind",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04538",
+   "NE-04543",
+   "NE-04544"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Indi Lime",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04540"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Molten Orange",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04541"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 225 Neon Lime",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04542"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Orange",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-04545",
+   "NE-04546",
+   "NE-05265"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 205 Pro Fiery Red",
+  "category": "Personal Audio",
+  "mrp": 1023.41,
+  "member_ids": [
+   "NE-04547"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 255 DC Blue Wireless Earphone",
+  "category": "Personal Audio",
+  "mrp": 1335.21,
+  "member_ids": [
+   "NE-04548"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 255 Pro Navy Blue",
+  "category": "Personal Audio",
+  "mrp": 1430.64,
+  "member_ids": [
+   "NE-04549",
+   "NE-05106"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 255f Active Black",
+  "category": "Personal Audio",
+  "mrp": 1335.21,
+  "member_ids": [
+   "NE-04550"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Pro Active Black",
+  "category": "Personal Audio",
+  "mrp": 1462.42,
+  "member_ids": [
+   "NE-04551"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Pro Blazing Yellow",
+  "category": "Personal Audio",
+  "mrp": 1462.42,
+  "member_ids": [
+   "NE-04552"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 333 Pro Black",
+  "category": "Personal Audio",
+  "mrp": 1462.42,
+  "member_ids": [
+   "NE-04554",
+   "NE-04555"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 335 Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 1716.96,
+  "member_ids": [
+   "NE-04556"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 335 Red",
+  "category": "Personal Audio",
+  "mrp": 1716.96,
+  "member_ids": [
+   "NE-04557",
+   "NE-04558"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 338 Blazing Yellow",
+  "category": "Personal Audio",
+  "mrp": 1716.96,
+  "member_ids": [
+   "NE-04559"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 370 Fiery Red",
+  "category": "Personal Audio",
+  "mrp": 1239.77,
+  "member_ids": [
+   "NE-04560"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 400 Black & Blue",
+  "category": "Personal Audio",
+  "mrp": 1239.77,
+  "member_ids": [
+   "NE-04561",
+   "NE-04562"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 550 Jazzy Blue",
+  "category": "Personal Audio",
+  "mrp": 1955.56,
+  "member_ids": [
+   "NE-04563"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 550 Raging Red",
+  "category": "Personal Audio",
+  "mrp": 1716.96,
+  "member_ids": [
+   "NE-04564"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 258 Pro+ Navy Blue",
+  "category": "Personal Audio",
+  "mrp": 1267.31,
+  "member_ids": [
+   "NE-04565"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 121 Pro Mint Bubblegum",
+  "category": "Personal Audio",
+  "mrp": 1598.57,
+  "member_ids": [
+   "NE-04566"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Bassheads 225 Fiery Orange Indi",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04567"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 181 Spirit White",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-04568"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 441- Jazzy Blue",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-04569"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 341ANC Blue",
+  "category": "Personal Audio",
+  "mrp": 2599.0,
+  "member_ids": [
+   "NE-04570",
+   "NE-05295"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 413 ANC -Emerald Green",
+  "category": "Personal Audio",
+  "mrp": 2694.09,
+  "member_ids": [
+   "NE-04571"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 378 Active Black",
+  "category": "Personal Audio",
+  "mrp": 1120.97,
+  "member_ids": [
+   "NE-04572"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Airdopes 191G Viper Green",
+  "category": "Personal Audio",
+  "mrp": 1798.78,
+  "member_ids": [
+   "NE-04573"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Nirvana Ion Beach Blue",
+  "category": "Personal Audio",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-04574"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Atom 83 Ivory White",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-04575"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Alpha Lush Maroon",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-04576"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 125 Interstellar Blue",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-04577"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Hype Pearl White",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04578"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 245 V2 Pro Active Black",
+  "category": "Personal Audio",
+  "mrp": 1072.18,
+  "member_ids": [
+   "NE-04579"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 245 V2 Pro Cool Blue",
+  "category": "Personal Audio",
+  "mrp": 1072.18,
+  "member_ids": [
+   "NE-04580"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 245 V2 Pro Teal Green",
+  "category": "Personal Audio",
+  "mrp": 1072.18,
+  "member_ids": [
+   "NE-04581"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Bassheads 220 Raging Red Indi",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04583"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Bassheads 225 Black",
+  "category": "Personal Audio",
+  "mrp": 598.99,
+  "member_ids": [
+   "NE-04584"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Bassheads 152 Jazzy Blue Sunburn",
+  "category": "Personal Audio",
+  "mrp": 476.24,
+  "member_ids": [
+   "NE-04585"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 650 Crusader Knight Black",
+  "category": "Personal Audio",
+  "mrp": 2194.15,
+  "member_ids": [
+   "NE-04586"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 121 Pro Plus Mocha Elegance",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04587"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Atom 81Pro Slate Fusion",
+  "category": "Personal Audio",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-04589"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Space Pink Punch",
+  "category": "Personal Audio",
+  "mrp": 2498.99,
+  "member_ids": [
+   "NE-04590"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 180 Neon Lime",
+  "category": "Personal Audio",
+  "mrp": 285.36,
+  "member_ids": [
+   "NE-04591"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 180 Orange",
+  "category": "Personal Audio",
+  "mrp": 285.36,
+  "member_ids": [
+   "NE-04592",
+   "NE-04954",
+   "NE-04977",
+   "NE-05144"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 430 Space Grey & Green",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04593",
+   "NE-04594"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 430 White Sabre",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04595",
+   "NE-05355"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 480 Kr Victorian Black",
+  "category": "Personal Audio",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-04596"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 480 Kr Winter Chestnut",
+  "category": "Personal Audio",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-04597"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 95 Warm Beige",
+  "category": "Personal Audio",
+  "mrp": 348.99,
+  "member_ids": [
+   "NE-04598"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Immortal 201 White Sabre",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-04599"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Bassheads 200 Blue",
+  "category": "Personal Audio",
+  "mrp": 667.11,
+  "member_ids": [
+   "NE-04602",
+   "NE-04603"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Alpha Assassin Black",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-04604"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 460 Itachi Edition",
+  "category": "Personal Audio",
+  "mrp": 1461.42,
+  "member_ids": [
+   "NE-04605"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 100 Fury Red",
+  "category": "Personal Audio",
+  "mrp": 449.01,
+  "member_ids": [
+   "NE-04606"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 100 Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 449.01,
+  "member_ids": [
+   "NE-04607",
+   "NE-04962"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 351 ANC Black Sabre",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04608"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 351 ANC Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04609",
+   "NE-04610"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 351 ANC Lunar Mist",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04611"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Plus 440 Pebble Black",
+  "category": "Personal Audio",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-04617",
+   "NE-04618"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Plus 440 Metal Grey",
+  "category": "Personal Audio",
+  "mrp": 2199.0,
+  "member_ids": [
+   "NE-04619"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Eutopia 2 ANC Cosmic Black",
+  "category": "Personal Audio",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04620"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Eutopia 2 ANC Utopian White",
+  "category": "Personal Audio",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04621",
+   "NE-04622"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime Raga Midnight Black",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04623"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime Raga Dune Beige",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04624"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Prime Raga Burgundy Red",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04625"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Clip Noir Black",
+  "category": "Personal Audio",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-04626"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Clip Dessert Pearl",
+  "category": "Personal Audio",
+  "mrp": 1499.0,
+  "member_ids": [
+   "NE-04627"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Sailor PLAY BUBBLEGUM PINK",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04628"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Sailor PLAY SHARK BLUE",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04629"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Sailor PLAY CORAL BLUE",
+  "category": "Personal Audio",
+  "mrp": 1599.0,
+  "member_ids": [
+   "NE-04630"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Primia Beige",
+  "category": "Wearables",
+  "mrp": 1698.93,
+  "member_ids": [
+   "NE-04631"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Primia Ocean Blue",
+  "category": "Wearables",
+  "mrp": 1698.93,
+  "member_ids": [
+   "NE-04632"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Select Active Black",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04633"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Iris Coffee Brown",
+  "category": "Wearables",
+  "mrp": 5218.98,
+  "member_ids": [
+   "NE-04634"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Mystiq Olive Green",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04635"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Matrix Ocean Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04636"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Matrix Pitch Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04637"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Matrix Twilight Grey",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04638"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Electric Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04639"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Lightning Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04640"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Rtl Galaxy Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04641"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Vivid Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04642"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Iris Active Black",
+  "category": "Wearables",
+  "mrp": 5218.98,
+  "member_ids": [
+   "NE-04643"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Iris Flaming Red",
+  "category": "Wearables",
+  "mrp": 5218.98,
+  "member_ids": [
+   "NE-04644"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Iris Navy Blue",
+  "category": "Wearables",
+  "mrp": 5218.98,
+  "member_ids": [
+   "NE-04645"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Mystiq Metal Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04646"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Captain's Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04647"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04648"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04649"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Cool Grey",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04650"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Teal Green",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04651",
+   "NE-05215"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Stark Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04652"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Teal Green",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04653",
+   "NE-05221"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Walkanda Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04654"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Vertex - Olive Green",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04655"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Vertex Active Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04656"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Vertex Cool Grey",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04657"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Vertex Deep Blue",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04658"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Vertex Raging Red",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04659"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xplorer 02 Orange Fusion",
+  "category": "Wearables",
+  "mrp": 1748.27,
+  "member_ids": [
+   "NE-04660"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Deep Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04661"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime Forest Green",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04662"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Deep Blue",
+  "category": "Wearables",
+  "mrp": 4099.01,
+  "member_ids": [
+   "NE-04663"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Olive Green",
+  "category": "Wearables",
+  "mrp": 4099.01,
+  "member_ids": [
+   "NE-04664"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Select Deep Blue",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04665"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Select Olive Green",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04666"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Select Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04667"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Max Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04668"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Max Electric Purple",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04669"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Max Olive Green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04670"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Amazonian Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04671"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Invincible Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04672"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Crusader Knight Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04673"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Knight Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04674"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Blaze Cool Grey",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04675"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Watch Blaze-Cherry blossom",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04676"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Blaze Raging Red",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04677"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Watch Blaze - Deep Blue",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04678"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Wave Lite Deep Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04679"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro Burgundy",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04680"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro Deep Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04681"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro 47 Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04682"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Xplorer RTL' Orange Fusion",
+  "category": "Wearables",
+  "mrp": 1748.27,
+  "member_ids": [
+   "NE-04683"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Xplorer RTL' Cool Grey",
+  "category": "Wearables",
+  "mrp": 1748.27,
+  "member_ids": [
+   "NE-04684"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Xplorer RTL' Pitch Black",
+  "category": "Wearables",
+  "mrp": 1748.27,
+  "member_ids": [
+   "NE-04685"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Xtend RTL Deep Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04686"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Voice Ink Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04687"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Lite Sky Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04688"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Lite Sage Green",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04689"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xplorer 02 Cool Gray",
+  "category": "Wearables",
+  "mrp": 1748.27,
+  "member_ids": [
+   "NE-04690"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Pro Cool Grey",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04691"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Xtend Talk (Teal Green)",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04692"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Pro 47 Burgundy",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04693"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Cosmos Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04695"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Cosmos Ink Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04696"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Ultima - Raging red",
+  "category": "Wearables",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-04697"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave  Electra - Deep blue",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04698"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Electra - Cherry blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04699"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Edge - Deep blue",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04700"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Edge - Beige",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04701"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime Cool Grey",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04702"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Call Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04703"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04704"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Plus:- Olive Green",
+  "category": "Wearables",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-04705"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call Max - Active Black",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04706"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Armour:- Dark Grey",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04707"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Primia Talk:- Metallic Black",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04708"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call:- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04709"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Cosmos Max - Cool Grey",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04710"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima call max - Metallic grey",
+  "category": "Wearables",
+  "mrp": 1150.88,
+  "member_ids": [
+   "NE-04711"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Fit:- Active black",
+  "category": "Wearables",
+  "mrp": 2198.99,
+  "member_ids": [
+   "NE-04712"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate:- Active Black",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04713"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate:- Royal Orange",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04714"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate:- Deep Grey",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04715"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Fit :- Slate Grey",
+  "category": "Wearables",
+  "mrp": 2198.99,
+  "member_ids": [
+   "NE-04716"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Fit :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 2198.99,
+  "member_ids": [
+   "NE-04717",
+   "NE-04718"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar seek - Active black",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04719"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar seek - Dark Grey",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04720"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar comet - Deep Purple",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04721"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar comet - Olive Green",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04722"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma R32 - diamond",
+  "category": "Wearables",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-04723"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Play :- Black Fusion",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04724",
+   "NE-04725",
+   "NE-04726",
+   "NE-04727"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar peak Beige",
+  "category": "Wearables",
+  "mrp": 2798.95,
+  "member_ids": [
+   "NE-04728",
+   "NE-05062",
+   "NE-05227",
+   "NE-05294"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate Pro :- Active Black",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-04729"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate Pro :- Dark Grey",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-04730"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate Pro:- Royal Orange",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-04731"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate Pro :- Ivory",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-04732"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Comet - Metal grey",
+  "category": "Wearables",
+  "mrp": 1648.98,
+  "member_ids": [
+   "NE-04733"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z30 :- Zet black",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-04734"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Gen 1 - Charcoal Black 11",
+  "category": "Wearables",
+  "mrp": 8998.99,
+  "member_ids": [
+   "NE-04735"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring Gen 1 - Sizing kit",
+  "category": "Wearables",
+  "mrp": 191.82,
+  "member_ids": [
+   "NE-04736"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Primia celestial - Silver Metal",
+  "category": "Wearables",
+  "mrp": 1648.98,
+  "member_ids": [
+   "NE-04737",
+   "NE-05341"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Tigon:- Deep Blue",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-04738"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Tigon :- Steel Black",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-04739"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis:- Deep Blue",
+  "category": "Wearables",
+  "mrp": 2298.99,
+  "member_ids": [
+   "NE-04740"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis:- Burgundy",
+  "category": "Wearables",
+  "mrp": 2298.99,
+  "member_ids": [
+   "NE-04741"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z40 - Classic Silver",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04742"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z40 :- Zet black",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04743"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Switch :- Steel Silver",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04744",
+   "NE-04935"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X400 Gold",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-04745",
+   "NE-05141"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X700 Jet Black",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-04746"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X700 Copper Black",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-04747",
+   "NE-05330"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Connect Plus Deep Blue",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-04748"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave beat Sky Blue",
+  "category": "Wearables",
+  "mrp": 703.32,
+  "member_ids": [
+   "NE-04749"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave beat Cherry blossom",
+  "category": "Wearables",
+  "mrp": 703.32,
+  "member_ids": [
+   "NE-04750"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Beat :- black Leather",
+  "category": "Wearables",
+  "mrp": 703.32,
+  "member_ids": [
+   "NE-04751"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Beat - Black Metal Mesh",
+  "category": "Wearables",
+  "mrp": 703.32,
+  "member_ids": [
+   "NE-04752"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Pro Call Navy Blue",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04753",
+   "NE-04755"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Pro Call Scarlet Red",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04754"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Storm Pro Call Magnetic Black",
+  "category": "Wearables",
+  "mrp": 1899.02,
+  "member_ids": [
+   "NE-04756"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Storm Pro Call:- Sandy Cream",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04757"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04758"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect :- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04759"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima connect :- Black Metal Mesh",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04760"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect Max - Deep Blue",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-04761"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect Max - Metallic Black",
+  "category": "Wearables",
+  "mrp": 1150.88,
+  "member_ids": [
+   "NE-04762"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call Plus:- Midnight Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04763"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call Plus:- Sage Green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04764"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call Plus :- Black Leather",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-04765"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Leap Call:- Deep Blue",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04766"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Leap Call - Black leather",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04767"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Ultima Max Olive Green",
+  "category": "Wearables",
+  "mrp": 1444.62,
+  "member_ids": [
+   "NE-04768"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Ultima Max Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1444.62,
+  "member_ids": [
+   "NE-04769"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Ultima Max Pitch Black",
+  "category": "Wearables",
+  "mrp": 1444.62,
+  "member_ids": [
+   "NE-04770"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Infinity - Charcoal black",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-04771",
+   "NE-04772"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Infinity - Cool blue",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-04773",
+   "NE-05074"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Infinity - Metallic Grey",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-04774"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend pro Sage Green",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04775"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Xtend Pro Metal Black",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-04776"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Cool blue",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04777",
+   "NE-04778"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Silver Metal",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04779",
+   "NE-05261"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Spectra :- Silver fusion",
+  "category": "Wearables",
+  "mrp": 1918.18,
+  "member_ids": [
+   "NE-04780"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Embrace - Steel Black",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-04781",
+   "NE-04782"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Vogue :- Jet black",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04785"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima  Vogue :-Deep Blue",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04786"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smart Ring Active-7-Midnight Black",
+  "category": "Wearables",
+  "mrp": 3999.02,
+  "member_ids": [
+   "NE-04787",
+   "NE-04794"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-7-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 3999.02,
+  "member_ids": [
+   "NE-04788"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smart Ring Active-8-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04789",
+   "NE-04795"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-8-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04790"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-9-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04791"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-10-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04792"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-11-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04793"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-9-Rose Gold",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04796",
+   "NE-05310"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smart Ring-11-Rose Gold",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04797"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-12- Rose Gold",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04798",
+   "NE-04800"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-12-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-04799"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Orb - Steel black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-04801",
+   "NE-04804"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Orb - Brown leather",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-04802"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Orb - Metal black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-04803",
+   "NE-05209"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elevate:- Forest Green",
+  "category": "Wearables",
+  "mrp": 1023.07,
+  "member_ids": [
+   "NE-04805"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Regal - Sapphire Blue",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04806"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Regal Cool Grey",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04807"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Storm Call -  Deep Blue",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-04808"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Magma - Metal black",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04809"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Magma - Cool grey",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04810"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime 47:- Forest green",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04812"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime 47 :- Matte Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04813"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space :- Black Leather",
+  "category": "Wearables",
+  "mrp": 1086.45,
+  "member_ids": [
+   "NE-04814"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space :- Pine Green",
+  "category": "Wearables",
+  "mrp": 1086.45,
+  "member_ids": [
+   "NE-04815"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space :- Deep Purple",
+  "category": "Wearables",
+  "mrp": 1086.45,
+  "member_ids": [
+   "NE-04816"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima  Vogue :-Brown Leather",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-04817"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Ascend :- Ocean Blue",
+  "category": "Wearables",
+  "mrp": 2340.16,
+  "member_ids": [
+   "NE-04818"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Active Active Black",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-04821"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect - Deep Blue",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04822"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus - Gunmetal Grey",
+  "category": "Wearables",
+  "mrp": 1214.86,
+  "member_ids": [
+   "NE-04823"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space Plus - Active Black",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04824"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Neo Plus - Marigold blue",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-04825"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call 2 - Active black",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04826"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima prism - Deep blue",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-04827"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima prism - Burgundy",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-04828"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis Pro:- Jet Black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-04829"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis Pro:- Olive Green",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-04830"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Mirage - Deep Purple",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04831"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Mirage - Cherry blossom",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04832"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Plus :- Metallic Black",
+  "category": "Wearables",
+  "mrp": 1214.86,
+  "member_ids": [
+   "NE-04833"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Select :- Active Black",
+  "category": "Wearables",
+  "mrp": 1918.18,
+  "member_ids": [
+   "NE-04834"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Hype Purple",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04835",
+   "NE-04871",
+   "NE-04872"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Mirage - Silver metal",
+  "category": "Wearables",
+  "mrp": 831.13,
+  "member_ids": [
+   "NE-04836"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Oasis - Steel black",
+  "category": "Wearables",
+  "mrp": 3699.04,
+  "member_ids": [
+   "NE-04837"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Oasis - Olive Green",
+  "category": "Wearables",
+  "mrp": 3699.04,
+  "member_ids": [
+   "NE-04838"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Oasis - Active Black",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-04839"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Chrome Horizon - Royal Blue",
+  "category": "Wearables",
+  "mrp": 3399.06,
+  "member_ids": [
+   "NE-04840"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Call Deep Purple",
+  "category": "Wearables",
+  "mrp": 767.26,
+  "member_ids": [
+   "NE-04841"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar connect pro cherry blossom",
+  "category": "Wearables",
+  "mrp": 1278.78,
+  "member_ids": [
+   "NE-04842"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar call pro charcoal black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04843"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar call pro Deep Blue",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04844"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Force:- Cool Grey",
+  "category": "Wearables",
+  "mrp": 767.26,
+  "member_ids": [
+   "NE-04845"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus - Olive Green",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-04846"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Pine Green",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04847"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04848"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Orchid Purple",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04849"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space Plus - Deep Wine",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04850"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space Plus - Brown Leather",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04851"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Neo Plus - Active Black",
+  "category": "Wearables",
+  "mrp": 895.14,
+  "member_ids": [
+   "NE-04852"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call 2 - Orchid haze",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04853"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Active - Teal blue",
+  "category": "Wearables",
+  "mrp": 895.14,
+  "member_ids": [
+   "NE-04854"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima Chronos - Mystic Teal",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04855"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis Pro:- Cool Blue",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04856"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis Pro:- Royal Orange",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04857"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Mirage - Active black",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04858"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Vivid Metallic Black",
+  "category": "Wearables",
+  "mrp": 1918.16,
+  "member_ids": [
+   "NE-04859"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima call- Black Metal Mesh",
+  "category": "Wearables",
+  "mrp": 767.26,
+  "member_ids": [
+   "NE-04860"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Plus :- Brown Leather",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-04861"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace :- Brown Leather",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04862"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus :- Brown Leather",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-04863"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus :- Black metallic",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-04864"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Chronos - Brown leather",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04865"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Select:-cool Grey",
+  "category": "Wearables",
+  "mrp": 1918.16,
+  "member_ids": [
+   "NE-04866"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Select :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1918.16,
+  "member_ids": [
+   "NE-04867"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04868"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Sage Green",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04869"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Steel Black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04870"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar prime - Metal black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04873"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Valour watch 1 GPS :- Active Black",
+  "category": "Wearables",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04874"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-8-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04875",
+   "NE-04887"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-9-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04876",
+   "NE-04888"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus -10-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04877",
+   "NE-04889"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-11-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04878",
+   "NE-04890"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-12-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04879",
+   "NE-04891"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-7-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04880"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-8-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04881"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-9-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04882"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-10-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04883"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-11-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04884"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-12-Radiant Silver",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04885"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smartring active plus-7-Rose gold",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04886",
+   "NE-04942"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Summit Silver Mist",
+  "category": "Wearables",
+  "mrp": 2299.64,
+  "member_ids": [
+   "NE-04892"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Summit Forest Green",
+  "category": "Wearables",
+  "mrp": 2299.64,
+  "member_ids": [
+   "NE-04893"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call 2 - Pine Green",
+  "category": "Wearables",
+  "mrp": 1248.96,
+  "member_ids": [
+   "NE-04894"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave call 2 plus Salmon peach",
+  "category": "Wearables",
+  "mrp": 1398.99,
+  "member_ids": [
+   "NE-04895"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "wave call 2 plus- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1398.99,
+  "member_ids": [
+   "NE-04896"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Burgundy",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04897"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima Chronos - Deep Purple",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04898"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Chronos - Steel black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-04899"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Chrome Endeavour:- Magnetic Blue",
+  "category": "Wearables",
+  "mrp": 4299.0,
+  "member_ids": [
+   "NE-04900"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Chrome Endeavour:- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 3799.0,
+  "member_ids": [
+   "NE-04901"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Glo Active Black",
+  "category": "Wearables",
+  "mrp": 2049.01,
+  "member_ids": [
+   "NE-04902"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Glo Velvet Wine",
+  "category": "Wearables",
+  "mrp": 2049.01,
+  "member_ids": [
+   "NE-04903"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Glo Coffee Brown",
+  "category": "Wearables",
+  "mrp": 2049.01,
+  "member_ids": [
+   "NE-04904"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Glo Steel black",
+  "category": "Wearables",
+  "mrp": 2349.0,
+  "member_ids": [
+   "NE-04905"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Call 4 Velvet Wine",
+  "category": "Wearables",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-04906"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer K100+ Ninja Black",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-04910"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer K100 Pro Marine Blue",
+  "category": "Accessories",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04911"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer K100 Pro Travel Edition Blue",
+  "category": "Accessories",
+  "mrp": 3299.01,
+  "member_ids": [
+   "NE-04912"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer S100 Phantom Black",
+  "category": "Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-04913"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer K100+ Blaze Orange",
+  "category": "Accessories",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-04914"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Slazer S100 Electric Blue",
+  "category": "Accessories",
+  "mrp": 799.0,
+  "member_ids": [
+   "NE-04915"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB400 Lite Carbon Black",
+  "category": "Accessories",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-04916"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 1800 Plus Knight Black",
+  "category": "Large Audio",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-04918"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 1800 Plus Sandy Beige",
+  "category": "Large Audio",
+  "mrp": 8999.0,
+  "member_ids": [
+   "NE-04919"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Thunder Charcol Black",
+  "category": "Large Audio",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04920"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Thunder Midnight Blue",
+  "category": "Large Audio",
+  "mrp": 5999.0,
+  "member_ids": [
+   "NE-04921"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal Boom Raven Black",
+  "category": "Large Audio",
+  "mrp": 18999.0,
+  "member_ids": [
+   "NE-04922"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Edge Dune Beige",
+  "category": "Large Audio",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04924"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Edge Astro Black",
+  "category": "Large Audio",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-04925"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "PartyPal Nova  Premium Black",
+  "category": "Large Audio",
+  "mrp": 10999.0,
+  "member_ids": [
+   "NE-04926"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Atlas Ranger Black",
+  "category": "Wearables",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04929"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Atlas Phantom Blue",
+  "category": "Wearables",
+  "mrp": 1999.0,
+  "member_ids": [
+   "NE-04930"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Vogue 2 Active Black",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04931"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Vogue 2 Deep Blue",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04932"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Vogue 2 Jade Green",
+  "category": "Wearables",
+  "mrp": 2799.0,
+  "member_ids": [
+   "NE-04933"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Vogue 2 Steel black",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-04934"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 105 Spirit Lime",
+  "category": "Personal Audio",
+  "mrp": 399.0,
+  "member_ids": [
+   "NE-04937"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 138 Midnight Blue Indi GLAA138BLUE",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-04938"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Iris Mystique Black",
+  "category": "Personal Audio",
+  "mrp": 2398.99,
+  "member_ids": [
+   "NE-04939"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 480 Matte Black",
+  "category": "Personal Audio",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-04940"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Sport Ashen Grey",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-04941"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z30 - Classic Black",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-04943",
+   "NE-05273"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 450 Pro White Purity",
+  "category": "Personal Audio",
+  "mrp": 2003.29,
+  "member_ids": [
+   "NE-04945"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Electra -  Cyan",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-04946"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X600 Jet Black",
+  "category": "Wearables",
+  "mrp": 2237.93,
+  "member_ids": [
+   "NE-04947"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 335 Blue Ocean New",
+  "category": "Personal Audio",
+  "mrp": 1812.4,
+  "member_ids": [
+   "NE-04948"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Link Rose Pink",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04949",
+   "NE-04994",
+   "NE-05066",
+   "NE-05081"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Deuce Usb 330 Martian Red",
+  "category": "Accessories",
+  "mrp": 249.7,
+  "member_ids": [
+   "NE-04950"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rugged V3 1.5m Cobalt Blue",
+  "category": "Accessories",
+  "mrp": 249.7,
+  "member_ids": [
+   "NE-04951"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Type C A400-1m Black",
+  "category": "Accessories",
+  "mrp": 270.63,
+  "member_ids": [
+   "NE-04952",
+   "NE-04968"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 180 Forest Green",
+  "category": "Personal Audio",
+  "mrp": 285.36,
+  "member_ids": [
+   "NE-04953"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd Qcpd 18w (Type C)",
+  "category": "Accessories",
+  "mrp": 714.85,
+  "member_ids": [
+   "NE-04955"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Bassheads 100 DC Blue Wired Earphone",
+  "category": "Personal Audio",
+  "mrp": 380.79,
+  "member_ids": [
+   "NE-04956"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 3.1a Black",
+  "category": "Accessories",
+  "mrp": 380.81,
+  "member_ids": [
+   "NE-04957"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Type C A550 Martian Red",
+  "category": "Accessories",
+  "mrp": 132.56,
+  "member_ids": [
+   "NE-04958"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Type C A700 Mercurial Black Data Cable",
+  "category": "Accessories",
+  "mrp": 386.96,
+  "member_ids": [
+   "NE-04960"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 100 Taffy Pink",
+  "category": "Personal Audio",
+  "mrp": 449.01,
+  "member_ids": [
+   "NE-04961"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt WCD 18W QC (TypeC) White",
+  "category": "Accessories",
+  "mrp": 380.81,
+  "member_ids": [
+   "NE-04964"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 18w Qcpd (Micro)",
+  "category": "Accessories",
+  "mrp": 714.85,
+  "member_ids": [
+   "NE-04965"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "C-Axis Mercurial Black",
+  "category": "Accessories",
+  "mrp": 458.47,
+  "member_ids": [
+   "NE-04966"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 162 Active Black",
+  "category": "Personal Audio",
+  "mrp": 380.79,
+  "member_ids": [
+   "NE-04969"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Dual Qc Port Rapid Car Charge Black",
+  "category": "Accessories",
+  "mrp": 523.96,
+  "member_ids": [
+   "NE-04970"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 152 Courageous Orange",
+  "category": "Personal Audio",
+  "mrp": 523.96,
+  "member_ids": [
+   "NE-04971"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-04972"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Spirit Lime",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-04973"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Bassheads 172 Jazzy Blue Sunburn",
+  "category": "Personal Audio",
+  "mrp": 476.24,
+  "member_ids": [
+   "NE-04974"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 551ANC Stellar Black",
+  "category": "Personal Audio",
+  "mrp": 2671.36,
+  "member_ids": [
+   "NE-04975"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Micro Usb-150 1.5m Jet Black",
+  "category": "Accessories",
+  "mrp": 124.43,
+  "member_ids": [
+   "NE-04978"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ltgg 500-1 Lightning Cable Grey",
+  "category": "Accessories",
+  "mrp": 762.57,
+  "member_ids": [
+   "NE-04979"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Beat Call-Cool grey",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-04980"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Summit Slate Grey",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-04981"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd-Qc3a Micro Usb Black",
+  "category": "Accessories",
+  "mrp": 380.81,
+  "member_ids": [
+   "NE-04982",
+   "NE-05087"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Flash Plus - Indigo Blue",
+  "category": "Wearables",
+  "mrp": 831.21,
+  "member_ids": [
+   "NE-04985"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Flash Plus - Active Black",
+  "category": "Wearables",
+  "mrp": 831.21,
+  "member_ids": [
+   "NE-04986"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus - Jet Black",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-04987"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Active - Moss green",
+  "category": "Wearables",
+  "mrp": 895.14,
+  "member_ids": [
+   "NE-04988"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Active - Cherry blossom",
+  "category": "Wearables",
+  "mrp": 895.14,
+  "member_ids": [
+   "NE-04989"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm call 2 - Active black",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-04991"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space Plus - Gunmetal Grey",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04992"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call 2 - cherry blossom",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-04993"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Type C A350 1.5m Black",
+  "category": "Accessories",
+  "mrp": 231.85,
+  "member_ids": [
+   "NE-04995"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 103 V2 ProFern Green",
+  "category": "Personal Audio",
+  "mrp": 974.63,
+  "member_ids": [
+   "NE-04996"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime 47:- Royal Blue",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-04997"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Thunder blue",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-04998"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Stone 193 Pitch Black",
+  "category": "Large Audio",
+  "mrp": 1139.21,
+  "member_ids": [
+   "NE-04999"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05000"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Lite - Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05001"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Rtl Lightning Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05002"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elite Electric blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05003"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro Active Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05004"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro 47 Deep Blue",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05005"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 460 Kakashi Edition",
+  "category": "Personal Audio",
+  "mrp": 1461.42,
+  "member_ids": [
+   "NE-05006"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Plus - Royal Blue",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-05007"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Bassheads 242 Neon Green Wired Earphone",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-05008"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 138 Active Black Indi GLAA138Black",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05009"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "EnergyShroom PB300 - Marvel Fusion",
+  "category": "Accessories",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-05010"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Plus - Rose Pink",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-05011"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 205 Pro Active Black",
+  "category": "Personal Audio",
+  "mrp": 1023.41,
+  "member_ids": [
+   "NE-05012"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Atom 81Pro Ivory Elegance",
+  "category": "Personal Audio",
+  "mrp": 1299.0,
+  "member_ids": [
+   "NE-05014"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 430 Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05015"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Sandy Cream",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05016"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Armour 2 :- Teal Green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05017"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Usb500-Black1.5 Carbon Black",
+  "category": "Accessories",
+  "mrp": 231.85,
+  "member_ids": [
+   "NE-05018"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima Chronos - Active black",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05019"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar call plus - Cool Grey",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-05020"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar orb - Pastel Green",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-05021"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Indigo Blue",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05022"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 131 Midnight Blue Indi GLAA131BLUE",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05023"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Tigon :- Metal Gold",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-05024"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Space:- Active Black",
+  "category": "Wearables",
+  "mrp": 1086.45,
+  "member_ids": [
+   "NE-05025"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 162 Jazzy Blue",
+  "category": "Personal Audio",
+  "mrp": 380.79,
+  "member_ids": [
+   "NE-05026"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 2a White",
+  "category": "Accessories",
+  "mrp": 285.36,
+  "member_ids": [
+   "NE-05027"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Olive Green",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05028"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Call Active Black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05029"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Edge - Active black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05030"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Call Olive Green",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05031"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect:- Cool Grey",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05032"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Cosmos Max - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05033"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 460 Graffiti Groove",
+  "category": "Personal Audio",
+  "mrp": 1461.42,
+  "member_ids": [
+   "NE-05034"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Plus :- Teal Blue",
+  "category": "Wearables",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-05035"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima prism - Active black",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-05037"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar seek - Cool Blue",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05038"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave  Arcade - Mint green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05039"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave  Arcade - Cool grey",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05040",
+   "NE-05174"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar seek - Pastel Green",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05041"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Navy Blue",
+  "category": "Personal Audio",
+  "mrp": 1621.53,
+  "member_ids": [
+   "NE-05042",
+   "NE-05333"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Micro Rugged 700-1.5 V3 Black",
+  "category": "Accessories",
+  "mrp": 231.85,
+  "member_ids": [
+   "NE-05044"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 131 Active Black-India GLAA131B",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05045"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Call 3 Plus - Olive Green",
+  "category": "Wearables",
+  "mrp": 1599.04,
+  "member_ids": [
+   "NE-05046"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Active Black",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-05047"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Smart Call Active Black",
+  "category": "Wearables",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-05048"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Connect Plus Maroon",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-05049"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Velocity - Metal grey",
+  "category": "Wearables",
+  "mrp": 1648.98,
+  "member_ids": [
+   "NE-05050"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar seek - Metal grey",
+  "category": "Wearables",
+  "mrp": 1648.98,
+  "member_ids": [
+   "NE-05051"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect Max - Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-05052"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Immortal 170 White Sabre",
+  "category": "Personal Audio",
+  "mrp": 1799.0,
+  "member_ids": [
+   "NE-05053",
+   "NE-05260"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Rockerz 333 Pro Teal Green",
+  "category": "Personal Audio",
+  "mrp": 1462.42,
+  "member_ids": [
+   "NE-05054"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar velocity - Teal Blue",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05057"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Pro Active Black",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-05058"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Primia Talk Cool Blue",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-05059"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra - Black Metal",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05060",
+   "NE-05246"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Pro Raging Red",
+  "category": "Wearables",
+  "mrp": 1798.97,
+  "member_ids": [
+   "NE-05061"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Brown leather",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05063"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Cosmos Plus - Royal Blue",
+  "category": "Wearables",
+  "mrp": 1899.02,
+  "member_ids": [
+   "NE-05064"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Smart Watch Charging Cable",
+  "category": "Accessories",
+  "mrp": 542.04,
+  "member_ids": [
+   "NE-05065"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm call 2 - Olive green",
+  "category": "Wearables",
+  "mrp": 959.07,
+  "member_ids": [
+   "NE-05067"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Leap Call:- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-05068"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 411 ANC Blue",
+  "category": "Personal Audio",
+  "mrp": 1252.66,
+  "member_ids": [
+   "NE-05069"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 100 C Grey",
+  "category": "Personal Audio",
+  "mrp": 667.11,
+  "member_ids": [
+   "NE-05070",
+   "NE-05078",
+   "NE-05389"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Wave Pro 47 Active Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05071"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Mystiq Somber Grey",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05072"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Watch Blaze Active Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05073"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 620 Black",
+  "category": "Large Audio",
+  "mrp": 1899.0,
+  "member_ids": [
+   "NE-05076"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Plus:- Chocolate Brown",
+  "category": "Wearables",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-05077"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Dual Rapid-Qc 3.0 F Type C Black",
+  "category": "Accessories",
+  "mrp": 571.68,
+  "member_ids": [
+   "NE-05080"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis:- Active Black",
+  "category": "Wearables",
+  "mrp": 2298.99,
+  "member_ids": [
+   "NE-05082"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Call Plus Active Black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05083"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Call Plus Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05084"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Edge - Sage green",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05085"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Call Plus Olive Green",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05086"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Call Reddish Grey",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05088"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Energyshroom Pb105 Midnight Blue",
+  "category": "Accessories",
+  "mrp": 810.28,
+  "member_ids": [
+   "NE-05089"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Space Infinity Blue",
+  "category": "Personal Audio",
+  "mrp": 2498.99,
+  "member_ids": [
+   "NE-05090"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Storm Pro Call:- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1214.83,
+  "member_ids": [
+   "NE-05091"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm call 2 - cherry blossom",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-05092"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Spin Voice - Ocean Blue",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05093"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Tigon:- Active Black",
+  "category": "Wearables",
+  "mrp": 2498.97,
+  "member_ids": [
+   "NE-05094"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Leap Call:- Active Black",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-05095"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Storm Call -  Olive Green",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-05096"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Max Deep Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05097"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Pro Active Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05098"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call Plus:-Cherry Red",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05099"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Connect Plus Cool Grey",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-05100"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call Max - Cool Grey",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-05101"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-05102"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 910 Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 905.73,
+  "member_ids": [
+   "NE-05103"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Kick Ivory White",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-05104"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Ion ANC Pro Northern Lights",
+  "category": "Personal Audio",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-05105"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 460 Cosmic Vision",
+  "category": "Personal Audio",
+  "mrp": 1461.42,
+  "member_ids": [
+   "NE-05107"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Armour 2 :- Dark Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05108"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Rise - Active Black",
+  "category": "Wearables",
+  "mrp": 959.09,
+  "member_ids": [
+   "NE-05109"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Max Ivory White",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05110"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Primia curv - Dark Grey",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-05111"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Genesis:- Royal Orange",
+  "category": "Wearables",
+  "mrp": 2298.99,
+  "member_ids": [
+   "NE-05112"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Pro Deep blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05113"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Uno Groovy Grey",
+  "category": "Large Audio",
+  "mrp": 762.57,
+  "member_ids": [
+   "NE-05114"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Deuce Usb 330 Mercurial Black",
+  "category": "Accessories",
+  "mrp": 249.7,
+  "member_ids": [
+   "NE-05115"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 451v2 Raging Red",
+  "category": "Personal Audio",
+  "mrp": 3099.0,
+  "member_ids": [
+   "NE-05116"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima prism - Warm Grey",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-05117"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar comet - Royal Orange",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05118"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Armour 2:- Active Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05119"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Regal Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 2999.0,
+  "member_ids": [
+   "NE-05120"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Viper Green",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05121"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Dual Rapid-Qc 3.0 F Black",
+  "category": "Accessories",
+  "mrp": 523.96,
+  "member_ids": [
+   "NE-05122"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes ATOM 81 Aero Blue",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-05123"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect Active Black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05124"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "WWave Smart Call Deep Blue",
+  "category": "Wearables",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-05125"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 22.5w Qcpd (Typec) White",
+  "category": "Accessories",
+  "mrp": 714.85,
+  "member_ids": [
+   "NE-05126"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Cool Grey",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05127"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat Airdopes 181 -Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-05128"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Airdopes 115 Raging Red",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-05129"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Jade purple",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-05130"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Rtl Moon Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05132"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Primia Ace - Indigo Blue",
+  "category": "Wearables",
+  "mrp": 1899.02,
+  "member_ids": [
+   "NE-05133"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Radiant:- Deep Blue",
+  "category": "Wearables",
+  "mrp": 2813.3,
+  "member_ids": [
+   "NE-05134"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Floatpad 350",
+  "category": "Accessories",
+  "mrp": 1096.6,
+  "member_ids": [
+   "NE-05135"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Csk Blue",
+  "category": "Personal Audio",
+  "mrp": 870.44,
+  "member_ids": [
+   "NE-05136"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Force 2:- Active Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05137"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 450r Aqua Blue",
+  "category": "Personal Audio",
+  "mrp": 1774.58,
+  "member_ids": [
+   "NE-05138"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 36w Dual Qc (Type C) - White",
+  "category": "Accessories",
+  "mrp": 1335.21,
+  "member_ids": [
+   "NE-05139"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 131 Crimson Cream",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05140"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma R32 - Classic Gold",
+  "category": "Wearables",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-05142",
+   "NE-05364"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Anc Funky Grey",
+  "category": "Personal Audio",
+  "mrp": 1864.82,
+  "member_ids": [
+   "NE-05143"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X400 Vintage Brown",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-05145"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Flex Connect :- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1086.9,
+  "member_ids": [
+   "NE-05146"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 330 Anc Oceanic Blue",
+  "category": "Personal Audio",
+  "mrp": 1864.82,
+  "member_ids": [
+   "NE-05148"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Beat Call :- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-05149"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Armour:- Olive Green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05150"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Elite Active Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05151"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call Max - Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-05152"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Cool Grey",
+  "category": "Wearables",
+  "mrp": 4099.01,
+  "member_ids": [
+   "NE-05153"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z40 - Metal Black",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-05154"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect - Active Black",
+  "category": "Wearables",
+  "mrp": 767.26,
+  "member_ids": [
+   "NE-05155"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 125 Mystic Black",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-05156"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Fit Call - warm grey",
+  "category": "Wearables",
+  "mrp": 3499.0,
+  "member_ids": [
+   "NE-05157"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 242 Active Black",
+  "category": "Personal Audio",
+  "mrp": 549.0,
+  "member_ids": [
+   "NE-05158"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar Prime - Cool Blue",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05159"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Connect Charcoal Black",
+  "category": "Wearables",
+  "mrp": 4099.01,
+  "member_ids": [
+   "NE-05160"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Flash Plus - Black Leather",
+  "category": "Wearables",
+  "mrp": 831.21,
+  "member_ids": [
+   "NE-05161"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Active Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05162"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Sport Cool Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05163"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 333 Pro Cherry Black",
+  "category": "Personal Audio",
+  "mrp": 1462.42,
+  "member_ids": [
+   "NE-05164"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ltg 550v3 Mercurial Black",
+  "category": "Accessories",
+  "mrp": 732.71,
+  "member_ids": [
+   "NE-05165"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Sigma - Cherry blossom",
+  "category": "Wearables",
+  "mrp": 767.3,
+  "member_ids": [
+   "NE-05166"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Summit Wave Blue",
+  "category": "Personal Audio",
+  "mrp": 899.0,
+  "member_ids": [
+   "NE-05167"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Rtl Active Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05168"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05169"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Olive Green",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05170"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X500 : Teal Green",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-05171",
+   "NE-05245"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Prism - Brown leather",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-05172"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Uno Tropical Blue",
+  "category": "Large Audio",
+  "mrp": 762.57,
+  "member_ids": [
+   "NE-05173"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Storm Call - Cherry blossom",
+  "category": "Wearables",
+  "mrp": 1499.01,
+  "member_ids": [
+   "NE-05175"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 333 Cherry Black",
+  "category": "Personal Audio",
+  "mrp": 1621.53,
+  "member_ids": [
+   "NE-05176"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Prism - Steel black",
+  "category": "Wearables",
+  "mrp": 1470.59,
+  "member_ids": [
+   "NE-05177"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Enigma X600 Royal Orange",
+  "category": "Wearables",
+  "mrp": 2237.93,
+  "member_ids": [
+   "NE-05178"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Energyshroom Pb105 Carbon Black",
+  "category": "Accessories",
+  "mrp": 810.28,
+  "member_ids": [
+   "NE-05179"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Prime Matte Black",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05180"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 800 HiDef Sterling Silver",
+  "category": "Personal Audio",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-05181"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl Sandy Cream",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05182"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 181 Cool Grey",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-05183"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 121 Pro Mint Cascade",
+  "category": "Personal Audio",
+  "mrp": 1598.57,
+  "member_ids": [
+   "NE-05184"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Connect Max - Active Black",
+  "category": "Wearables",
+  "mrp": 895.11,
+  "member_ids": [
+   "NE-05185"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wcd 20w Pd White",
+  "category": "Accessories",
+  "mrp": 619.41,
+  "member_ids": [
+   "NE-05186"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Primia Active Black",
+  "category": "Wearables",
+  "mrp": 1698.93,
+  "member_ids": [
+   "NE-05187"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X700 Silver Chrome",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-05188"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Joy Swedish White",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-05189"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Ultima Chronos - Cool Grey",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05190"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar velocity - Active black",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05191"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra - Olive Green",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05192"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "BoAt Wave Lite Scarlet Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05193"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Kick Bold Blue",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-05194"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 558 Bt Headphone Red",
+  "category": "Personal Audio",
+  "mrp": 1716.96,
+  "member_ids": [
+   "NE-05195",
+   "NE-05351"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Micro Usb 150 1.5m",
+  "category": "Accessories",
+  "mrp": 124.43,
+  "member_ids": [
+   "NE-05196"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Type C C400 Black",
+  "category": "Accessories",
+  "mrp": 386.96,
+  "member_ids": [
+   "NE-05197"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ultima Call Active Black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05198"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Electra - Charcoal black",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05199"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Enticer Blue Enigma",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05200"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Primia Celestial - Cyan Blue",
+  "category": "Wearables",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05201"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Xtend Call Plus Deep Purple",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05202"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma X400 Silver Chrome",
+  "category": "Wearables",
+  "mrp": 3498.96,
+  "member_ids": [
+   "NE-05203"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Galaxy Blue",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05204"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Genesis Oceana",
+  "category": "Personal Audio",
+  "mrp": 1998.99,
+  "member_ids": [
+   "NE-05205"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Lunar orb - Active black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-05206"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Play Warm Grey",
+  "category": "Wearables",
+  "mrp": 998.93,
+  "member_ids": [
+   "NE-05207"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Radiant:- Olive Green",
+  "category": "Wearables",
+  "mrp": 2813.3,
+  "member_ids": [
+   "NE-05208"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Ace - Flamingo Pink",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05210"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 150 Pro Green",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05211",
+   "NE-05401"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z40 - Black Leather",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-05212"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 900 Pearl White",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-05213"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Micro Usb 55 Black",
+  "category": "Accessories",
+  "mrp": 154.32,
+  "member_ids": [
+   "NE-05214"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Hype Opal Black",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05216"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Nirvana Ion ANC Pro Blazing Comet",
+  "category": "Personal Audio",
+  "mrp": 2299.0,
+  "member_ids": [
+   "NE-05217"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Active Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05218"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 181 Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-05219"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 258 Pro+ Active Black",
+  "category": "Personal Audio",
+  "mrp": 1267.31,
+  "member_ids": [
+   "NE-05220"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Enigma Z20 :-Jet Black",
+  "category": "Wearables",
+  "mrp": 1470.62,
+  "member_ids": [
+   "NE-05222"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave convex - Dark Blue",
+  "category": "Wearables",
+  "mrp": 1999.06,
+  "member_ids": [
+   "NE-05223"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Stride Voice :- Cherry Blossom",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05225"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Kick Carbon Black",
+  "category": "Personal Audio",
+  "mrp": 1399.0,
+  "member_ids": [
+   "NE-05226"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 138 Cherry Blossom",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05228"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Primia Curv - Black leather",
+  "category": "Wearables",
+  "mrp": 2198.99,
+  "member_ids": [
+   "NE-05229"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Wave Stride Voice :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1398.95,
+  "member_ids": [
+   "NE-05230"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call MAUVE",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05231"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Aura Royal Orange",
+  "category": "Wearables",
+  "mrp": 1699.0,
+  "member_ids": [
+   "NE-05232"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Bassheads 122 Gunmetal",
+  "category": "Personal Audio",
+  "mrp": 476.24,
+  "member_ids": [
+   "NE-05233"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 183 Mercurial Grey",
+  "category": "Personal Audio",
+  "mrp": 1698.67,
+  "member_ids": [
+   "NE-05234"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ltg 650 Mercurial Black Data Cable",
+  "category": "Accessories",
+  "mrp": 858.0,
+  "member_ids": [
+   "NE-05235"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Prime - Steel silver",
+  "category": "Wearables",
+  "mrp": 1342.71,
+  "member_ids": [
+   "NE-05237"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Gen 1 - Charcoal Black 9",
+  "category": "Wearables",
+  "mrp": 8998.99,
+  "member_ids": [
+   "NE-05238"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Gen 1 - Charcoal Black 7",
+  "category": "Wearables",
+  "mrp": 8998.99,
+  "member_ids": [
+   "NE-05239"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 268 Fern Green",
+  "category": "Personal Audio",
+  "mrp": 1072.18,
+  "member_ids": [
+   "NE-05240"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Boat LTG Grey500-2M Lightning Cable",
+  "category": "Accessories",
+  "mrp": 858.0,
+  "member_ids": [
+   "NE-05241"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Fit Olive Green",
+  "category": "Wearables",
+  "mrp": 2099.0,
+  "member_ids": [
+   "NE-05242"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 141 Cider Cyan",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-05243"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Spectra :- Steel Black",
+  "category": "Wearables",
+  "mrp": 1918.18,
+  "member_ids": [
+   "NE-05248"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 450 Pro Hazel Beige",
+  "category": "Personal Audio",
+  "mrp": 2003.29,
+  "member_ids": [
+   "NE-05249"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes 141 pro Active Black",
+  "category": "Personal Audio",
+  "mrp": 1798.78,
+  "member_ids": [
+   "NE-05250"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Rockerz 109 Fern Green",
+  "category": "Personal Audio",
+  "mrp": 999.0,
+  "member_ids": [
+   "NE-05251"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Flex Connect :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1086.9,
+  "member_ids": [
+   "NE-05252"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Storm Raging Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05253"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Lunar Connect Plus - Active Black",
+  "category": "Wearables",
+  "mrp": 1342.66,
+  "member_ids": [
+   "NE-05254"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Spin Voice - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05255"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Ltg 600 1.2m Black",
+  "category": "Accessories",
+  "mrp": 1239.77,
+  "member_ids": [
+   "NE-05256"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 551ANC Sage Green",
+  "category": "Personal Audio",
+  "mrp": 2671.36,
+  "member_ids": [
+   "NE-05257"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Trinity Just Blue",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05258"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Force 2 :- Deep Blue",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05259"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 255r Raging Red",
+  "category": "Personal Audio",
+  "mrp": 1335.21,
+  "member_ids": [
+   "NE-05262"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz 261 Pro Lazer Lime",
+  "category": "Personal Audio",
+  "mrp": 1812.4,
+  "member_ids": [
+   "NE-05263"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Call Active Black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05264"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Joy Dark Cyan",
+  "category": "Personal Audio",
+  "mrp": 1098.99,
+  "member_ids": [
+   "NE-05266"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Airdopes 170 Classic Black",
+  "category": "Personal Audio",
+  "mrp": 1599.01,
+  "member_ids": [
+   "NE-05267"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Astra - Active black",
+  "category": "Wearables",
+  "mrp": 1299.06,
+  "member_ids": [
+   "NE-05269"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone Majestic Vintage Brown",
+  "category": "Large Audio",
+  "mrp": 8998.99,
+  "member_ids": [
+   "NE-05270"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Flash Moon Red",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05271"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Watch Xtend Rtl - Charcoal Black",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05272"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Airdopes Hype Aero Blue",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05274"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Wave Style Beige",
+  "category": "Wearables",
+  "mrp": 1098.97,
+  "member_ids": [
+   "NE-05275"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Stone 1208 Blue",
+  "category": "Large Audio",
+  "mrp": 3999.0,
+  "member_ids": [
+   "NE-05276"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "Rockerz Trinity Kutch White",
+  "category": "Personal Audio",
+  "mrp": 1498.99,
+  "member_ids": [
+   "NE-05277"
+  ]
+ },
+ {
+  "brand": "boAt",
+  "product_name": "boAt Smartring Active-11-Midnight Black",
+  "category": "Wearables",
+  "mrp": 2499.0,
+  "member_ids": [
+   "NE-05278"
+  ]
+ }
+]

@@ -1,0 +1,6106 @@
+[
+  {
+    "member_ids": [
+      "NE-07162"
+    ],
+    "image_local_path": "web/NE-07162.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61BMcAd+9JL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07163"
+    ],
+    "image_local_path": "web/NE-07163.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81IabkAENaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07164"
+    ],
+    "image_local_path": "web/NE-07164.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8152cIwSDeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07165"
+    ],
+    "image_local_path": "web/NE-07165.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GDsaQbwHL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07166",
+      "NE-07193"
+    ],
+    "image_local_path": "web/NE-07166.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71CkS1xBqSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07167"
+    ],
+    "image_local_path": "web/NE-07167.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81n2Cvc8OML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07168"
+    ],
+    "image_local_path": "web/NE-07168.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61269sT76eL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07170"
+    ],
+    "image_local_path": "web/NE-07170.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/711tlQFaVlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07171"
+    ],
+    "image_local_path": "web/NE-07171.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71zyycFobvL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07172",
+      "NE-07210"
+    ],
+    "image_local_path": "web/NE-07172.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/812l3prYHcL._SL1500.jpg?v=1759293066",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07173"
+    ],
+    "image_local_path": "web/NE-07173.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61fj23aGGmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07174"
+    ],
+    "image_local_path": "web/NE-07174.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71t0g9xr3TL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07175"
+    ],
+    "image_local_path": "web/NE-07175.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61QdRMU8M3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07176"
+    ],
+    "image_local_path": "web/NE-07176.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61RDqLkdR9L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07177"
+    ],
+    "image_local_path": "web/NE-07177.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61f726q8CVL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07178",
+      "NE-07195"
+    ],
+    "image_local_path": "web/NE-07178.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/816Bcft6jmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07179",
+      "NE-07185"
+    ],
+    "image_local_path": "web/NE-07179.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81yzrjudNJL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07180"
+    ],
+    "image_local_path": "web/NE-07180.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71DO3wOjvZL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07181"
+    ],
+    "image_local_path": "web/NE-07181.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81tfcKvTXiL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07182"
+    ],
+    "image_local_path": "web/NE-07182.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81vwTi+A6FL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07184"
+    ],
+    "image_local_path": "web/NE-07184.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71zIxtaVauL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07186"
+    ],
+    "image_local_path": "web/NE-07186.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61f726q8CVL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07187"
+    ],
+    "image_local_path": "web/NE-07187.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/61jjekMUu1L._SL1500_3200x.jpg?v=1758276160",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07188"
+    ],
+    "image_local_path": "web/NE-07188.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71BMBbA7jYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07189"
+    ],
+    "image_local_path": "web/NE-07189.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71iwuZB7vrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07190"
+    ],
+    "image_local_path": "web/NE-07190.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81n2Cvc8OML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07191"
+    ],
+    "image_local_path": "web/NE-07191.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71CkS1xBqSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07192"
+    ],
+    "image_local_path": "web/NE-07192.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ipIw1p3IL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07194",
+      "NE-07247"
+    ],
+    "image_local_path": "web/NE-07194.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71caFJ3MYdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07196"
+    ],
+    "image_local_path": "web/NE-07196.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71FYu2fkcNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07197"
+    ],
+    "image_local_path": "web/NE-07197.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Z1kAydf0L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07198"
+    ],
+    "image_local_path": "web/NE-07198.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/61mqpF2KBSL._SL1500_3200x.jpg?v=1758623080",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07199"
+    ],
+    "image_local_path": "web/NE-07199.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/5_543ecf72-338c-445c-9f2b-0f09cede263a_3200x.jpg?v=1758108344",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07200"
+    ],
+    "image_local_path": "web/NE-07200.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/2_-_2024-10-21T151614.966_0eae4a01-3b66-4a09-8a95-0dfecbe1e16c_3200x.jpg?v=1752144946",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07201"
+    ],
+    "image_local_path": "web/NE-07201.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71e6q9yYo0L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07202"
+    ],
+    "image_local_path": "web/NE-07202.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Z1kAydf0L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07203"
+    ],
+    "image_local_path": "web/NE-07203.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/1_-_2024-10-19T130649.966_a335c8e8-1f11-4018-b027-44b023563c02.jpg?v=1752144894",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07204"
+    ],
+    "image_local_path": "web/NE-07204.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ugWUT9D2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07205"
+    ],
+    "image_local_path": "web/NE-07205.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/Artboard_1_297ceb88-0d53-40e9-9437-a7d69370deb8.jpg?v=1752144779",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07206"
+    ],
+    "image_local_path": "web/NE-07206.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61f726q8CVL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07207"
+    ],
+    "image_local_path": "web/NE-07207.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71tSU082xLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07208"
+    ],
+    "image_local_path": "web/NE-07208.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71RWIrwUk8L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07209"
+    ],
+    "image_local_path": "web/NE-07209.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71dRWItiV4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07211"
+    ],
+    "image_local_path": "web/NE-07211.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/Artboard_1_1b75b2c1-4cf9-4915-bd3a-ae74afc20d63.jpg?v=1752144762",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07213"
+    ],
+    "image_local_path": "web/NE-07213.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61jRUob8mhL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07214"
+    ],
+    "image_local_path": "web/NE-07214.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71R3EJ3v2UL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07215"
+    ],
+    "image_local_path": "web/NE-07215.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/61KL0YSLv1L._SL1500.jpg?v=1758276159",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07216"
+    ],
+    "image_local_path": "web/NE-07216.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81YXkrO6FbL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07218"
+    ],
+    "image_local_path": "web/NE-07218.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81ZElxqNbqL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07220"
+    ],
+    "image_local_path": "web/NE-07220.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Av9QUbjbL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07221"
+    ],
+    "image_local_path": "web/NE-07221.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71LbAZeoYdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07224"
+    ],
+    "image_local_path": "web/NE-07224.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61O-ZSvX-3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07225"
+    ],
+    "image_local_path": "web/NE-07225.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71iwuZB7vrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07227"
+    ],
+    "image_local_path": "web/NE-07227.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81UmItUlE3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07228"
+    ],
+    "image_local_path": "web/NE-07228.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71tIp1oR4QL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07230"
+    ],
+    "image_local_path": "web/NE-07230.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81bj7LIfalL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07231"
+    ],
+    "image_local_path": "web/NE-07231.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/6173EwqBRaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07232"
+    ],
+    "image_local_path": "web/NE-07232.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61TSZT9-t0L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07235"
+    ],
+    "image_local_path": "web/NE-07235.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/71J0NuLqmZL._SL1500_3200x.jpg?v=1758190441",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07237"
+    ],
+    "image_local_path": "web/NE-07237.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ZyQaTBCpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07238"
+    ],
+    "image_local_path": "web/NE-07238.jpg",
+    "image_source_url": "https://airlock.getspectrum.ai/review-images/019c4b43-b46f-7438-bd94-45f77f4f79a7/B0FF4Q5158/1786356006624-h8xdi95ph2q.jpg",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07239"
+    ],
+    "image_local_path": "web/NE-07239.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71-s41c1FfL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07241"
+    ],
+    "image_local_path": "web/NE-07241.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71SRvRUcnnL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07243"
+    ],
+    "image_local_path": "web/NE-07243.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81UmItUlE3L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07244"
+    ],
+    "image_local_path": "web/NE-07244.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71gXN1ZFolL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07245"
+    ],
+    "image_local_path": "web/NE-07245.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71QimD6m1ML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07248"
+    ],
+    "image_local_path": "web/NE-07248.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61NvGnK0elL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07250"
+    ],
+    "image_local_path": "web/NE-07250.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81C82fk1cwL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07254"
+    ],
+    "image_local_path": "web/NE-07254.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Il5j7qYdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07256"
+    ],
+    "image_local_path": "web/NE-07256.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71bImBzf-4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07257"
+    ],
+    "image_local_path": "web/NE-07257.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71WVVDU-C2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07258"
+    ],
+    "image_local_path": "web/NE-07258.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/616o0Wq14lL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07259"
+    ],
+    "image_local_path": "web/NE-07259.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81cylMZ4POL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07260"
+    ],
+    "image_local_path": "web/NE-07260.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71RYRUm6+XL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07261"
+    ],
+    "image_local_path": "web/NE-07261.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81IabkAENaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07262"
+    ],
+    "image_local_path": "web/NE-07262.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71GN+mZx3eL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07263"
+    ],
+    "image_local_path": "web/NE-07263.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81I5vDc3DYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07264"
+    ],
+    "image_local_path": "web/NE-07264.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81EmLA0hBRL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07265"
+    ],
+    "image_local_path": "web/NE-07265.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yGCKQY0XL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07266"
+    ],
+    "image_local_path": "web/NE-07266.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81tIgypvYzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07267"
+    ],
+    "image_local_path": "web/NE-07267.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81C82fk1cwL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07268"
+    ],
+    "image_local_path": "web/NE-07268.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81GUBheXqCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07269"
+    ],
+    "image_local_path": "web/NE-07269.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81C82fk1cwL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07270"
+    ],
+    "image_local_path": "web/NE-07270.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61oqCbx3SeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07271"
+    ],
+    "image_local_path": "web/NE-07271.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71tIp1oR4QL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07272"
+    ],
+    "image_local_path": "web/NE-07272.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81tfcKvTXiL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07273"
+    ],
+    "image_local_path": "web/NE-07273.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81igWXWcbcL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07274"
+    ],
+    "image_local_path": "web/NE-07274.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/duster/z/8/b/1-llcemd105-vivela-by-lifelong-original-imahmwfn6ksytbga.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07275"
+    ],
+    "image_local_path": "web/NE-07275.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/819Ksplw7JL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07276"
+    ],
+    "image_local_path": "web/NE-07276.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/1_-_2024-10-21T171359.097_5dd4ac04-3062-48fd-8f44-88964133c2fb.jpg?v=1752144909",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07277"
+    ],
+    "image_local_path": "web/NE-07277.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61TSZT9-t0L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07278"
+    ],
+    "image_local_path": "web/NE-07278.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71WVVDU-C2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07279"
+    ],
+    "image_local_path": "web/NE-07279.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61tLTIuJ6JL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07280"
+    ],
+    "image_local_path": "web/NE-07280.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81wUYLIdbxL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07281"
+    ],
+    "image_local_path": "web/NE-07281.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81W8c6vdzyL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07282"
+    ],
+    "image_local_path": "web/NE-07282.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71jWfmISxbL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07283"
+    ],
+    "image_local_path": "web/NE-07283.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61d7+r8fjCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07284"
+    ],
+    "image_local_path": "web/NE-07284.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/broom-brush/l/t/k/1-carpet-cleaning-brush-rudhjal-original-imaheqr6fg35bses.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07285"
+    ],
+    "image_local_path": "web/NE-07285.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/816GHfxQHlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07286"
+    ],
+    "image_local_path": "web/NE-07286.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71YBY5bEKSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07287"
+    ],
+    "image_local_path": "web/NE-07287.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81-w077SnPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07288",
+      "NE-07307",
+      "NE-07308"
+    ],
+    "image_local_path": "web/NE-07288.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71f3TKbgtHL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07289"
+    ],
+    "image_local_path": "web/NE-07289.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51dVaMrCq9L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07290"
+    ],
+    "image_local_path": "web/NE-07290.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GvmyFStJL._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07291"
+    ],
+    "image_local_path": "web/NE-07291.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/711H7s-4pUL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07292"
+    ],
+    "image_local_path": "web/NE-07292.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71UiGRz2OuL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07293"
+    ],
+    "image_local_path": "web/NE-07293.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61hVmdKzayL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07294",
+      "NE-07295",
+      "NE-07296"
+    ],
+    "image_local_path": "web/NE-07294.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/Artboard6_3200x.jpg?v=1771397757",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07297"
+    ],
+    "image_local_path": "web/NE-07297.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/Main_image_360e4cd1-0044-4e93-a47d-6766a4472f16.jpg?v=1780655235",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07298"
+    ],
+    "image_local_path": "web/NE-07298.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/2_d6b9c8df-0f25-4b7d-abd2-1f1d34f1349f.jpg?v=1782449409&width=940",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07299"
+    ],
+    "image_local_path": "web/NE-07299.jpg",
+    "image_source_url": "https://www.lifelongindiaonline.com/cdn/shop/files/81tnXapOTRL._SL1500_d78de8ec-6ee6-41e0-ad34-1fcf74a631bc_3200x.jpg?v=1780655338",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07300"
+    ],
+    "image_local_path": "web/NE-07300.jpg",
+    "image_source_url": "https://airlock.getspectrum.ai/review-images/019c4b43-b46f-7438-bd94-45f77f4f79a7/B0DJLSNV3R/1786351907637-lz72yu6h69.jpg",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07301"
+    ],
+    "image_local_path": "web/NE-07301.jpg",
+    "image_source_url": "http://www.lifelongindiaonline.com/cdn/shop/files/1_34_34090069-a77c-4425-b7f7-9f51772abf6f.jpg?v=1782474305",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07302",
+      "NE-07303"
+    ],
+    "image_local_path": "web/NE-07302.jpg",
+    "image_source_url": "https://airlock.getspectrum.ai/review-images/019c4b43-b46f-7438-bd94-45f77f4f79a7/B0DHZPZK9F/1787299611311-jbbcginysdq.jpg",
+    "image_source_domain": "www.lifelongindiaonline.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07304"
+    ],
+    "image_local_path": "web/NE-07304.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71uvQZ1sX9L._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07305"
+    ],
+    "image_local_path": "web/NE-07305.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Steamers%20Cookers/Images/262855_1_yf0ysw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07306"
+    ],
+    "image_local_path": "web/NE-07306.jpg",
+    "image_source_url": "https://s3-ap-south-1.amazonaws.com/ind-cdn.freshdesk.com/data/helpdesk/attachments/production/82157697078/original/lbcdyOimeQBLVFvIQbTAJ7ZWmMI3UtNwcw.png?1736918227",
+    "image_source_domain": "lifelongonline.freshdesk.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07309"
+    ],
+    "image_local_path": "web/NE-07309.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71V2tpaSF6L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07310"
+    ],
+    "image_local_path": "web/NE-07310.jpg",
+    "image_source_url": "https://img.tatacliq.com/images/i19//1348Wx2000H/MP000000019813653_1348Wx2000H_202408091216342.jpeg",
+    "image_source_domain": "www.tatacliq.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07311"
+    ],
+    "image_local_path": "web/NE-07311.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71BGVQTobKL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07312"
+    ],
+    "image_local_path": "web/NE-07312.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71BGVQTobKL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07313"
+    ],
+    "image_local_path": "web/NE-07313.jpg",
+    "image_source_url": "https://img.tatacliq.com/images/i19//1348Wx2000H/MP000000019813633_1348Wx2000H_202408091214267.jpeg",
+    "image_source_domain": "www.tatacliq.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07314"
+    ],
+    "image_local_path": "web/NE-07314.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71EnyIU5rYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07315"
+    ],
+    "image_local_path": "web/NE-07315.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81EszJC7MYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07316"
+    ],
+    "image_local_path": "web/NE-07316.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/239197_13_uuiss8.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07317"
+    ],
+    "image_local_path": "web/NE-07317.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51v3uVZJJ1L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07318"
+    ],
+    "image_local_path": "web/NE-07318.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71-vr5cmblL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07319"
+    ],
+    "image_local_path": "web/NE-07319.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nmrpeRLwL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07320"
+    ],
+    "image_local_path": "web/NE-07320.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/715B3UU2YZL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07321"
+    ],
+    "image_local_path": "web/NE-07321.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71W2ch08aKL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07322",
+      "NE-07323"
+    ],
+    "image_local_path": "web/NE-07322.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71zqb3zLrkL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07324"
+    ],
+    "image_local_path": "web/NE-07324.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61-TyvHhp8L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07325"
+    ],
+    "image_local_path": "web/NE-07325.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61-TyvHhp8L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07326",
+      "NE-07327"
+    ],
+    "image_local_path": "web/NE-07326.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Grooming/Images/228725_0_ocix8p.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07328"
+    ],
+    "image_local_path": "web/NE-07328.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/814PYFitwlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07329"
+    ],
+    "image_local_path": "web/NE-07329.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81KEyd9uvLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07330"
+    ],
+    "image_local_path": "web/NE-07330.jpg",
+    "image_source_url": "https://img.tatacliq.com/images/i19//1348Wx2000H/MP000000005394846_1348Wx2000H_202408091214328.jpeg",
+    "image_source_domain": "www.tatacliq.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07502",
+      "NE-07503"
+    ],
+    "image_local_path": "web/NE-07502.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/512CB44h2hL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07504"
+    ],
+    "image_local_path": "web/NE-07504.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/b/v/ace-ex-600-mm-70-1-ceiling-fan-600-usha-original-imagnghmagj7rkm5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07505",
+      "NE-07506"
+    ],
+    "image_local_path": "web/NE-07505.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20Plus-Brown-Front.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07507"
+    ],
+    "image_local_path": "web/NE-07507.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge-%20Ivory-%20Front-min%20%281%29_0.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07508",
+      "NE-07509",
+      "NE-08458"
+    ],
+    "image_local_path": "web/NE-07508.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07510",
+      "NE-07598"
+    ],
+    "image_local_path": "web/NE-07510.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71L1XYLiRoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07511"
+    ],
+    "image_local_path": "web/NE-07511.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51YWbiFLI4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07512"
+    ],
+    "image_local_path": "web/NE-07512.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07521"
+    ],
+    "image_local_path": "web/NE-07521.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61pn71D2CiL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07526",
+      "NE-07527",
+      "NE-07540",
+      "NE-07541"
+    ],
+    "image_local_path": "web/NE-07526.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514vxQa9A5L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07528",
+      "NE-07532",
+      "NE-07533"
+    ],
+    "image_local_path": "web/NE-07528.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/218793_11_jnbe2n.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07529"
+    ],
+    "image_local_path": "web/NE-07529.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/218793_11_jnbe2n.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07530",
+      "NE-07537"
+    ],
+    "image_local_path": "web/NE-07530.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/jw0zr0w0/fan/x/f/m/aldora-1320-ceiling-fan-usha-original-imafcm3nzph8ym5z.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07531",
+      "NE-07538"
+    ],
+    "image_local_path": "web/NE-07531.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/218793_2_Y1ee2XbjHu.png?updatedAt=1755875188740",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07534"
+    ],
+    "image_local_path": "web/NE-07534.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/218793_11_jnbe2n.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07535"
+    ],
+    "image_local_path": "web/NE-07535.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/218793_11_jnbe2n.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07536"
+    ],
+    "image_local_path": "web/NE-07536.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/jw0zr0w0/fan/x/f/m/aldora-1320-ceiling-fan-usha-original-imafcm3nzph8ym5z.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07539",
+      "NE-07543"
+    ],
+    "image_local_path": "web/NE-07539.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514vxQa9A5L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07542"
+    ],
+    "image_local_path": "web/NE-07542.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514vxQa9A5L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07544"
+    ],
+    "image_local_path": "web/NE-07544.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GeM6BlusL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07545",
+      "NE-07546",
+      "NE-07547",
+      "NE-07548",
+      "NE-07550",
+      "NE-07552",
+      "NE-07554"
+    ],
+    "image_local_path": "web/NE-07545.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/h/4/f/aerostyle-1200mm-pack-of-1-74-1-ceiling-fan-1200-usha-enriched-transparent-original-imahfypzukyghv6z.png?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07549"
+    ],
+    "image_local_path": "web/NE-07549.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Hp5T8aVfL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07551",
+      "NE-07555"
+    ],
+    "image_local_path": "web/NE-07551.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kerfl3k0/fan/r/7/h/airostrong-curve-80-1-1200-ceiling-fan-usha-original-imafvcnrwtvpesqu.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07553"
+    ],
+    "image_local_path": "web/NE-07553.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07556"
+    ],
+    "image_local_path": "web/NE-07556.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/q/j/-original-imagnhc8xzhhsfdj.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07557"
+    ],
+    "image_local_path": "web/NE-07557.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07558",
+      "NE-07570"
+    ],
+    "image_local_path": "web/NE-07558.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61+Oq-IOQzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07559",
+      "NE-07571"
+    ],
+    "image_local_path": "web/NE-07559.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07560",
+      "NE-07564"
+    ],
+    "image_local_path": "web/NE-07560.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61use8J-AIL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07561"
+    ],
+    "image_local_path": "web/NE-07561.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41BHzuRboVL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07562",
+      "NE-07563"
+    ],
+    "image_local_path": "web/NE-07562.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61jwWDbiMML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07565",
+      "NE-07569"
+    ],
+    "image_local_path": "web/NE-07565.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07566",
+      "NE-07568"
+    ],
+    "image_local_path": "web/NE-07566.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61use8J-AIL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07567",
+      "NE-07893"
+    ],
+    "image_local_path": "web/NE-07567.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51ml91k6rUL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07572",
+      "NE-08461"
+    ],
+    "image_local_path": "web/NE-07572.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61HOGeXUVNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07573"
+    ],
+    "image_local_path": "web/NE-07573.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61HOGeXUVNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07574",
+      "NE-07831"
+    ],
+    "image_local_path": "web/NE-07574.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07575"
+    ],
+    "image_local_path": "web/NE-07575.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61+Oq-IOQzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07576"
+    ],
+    "image_local_path": "web/NE-07576.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61jwWDbiMML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07577"
+    ],
+    "image_local_path": "web/NE-07577.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07578"
+    ],
+    "image_local_path": "web/NE-07578.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07579"
+    ],
+    "image_local_path": "web/NE-07579.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/q/j/-original-imagnhc8xzhhsfdj.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07580"
+    ],
+    "image_local_path": "web/NE-07580.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/7/o/t/striker-millennium-55-1-ceiling-fan-1200-usha-original-imagr2dwmfh9hmpn.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07581"
+    ],
+    "image_local_path": "web/NE-07581.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07582"
+    ],
+    "image_local_path": "web/NE-07582.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41GEOgosPHL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07583"
+    ],
+    "image_local_path": "web/NE-07583.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07584"
+    ],
+    "image_local_path": "web/NE-07584.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61XfrG1NXkL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07585"
+    ],
+    "image_local_path": "web/NE-07585.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07586"
+    ],
+    "image_local_path": "web/NE-07586.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07587"
+    ],
+    "image_local_path": "web/NE-07587.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07588"
+    ],
+    "image_local_path": "web/NE-07588.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07589"
+    ],
+    "image_local_path": "web/NE-07589.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07590"
+    ],
+    "image_local_path": "web/NE-07590.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07591",
+      "NE-07592"
+    ],
+    "image_local_path": "web/NE-07591.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07593",
+      "NE-08418"
+    ],
+    "image_local_path": "web/NE-07593.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51TQ-62z3yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07594"
+    ],
+    "image_local_path": "web/NE-07594.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/b/v/ace-ex-600-mm-70-1-ceiling-fan-600-usha-original-imagnghmagj7rkm5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07595",
+      "NE-07596"
+    ],
+    "image_local_path": "web/NE-07595.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_2_ry2u34.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07597"
+    ],
+    "image_local_path": "web/NE-07597.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/u/z/j/ceiling-fan-1400-mm-pack-of-4-semi-decor-60-4-induction-ceiling-original-imahzy5yjme35myd.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07599"
+    ],
+    "image_local_path": "web/NE-07599.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513ErAJPWeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07600"
+    ],
+    "image_local_path": "web/NE-07600.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/227376_0_oxlvpr.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07601",
+      "NE-07607"
+    ],
+    "image_local_path": "web/NE-07601.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271417_0_flyo3j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07602",
+      "NE-07603"
+    ],
+    "image_local_path": "web/NE-07602.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271417_0_flyo3j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07604",
+      "NE-07609",
+      "NE-07610"
+    ],
+    "image_local_path": "web/NE-07604.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271417_0_flyo3j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07605",
+      "NE-07611"
+    ],
+    "image_local_path": "web/NE-07605.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/616tL2uOSPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07606"
+    ],
+    "image_local_path": "web/NE-07606.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61WQtksrzCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07608"
+    ],
+    "image_local_path": "web/NE-07608.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GX2CarvCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07612",
+      "NE-08258"
+    ],
+    "image_local_path": "web/NE-07612.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51JakfgfZ2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07613"
+    ],
+    "image_local_path": "web/NE-07613.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51-0u6fTXnL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07614"
+    ],
+    "image_local_path": "web/NE-07614.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51Ttmj3JnAL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07615"
+    ],
+    "image_local_path": "web/NE-07615.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51-0u6fTXnL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07616"
+    ],
+    "image_local_path": "web/NE-07616.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51-0u6fTXnL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07617",
+      "NE-07618"
+    ],
+    "image_local_path": "web/NE-07617.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61hU5L2nFYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07619"
+    ],
+    "image_local_path": "web/NE-07619.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61hU5L2nFYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07620"
+    ],
+    "image_local_path": "web/NE-07620.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61hU5L2nFYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07621"
+    ],
+    "image_local_path": "web/NE-07621.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51OY+dIW+EL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07622"
+    ],
+    "image_local_path": "web/NE-07622.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61hU5L2nFYL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07623"
+    ],
+    "image_local_path": "web/NE-07623.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge-%20Ivory-%20Front-min%20%281%29_0.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07624"
+    ],
+    "image_local_path": "web/NE-07624.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20Plus-Brown-Front.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07625"
+    ],
+    "image_local_path": "web/NE-07625.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07626",
+      "NE-07629"
+    ],
+    "image_local_path": "web/NE-07626.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge-%20White-Front.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07627"
+    ],
+    "image_local_path": "web/NE-07627.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/v/p/-original-imagzcnncgyxgjhq.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07628"
+    ],
+    "image_local_path": "web/NE-07628.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20Plus-Brown-Front.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07630",
+      "NE-07841"
+    ],
+    "image_local_path": "web/NE-07630.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41Ui+y42ZQL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07631"
+    ],
+    "image_local_path": "web/NE-07631.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/j/r/e/striker-neo-60-1-ceiling-fan-1200-usha-original-imah28qfrnsb7fky.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07632"
+    ],
+    "image_local_path": "web/NE-07632.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/o/v/7/striker-neo-60-1-ceiling-fan-1200-usha-original-imah4h2kyqhey4sv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07633"
+    ],
+    "image_local_path": "web/NE-07633.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/1/c/striker-one-56-1-ceiling-fan-1200-usha-original-imagr2dakjrdcquf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07634",
+      "NE-07845"
+    ],
+    "image_local_path": "web/NE-07634.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/1/c/striker-one-56-1-ceiling-fan-1200-usha-original-imagr2dakjrdcquf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07635",
+      "NE-07848"
+    ],
+    "image_local_path": "web/NE-07635.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41SSaMtJYSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07636"
+    ],
+    "image_local_path": "web/NE-07636.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/j/r/e/striker-neo-60-1-ceiling-fan-1200-usha-original-imah28qfrnsb7fky.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07637"
+    ],
+    "image_local_path": "web/NE-07637.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/1/c/striker-one-56-1-ceiling-fan-1200-usha-original-imagr2dakjrdcquf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07638"
+    ],
+    "image_local_path": "web/NE-07638.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07639"
+    ],
+    "image_local_path": "web/NE-07639.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/315150_2_flAuNLMyo.png?updatedAt=1758180555186",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07640",
+      "NE-07641"
+    ],
+    "image_local_path": "web/NE-07640.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/315152_2_pD8OUnpzH.png?updatedAt=1763562500420",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07642"
+    ],
+    "image_local_path": "web/NE-07642.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/315152_2_pD8OUnpzH.png?updatedAt=1763562500420",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07643"
+    ],
+    "image_local_path": "web/NE-07643.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20Plus%20-%20Matt%20Jade%20Green%20-%2001-Photoroom.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07644",
+      "NE-07646"
+    ],
+    "image_local_path": "web/NE-07644.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20-%20Matt%20Blue1.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07645"
+    ],
+    "image_local_path": "web/NE-07645.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/315152_2_pD8OUnpzH.png?updatedAt=1763562500420",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07647"
+    ],
+    "image_local_path": "web/NE-07647.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51XNSzckV2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07648"
+    ],
+    "image_local_path": "web/NE-07648.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51XNSzckV2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07649"
+    ],
+    "image_local_path": "web/NE-07649.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51XNSzckV2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07650"
+    ],
+    "image_local_path": "web/NE-07650.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07651"
+    ],
+    "image_local_path": "web/NE-07651.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07652"
+    ],
+    "image_local_path": "web/NE-07652.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07653"
+    ],
+    "image_local_path": "web/NE-07653.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07654"
+    ],
+    "image_local_path": "web/NE-07654.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07655"
+    ],
+    "image_local_path": "web/NE-07655.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07656"
+    ],
+    "image_local_path": "web/NE-07656.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07657"
+    ],
+    "image_local_path": "web/NE-07657.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07658"
+    ],
+    "image_local_path": "web/NE-07658.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07659"
+    ],
+    "image_local_path": "web/NE-07659.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51TdczL8iBL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07660"
+    ],
+    "image_local_path": "web/NE-07660.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07661"
+    ],
+    "image_local_path": "web/NE-07661.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07662"
+    ],
+    "image_local_path": "web/NE-07662.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07663"
+    ],
+    "image_local_path": "web/NE-07663.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/AeroEdge-%20Ivory-%20Front-min%20%281%29_0.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07664"
+    ],
+    "image_local_path": "web/NE-07664.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07665"
+    ],
+    "image_local_path": "web/NE-07665.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07666"
+    ],
+    "image_local_path": "web/NE-07666.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07667"
+    ],
+    "image_local_path": "web/NE-07667.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07668"
+    ],
+    "image_local_path": "web/NE-07668.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07669"
+    ],
+    "image_local_path": "web/NE-07669.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51x9eBkYFOL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07670"
+    ],
+    "image_local_path": "web/NE-07670.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51x9eBkYFOL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07671"
+    ],
+    "image_local_path": "web/NE-07671.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uvcxUubGL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07672"
+    ],
+    "image_local_path": "web/NE-07672.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/217700_1_cjuwyt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07673",
+      "NE-07674",
+      "NE-07675",
+      "NE-07676"
+    ],
+    "image_local_path": "web/NE-07673.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61eo5ihZ-ML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07677"
+    ],
+    "image_local_path": "web/NE-07677.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61CiYm7KNPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07678"
+    ],
+    "image_local_path": "web/NE-07678.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uvcxUubGL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07679",
+      "NE-07680",
+      "NE-07681",
+      "NE-07682"
+    ],
+    "image_local_path": "web/NE-07679.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61n2h2ioeJL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07683"
+    ],
+    "image_local_path": "web/NE-07683.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uvcxUubGL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07684"
+    ],
+    "image_local_path": "web/NE-07684.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71s+2O8CcDL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07685"
+    ],
+    "image_local_path": "web/NE-07685.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61eo5ihZ-ML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07686",
+      "NE-07687"
+    ],
+    "image_local_path": "web/NE-07686.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61CmMBi6piL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07688"
+    ],
+    "image_local_path": "web/NE-07688.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61pQwZEQLlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07689",
+      "NE-07690",
+      "NE-07691"
+    ],
+    "image_local_path": "web/NE-07689.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61uvcxUubGL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07692",
+      "NE-07693",
+      "NE-07694"
+    ],
+    "image_local_path": "web/NE-07692.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61CiYm7KNPL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07695",
+      "NE-08373",
+      "NE-08515"
+    ],
+    "image_local_path": "web/NE-07695.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/h/f/fontana-lotus-decor-55-1-induction-ceiling-fan-1230-usha-original-imahmz7avchxt8es.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07696"
+    ],
+    "image_local_path": "web/NE-07696.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/j/m/a/fontana-one-1270-gold-ivory-semi-decor-55-1-bldc-ceiling-fan-original-imahersr2dzjhk8f.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07697",
+      "NE-08375"
+    ],
+    "image_local_path": "web/NE-07697.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/518W5yq-J8L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07698"
+    ],
+    "image_local_path": "web/NE-07698.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/j6b2f0w0/fan/y/f/6/fontana-maple-ceiling-fan-usha-original-imaewsrmsfug3mht.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07699"
+    ],
+    "image_local_path": "web/NE-07699.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71BwHVuijDL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07700"
+    ],
+    "image_local_path": "web/NE-07700.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71BwHVuijDL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07701"
+    ],
+    "image_local_path": "web/NE-07701.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61oQ4M-QplL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07702",
+      "NE-07706"
+    ],
+    "image_local_path": "web/NE-07702.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/31jigMuBC0L._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07703"
+    ],
+    "image_local_path": "web/NE-07703.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/d/d/v/cf-1200mm-racer-rich-brown-w-o-reg-pack-of-4-78-4-ceiling-fan-original-imah9mcuj3pcg9uk.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07704",
+      "NE-07708"
+    ],
+    "image_local_path": "web/NE-07704.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/512WGpZ6RNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07705",
+      "NE-07709"
+    ],
+    "image_local_path": "web/NE-07705.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/i/f/cf-1200mm-racer-rich-white-w-o-reg-pack-of-4-78-4-induction-original-imahbz2cybhv5a9z.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07707"
+    ],
+    "image_local_path": "web/NE-07707.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/512WGpZ6RNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07710"
+    ],
+    "image_local_path": "web/NE-07710.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/232774_1_t8f2nv.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07711"
+    ],
+    "image_local_path": "web/NE-07711.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07712"
+    ],
+    "image_local_path": "web/NE-07712.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51Ddt5Vt7IL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07713"
+    ],
+    "image_local_path": "web/NE-07713.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51Ddt5Vt7IL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07714"
+    ],
+    "image_local_path": "web/NE-07714.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/232774_0_d2ajd8.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07715",
+      "NE-07720"
+    ],
+    "image_local_path": "web/NE-07715.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/p/6/e/heleous-bldc-motor-with-remote-43-1-ceiling-fan-1220-usha-original-imagqp258zjrhrfh.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07716"
+    ],
+    "image_local_path": "web/NE-07716.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51KRkTIqXdL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07717"
+    ],
+    "image_local_path": "web/NE-07717.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51Ddt5Vt7IL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07718"
+    ],
+    "image_local_path": "web/NE-07718.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51Ddt5Vt7IL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07719"
+    ],
+    "image_local_path": "web/NE-07719.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/232774_0_d2ajd8.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07721"
+    ],
+    "image_local_path": "web/NE-07721.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/232774_0_d2ajd8.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07722"
+    ],
+    "image_local_path": "web/NE-07722.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07723"
+    ],
+    "image_local_path": "web/NE-07723.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07724"
+    ],
+    "image_local_path": "web/NE-07724.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271423_0_daw4vl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07725"
+    ],
+    "image_local_path": "web/NE-07725.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/2/f/kappa-35-1-ceiling-fan-1200-usha-original-imagrfdjnwffpwfz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07726"
+    ],
+    "image_local_path": "web/NE-07726.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/2/f/kappa-35-1-ceiling-fan-1200-usha-original-imagrfdjnwffpwfz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07727"
+    ],
+    "image_local_path": "web/NE-07727.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61JEfXNlWIL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07728"
+    ],
+    "image_local_path": "web/NE-07728.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/2/f/kappa-35-1-ceiling-fan-1200-usha-original-imagrfdjnwffpwfz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07729"
+    ],
+    "image_local_path": "web/NE-07729.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_1_hnnnzc.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07730"
+    ],
+    "image_local_path": "web/NE-07730.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/2/f/kappa-35-1-ceiling-fan-1200-usha-original-imagrfdjnwffpwfz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07731",
+      "NE-07733"
+    ],
+    "image_local_path": "web/NE-07731.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07732",
+      "NE-07734"
+    ],
+    "image_local_path": "web/NE-07732.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07735"
+    ],
+    "image_local_path": "web/NE-07735.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07736"
+    ],
+    "image_local_path": "web/NE-07736.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07737",
+      "NE-07746"
+    ],
+    "image_local_path": "web/NE-07737.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07738",
+      "NE-07747"
+    ],
+    "image_local_path": "web/NE-07738.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07739"
+    ],
+    "image_local_path": "web/NE-07739.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_8_lmmtb4.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07740",
+      "NE-07741"
+    ],
+    "image_local_path": "web/NE-07740.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07742"
+    ],
+    "image_local_path": "web/NE-07742.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07743"
+    ],
+    "image_local_path": "web/NE-07743.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07744"
+    ],
+    "image_local_path": "web/NE-07744.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_1_lm8khm.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07745"
+    ],
+    "image_local_path": "web/NE-07745.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07748"
+    ],
+    "image_local_path": "web/NE-07748.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_5_urvwt3.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07749",
+      "NE-07750"
+    ],
+    "image_local_path": "web/NE-07749.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07751"
+    ],
+    "image_local_path": "web/NE-07751.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07752"
+    ],
+    "image_local_path": "web/NE-07752.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07753",
+      "NE-07754"
+    ],
+    "image_local_path": "web/NE-07753.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07755"
+    ],
+    "image_local_path": "web/NE-07755.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07756"
+    ],
+    "image_local_path": "web/NE-07756.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07757"
+    ],
+    "image_local_path": "web/NE-07757.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07758"
+    ],
+    "image_local_path": "web/NE-07758.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07759"
+    ],
+    "image_local_path": "web/NE-07759.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07760"
+    ],
+    "image_local_path": "web/NE-07760.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07761",
+      "NE-07763"
+    ],
+    "image_local_path": "web/NE-07761.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07762"
+    ],
+    "image_local_path": "web/NE-07762.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07764"
+    ],
+    "image_local_path": "web/NE-07764.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07765"
+    ],
+    "image_local_path": "web/NE-07765.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07766"
+    ],
+    "image_local_path": "web/NE-07766.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07767"
+    ],
+    "image_local_path": "web/NE-07767.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07768"
+    ],
+    "image_local_path": "web/NE-07768.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07769"
+    ],
+    "image_local_path": "web/NE-07769.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271423_8_oz3wa6.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07770",
+      "NE-07772"
+    ],
+    "image_local_path": "web/NE-07770.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271423_8_oz3wa6.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07771"
+    ],
+    "image_local_path": "web/NE-07771.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271421_1_pczuaw.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07773"
+    ],
+    "image_local_path": "web/NE-07773.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07774"
+    ],
+    "image_local_path": "web/NE-07774.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_2_ry2u34.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07775"
+    ],
+    "image_local_path": "web/NE-07775.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271423_8_oz3wa6.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07776"
+    ],
+    "image_local_path": "web/NE-07776.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07777",
+      "NE-07778",
+      "NE-07786"
+    ],
+    "image_local_path": "web/NE-07777.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41ia6QuWb+L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07779",
+      "NE-07787"
+    ],
+    "image_local_path": "web/NE-07779.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51pPJddvHmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07780"
+    ],
+    "image_local_path": "web/NE-07780.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07781",
+      "NE-07782",
+      "NE-08441"
+    ],
+    "image_local_path": "web/NE-07781.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07783"
+    ],
+    "image_local_path": "web/NE-07783.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61wIS8k3grL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07784",
+      "NE-08442"
+    ],
+    "image_local_path": "web/NE-07784.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61wIS8k3grL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07785"
+    ],
+    "image_local_path": "web/NE-07785.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07788"
+    ],
+    "image_local_path": "web/NE-07788.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GeM6BlusL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07789"
+    ],
+    "image_local_path": "web/NE-07789.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51pPJddvHmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07790"
+    ],
+    "image_local_path": "web/NE-07790.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61wIS8k3grL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07791"
+    ],
+    "image_local_path": "web/NE-07791.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61wIS8k3grL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07792"
+    ],
+    "image_local_path": "web/NE-07792.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271347_2_qjzvir.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07793",
+      "NE-07798",
+      "NE-08444"
+    ],
+    "image_local_path": "web/NE-07793.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51OKLmvCwNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07794"
+    ],
+    "image_local_path": "web/NE-07794.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61MmNbdKwtL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07795"
+    ],
+    "image_local_path": "web/NE-07795.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-fan/g/g/e/racer-1200mm-cf-80-2-1200-ceiling-fan-usha-original-imahgmgjsejzefuz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07796",
+      "NE-07801",
+      "NE-08447"
+    ],
+    "image_local_path": "web/NE-07796.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/311970_aoimfz.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07797",
+      "NE-08443"
+    ],
+    "image_local_path": "web/NE-07797.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271347_2_qjzvir.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07799",
+      "NE-08445"
+    ],
+    "image_local_path": "web/NE-07799.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61GeM6BlusL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07800",
+      "NE-08446"
+    ],
+    "image_local_path": "web/NE-07800.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61BXalmZVJL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07802"
+    ],
+    "image_local_path": "web/NE-07802.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07803"
+    ],
+    "image_local_path": "web/NE-07803.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07804"
+    ],
+    "image_local_path": "web/NE-07804.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271423_0_daw4vl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07805",
+      "NE-07807"
+    ],
+    "image_local_path": "web/NE-07805.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/m/b/8/rho-35-1-ceiling-fan-1200-usha-original-imagqgctyvxpcyhu.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07806"
+    ],
+    "image_local_path": "web/NE-07806.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271422_8_bzudxl.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07808"
+    ],
+    "image_local_path": "web/NE-07808.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/2/j/rho-beta-35-1-ceiling-fan-1200-usha-original-imah5yf6xkyw8xzv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07809"
+    ],
+    "image_local_path": "web/NE-07809.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/x/y/u/rho-beta-35-1-ceiling-fan-1200-usha-original-imah5yf6tpzztbrg.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07810"
+    ],
+    "image_local_path": "web/NE-07810.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/w/8/t/rho-plus-35-1-ceiling-fan-1200-usha-original-imagtr9fn8vhbzmd.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07811",
+      "NE-07812",
+      "NE-07813",
+      "NE-07814"
+    ],
+    "image_local_path": "web/NE-07811.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/615RfedTYmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07815",
+      "NE-08448"
+    ],
+    "image_local_path": "web/NE-07815.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/615RfedTYmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07816",
+      "NE-08449"
+    ],
+    "image_local_path": "web/NE-07816.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61rT3jQuL2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07817",
+      "NE-07818",
+      "NE-08450",
+      "NE-08451"
+    ],
+    "image_local_path": "web/NE-07817.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61bbVydbr7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07819"
+    ],
+    "image_local_path": "web/NE-07819.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41SSaMtJYSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07820"
+    ],
+    "image_local_path": "web/NE-07820.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/512CB44h2hL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07821"
+    ],
+    "image_local_path": "web/NE-07821.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61yvWWLNtrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07822"
+    ],
+    "image_local_path": "web/NE-07822.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07823"
+    ],
+    "image_local_path": "web/NE-07823.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51jLHm6i60L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07824"
+    ],
+    "image_local_path": "web/NE-07824.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61+Oq-IOQzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07825"
+    ],
+    "image_local_path": "web/NE-07825.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07826"
+    ],
+    "image_local_path": "web/NE-07826.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/y/n/y/-original-imagnhc8dnxhhzyt.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07827"
+    ],
+    "image_local_path": "web/NE-07827.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/617XqLgn0ML.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07828"
+    ],
+    "image_local_path": "web/NE-07828.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61+Oq-IOQzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07829"
+    ],
+    "image_local_path": "web/NE-07829.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07830"
+    ],
+    "image_local_path": "web/NE-07830.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07832"
+    ],
+    "image_local_path": "web/NE-07832.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07833",
+      "NE-08452"
+    ],
+    "image_local_path": "web/NE-07833.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07834"
+    ],
+    "image_local_path": "web/NE-07834.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Sz0fNIQQL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07835"
+    ],
+    "image_local_path": "web/NE-07835.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41Y+vDxWGWL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07836"
+    ],
+    "image_local_path": "web/NE-07836.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07837"
+    ],
+    "image_local_path": "web/NE-07837.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07838"
+    ],
+    "image_local_path": "web/NE-07838.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61XfrG1NXkL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07839"
+    ],
+    "image_local_path": "web/NE-07839.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/o/v/7/striker-neo-60-1-ceiling-fan-1200-usha-original-imah4h2kyqhey4sv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07840"
+    ],
+    "image_local_path": "web/NE-07840.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51QK9PihcSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07842"
+    ],
+    "image_local_path": "web/NE-07842.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41SSaMtJYSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07843"
+    ],
+    "image_local_path": "web/NE-07843.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/j/r/e/striker-neo-60-1-ceiling-fan-1200-usha-original-imah28qfrnsb7fky.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07844"
+    ],
+    "image_local_path": "web/NE-07844.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/1/c/striker-one-56-1-ceiling-fan-1200-usha-original-imagr2dakjrdcquf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07846"
+    ],
+    "image_local_path": "web/NE-07846.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/1/c/striker-one-56-1-ceiling-fan-1200-usha-original-imagr2dakjrdcquf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07847"
+    ],
+    "image_local_path": "web/NE-07847.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61QAXvBcIvL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07849"
+    ],
+    "image_local_path": "web/NE-07849.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07850"
+    ],
+    "image_local_path": "web/NE-07850.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07851"
+    ],
+    "image_local_path": "web/NE-07851.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07852"
+    ],
+    "image_local_path": "web/NE-07852.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07853"
+    ],
+    "image_local_path": "web/NE-07853.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07854"
+    ],
+    "image_local_path": "web/NE-07854.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07855"
+    ],
+    "image_local_path": "web/NE-07855.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07856"
+    ],
+    "image_local_path": "web/NE-07856.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07857"
+    ],
+    "image_local_path": "web/NE-07857.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07858"
+    ],
+    "image_local_path": "web/NE-07858.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07859",
+      "NE-08454"
+    ],
+    "image_local_path": "web/NE-07859.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07860",
+      "NE-08455"
+    ],
+    "image_local_path": "web/NE-07860.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61XdPEhDGFL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07861",
+      "NE-08456"
+    ],
+    "image_local_path": "web/NE-07861.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07862",
+      "NE-08457"
+    ],
+    "image_local_path": "web/NE-07862.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07863",
+      "NE-07892",
+      "NE-07894"
+    ],
+    "image_local_path": "web/NE-07863.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07864",
+      "NE-08459"
+    ],
+    "image_local_path": "web/NE-07864.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07865",
+      "NE-08460"
+    ],
+    "image_local_path": "web/NE-07865.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07866"
+    ],
+    "image_local_path": "web/NE-07866.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07867"
+    ],
+    "image_local_path": "web/NE-07867.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07868"
+    ],
+    "image_local_path": "web/NE-07868.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07869"
+    ],
+    "image_local_path": "web/NE-07869.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07870"
+    ],
+    "image_local_path": "web/NE-07870.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07871"
+    ],
+    "image_local_path": "web/NE-07871.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51zn4CBkmeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07872"
+    ],
+    "image_local_path": "web/NE-07872.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07873"
+    ],
+    "image_local_path": "web/NE-07873.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61HOGeXUVNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07874",
+      "NE-08467"
+    ],
+    "image_local_path": "web/NE-07874.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61XfrG1NXkL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07875",
+      "NE-08468"
+    ],
+    "image_local_path": "web/NE-07875.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/j/r/e/striker-neo-60-1-ceiling-fan-1200-usha-original-imah28qfrnsb7fky.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07876",
+      "NE-08469"
+    ],
+    "image_local_path": "web/NE-07876.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07877"
+    ],
+    "image_local_path": "web/NE-07877.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07878"
+    ],
+    "image_local_path": "web/NE-07878.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07879"
+    ],
+    "image_local_path": "web/NE-07879.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07880"
+    ],
+    "image_local_path": "web/NE-07880.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07881"
+    ],
+    "image_local_path": "web/NE-07881.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07882"
+    ],
+    "image_local_path": "web/NE-07882.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07883",
+      "NE-08472"
+    ],
+    "image_local_path": "web/NE-07883.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/8122lpbkSEL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07884"
+    ],
+    "image_local_path": "web/NE-07884.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/512CB44h2hL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07885",
+      "NE-08473"
+    ],
+    "image_local_path": "web/NE-07885.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07886",
+      "NE-07888"
+    ],
+    "image_local_path": "web/NE-07886.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07887",
+      "NE-07889"
+    ],
+    "image_local_path": "web/NE-07887.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07890",
+      "NE-07891"
+    ],
+    "image_local_path": "web/NE-07890.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61use8J-AIL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07895",
+      "NE-07896"
+    ],
+    "image_local_path": "web/NE-07895.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61xt+CVNzhL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07897",
+      "NE-07898"
+    ],
+    "image_local_path": "web/NE-07897.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07899",
+      "NE-07900"
+    ],
+    "image_local_path": "web/NE-07899.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61NaJjyfJLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07901",
+      "NE-07902"
+    ],
+    "image_local_path": "web/NE-07901.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61haKsHtfiL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07903",
+      "NE-07904"
+    ],
+    "image_local_path": "web/NE-07903.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41SzOjyTcRL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07905",
+      "NE-07909"
+    ],
+    "image_local_path": "web/NE-07905.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07906",
+      "NE-07912"
+    ],
+    "image_local_path": "web/NE-07906.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51QK9PihcSL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07907",
+      "NE-07913",
+      "NE-08482"
+    ],
+    "image_local_path": "web/NE-07907.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71nSOhoCnCL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07908"
+    ],
+    "image_local_path": "web/NE-07908.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/513-lRfkd7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07910",
+      "NE-07915"
+    ],
+    "image_local_path": "web/NE-07910.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07911",
+      "NE-07916"
+    ],
+    "image_local_path": "web/NE-07911.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07914"
+    ],
+    "image_local_path": "web/NE-07914.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07917",
+      "NE-07921"
+    ],
+    "image_local_path": "web/NE-07917.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07918",
+      "NE-07922",
+      "NE-08486"
+    ],
+    "image_local_path": "web/NE-07918.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/300510_0_tdcgxt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07919",
+      "NE-07923"
+    ],
+    "image_local_path": "web/NE-07919.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/300510_0_tdcgxt.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07920",
+      "NE-07924"
+    ],
+    "image_local_path": "web/NE-07920.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61rT3jQuL2L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07925"
+    ],
+    "image_local_path": "web/NE-07925.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/516V7hQThnL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07926"
+    ],
+    "image_local_path": "web/NE-07926.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/z/7/-original-imagzcnn8rzg7rur.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07927",
+      "NE-07928",
+      "NE-07929",
+      "NE-07930"
+    ],
+    "image_local_path": "web/NE-07927.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51TQ-62z3yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07931",
+      "NE-07932",
+      "NE-07934"
+    ],
+    "image_local_path": "web/NE-07931.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07933"
+    ],
+    "image_local_path": "web/NE-07933.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07935"
+    ],
+    "image_local_path": "web/NE-07935.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/615RfedTYmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07936"
+    ],
+    "image_local_path": "web/NE-07936.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07937"
+    ],
+    "image_local_path": "web/NE-07937.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07938"
+    ],
+    "image_local_path": "web/NE-07938.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51oyW3wMpBL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07939"
+    ],
+    "image_local_path": "web/NE-07939.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07940"
+    ],
+    "image_local_path": "web/NE-07940.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07941"
+    ],
+    "image_local_path": "web/NE-07941.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07942"
+    ],
+    "image_local_path": "web/NE-07942.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07943"
+    ],
+    "image_local_path": "web/NE-07943.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07944",
+      "NE-07946"
+    ],
+    "image_local_path": "web/NE-07944.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_0_kd5w5j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07945",
+      "NE-07947"
+    ],
+    "image_local_path": "web/NE-07945.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271425_1_j8sck6.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07948"
+    ],
+    "image_local_path": "web/NE-07948.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271424_12_cutsiq.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07949"
+    ],
+    "image_local_path": "web/NE-07949.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271424_12_cutsiq.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07950",
+      "NE-07959"
+    ],
+    "image_local_path": "web/NE-07950.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_0_kd5w5j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07951",
+      "NE-07960"
+    ],
+    "image_local_path": "web/NE-07951.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271426_0_kd5w5j.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07952",
+      "NE-07961"
+    ],
+    "image_local_path": "web/NE-07952.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271425_1_j8sck6.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07953",
+      "NE-07954"
+    ],
+    "image_local_path": "web/NE-07953.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271425_5_a0ixwq.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07955",
+      "NE-07957"
+    ],
+    "image_local_path": "web/NE-07955.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271425_5_a0ixwq.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07956"
+    ],
+    "image_local_path": "web/NE-07956.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271424_0_lzwwr7.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07958"
+    ],
+    "image_local_path": "web/NE-07958.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271425_5_a0ixwq.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07962",
+      "NE-07964"
+    ],
+    "image_local_path": "web/NE-07962.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81zDOyxh9gL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07963"
+    ],
+    "image_local_path": "web/NE-07963.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07965"
+    ],
+    "image_local_path": "web/NE-07965.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91GAouKN2gL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07966",
+      "NE-07967",
+      "NE-07968"
+    ],
+    "image_local_path": "web/NE-07966.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07970",
+      "NE-07971",
+      "NE-07972"
+    ],
+    "image_local_path": "web/NE-07970.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71+RAeB68aL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07973"
+    ],
+    "image_local_path": "web/NE-07973.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81AsZp3uIoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07974"
+    ],
+    "image_local_path": "web/NE-07974.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71N86h8D2nL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07975",
+      "NE-07976"
+    ],
+    "image_local_path": "web/NE-07975.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71MtrlRV+FL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07977"
+    ],
+    "image_local_path": "web/NE-07977.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kyhlfgw0/fan/f/p/e/-original-imagapp95gzpurtz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07978",
+      "NE-07979",
+      "NE-07980",
+      "NE-07981",
+      "NE-07982",
+      "NE-07983"
+    ],
+    "image_local_path": "web/NE-07978.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91ndMHa56pL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07984",
+      "NE-07985",
+      "NE-07986",
+      "NE-08259",
+      "NE-08280",
+      "NE-08281",
+      "NE-08282",
+      "NE-08283"
+    ],
+    "image_local_path": "web/NE-07984.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/0/l/pf-striker-plus-hi-speed-400mm-black-135-1-induction-pedestal-original-imahc8mvc5an7exv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07987",
+      "NE-07989"
+    ],
+    "image_local_path": "web/NE-07987.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71GDaPZE0yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07988"
+    ],
+    "image_local_path": "web/NE-07988.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07990"
+    ],
+    "image_local_path": "web/NE-07990.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81nWVE3l3QL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07991",
+      "NE-07992",
+      "NE-07993"
+    ],
+    "image_local_path": "web/NE-07991.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/l09w8sw0/fan/t/8/m/400mm-mist-air-flo-hi-speed-table-fan-55-1-table-fan-400-usha-original-imagc3s9kwdahsbj.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07994"
+    ],
+    "image_local_path": "web/NE-07994.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/249480_2_jdyfgz.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07995"
+    ],
+    "image_local_path": "web/NE-07995.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07997",
+      "NE-07998"
+    ],
+    "image_local_path": "web/NE-07997.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/228025_1_uf47c7.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-07999",
+      "NE-08000",
+      "NE-08001"
+    ],
+    "image_local_path": "web/NE-07999.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/222737_0_tzl894.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08002",
+      "NE-08003"
+    ],
+    "image_local_path": "web/NE-08002.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81-D0pAv72L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08004"
+    ],
+    "image_local_path": "web/NE-08004.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71fNe2EqpoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08005"
+    ],
+    "image_local_path": "web/NE-08005.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91ndMHa56pL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08006",
+      "NE-08007"
+    ],
+    "image_local_path": "web/NE-08006.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51kuAEvFgcL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08008"
+    ],
+    "image_local_path": "web/NE-08008.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/kyhlfgw0/fan/t/a/z/-original-imagapp9ehqnga5k.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08009"
+    ],
+    "image_local_path": "web/NE-08009.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81AsZp3uIoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08010"
+    ],
+    "image_local_path": "web/NE-08010.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81AsZp3uIoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08011",
+      "NE-08012"
+    ],
+    "image_local_path": "web/NE-08011.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71MtrlRV+FL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08019"
+    ],
+    "image_local_path": "web/NE-08019.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/p/u/3/500mm-farratta-pf-basic-160-1-induction-pedestal-fan-500-usha-original-imahf57pqzbbacas.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08020"
+    ],
+    "image_local_path": "web/NE-08020.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41m-88CCs9L._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08021",
+      "NE-08306"
+    ],
+    "image_local_path": "web/NE-08021.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/p/u/3/500mm-farratta-pf-basic-160-1-induction-pedestal-fan-500-usha-original-imahf57pqzbbacas.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08022",
+      "NE-08023",
+      "NE-08024",
+      "NE-08025",
+      "NE-08026",
+      "NE-08027"
+    ],
+    "image_local_path": "web/NE-08022.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/d/i/h/-original-imagp9tvjbz6sttg.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08028",
+      "NE-08029",
+      "NE-08030",
+      "NE-08031",
+      "NE-08313",
+      "NE-08314",
+      "NE-08315",
+      "NE-08316"
+    ],
+    "image_local_path": "web/NE-08028.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/0/l/pf-striker-plus-hi-speed-400mm-black-135-1-induction-pedestal-original-imahc8mvc5an7exv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08033",
+      "NE-08035"
+    ],
+    "image_local_path": "web/NE-08033.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91+QqZV6A+L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08034"
+    ],
+    "image_local_path": "web/NE-08034.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81Qb6AmaK1L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08036"
+    ],
+    "image_local_path": "web/NE-08036.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81nWVE3l3QL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08037",
+      "NE-08038"
+    ],
+    "image_local_path": "web/NE-08037.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08039"
+    ],
+    "image_local_path": "web/NE-08039.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08040"
+    ],
+    "image_local_path": "web/NE-08040.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08042",
+      "NE-08043"
+    ],
+    "image_local_path": "web/NE-08042.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/222737_2_mw8twv.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08044",
+      "NE-08045"
+    ],
+    "image_local_path": "web/NE-08044.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/228025_1_uf47c7.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08046",
+      "NE-08047"
+    ],
+    "image_local_path": "web/NE-08046.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81-D0pAv72L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08048"
+    ],
+    "image_local_path": "web/NE-08048.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81Dt8MN2+vL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08049",
+      "NE-08050"
+    ],
+    "image_local_path": "web/NE-08049.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/272522_0_zzrqbb.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08051"
+    ],
+    "image_local_path": "web/NE-08051.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41XO-hetpcL._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08052"
+    ],
+    "image_local_path": "web/NE-08052.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/249480_2_jdyfgz.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08053"
+    ],
+    "image_local_path": "web/NE-08053.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71+RAeB68aL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08054",
+      "NE-08055"
+    ],
+    "image_local_path": "web/NE-08054.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/a/r/k/mist-air-flo-maroon-55-1-pedestal-fan-400-usha-original-imah28h93tuuhqyd.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08059",
+      "NE-08060",
+      "NE-08061",
+      "NE-08062",
+      "NE-08063",
+      "NE-08064"
+    ],
+    "image_local_path": "web/NE-08059.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08065",
+      "NE-08066",
+      "NE-08067",
+      "NE-08260",
+      "NE-08342",
+      "NE-08343",
+      "NE-08344",
+      "NE-08345"
+    ],
+    "image_local_path": "web/NE-08065.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/0/l/pf-striker-plus-hi-speed-400mm-black-135-1-induction-pedestal-original-imahc8mvc5an7exv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08094",
+      "NE-08095"
+    ],
+    "image_local_path": "web/NE-08094.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/e/0/j/crisp-air-vx-45-1-exhaust-fan-250-usha-original-imagrfavgtgncmy6.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08097",
+      "NE-08098"
+    ],
+    "image_local_path": "web/NE-08097.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/y/8/crisp-air-vx-45-1-exhaust-fan-250-usha-original-imagrfavmsf83bc5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08099",
+      "NE-08100"
+    ],
+    "image_local_path": "web/NE-08099.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61cOPgSofpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08107",
+      "NE-08368"
+    ],
+    "image_local_path": "web/NE-08107.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61cOPgSofpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08108",
+      "NE-08369"
+    ],
+    "image_local_path": "web/NE-08108.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61Hp5T8aVfL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08110"
+    ],
+    "image_local_path": "web/NE-08110.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08111"
+    ],
+    "image_local_path": "web/NE-08111.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08112"
+    ],
+    "image_local_path": "web/NE-08112.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08113",
+      "NE-08114"
+    ],
+    "image_local_path": "web/NE-08113.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08115"
+    ],
+    "image_local_path": "web/NE-08115.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08119",
+      "NE-08121"
+    ],
+    "image_local_path": "web/NE-08119.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08120",
+      "NE-08122"
+    ],
+    "image_local_path": "web/NE-08120.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08123",
+      "NE-08124"
+    ],
+    "image_local_path": "web/NE-08123.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/o/n/h/ace-ex-76-1-ceiling-fan-900-usha-original-imagpppnfhpnak2g.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08125",
+      "NE-08126"
+    ],
+    "image_local_path": "web/NE-08125.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/b/v/ace-ex-600-mm-70-1-ceiling-fan-600-usha-original-imagnghmagj7rkm5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08127",
+      "NE-08128"
+    ],
+    "image_local_path": "web/NE-08127.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/fan/x/f/v/usha-ace-ex-1400mm-original-imae5z6pgzvgdckn.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08129",
+      "NE-08130"
+    ],
+    "image_local_path": "web/NE-08129.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08131",
+      "NE-08132"
+    ],
+    "image_local_path": "web/NE-08131.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61n2h2ioeJL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08133",
+      "NE-08134"
+    ],
+    "image_local_path": "web/NE-08133.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/b/v/ace-ex-600-mm-70-1-ceiling-fan-600-usha-original-imagnghmagj7rkm5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08135",
+      "NE-08136"
+    ],
+    "image_local_path": "web/NE-08135.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-fan/x/b/e/racer-78-1-1200-ceiling-fan-usha-original-imahgmgk5krzykue.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08137"
+    ],
+    "image_local_path": "web/NE-08137.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-fan/g/g/e/racer-1200mm-cf-80-2-1200-ceiling-fan-usha-original-imahgmgjsejzefuz.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08138"
+    ],
+    "image_local_path": "web/NE-08138.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71yAS6x6gpL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08139",
+      "NE-08141"
+    ],
+    "image_local_path": "web/NE-08139.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08140"
+    ],
+    "image_local_path": "web/NE-08140.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41TJCPmbI4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08142",
+      "NE-08144"
+    ],
+    "image_local_path": "web/NE-08142.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08143",
+      "NE-08146",
+      "NE-08491"
+    ],
+    "image_local_path": "web/NE-08143.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/615RfedTYmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08145",
+      "NE-08147"
+    ],
+    "image_local_path": "web/NE-08145.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08148",
+      "NE-08150"
+    ],
+    "image_local_path": "web/NE-08148.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61F3fSl2TlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08149"
+    ],
+    "image_local_path": "web/NE-08149.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/5/g/i/cf-1200mm-racer-rich-ivory-w-o-reg-pack-of-2-78-2-induction-original-imahe4v369dzwzgf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08151",
+      "NE-08153"
+    ],
+    "image_local_path": "web/NE-08151.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61F3fSl2TlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08152"
+    ],
+    "image_local_path": "web/NE-08152.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/5/g/i/cf-1200mm-racer-rich-ivory-w-o-reg-pack-of-2-78-2-induction-original-imahe4v369dzwzgf.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08154",
+      "NE-08155"
+    ],
+    "image_local_path": "web/NE-08154.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/514vxQa9A5L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08156",
+      "NE-08157"
+    ],
+    "image_local_path": "web/NE-08156.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51SDiYdxIzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08158",
+      "NE-08159"
+    ],
+    "image_local_path": "web/NE-08158.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/e/y/-original-imagnhc8whghwhac.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08160",
+      "NE-08164"
+    ],
+    "image_local_path": "web/NE-08160.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08161",
+      "NE-08165"
+    ],
+    "image_local_path": "web/NE-08161.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08162"
+    ],
+    "image_local_path": "web/NE-08162.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08163"
+    ],
+    "image_local_path": "web/NE-08163.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08166",
+      "NE-08168"
+    ],
+    "image_local_path": "web/NE-08166.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51rnKMDjgWL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08167",
+      "NE-08173",
+      "NE-08498"
+    ],
+    "image_local_path": "web/NE-08167.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/u/8/l/cf-1200mm-racer-rich-white-w-o-reg-pack-of-4-78-4-induction-original-imahbz2cyx9kw7q5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08169",
+      "NE-08171"
+    ],
+    "image_local_path": "web/NE-08169.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08170"
+    ],
+    "image_local_path": "web/NE-08170.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61moAsOdxLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08172",
+      "NE-08174"
+    ],
+    "image_local_path": "web/NE-08172.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51rnKMDjgWL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08175",
+      "NE-08176",
+      "NE-08178",
+      "NE-08179"
+    ],
+    "image_local_path": "web/NE-08175.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271347_9_mpszxp.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08177",
+      "NE-08182",
+      "NE-08502"
+    ],
+    "image_local_path": "web/NE-08177.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51OKLmvCwNL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08180",
+      "NE-08181",
+      "NE-08183",
+      "NE-08184"
+    ],
+    "image_local_path": "web/NE-08180.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271347_9_mpszxp.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08185",
+      "NE-08187"
+    ],
+    "image_local_path": "web/NE-08185.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/j/k/racer-pro-brown-400-rpm-high-speed-with-2-year-warranty-78-1-original-imagn7jgyeu8ggs7.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08186"
+    ],
+    "image_local_path": "web/NE-08186.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61b-VL-pvZL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08188",
+      "NE-08190"
+    ],
+    "image_local_path": "web/NE-08188.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ub2F39C4L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08189"
+    ],
+    "image_local_path": "web/NE-08189.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61b-VL-pvZL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08191",
+      "NE-08195"
+    ],
+    "image_local_path": "web/NE-08191.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08192",
+      "NE-08196"
+    ],
+    "image_local_path": "web/NE-08192.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZPIEXcDmL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08193"
+    ],
+    "image_local_path": "web/NE-08193.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61moAsOdxLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08194"
+    ],
+    "image_local_path": "web/NE-08194.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61moAsOdxLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08197",
+      "NE-08199"
+    ],
+    "image_local_path": "web/NE-08197.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61F3fSl2TlL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08198"
+    ],
+    "image_local_path": "web/NE-08198.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/4/z/f/swift-1200mm-ivory-cf-74-1-ceiling-fan-1200-usha-original-imah7xvgy9j7wztu.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08200",
+      "NE-08201"
+    ],
+    "image_local_path": "web/NE-08200.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/b/j/r/swift-1200mm-ivory-cf-74-1-ceiling-fan-1200-usha-original-imah7xvghzwpeguc.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08202",
+      "NE-08204"
+    ],
+    "image_local_path": "web/NE-08202.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61u8EMis0ZL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08203"
+    ],
+    "image_local_path": "web/NE-08203.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61moAsOdxLL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08205",
+      "NE-08207"
+    ],
+    "image_local_path": "web/NE-08205.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/d/r/swift-60-1-induction-ceiling-fan-900-usha-original-imahe4zdvswnjxkh.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08206"
+    ],
+    "image_local_path": "web/NE-08206.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/d/r/swift-60-1-induction-ceiling-fan-900-usha-original-imahe4zdvswnjxkh.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08208",
+      "NE-08209"
+    ],
+    "image_local_path": "web/NE-08208.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/f/p/i/swift-pack-of-1-1400mm-basic-60-1-induction-ceiling-fan-1400-original-imahnkamhtfzf39u.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08210",
+      "NE-08212"
+    ],
+    "image_local_path": "web/NE-08210.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61bbVydbr7L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08211"
+    ],
+    "image_local_path": "web/NE-08211.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51VyPbOA2RL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08213",
+      "NE-08215"
+    ],
+    "image_local_path": "web/NE-08213.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91dBOTv9U+L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08214"
+    ],
+    "image_local_path": "web/NE-08214.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/g/3/n/swift-1200mm-ivory-cf-74-1-ceiling-fan-1200-usha-original-imah7xvgum9ec6ah.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08216"
+    ],
+    "image_local_path": "web/NE-08216.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71KoAysH09L.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08217"
+    ],
+    "image_local_path": "web/NE-08217.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71JdGLS1YHL._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08221"
+    ],
+    "image_local_path": "web/NE-08221.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71684OaWkrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08222"
+    ],
+    "image_local_path": "web/NE-08222.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61TLtoW7ThL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08225"
+    ],
+    "image_local_path": "web/NE-08225.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71209nTotEL._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08231"
+    ],
+    "image_local_path": "web/NE-08231.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71684OaWkrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08233"
+    ],
+    "image_local_path": "web/NE-08233.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41P8u92mwzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08234"
+    ],
+    "image_local_path": "web/NE-08234.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71684OaWkrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08238"
+    ],
+    "image_local_path": "web/NE-08238.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41P8u92mwzL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08239"
+    ],
+    "image_local_path": "web/NE-08239.jpg",
+    "image_source_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/217700_0_gzhgde.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08240"
+    ],
+    "image_local_path": "web/NE-08240.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/7102Z3dx8cL._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08247"
+    ],
+    "image_local_path": "web/NE-08247.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61TLtoW7ThL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08248"
+    ],
+    "image_local_path": "web/NE-08248.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271420_8_j6xk3b.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08249"
+    ],
+    "image_local_path": "web/NE-08249.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/9/o/-original-imah4b77r3jsru5y.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08250"
+    ],
+    "image_local_path": "web/NE-08250.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71+66bIV4lL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08251"
+    ],
+    "image_local_path": "web/NE-08251.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08252"
+    ],
+    "image_local_path": "web/NE-08252.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08253"
+    ],
+    "image_local_path": "web/NE-08253.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08254"
+    ],
+    "image_local_path": "web/NE-08254.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08255"
+    ],
+    "image_local_path": "web/NE-08255.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08256",
+      "NE-08257"
+    ],
+    "image_local_path": "web/NE-08256.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/9/o/-original-imah4b77r3jsru5y.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08261",
+      "NE-08371"
+    ],
+    "image_local_path": "web/NE-08261.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71Ix7dqlplL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08262",
+      "NE-08372"
+    ],
+    "image_local_path": "web/NE-08262.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71Ix7dqlplL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08263"
+    ],
+    "image_local_path": "web/NE-08263.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51zn4CBkmeL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08264"
+    ],
+    "image_local_path": "web/NE-08264.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51+9uej+QRL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08265",
+      "NE-08267"
+    ],
+    "image_local_path": "web/NE-08265.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71GDaPZE0yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08266"
+    ],
+    "image_local_path": "web/NE-08266.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08268"
+    ],
+    "image_local_path": "web/NE-08268.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91GAouKN2gL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08269"
+    ],
+    "image_local_path": "web/NE-08269.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/s/k/y/striker-135-1-induction-pedestal-fan-400-usha-original-imahd67xyjdgzmzp.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08270"
+    ],
+    "image_local_path": "web/NE-08270.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/249480_2_jdyfgz.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08271"
+    ],
+    "image_local_path": "web/NE-08271.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71+RAeB68aL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08272",
+      "NE-08273"
+    ],
+    "image_local_path": "web/NE-08272.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71MtrlRV+FL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08274",
+      "NE-08275",
+      "NE-08276",
+      "NE-08277",
+      "NE-08278",
+      "NE-08279"
+    ],
+    "image_local_path": "web/NE-08274.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ogVZeb7EL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08284",
+      "NE-08286"
+    ],
+    "image_local_path": "web/NE-08284.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71GDaPZE0yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08285"
+    ],
+    "image_local_path": "web/NE-08285.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08287"
+    ],
+    "image_local_path": "web/NE-08287.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/91GAouKN2gL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08288"
+    ],
+    "image_local_path": "web/NE-08288.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/81TTLL4QBrL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08289"
+    ],
+    "image_local_path": "web/NE-08289.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/n/0/l/pf-striker-plus-hi-speed-400mm-black-135-1-induction-pedestal-original-imahc8mvc5an7exv.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08290",
+      "NE-08291"
+    ],
+    "image_local_path": "web/NE-08290.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/61ZrUVvKOVL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08292"
+    ],
+    "image_local_path": "web/NE-08292.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71fNe2EqpoL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08293",
+      "NE-08294"
+    ],
+    "image_local_path": "web/NE-08293.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/51kuAEvFgcL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08295"
+    ],
+    "image_local_path": "web/NE-08295.jpg",
+    "image_source_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/249480_2_jdyfgz.png",
+    "image_source_domain": "www.croma.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08296"
+    ],
+    "image_local_path": "web/NE-08296.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08297",
+      "NE-08298"
+    ],
+    "image_local_path": "web/NE-08297.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71MtrlRV+FL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08299"
+    ],
+    "image_local_path": "web/NE-08299.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41cZ7wJoS8L._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08300"
+    ],
+    "image_local_path": "web/NE-08300.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/p/u/3/500mm-farratta-pf-basic-160-1-induction-pedestal-fan-500-usha-original-imahf57pqzbbacas.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08301"
+    ],
+    "image_local_path": "web/NE-08301.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/h/t/-original-imahnmfkq3pyvbb5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08302"
+    ],
+    "image_local_path": "web/NE-08302.jpg",
+    "image_source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/i/h/t/-original-imahnmfkq3pyvbb5.jpeg?q=70",
+    "image_source_domain": "www.flipkart.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08303"
+    ],
+    "image_local_path": "web/NE-08303.jpg",
+    "image_source_url": "https://www.ushafans.com/sites/default/files/Usha-Dominaire-black-5_0.png",
+    "image_source_domain": "www.ushafans.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08304"
+    ],
+    "image_local_path": "web/NE-08304.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41cZ7wJoS8L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08305"
+    ],
+    "image_local_path": "web/NE-08305.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/41m-88CCs9L._AC_UF894,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08307",
+      "NE-08308",
+      "NE-08309",
+      "NE-08310",
+      "NE-08311",
+      "NE-08312"
+    ],
+    "image_local_path": "web/NE-08307.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71ogVZeb7EL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08317"
+    ],
+    "image_local_path": "web/NE-08317.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/S/aplus-media/vc/bcda6c73-9262-4f8f-ba3e-69fd1697584e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08318",
+      "NE-08320"
+    ],
+    "image_local_path": "web/NE-08318.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71GDaPZE0yL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-08319"
+    ],
+    "image_local_path": "web/NE-08319.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71lhfmtQrXL.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  }
+]

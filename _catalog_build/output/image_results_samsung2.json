@@ -1,0 +1,893 @@
+[
+  {
+    "member_ids": [
+      "NE-10950"
+    ],
+    "image_local_path": "web/NE-10950.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166827484/in-feature-galaxy-tab-s11-ultra-sm-x930-563231-550531282?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10951"
+    ],
+    "image_local_path": "web/NE-10951.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166827484/in-feature-galaxy-tab-s11-ultra-sm-x930-563231-550531282?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10952"
+    ],
+    "image_local_path": "web/NE-10952.jpg",
+    "image_source_url": "https://shop.samsung.com/ie/images/products/30334/36847/2000x2000/SM-X930NZAPEUB.webp",
+    "image_source_domain": "shop.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10953"
+    ],
+    "image_local_path": "web/NE-10953.jpg",
+    "image_source_url": "https://shop.samsung.com/ie/images/products/30334/36847/2000x2000/SM-X930NZAPEUB.webp",
+    "image_source_domain": "shop.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10954"
+    ],
+    "image_local_path": "web/NE-10954.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166527135/in-feature-galaxy-tab-s-548930233?$720_n_$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10955"
+    ],
+    "image_local_path": "web/NE-10955.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166527135/in-feature-galaxy-tab-s-548930233?$720_n_$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10956"
+    ],
+    "image_local_path": "web/NE-10956.jpg",
+    "image_source_url": "https://shop.samsung.com/ie/images/products/30334/36847/2000x2000/SM-X930NZAPEUB.webp",
+    "image_source_domain": "shop.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10957"
+    ],
+    "image_local_path": "web/NE-10957.jpg",
+    "image_source_url": "https://shop.samsung.com/ie/images/products/30334/36847/2000x2000/SM-X930NZAPEUB.webp",
+    "image_source_domain": "shop.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10958"
+    ],
+    "image_local_path": "web/NE-10958.jpg",
+    "image_source_url": "https://shop.samsung.com/ie/images/products/30334/36847/2000x2000/SM-X930NZAPEUB.webp",
+    "image_source_domain": "shop.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10959"
+    ],
+    "image_local_path": "web/NE-10959.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166293768/in-feature-galaxy-tab-s-547464779?$720_n_$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10960"
+    ],
+    "image_local_path": "web/NE-10960.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165657809/in-feature-galaxy-tab-s10-plus-sm-x820-547461348?$720_n_$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10961"
+    ],
+    "image_local_path": "web/NE-10961.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166006459/in-feature-galaxy-tab-s-545821136?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10962"
+    ],
+    "image_local_path": "web/NE-10962.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166006459/in-feature-galaxy-tab-s-545821136?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10963"
+    ],
+    "image_local_path": "web/NE-10963.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166006246/in-feature-galaxy-tab-s-545820458?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10964"
+    ],
+    "image_local_path": "web/NE-10964.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166006246/in-feature-galaxy-tab-s-545820458?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10965"
+    ],
+    "image_local_path": "web/NE-10965.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166622788/in-feature-galaxy-tab-s10-lite-sm-x406-549333852?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10966"
+    ],
+    "image_local_path": "web/NE-10966.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166622788/in-feature-galaxy-tab-s10-lite-sm-x406-549333852?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10967"
+    ],
+    "image_local_path": "web/NE-10967.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166561562/in-feature-galaxy-tab-s-549050345?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10968"
+    ],
+    "image_local_path": "web/NE-10968.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166561562/in-feature-galaxy-tab-s-549050345?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10970"
+    ],
+    "image_local_path": "web/NE-10970.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/feature/166731919/uk-feature-------550010474?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10971"
+    ],
+    "image_local_path": "web/NE-10971.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/feature/166731919/uk-feature-------550010474?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10972"
+    ],
+    "image_local_path": "web/NE-10972.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166754881/in-feature-galaxy-tab-a11-plus-sm-x230-570852-550258578?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10973"
+    ],
+    "image_local_path": "web/NE-10973.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166754881/in-feature-galaxy-tab-a11-plus-sm-x230-570852-550258578?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10974"
+    ],
+    "image_local_path": "web/NE-10974.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/ph/wp-content/uploads/2025/11/Galaxy-Tab-A11-KV.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10975"
+    ],
+    "image_local_path": "web/NE-10975.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/ph/wp-content/uploads/2025/11/Galaxy-Tab-A11-KV.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10976"
+    ],
+    "image_local_path": "web/NE-10976.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/ph/wp-content/uploads/2025/11/Galaxy-Tab-A11-KV.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10977"
+    ],
+    "image_local_path": "web/NE-10977.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/ph/wp-content/uploads/2025/11/Galaxy-Tab-A11-KV.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10978"
+    ],
+    "image_local_path": "web/NE-10978.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x306bzgaw01/gallery/in-galaxy-tab-active5-5g-sm-x306-568273-sm-x306bzgaw01-549574958?$2160_1728_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10979"
+    ],
+    "image_local_path": "web/NE-10979.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x306bzgaw01/gallery/in-galaxy-tab-active5-5g-sm-x306-568273-sm-x306bzgaw01-549574958?$2160_1728_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10980"
+    ],
+    "image_local_path": "web/NE-10980.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x306bzgains/gallery/in-galaxy-tab-active5-5g-sm-x306-568274-sm-x306bzgains-549580686?$2160_1728_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10981"
+    ],
+    "image_local_path": "web/NE-10981.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x306bzgains/gallery/in-galaxy-tab-active5-5g-sm-x306-568274-sm-x306bzgains-549580686?$2160_1728_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10982"
+    ],
+    "image_local_path": "web/NE-10982.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71Ocpa1KaiL._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10983"
+    ],
+    "image_local_path": "web/NE-10983.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71Ocpa1KaiL._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10984"
+    ],
+    "image_local_path": "web/NE-10984.jpg",
+    "image_source_url": "https://m.media-amazon.com/images/I/71Ocpa1KaiL._AC_UF1000,1000_QL80_.jpg",
+    "image_source_domain": "www.amazon.in",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10985"
+    ],
+    "image_local_path": "web/NE-10985.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold8/images/galaxy-z-fold8-features-colors-design-start-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10986"
+    ],
+    "image_local_path": "web/NE-10986.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold8/images/galaxy-z-fold8-features-colors-design-start-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10987"
+    ],
+    "image_local_path": "web/NE-10987.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold8/images/galaxy-z-fold8-features-colors-design-start-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10988"
+    ],
+    "image_local_path": "web/NE-10988.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip8/images/galaxy-z-flip8-features-now-brief-start-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10989"
+    ],
+    "image_local_path": "web/NE-10989.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip8/images/galaxy-z-flip8-features-now-brief-start-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10990"
+    ],
+    "image_local_path": "web/NE-10990.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold7/images/galaxy-z-fold7-features-privacy-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10991"
+    ],
+    "image_local_path": "web/NE-10991.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold7/images/galaxy-z-fold7-features-privacy-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10992"
+    ],
+    "image_local_path": "web/NE-10992.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold7/images/galaxy-z-fold7-features-privacy-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10993"
+    ],
+    "image_local_path": "web/NE-10993.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip7/images/galaxy-z-flip7-features-formfactor-off-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10994"
+    ],
+    "image_local_path": "web/NE-10994.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip7/images/galaxy-z-flip7-features-formfactor-off-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10995"
+    ],
+    "image_local_path": "web/NE-10995.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip7-fe/images/galaxy-z-flip7-fe-features-sustainability-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10996"
+    ],
+    "image_local_path": "web/NE-10996.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-z-flip7-fe/images/galaxy-z-flip7-fe-features-sustainability-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10997"
+    ],
+    "image_local_path": "web/NE-10997.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s26-ultra/images/galaxy-s26-ultra-features-colors-ambient-island-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10998"
+    ],
+    "image_local_path": "web/NE-10998.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s26-ultra/images/galaxy-s26-ultra-features-colors-ambient-island-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-10999"
+    ],
+    "image_local_path": "web/NE-10999.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s26-ultra/images/galaxy-s26-ultra-features-colors-ambient-island-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11000"
+    ],
+    "image_local_path": "web/NE-11000.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167548930/in-feature--nbsp--554411549?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11001"
+    ],
+    "image_local_path": "web/NE-11001.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167548930/in-feature--nbsp--554411549?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11002"
+    ],
+    "image_local_path": "web/NE-11002.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167548930/in-feature--nbsp--554411549?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11003"
+    ],
+    "image_local_path": "web/NE-11003.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11004"
+    ],
+    "image_local_path": "web/NE-11004.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11005"
+    ],
+    "image_local_path": "web/NE-11005.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11006"
+    ],
+    "image_local_path": "web/NE-11006.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11007"
+    ],
+    "image_local_path": "web/NE-11007.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11008"
+    ],
+    "image_local_path": "web/NE-11008.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11009"
+    ],
+    "image_local_path": "web/NE-11009.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-edge/images/galaxy-s25-edge-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11010"
+    ],
+    "image_local_path": "web/NE-11010.jpg",
+    "image_source_url": "https://images.samsung.com/in/smartphones/galaxy-s25-edge/images/galaxy-s25-edge-features-one-ui-visual-mo.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11011"
+    ],
+    "image_local_path": "web/NE-11011.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166520470/in-feature--nbsp--548903077?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11012"
+    ],
+    "image_local_path": "web/NE-11012.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166520470/in-feature--nbsp--548903077?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11013"
+    ],
+    "image_local_path": "web/NE-11013.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/04/Samsung-Mobile-Galaxy-A-series-Galaxy-A57-5G-Galaxy-A37-5G-Latest-Innovation_main10-1.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11014"
+    ],
+    "image_local_path": "web/NE-11014.jpg",
+    "image_source_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/04/Samsung-Mobile-Galaxy-A-series-Galaxy-A57-5G-Galaxy-A37-5G-Latest-Innovation_main10-1.jpg",
+    "image_source_domain": "news.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11015"
+    ],
+    "image_local_path": "web/NE-11015.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167242745/in-feature-galaxy-a37-5g-sm-a376-552881570?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11016"
+    ],
+    "image_local_path": "web/NE-11016.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167242745/in-feature-galaxy-a37-5g-sm-a376-552881570?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11017"
+    ],
+    "image_local_path": "web/NE-11017.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/167242745/in-feature-galaxy-a37-5g-sm-a376-552881570?$FB_TYPE_I_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11018"
+    ],
+    "image_local_path": "web/NE-11018.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/smartphones/galaxy-a/A27_FT02_KV_MO.png?$720_N_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11019"
+    ],
+    "image_local_path": "web/NE-11019.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/smartphones/galaxy-a/A27_FT02_KV_MO.png?$720_N_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11020"
+    ],
+    "image_local_path": "web/NE-11020.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/smartphones/galaxy-a/A27_FT02_KV_MO.png?$720_N_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11021"
+    ],
+    "image_local_path": "web/NE-11021.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g556bzkdw01/gallery/in-others-sm-g556bzkdw01-front-black-544964476?$2160_1728_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11022"
+    ],
+    "image_local_path": "web/NE-11022.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/mobile/v2/Mobile-A_Series_hub-FT03-Phones-1-A17-KV-MO.jpg?$720_N_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11023"
+    ],
+    "image_local_path": "web/NE-11023.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/mobile/v2/Mobile-A_Series_hub-FT03-Phones-1-A17-KV-MO.jpg?$720_N_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11024"
+    ],
+    "image_local_path": "web/NE-11024.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/us/business/mobile/v2/Mobile-A_Series_hub-FT03-Phones-1-A17-KV-MO.jpg?$720_N_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11025"
+    ],
+    "image_local_path": "web/NE-11025.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166695303/in-feature-galaxy-f-549703336?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11026"
+    ],
+    "image_local_path": "web/NE-11026.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166695303/in-feature-galaxy-f-549703336?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11027"
+    ],
+    "image_local_path": "web/NE-11027.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166695303/in-feature-galaxy-f-549703336?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11028"
+    ],
+    "image_local_path": "web/NE-11028.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166593311/in-feature-ip54-dust-and-water-protection-549346746?$FB_TYPE_C_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11029"
+    ],
+    "image_local_path": "web/NE-11029.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166593311/in-feature-ip54-dust-and-water-protection-549346746?$FB_TYPE_C_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11030"
+    ],
+    "image_local_path": "web/NE-11030.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166593311/in-feature-ip54-dust-and-water-protection-549346746?$FB_TYPE_C_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11031"
+    ],
+    "image_local_path": "web/NE-11031.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/feature/165669087/latin_en-feature-sleek-design--slim-profile--543823869?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11032"
+    ],
+    "image_local_path": "web/NE-11032.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/feature/165669087/latin_en-feature-sleek-design--slim-profile--543823869?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11033"
+    ],
+    "image_local_path": "web/NE-11033.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/latin_en/feature/165669087/latin_en-feature-sleek-design--slim-profile--543823869?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11034"
+    ],
+    "image_local_path": "web/NE-11034.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch-ultra2/2607_feature/Galaxy-Watch-Ultra2_Performance-durability_PC.png?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11035"
+    ],
+    "image_local_path": "web/NE-11035.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch9/feature/Galaxy-Watch9_Design-intro_PC.jpg",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11036"
+    ],
+    "image_local_path": "web/NE-11036.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/au/galaxy-watch9/feature/Galaxy-Watch9_Design-intro_PC.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11037"
+    ],
+    "image_local_path": "web/NE-11037.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch9/feature/Galaxy-Watch9_Galaxy-experience-watch-face-bands01-color01-front_PC.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11038"
+    ],
+    "image_local_path": "web/NE-11038.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch9/feature/Galaxy-Watch9_Galaxy-experience-watch-face-bands03-color05-front_PC.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11039"
+    ],
+    "image_local_path": "web/NE-11039.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch8/feature/galaxy-watch8-kv.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11040"
+    ],
+    "image_local_path": "web/NE-11040.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-watch8-classic-l505-sm-l505fzwains-547660133?$1164_776_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11041"
+    ],
+    "image_local_path": "web/NE-11041.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/in/galaxy-watch8/feature/galaxy-watch8-mental-health-lifestyle.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11042"
+    ],
+    "image_local_path": "web/NE-11042.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/assets/in/galaxy-watch8/feature/galaxy-watch8-mental-health-lifestyle.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11043"
+    ],
+    "image_local_path": "web/NE-11043.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch8/feature/galaxy-watch8-kv.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11044"
+    ],
+    "image_local_path": "web/NE-11044.jpg",
+    "image_source_url": "https://images.samsung.com/in/galaxy-watch8/feature/galaxy-watch8-kv.jpg?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11045"
+    ],
+    "image_local_path": "web/NE-11045.jpg",
+    "image_source_url": "https://images.samsung.com/ae/galaxy-watch-ultra2/2607_feature/Galaxy-Watch-Ultra2_KV-Watch-Ultra2_PC.png?imbypass=true",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11046"
+    ],
+    "image_local_path": "web/NE-11046.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165722910/in-feature-galaxy-watch-544144846?$FB_TYPE_A_MO_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11047"
+    ],
+    "image_local_path": "web/NE-11047.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-watch7-l310-sm-l310nzsains-542366980?$1164_776_PNG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11048"
+    ],
+    "image_local_path": "web/NE-11048.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165571893/in-feature-galaxy-watch-543284136?$FB_TYPE_K_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  },
+  {
+    "member_ids": [
+      "NE-11049"
+    ],
+    "image_local_path": "web/NE-11049.jpg",
+    "image_source_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165571893/in-feature-galaxy-watch-543284136?$FB_TYPE_K_JPG$",
+    "image_source_domain": "www.samsung.com",
+    "confidence": "high"
+  }
+]
