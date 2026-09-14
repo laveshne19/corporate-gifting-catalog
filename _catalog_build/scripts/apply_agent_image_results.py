@@ -10,6 +10,27 @@ extracted files don't carry product_id (that's assigned at consolidate time).
 """
 import json, os, glob
 
+# Mirrors consolidate.py's BRAND_CANONICAL — extracted files still carry the
+# raw pre-canonicalization brand name (e.g. "Swiss Military Audio"), but
+# master_consolidated.json (and therefore our pid->brand lookup) has already
+# been through clean_record()'s canonicalization. Without normalizing both
+# sides the same way, brands with an alias never match and silently get 0
+# patches applied.
+BRAND_CANONICAL = {
+    "swiss military audio": "Swiss Military",
+    "swiss military": "Swiss Military",
+    "boult": "boUlt",
+    "boult audio": "boUlt",
+    "qubo (a hero group venture)": "Qubo",
+    "qubo (trust of hero group)": "Qubo",
+    "qubo a hero group venture": "Qubo",
+    "amazon (echo/fire tv)": "Amazon",
+    "amazon devices": "Amazon",
+}
+def canon_brand(b):
+    b = (b or "").strip()
+    return BRAND_CANONICAL.get(b.lower(), b)
+
 BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
 OUT_DIR = os.path.join(BASE, "_catalog_build", "output")
 EXTRACTED = os.path.join(BASE, "_catalog_build", "extracted")
@@ -18,10 +39,15 @@ SCRATCHPAD = "/private/tmp/claude-503/-Users-laveshbansal-Downloads----Master-Fo
 
 def load_results():
     merged = {}
-    # Main per-brand result files
+    # Main per-brand result files (dict-keyed by product_id). Some brand
+    # results were saved as a list-of-dicts with a match_confidence field
+    # instead (from the wave-2 chunked search runs) — those are pre-filtered
+    # and merged separately into wave2_consolidated_results.json, so skip
+    # raw list files here to avoid a dict.update() crash on them.
     for f in glob.glob(os.path.join(PROGRESS, "*_results.json")):
         d = json.load(open(f))
-        merged.update(d)
+        if isinstance(d, dict):
+            merged.update(d)
     # IFB scratchpad chunks
     for f in glob.glob(os.path.join(SCRATCHPAD, "ifb_results_chunk*.json")):
         d = json.load(open(f))
@@ -35,7 +61,7 @@ def main():
     recs = json.load(open(os.path.join(OUT_DIR, "master_consolidated.json")))
     pid_to_key = {}
     for r in recs:
-        pid_to_key[r["product_id"]] = (r["brand"], r["product_name"])
+        pid_to_key[r["product_id"]] = (canon_brand(r["brand"]), r["product_name"])
 
     # (brand, product_name) -> image data, only for products we have a match for
     target = {}
@@ -65,7 +91,7 @@ def main():
         for r in data:
             if not isinstance(r, dict) or "brand" not in r or "product_name" not in r:
                 continue
-            key = (r["brand"], r["product_name"])
+            key = (canon_brand(r["brand"]), r["product_name"])
             if key in target and not r.get("image_file"):
                 m = target[key]
                 r["image_file"] = m["image_url"]

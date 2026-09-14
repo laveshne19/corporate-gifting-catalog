@@ -1,0 +1,338 @@
+[
+ {
+  "product_id": "NE-10731",
+  "product_name": "BOA A2L 20W",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No 'BOA' cable found on swissmilitaryaudio.com or elsewhere; similarly-named cable lines (Octane A2C, Flow C2C/C2L, PVXAM/PVXAC) exist but no BOA A2L model located."
+ },
+ {
+  "product_id": "NE-11576",
+  "product_name": "Ankaa 7S",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-smart-watch-ankaa-7s-white-silicon-strap-a1b2c3d4.jpg?v=1778839327&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SMART WATCH ANKAA 7S' on swissmilitaryaudio.com; exact name match."
+ },
+ {
+  "product_id": "NE-11577",
+  "product_name": "Pods Pro Max",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/PODS_PRO_MAX_cb44a930-7a63-4fe1-b853-2412f8079ee5.jpg?v=1778583366&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS PODS PRO MAX'; exact match."
+ },
+ {
+  "product_id": "NE-11578",
+  "product_name": "Nxt Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Nxt-Pods-02.jpg?v=1778581687&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS NXT PODS'; exact match."
+ },
+ {
+  "product_id": "NE-11579",
+  "product_name": "Mellow-X",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-mellow-x-midnight-blue-neckband-earbuds-a1b2c3d4.jpg?v=1778751610&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS NECKBAND - MELLOW-X'; exact match. Distinct from sibling 'Mellow O' variant."
+ },
+ {
+  "product_id": "NE-11580",
+  "product_name": "Ankaa 11M",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Ankaa-11M-Black-03.jpg?v=1778755766&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SMART WATCH - ANKAA 11 M'; exact match."
+ },
+ {
+  "product_id": "NE-11581",
+  "product_name": "Blo Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Blo-pods_-02_d3b53620-8f23-465d-963a-4b34866e70a5.jpg?v=1778669101&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS BLO PODS'; exact match."
+ },
+ {
+  "product_id": "NE-11582",
+  "product_name": "Dapple Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/DapplePodsWhite_2_e2a5d45b-2890-45ad-aa6a-8ab2887a332c.jpg?v=1778673101&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS DAPPLE'; exact match."
+ },
+ {
+  "product_id": "NE-11583",
+  "product_name": "Kiv I",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-kiv-i-green-neckband-earbuds-a1b2c3d4_67cfabcb-4620-4825-871f-8b4b25d33581.jpg?v=1779454086&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS NECKBAND - KIV - I'; exact match."
+ },
+ {
+  "product_id": "NE-11584",
+  "product_name": "Verve Arc",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/VERVEARCwhite2_3b22d7bb-f6bb-479d-9731-9f5105dfb0d6.jpg?v=1778822194&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SMART WATCH - VERVE ARC'; exact match."
+ },
+ {
+  "product_id": "NE-11585",
+  "product_name": "Octa Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Octa_A_Content_1.jpg?v=1785733884&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS OCTA PODS'; exact match. Distinct from 'Octa Lite' sibling."
+ },
+ {
+  "product_id": "NE-11586",
+  "product_name": "Meep Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/MeepPods_1.png?v=1774812363&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS EARBUDS MEEP'; exact match."
+ },
+ {
+  "product_id": "NE-11587",
+  "product_name": "Pep-C",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-neckband-pep-c-green-wireless-earbuds-a1b2c3d4.jpg?v=1779433410&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS NECKBAND - PEP-C'; exact match."
+ },
+ {
+  "product_id": "NE-11588",
+  "product_name": "Vega Pro",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-vega-pro-smartwatch-blue-zinc-alloy-a1b2c3d4_c14a0dfc-489e-4cf6-a49e-cd024a6ff07f.jpg?v=1778821613&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SMART WATCH - VEGA PRO'; exact match."
+ },
+ {
+  "product_id": "NE-11589",
+  "product_name": "Zeus Plus",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/8_41ea7357-2395-4dce-a63f-82d8a9dbf0f6.png?v=1788426807&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'TRUE WIRELESS STEREO - ZEUS PLUS'; exact match."
+ },
+ {
+  "product_id": "NE-11590",
+  "product_name": "Pop Pods",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Pop-Pods-Grey-01.jpg?crop=center&height=1200&v=1778580050&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'POP Pods TWS Earbuds'; exact match."
+ },
+ {
+  "product_id": "NE-11591",
+  "product_name": "Bruit",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/BruitBlack_1bc2d0b8-8351-4ec1-a40b-e5aed1939a82.jpg?v=1778749891&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS NECKBAND - BRUIT'; exact match. Distinct from 'McBruit' sibling (NE-11594)."
+ },
+ {
+  "product_id": "NE-11592",
+  "product_name": "Raptor X",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-raptor-x-smartwatch-silver-white-map-face-a1b2c3d4.jpg?v=1778757139&width=1024",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SM SMART WATCH RAPTOR-X'; exact match."
+ },
+ {
+  "product_id": "NE-11593",
+  "product_name": "Octa Lite",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/OctaPodsLiteWhite1_c88288d8-8578-47f0-9f4a-5a0f497a087c.jpg?v=1778582539&width=1024",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'OCTA LITE'; exact match. Distinct from 'Octa Pods' sibling."
+ },
+ {
+  "product_id": "NE-11594",
+  "product_name": "Mcbruit",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/MCBRUIT02_53892b85-bf50-4c6a-b0a9-44e89f75c1cd.jpg?v=1778750710&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'McBruit Wireless Neckband'; exact match. Distinct from 'Bruit' sibling (NE-11591)."
+ },
+ {
+  "product_id": "NE-11595",
+  "product_name": "Ancha Dude",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-ancha-dude-bluetooth-speaker-black-tws-a1b2c3d4.jpg?crop=center&height=1200&v=1778659085&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'Ancha Dude 5W BT Speaker with TWS Function'; exact match."
+ },
+ {
+  "product_id": "NE-11596",
+  "product_name": "Mortley Gleam",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/MORTLEYGLEAM1_9257d8e8-82af-4057-8732-9fc187cbffd8.jpg?v=1778572919&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'Mortley Gleam 20W Bluetooth Soundbar'; exact match."
+ },
+ {
+  "product_id": "NE-11597",
+  "product_name": "Ryze",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/SMRYZE1_4373978c-9329-4d3f-ad22-82b22b437a0d.jpg?v=1778665319&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'Ryze 20W Bluetooth Soundbar Speaker'; exact match."
+ },
+ {
+  "product_id": "NE-11598",
+  "product_name": "Pulse",
+  "image_url": "https://rukminim2.flixcart.com/image/480/480/xif0q/power-bank/u/b/p/10000-mah-pulse-10000-10000-mah-pulse-swiss-military-original-imaheb6samgcvtkd.jpeg?q=80",
+  "source_domain": "www.flipkart.com",
+  "match_confidence": "medium",
+  "notes": "Flipkart listing 'SWISS MILITARY 10000 mAh Power Bank' with URL slug '10000-mah-pulse' confirming base 'Pulse' model; distinct from 'Pulse Plus' sibling. Listing title itself is generic, hence medium confidence."
+ },
+ {
+  "product_id": "NE-11599",
+  "product_name": "Weta Eye Ancha Hop Ancha Pop Uree Mrp Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Source data appears to merge 4 separate SKUs' names and MRP fields into one row (4x 'Mrp' tokens). Cannot reliably determine which single product this product_id refers to; skipped to avoid mismatched image."
+ },
+ {
+  "product_id": "NE-11600",
+  "product_name": "Ancha Mag Bee Mortley Up Rapli Mortley Qua Mrp Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Source data merges 4 SKUs' names/MRP fields into one row. Ambiguous which single product this refers to; skipped."
+ },
+ {
+  "product_id": "NE-11601",
+  "product_name": "Euphoria W1000 Troopz Trooper Mortley Rumble Mrp Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Row merges multiple product names ('Euphoria W1000', 'Troopz Trooper', 'Mortley Rumble') with 4 Mrp tokens. 'Euphoria W1000' soundbar was found on giftees.in but cannot confirm it is specifically this product_id vs. the other merged names; skipped."
+ },
+ {
+  "product_id": "NE-11602",
+  "product_name": "Electra 10K/A",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-power-bank-10000mah-black-qc-a1b2c3d4.jpg?crop=center&height=1200&v=1778908400&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'POWER BANK ELECTRA 10K/A'; exact match despite the row also listing 'Mag Dee 5S'/'Mag Dee 5K' variants (used only the clearly matching first name)."
+ },
+ {
+  "product_id": "NE-11603",
+  "product_name": "Electra Wee Electra Mite Electra Solidus Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Row merges 3 distinct real power bank SKUs (Electra Wee, Electra Mite, Electra Solidus each have separate official product pages) with 3 Mrp tokens. Cannot determine which one this product_id refers to; skipped."
+ },
+ {
+  "product_id": "NE-11604",
+  "product_name": "Voltaic 2.4+ Voltaic 2.4+ Volatic Pd Micro Cable Type-C Cable Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Row merges multiple charger/cable SKUs and 3 Mrp tokens; ambiguous which single product this refers to. Skipped."
+ },
+ {
+  "product_id": "NE-11605",
+  "product_name": "Volatic Pps Ii Thunder Zap Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Row merges 2+ distinct chargers ('Volatic PPS II' and 'Thunder' both have separate official product pages) with 3 Mrp tokens. Ambiguous; skipped."
+ },
+ {
+  "product_id": "NE-11606",
+  "product_name": "Pvxam Pvxac Octane A2C Mrp Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Row merges 3 distinct cable SKUs (PVXAM, PVXAC, Octane A2C each have separate official product pages) with 3 Mrp tokens. Ambiguous which one; skipped."
+ },
+ {
+  "product_id": "NE-11607",
+  "product_name": "Tiny Mag-Pad",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "'Tiny 20W' charger and 'Mag-Pad Charger' are two separate official products on swissmilitaryaudio.com; row has 2 Mrp tokens suggesting both are merged into this one row. Ambiguous which single product this refers to; skipped."
+ },
+ {
+  "product_id": "NE-11608",
+  "product_name": "Flow C2C Flow C2L Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "'Flow C2C' and 'Flow C2L' are two separate official cable products with 2 Mrp tokens merged into this row. Ambiguous which one this product_id refers to; skipped."
+ },
+ {
+  "product_id": "NE-11609",
+  "product_name": "Trio",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-trio-3in1-charging-cable-a1b2c3.jpg?v=1778840715&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS CABLE - TRIO'; exact match. Distinct from 'Spark Trio' (charger) sibling."
+ },
+ {
+  "product_id": "NE-11610",
+  "product_name": "Juice Iv",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-black-earphones-a1b2c3d4.jpg?v=1778928337&width=1024",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'EARPHONE JUICE-IV'; exact match."
+ },
+ {
+  "product_id": "NE-11611",
+  "product_name": "Water",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/water_type_c_5_61e55a80-7f4c-4bb3-af8e-f41587328635.jpg?v=1778929026&width=1024",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'Water Wired Earphone — Type-C'; base 'Water' variant, distinct from 'Water Fi'/'Water Lite' siblings (NE-11616)."
+ },
+ {
+  "product_id": "NE-11612",
+  "product_name": "Quadro 4In1",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Quadro_02_fd494ea1-f546-4848-82c1-cbc8fbb83549.jpg?v=1778841796&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS CABLE - QUADRO 4IN1'; exact match."
+ },
+ {
+  "product_id": "NE-11613",
+  "product_name": "Juicy V",
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/6bdba18b-558c-4dd4-9290-b6d5cf9450e1/Swiss-Earphone-Juicy-Vs.jpeg",
+  "source_domain": "www.zepto.com",
+  "match_confidence": "medium",
+  "notes": "Zepto listing 'Swiss Earphone Juicy Vs' — close name match ('Juicy Vs' vs 'Juicy V'); could not confirm on official site, hence medium confidence."
+ },
+ {
+  "product_id": "NE-11614",
+  "product_name": "Quadro 4In1 (1.5M)",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Quadro_02.jpg?v=1778840976&width=1200",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'SWISS CABLE - QUADRO 4IN1 1.5MTR'; exact match to the 1.5m length variant."
+ },
+ {
+  "product_id": "NE-11615",
+  "product_name": "Reverb",
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-reverb-earphones-black-red-f7a3b1c9.jpg?v=1778928866&width=2048",
+  "source_domain": "swissmilitaryaudio.com",
+  "match_confidence": "high",
+  "notes": "Official product page 'REVERB EARPHONE'; exact match."
+ },
+ {
+  "product_id": "NE-11616",
+  "product_name": "Water Fi Water Lite Mrp Mrp",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "'Water Fi' and 'Water Lite' are two separate official earphone products with 2 Mrp tokens merged into this row. Ambiguous which one this product_id refers to; skipped."
+ }
+]

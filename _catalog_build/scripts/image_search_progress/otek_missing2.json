@@ -1,0 +1,100 @@
+[
+ {
+  "product_id": "NE-01024",
+  "product_name": "Joy Projector",
+  "model_code": "Joy",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01025",
+  "product_name": "Epic Projector",
+  "model_code": "Epic",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01026",
+  "product_name": "Pixa Projector",
+  "model_code": "Pixa",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01027",
+  "product_name": "Epic 1122 Projector",
+  "model_code": "Epic 1122",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01028",
+  "product_name": "Pixa 1000 Projector",
+  "model_code": "Pixa 1000",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01031",
+  "product_name": "Galaxy 100 Projector",
+  "model_code": "Galaxy 100",
+  "category": "Projectors",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01037",
+  "product_name": "330A Air Purifier",
+  "model_code": "330A",
+  "category": "Air Purifiers",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01038",
+  "product_name": "352A Air Purifier",
+  "model_code": "352A",
+  "category": "Air Purifiers",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01039",
+  "product_name": "ShineMate T9",
+  "model_code": "T9",
+  "category": "Robotic Window Cleaners",
+  "sub_category": "ShineMate Series"
+ },
+ {
+  "product_id": "NE-01040",
+  "product_name": "ShineMate T10",
+  "model_code": "T10",
+  "category": "Robotic Window Cleaners",
+  "sub_category": "ShineMate Series"
+ },
+ {
+  "product_id": "NE-01041",
+  "product_name": "ShineMate W6",
+  "model_code": "W6",
+  "category": "Robotic Window Cleaners",
+  "sub_category": "ShineMate Series"
+ },
+ {
+  "product_id": "NE-01042",
+  "product_name": "Mite Vanisher",
+  "model_code": "Mite Vanisher",
+  "category": "Vacuum Cleaners",
+  "sub_category": "Dust & Mite Vacuum Cleaner"
+ },
+ {
+  "product_id": "NE-01060",
+  "product_name": "Copilot 1K Dashcam",
+  "model_code": "Copilot 1K",
+  "category": "Dashcams",
+  "sub_category": ""
+ },
+ {
+  "product_id": "NE-01061",
+  "product_name": "Copilot 2K Dashcam",
+  "model_code": "Copilot 2K",
+  "category": "Dashcams",
+  "sub_category": ""
+ }
+]

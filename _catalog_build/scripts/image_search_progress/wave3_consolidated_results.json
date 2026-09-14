@@ -1,0 +1,680 @@
+{
+ "NE-07503": {
+  "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41WcOzTijEL._AC_UL600_SR600,600_.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in listing 'Usha Apollo LX 1200mm Ceiling Fan Rich Brown' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-07509": {
+  "image_url": "https://m.media-amazon.com/images/I/31oBwW1Al4L._AC_UF894,1000_QL80_.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA CF 1200MM STRIKER NEO WH W/O REG' - exact model, size, and color (white) match.",
+  "query_used": ""
+ },
+ "NE-12085": {
+  "image_url": "http://rukmini1.flixcart.com/image/300/300/kamtsi80/fan/p/q/z/energia-32-rich-white-32-ceiling-fan-1200-usha-original-imafs5z5zftbfphg.jpeg",
+  "domain": "flipkart.com",
+  "matched_title": "Flipkart 'USHA Energia 32 rich white 1200 mm Ceiling Fan' - exact model (Energia 32), size, and color match.",
+  "query_used": ""
+ },
+ "NE-12086": {
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/fan/k/b/a/technoair-1200mm-5-star-rated-energy-efficient-with-bldc-motor-original-imagrheavrc9hb7a.jpeg?q=80",
+  "domain": "flipkart.com",
+  "matched_title": "Flipkart 'USHA Technoair 1200mm 5 Star Rated Energy Efficient BLDC Motor (White)' - exact model, size, rating, and color (rich white) match.",
+  "query_used": ""
+ },
+ "NE-07531": {
+  "image_url": "https://ii1.pepperfry.com/media/catalog/product/u/s/1100x1210/usha-aldora-1320-mm-4-blade-premium-ceiling-fan--brushed-nickel--usha-aldora-1320-mm-4-blade-premium-qycrnw.jpg",
+  "domain": "pepperfry.com",
+  "matched_title": "Pepperfry 'Usha Aldora 1320mm 4 Blade Premium Ceiling Fan (Brushed Nickel)' - exact model, size, and color match from a well-known Indian retailer.",
+  "query_used": ""
+ },
+ "NE-07539": {
+  "image_url": "https://cdn.moglix.com/p/fePmu2m2REbjp-xxlarge.jpg",
+  "domain": "moglix.com",
+  "matched_title": "Moglix 'Usha Allure Deluxe 340rpm Rich Ivory Ceiling Fan, Sweep 1200mm' - exact model, size, and color match for the standard (non-4-blade) Allure Deluxe.",
+  "query_used": ""
+ },
+ "NE-12125": {
+  "image_url": "https://m.media-amazon.com/images/I/31ym2MhIgNL._AC_UF894,1000_QL80_.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA Premia AF 150mm Exhaust Fan - Stainless Steel Body & Blades' - exact model, size, and finish match.",
+  "query_used": ""
+ },
+ "NE-12126": {
+  "image_url": "https://www.bbassets.com/media/uploads/p/s/1200053667-2_2-usha-hunter-bayport-1067cm-sweep-4-blade-ceiling-fan-inverter-compatibility-111033428h-brown.jpg",
+  "domain": "bigbasket.com",
+  "matched_title": "BigBasket listing explicitly cites model code 111033428H, an exact match to the product's model code - confirms Hunter Bayport 1067mm brass/brown fan.",
+  "query_used": ""
+ },
+ "NE-12129": {
+  "image_url": "https://m.media-amazon.com/images/I/61RgKgrKysL.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Table Fan 400mm ... Black' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12130": {
+  "image_url": "https://m.media-amazon.com/images/I/61rB53scQRL.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Table Fan 400mm ... Blue' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12131": {
+  "image_url": "https://m.media-amazon.com/images/I/615auDSfYbL.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Table Fan 400mm ... Red' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12132": {
+  "image_url": "https://m.media-amazon.com/images/I/51fHUGatD3L.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Table Fan 400mm ... White' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12133": {
+  "image_url": "https://m.media-amazon.com/images/I/310FpApeG3L._AC_UF894,1000_QL80_.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'Usha FARRATTA PF 500mm GREY' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12134": {
+  "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/fan/d/w/m/pf-striker-plus-hi-speed-400mm-black-135-1-induction-pedestal-original-imahc8mvcbgasgeg.jpeg?q=80",
+  "domain": "flipkart.com",
+  "matched_title": "Flipkart 'USHA PF STRIKER PLUS HI SPEED 400MM BLACK' - exact model, size, and color match; listing title matches product name almost verbatim.",
+  "query_used": ""
+ },
+ "NE-12135": {
+  "image_url": "https://m.media-amazon.com/images/I/51xV27p+wJL._AC_UF894,1000_QL80_.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Amazon.in 'Usha Striker Plus 400mm Pedestal Fan (Blue)' - exact model, size, and color match.",
+  "query_used": ""
+ },
+ "NE-12138": {
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000137334_250x250@2x.jpg?v=1742379058",
+  "domain": "bestomart.com",
+  "matched_title": "Bestomart 'Usha Colossus Wall Fan 400mm Red' - exact model, size, and color match; domain not on preferred retailer list but listing title matches product name closely.",
+  "query_used": ""
+ },
+ "NE-12141": {
+  "image_url": "https://m.media-amazon.com/images/I/61+i-g8KLAL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in listing 'USHA Maxx Air 400MM Wall Fan (Blue & White)' matches model/color exactly.",
+  "query_used": ""
+ },
+ "NE-12142": {
+  "image_url": "https://m.media-amazon.com/images/I/711dxlwgl6L.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in listing 'USHA Maxx Air 400MM Wall Fan (Orange & White)'; product code in URL (14MXABORW0DMXI1DAX) closely matches model_code 14MXBORW0DMXI1DAXI.",
+  "query_used": ""
+ },
+ "NE-12144": {
+  "image_url": "https://m.media-amazon.com/images/I/71e5XWs3sWL._AC_UF350,350_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in listing 'USHA Maxx Air 400MM High Speed Wall Fan (Red & White)' matches model/color exactly.",
+  "query_used": ""
+ },
+ "NE-12145": {
+  "image_url": "https://m.media-amazon.com/images/I/81eGGfFvl+L.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in listing 'Usha Maxx Air 400mm Wall Fan (White)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12146": {
+  "image_url": "https://m.media-amazon.com/images/I/61TbovGuVXL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Wall Fan 400MM ... (Black)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12147": {
+  "image_url": "https://m.media-amazon.com/images/I/61L1ywGLOdL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Wall Fan 400MM ... (Blue)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12149": {
+  "image_url": "https://m.media-amazon.com/images/I/513lVHAki6L._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Plus Wall Fan 400MM ... (White)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12150": {
+  "image_url": "https://m.media-amazon.com/images/I/51Di9m1T+6L._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Crisp Air VX 200mm Exhaust Fan (Black)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12152": {
+  "image_url": "https://m.media-amazon.com/images/I/51Di9m1T+6L._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Crisp Air VX 250mm Exhaust Fan (Black)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12153": {
+  "image_url": "https://m.media-amazon.com/images/I/51Di9m1T+6L._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Crisp Air VX 150mm Exhaust Fan (Black)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12155": {
+  "image_url": "https://rukminim3.flixcart.com/image/160/210/xif0q/fan/f/d/9/grs01-60-1-exhaust-fan-150-is-laurels-original-imah4hc4q2htxn8y.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Flipkart 'USHA Crisp Air AX ... Silent Operation 150 mm Exhaust Fan' (White) matches model/size/colour.",
+  "query_used": ""
+ },
+ "NE-12156": {
+  "image_url": "https://rukminim2.flixcart.com/image/480/480/xif0q/fan/r/7/t/crisp-air-ax-16-1-exhaust-fan-100-usha-original-imagtr7vrpvff7jr.jpeg?q=80",
+  "domain": "www.flipkart.com",
+  "matched_title": "Flipkart 'USHA Crisp Air AX ... Silent Operation 100 mm Exhaust Fan' matches model/size; colour White is standard for this listing.",
+  "query_used": ""
+ },
+ "NE-12157": {
+  "image_url": "https://m.media-amazon.com/images/I/81onZiLSo7L.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'Usha Turbo 180 450mm Pedestal Fan (Metal Black)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12158": {
+  "image_url": "https://rukminim2.flixcart.com/image/160/210/xif0q/fan/a/9/d/-original-imaheedgee9gvxdh.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Flipkart 'USHA TURBO 180 black ... 450 mm Wall Fan' matches model/size/colour.",
+  "query_used": ""
+ },
+ "NE-12161": {
+  "image_url": "https://m.media-amazon.com/images/I/61MmNbdKwtL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Racer Chrome 1200MM ... Ceiling Fan (Rich Brown)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12162": {
+  "image_url": "https://m.media-amazon.com/images/I/61Yz+L5C+7L._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'Usha Racer Chrome 1200MM ... Ceiling Fan (Rich Ivory)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12163": {
+  "image_url": "https://m.media-amazon.com/images/I/61GeM6BlusL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Racer Chrome 1200MM ... Ceiling Fan (Rich White Bronze)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12164": {
+  "image_url": "https://m.media-amazon.com/images/I/41ZIzAA2omL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Racer Chrome 1200mm ... Ceiling Fan (Rich White Silver)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12165": {
+  "image_url": "https://m.media-amazon.com/images/I/31tcyfphHDL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Racer Chrome 1200mm ... Ceiling Fan (Smoke Brown)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12167": {
+  "image_url": "https://m.media-amazon.com/images/I/51oow8Fu8gL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker NEO 1200mm ... Ceiling Fan (Cocoa Bean)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12168": {
+  "image_url": "https://m.media-amazon.com/images/I/61QAXvBcIvL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Galaxy 1200mm ... Ceiling Fan (Dark Grey)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12169": {
+  "image_url": "https://m.media-amazon.com/images/I/41Y+vDxWGWL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'USHA Striker Millennium 1200mm ... Ceiling Fan (Fariar/Friar Grey)' matches (retailer spelling 'Fariar Grey').",
+  "query_used": ""
+ },
+ "NE-12173": {
+  "image_url": "https://m.media-amazon.com/images/I/51z-iI-MMsL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Amazon.in 'Usha Striker Galaxy 1200mm ... Ceiling Fan (Bright Gold)' matches exactly.",
+  "query_used": ""
+ },
+ "NE-12174": {
+  "image_url": "https://m.media-amazon.com/images/I/51zn4CBkmeL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Striker Neo 1200mm, Shuttle Grey, 1 star, ISI certified (Amazon listing B0C6YBJ19R).",
+  "query_used": ""
+ },
+ "NE-12175": {
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/521722669/AH/XQ/ZA/160862748/usha-super-striker-dark-brown-ceiling-fan-500x500.jpg",
+  "domain": "www.indiamart.com",
+  "matched_title": "Exact model/size/colour match: Usha Super Striker 1200mm Dark Brown. Only found on IndiaMART (not Amazon/Flipkart which only stock Charcoal/Suva Grey for this model), but product listing matches exactly.",
+  "query_used": ""
+ },
+ "NE-12176": {
+  "image_url": "https://m.media-amazon.com/images/I/41BHzuRboVL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Super Striker 1200mm, Suva Grey, 1 star, ISI certified (Amazon listing B0C6Y9Q7D7).",
+  "query_used": ""
+ },
+ "NE-12177": {
+  "image_url": "https://m.media-amazon.com/images/I/31o3nrPhOGL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Striker 600mm Ceiling Fan (White) (Amazon listing B0727MPWXY).",
+  "query_used": ""
+ },
+ "NE-12178": {
+  "image_url": "https://cdn.moglix.com/p/W5BlzVq9wac1g-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact model/size match: Usha Striker 900mm Rich White ceiling fan (Moglix listing); not on Amazon/Flipkart under this exact size+colour combo.",
+  "query_used": ""
+ },
+ "NE-12181": {
+  "image_url": "https://m.media-amazon.com/images/I/31Ntf4IyNnL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Striker 1200mm Ceiling Fan (Rich White), 1 star, ISI (Amazon listing B0H8SD8Q6C).",
+  "query_used": ""
+ },
+ "NE-12182": {
+  "image_url": "https://rukminim2.flixcart.com/image/1000/1000/xif0q/fan/e/m/h/infinity-1200-mm-ultra-high-speed-3-blade-ceiling-fan-rich-white-original-imagr6nabr6kxktp.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA Infinity 1200mm Ultra High Speed Ceiling Fan (Rich White) on Flipkart.",
+  "query_used": ""
+ },
+ "NE-12185": {
+  "image_url": "https://cdn.moglix.com/p/RBbWCQgd9HSpg-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact match: Usha Racer 1200mm Rich Blue ceiling fan (Moglix listing).",
+  "query_used": ""
+ },
+ "NE-12186": {
+  "image_url": "https://m.media-amazon.com/images/I/31jukb4RUFL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Racer 1200mm Energy Saving Decorative Ceiling Fan |1star| ISI |Rich Red| (Amazon listing B0BXLHLF3N).",
+  "query_used": ""
+ },
+ "NE-12187": {
+  "image_url": "https://m.media-amazon.com/images/I/41TJCPmbI4L._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Racer 1200mm Energy Saving Decorative Ceiling Fan |1star| ISI |Rich White| (Amazon listing B0BXLKZ4SF).",
+  "query_used": ""
+ },
+ "NE-12188": {
+  "image_url": "https://m.media-amazon.com/images/I/61VsV8HbNDL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Swift 600mm Ceiling Fan Without Regulator (White) (Amazon listing B06WP7S5XH).",
+  "query_used": ""
+ },
+ "NE-12189": {
+  "image_url": "https://m.media-amazon.com/images/I/11CElBqXQ+L.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA 900MM Swift W/o Reg White CF (Amazon listing B0CR8WSXB4); note image resolution is low.",
+  "query_used": ""
+ },
+ "NE-12190": {
+  "image_url": "https://m.media-amazon.com/images/I/41jijcgfnCL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Swift 1400mm Ceiling Fan (White) (Amazon listing B06W57W5K7).",
+  "query_used": ""
+ },
+ "NE-12191": {
+  "image_url": "https://m.media-amazon.com/images/I/51HCh-9tzCL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Swift 1200mm Ceiling Fan (Rich White) (Amazon listing B0747QV23Z).",
+  "query_used": ""
+ },
+ "NE-12192": {
+  "image_url": "https://m.media-amazon.com/images/I/41Nt+ymZnJL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Fontana Lotus 1230mm Ceiling Fan with Decorative Lights (Gold Ivory) (Amazon listing B009ZBCPXK).",
+  "query_used": ""
+ },
+ "NE-12193": {
+  "image_url": "https://m.media-amazon.com/images/I/41+KvJzfKdL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha Fontana Maple 1250mm Ceiling Fan with Decorative Lights (Antique Brass) (Amazon listing B0874VH814); 'MAP' in product name interpreted as 'Maple'.",
+  "query_used": ""
+ },
+ "NE-12194": {
+  "image_url": "https://m.media-amazon.com/images/I/51jrlauZU1L._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Fontana One 1270mm Ceiling Fan with Decorative Lights (Antique Brass) (Amazon listing B009ZBCQWA).",
+  "query_used": ""
+ },
+ "NE-12196": {
+  "image_url": "https://cdn.moglix.com/p/y930AhQY5cYE5-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact match confirmed by identical model code 40011375083N: Usha MG3750 MG 500W White & Blue Mixer Grinder with 2 Stainless Steel Jars (Moglix listing).",
+  "query_used": ""
+ },
+ "NE-12197": {
+  "image_url": "https://rukminim2.flixcart.com/image/1000/1330/xif0q/mixer-grinder-juicer/c/o/f/thunderbolt-pro-usha-original-imagxth8guvw5ez9.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA Thunderbolt Pro 1000W Mixer Grinder with 3 Jars, Black (Flipkart listing).",
+  "query_used": ""
+ },
+ "NE-12198": {
+  "image_url": "https://m.media-amazon.com/images/I/61hUwYpikLL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Thunderbolt Pro 1000W Copper Motor Mixer Grinder with 4 Jars, Red (Amazon listing B0CRT86RKC).",
+  "query_used": ""
+ },
+ "NE-12199": {
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/223636_0_gtkm6h.png",
+  "domain": "www.croma.com",
+  "matched_title": "Exact match confirmed by identical model code 408001080052N (verified via IndiaMART listing): Usha Thunderbolt 800W Mixer Grinder with 3 Jars, Magenta (Croma listing).",
+  "query_used": ""
+ },
+ "NE-12200": {
+  "image_url": "https://rukminim2.flixcart.com/image/1000/1330/xif0q/mixer-grinder-juicer/a/x/h/plus-mixer-grinder-800-watt-copper-motor-with-quadri-flow-square-original-imahdceqeducxhkv.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: Usha Trienergy+ TP800MX4 800W Mixer Grinder, 4 Jars, Black/Magenta (Flipkart listing).",
+  "query_used": ""
+ },
+ "NE-12201": {
+  "image_url": "https://rukminim2.flixcart.com/image/1000/1330/kt0enww0/mixer-grinder-juicer/i/6/l/tp800mx4-usha-original-imag6fwbsef7bbfw.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA TP800MX4 Trienergy 800W Mixer Grinder, 4 Jars, Blue/Black (Flipkart listing).",
+  "query_used": ""
+ },
+ "NE-12204": {
+  "image_url": "https://m.media-amazon.com/images/I/51KvEC1o9nL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA RC18GS2 700W Automatic Rice Cooker 1.8L, White (Amazon listing B07M5ZHXZ1).",
+  "query_used": ""
+ },
+ "NE-12205": {
+  "image_url": "https://m.media-amazon.com/images/I/51l1jHQY3BL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA RC18GS2 700W Automatic Rice Cooker 1.8L, Black (Amazon listing B0CQ4FR2FH).",
+  "query_used": ""
+ },
+ "NE-12206": {
+  "image_url": "https://rukminim2.flixcart.com/image/1000/1000/xif0q/electric-cooker/t/2/1/rc18gs2-gold-rc18gs2-gold-usha-original-imahyqbydsrnfgvt.jpeg?q=90",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA RC18GS2 Electric Rice Cooker, Gold (Flipkart listing).",
+  "query_used": ""
+ },
+ "NE-12207": {
+  "image_url": "https://m.media-amazon.com/images/I/712ruFZsQwL._SX679_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA RC18SS1 D 700W 1.8L Automatic Rice Cooker with Stainless Steel Lid, White (Amazon listing B0CD7B6RHS).",
+  "query_used": ""
+ },
+ "NE-12210": {
+  "image_url": "https://cdn.moglix.com/p/33isbUFEKZfVL.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact match: Usha 450W Pink Juicer Mixer Grinder with 2 Jars, 3345 on Moglix - model and colour both match.",
+  "query_used": ""
+ },
+ "NE-12211": {
+  "image_url": "https://m.media-amazon.com/images/I/51qRtHG0YXL._AC_UF894,1000_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: Usha OFR 4209 9Fin 2400 Watts PTC Room Heater with Fan (Black) on Amazon.in - model and colour match.",
+  "query_used": ""
+ },
+ "NE-12212": {
+  "image_url": "https://m.media-amazon.com/images/I/71hiHG61MhL._AC_UF350,350_QL80_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA 4209 FU PTC U Shaped 9 Fin Oil Filled Radiator Room Heater (Black), 2700W on Amazon.in.",
+  "query_used": ""
+ },
+ "NE-12213": {
+  "image_url": "https://m.media-amazon.com/images/I/61xUyB93iXL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA OFR 4211 F PTC 2500W Oil Filled Radiator Room Heater with 11 Fins (Black) on Amazon.in.",
+  "query_used": ""
+ },
+ "NE-12214": {
+  "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71XNwwEJwhL._AC_UL495_SR435,495_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA 4211 FU PTC U Shaped 11 Fin Oil Filled Radiator Room Heater (Black) on Amazon.in.",
+  "query_used": ""
+ },
+ "NE-12215": {
+  "image_url": "https://m.media-amazon.com/images/I/51njxCGgyOL._SL1220_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Oil Filled Radiator Room Heater OFR 4213 F, 2900W with 13 Fins - Black, confirmed on Amazon.in product title.",
+  "query_used": ""
+ },
+ "NE-12216": {
+  "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/m/j/b/ofr-4213-fu-ptc-usha-2900-original-imagkyf7gztbz553.jpeg?q=70",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact model match USHA OFR 4213 FU PTC Oil Filled Room Heater on Flipkart; consistent with Black colour used across the same 4209/4211 FU product line.",
+  "query_used": ""
+ },
+ "NE-12218": {
+  "image_url": "https://m.media-amazon.com/images/I/51AvQhEte5L._SL1000_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA EI 3160-M Dry Iron, colour confirmed Black on Amazon.in product page.",
+  "query_used": ""
+ },
+ "NE-12221": {
+  "image_url": "https://m.media-amazon.com/images/I/51mYT83YsxL._SL1402_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Electric Iron EI-3602, 1000W, non-stick PTFE soleplate - colour confirmed 'pink' in Amazon.in product spec.",
+  "query_used": ""
+ },
+ "NE-12222": {
+  "image_url": "https://m.media-amazon.com/images/I/41gGwR+JsEL._SL1000_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA SI 3813 C 1300W Steam Iron (Pink) confirmed in Amazon.in product title.",
+  "query_used": ""
+ },
+ "NE-12223": {
+  "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/i/g/x/190-190-maxx-air-ultra-95-95-usha-original-imahp4vthzdadnzt.jpeg?q=70",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA 95 L Desert Air Cooler, MAXX AIR ULTRA 95, White/Black, on Flipkart.",
+  "query_used": ""
+ },
+ "NE-12228": {
+  "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/h/h/b/-original-imah9pzewbqhc378.jpeg?q=70",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA 80 L Desert Air Cooler, Racer Plus 80 (80RD2), Grey & White, on Flipkart.",
+  "query_used": ""
+ },
+ "NE-12229": {
+  "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/c/q/d/-original-imah9pzeyh2rgbz2.jpeg?q=70",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA 95 L Desert Air Cooler, Racer Plus 95 (95RD2), Grey & White, on Flipkart.",
+  "query_used": ""
+ },
+ "NE-12232": {
+  "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/w/w/4/200-200-aerostyle-105asd1-105-usha-original-imahmknr8wa8y3ar.jpeg?q=70",
+  "domain": "www.flipkart.com",
+  "matched_title": "Exact match: USHA 105 L Desert Air Cooler, AEROSTYLE 105ASD1, White, on Flipkart.",
+  "query_used": ""
+ },
+ "NE-12234": {
+  "image_url": "https://m.media-amazon.com/images/I/71O456GXeHL._SL1500_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Coolboy DLX Personal Air Cooler, 35L, White, confirmed on Amazon.in product title.",
+  "query_used": ""
+ },
+ "NE-12237": {
+  "image_url": "https://m.media-amazon.com/images/I/51UF0T6eBmL._SL1000_.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Aerostyle Electronic 50L Tower Air Cooler (50AST1E) on Amazon.in.",
+  "query_used": ""
+ },
+ "NE-12238": {
+  "image_url": "https://m.media-amazon.com/images/I/41jv94lFTUL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact capacity/line match: USHA Aerostyle Breeze Tower Air Cooler, 45 Litre, on Amazon.in.",
+  "query_used": ""
+ },
+ "NE-12239": {
+  "image_url": "https://m.media-amazon.com/images/I/41gTbL2mPEL.jpg",
+  "domain": "www.amazon.in",
+  "matched_title": "Exact match: USHA Aerostyle Breeze 60L Tower Air Cooler on Amazon.in. (Note: source data lists an identical model_code for this and NE-12238, likely a data entry duplication in the master list.)",
+  "query_used": ""
+ },
+ "NE-09597": {
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/7_7bcb2ef4-99da-4476-bc58-9835b4947bf6.png",
+  "domain": "ankurelectricals.com",
+  "matched_title": "Exact model name match: 'IF INV CNV 455 Alpha Steel (1S)-Z' - capacity, colour and star rating all match.",
+  "query_used": ""
+ },
+ "NE-09616": {
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/9/499133_add2.jpeg",
+  "domain": "www.bajajfinserv.in",
+  "matched_title": "Exact model code match (22222) - 'NEO 278GD PRM SWARNA EMERALD(2S)-TL 22222' on Bajaj Finserv, confirmed also on india.whirlpool.in.",
+  "query_used": ""
+ },
+ "NE-09694": {
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool205impcprm2sblacksparkle_additional2.jpeg",
+  "domain": "bajajfinserv.in",
+  "matched_title": "Exact series/star/color match: Whirlpool 190L 2 Star Direct Cool Single Door Refrigerator Black Sparkle (205 IMPC PRM 2S).",
+  "query_used": ""
+ },
+ "NE-09696": {
+  "image_url": "https://m.media-amazon.com/images/I/51u0XcBNz-L.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Exact match on capacity (327L), series, color and star rating: Whirlpool IFPRO INV CNV 375 Crystal Mirror 2S. Suffix letter differs (-Y vs -T), same product batch.",
+  "query_used": ""
+ },
+ "NE-09698": {
+  "image_url": "https://images.price.tools/images/whirlpool-235-l-2-star-frost-l-eV8ZT6C74.jpg",
+  "domain": "amazon.in",
+  "matched_title": "Exact match: NEO SP278 PRM SAPPHIRE ROSE(2S)-Y on Amazon.in and NEO 278LH PRM SAPPHIRE ROSE(2S)-TL on Bajaj Finserv (identical suffix). Image sourced via price-tracking mirror of the Amazon listing since Amazon/Bajaj pages blocked direct fetch.",
+  "query_used": ""
+ },
+ "NE-09742": {
+  "image_url": "https://bc-storage.sfo2.cdn.digitaloceanspaces.com/girias/product/614MsdnfBxL._SL1500__20260326120247549.jpg",
+  "domain": "giriasindia.com",
+  "matched_title": "Exact match: 1.5 Ton 3D Cool 3 Star Inverter Split AC with identical EXP S6M2PP0 model code.",
+  "query_used": ""
+ },
+ "NE-12263": {
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/7/527159086/FD/LP/XP/70721007/whirlpool-205-genius-cls-plus-2s-cosmic-grey-z-single-door-refrigerator-1000x1000.jpg",
+  "domain": "indiamart.com",
+  "matched_title": "Exact series/star/color match: 205 GENIUS CLS PLUS 2S COSMIC GREY-Z. Suffix differs (-Z vs -Y), same product batch.",
+  "query_used": ""
+ },
+ "NE-12265": {
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518296452/ZW/HE/RE/37895958/whirlpool-205-genius-cls-plus-3s-sherry-wine-z-single-door-fridge-1000x1000.jpg",
+  "domain": "indiamart.com",
+  "matched_title": "Exact series/star/color match: 205 GENIUS CLS PLUS 3S SHERRY WINE-Z (also listed on bajajfinserv.in). Suffix differs (-Z vs -Y).",
+  "query_used": ""
+ },
+ "NE-09768": {
+  "image_url": "https://www.sathya.store/img/product/B5Vgfuq4ZwYktlix.png",
+  "domain": "sathya.store",
+  "matched_title": "Exact series/star/color match: 205 IMPC PRM INV 5 Star Radiant Steel-Y.",
+  "query_used": ""
+ },
+ "NE-09769": {
+  "image_url": "https://electronicparadise.in/cdn/shop/files/168184-800-auto_3abceebb-4dbf-43a2-922d-75f1777153db.webp",
+  "domain": "electronicparadise.in",
+  "matched_title": "Exact series/star/color match: 205 IMPC PRM 3S Wine Serena-Z (also on nikshanonline, pittappillilonline). Suffix differs (-Z vs -Y).",
+  "query_used": ""
+ },
+ "NE-09774": {
+  "image_url": "https://www.thechennaimobiles.com/_next/image?url=https%3A%2F%2Fapi.thechennaimobiles.com%2F1716386124695.webp&w=1600&q=75",
+  "domain": "thechennaimobiles.com",
+  "matched_title": "Exact series/star/color match: 205 IMPC ROY 2S Sapphire Belita-Z (also on bajajfinserv.in). Suffix differs (-Z vs -Y).",
+  "query_used": ""
+ },
+ "NE-12268": {
+  "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/refrigerator-new/y/m/y/-original-imagqujvuhqfnmqj.jpeg?q=20",
+  "domain": "flipkart.com",
+  "matched_title": "Exact series/star/color match: 215 IMPC ROY 5S INV Sapphire Enchant-Z, listed on Flipkart, Bajaj Finserv and Chozha D2H. Suffix differs (-Z vs -Y).",
+  "query_used": ""
+ },
+ "NE-09803": {
+  "image_url": "https://aaravelectronics.com/cdn/shop/files/168661-800-auto.webp?v=1785504193",
+  "domain": "aaravelectronics.com",
+  "matched_title": "Exact string match found: '215 IMPRO GD PRM 3S Crystal Black-Y' (aaravelectronics.com, model 73643).",
+  "query_used": ""
+ },
+ "NE-12269": {
+  "image_url": "https://www.navinmart.com/cdn/shop/files/1_56f3ad11-011f-45c9-91da-a265d81cf7ff.webp?v=1785409107&width=1000",
+  "domain": "www.navinmart.com",
+  "matched_title": "Exact match: 192L 5 Star Inverter Glass Door Ruby Swarna-Y single door refrigerator.",
+  "query_used": ""
+ },
+ "NE-09808": {
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/REF_DC/IT00126782-550x550.jpg",
+  "domain": "harshaindia.com",
+  "matched_title": "Exact model code match (73652) confirmed on retailer listing titled '215 Icemagic pro GD Roy 3S Crystal Black 73652'.",
+  "query_used": ""
+ },
+ "NE-09809": {
+  "image_url": "https://cdn.moglix.com/p/yNnPCmoZOEVSV-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Colour, series (GD ROY) and star rating match exactly ('215 ROY GD 3S' Rubi Swarna); listed capacity shown as 207L vs typical 192L, a common labeling variance for this family.",
+  "query_used": ""
+ },
+ "NE-12274": {
+  "image_url": "https://salesindia.com/media/catalog/product/cache/6d3f693bbb26adda7ca0b9b35d930444/i/m/image_1_415.jpg",
+  "domain": "salesindia.com",
+  "matched_title": "Exact match: '215 IMPRO ROY 3S COOL ILLUSIA-Z' - capacity/colour/series/star all align (suffix Z vs Y is a batch code, not a real difference).",
+  "query_used": ""
+ },
+ "NE-09842": {
+  "image_url": "https://media-assets.hyperinvento.com/companies/4eb88cf2-7f89-4c4d-8867-e1af885e4e80/products/63271f8f-b8ca-4f54-9c1b-7f56c863fd06/featureds/images/d070806c1f3b4503b0c9c3a9f6cb410a-product-featured-lg.jpg",
+  "domain": "dynamicdistributors.in",
+  "matched_title": "Retailer's own listing for SKU 215 VMPRO PRM 3S ALPHA STEEL-Z (73131) serves this photo; on-page copy inconsistently labels it 'Aura Steel' but the SKU/URL is Alpha Steel.",
+  "query_used": ""
+ },
+ "NE-09843": {
+  "image_url": "https://media-assets.hyperinvento.com/companies/4eb88cf2-7f89-4c4d-8867-e1af885e4e80/products/63271f8f-b8ca-4f54-9c1b-7f56c863fd06/featureds/images/d070806c1f3b4503b0c9c3a9f6cb410a-product-featured-lg.jpg",
+  "domain": "dynamicdistributors.in",
+  "matched_title": "Exact match: retailer page text explicitly confirms 'Aura Steel' finish for 215 VMPRO PRM 3S.",
+  "query_used": ""
+ },
+ "NE-12280": {
+  "image_url": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact match: '260 IMPRO PLUS ROY 5S INV WINE Breeze-Z', 236L - colour/series/star all align.",
+  "query_used": ""
+ },
+ "NE-12282": {
+  "image_url": "https://cdn.moglix.com/p/vLV6Q62UK7j60-xxlarge.jpg",
+  "domain": "www.moglix.com",
+  "matched_title": "Exact match: '200 IMPC PRM 1S Sapphire Gloria-Z', 180L single door refrigerator.",
+  "query_used": ""
+ },
+ "NE-09892": {
+  "image_url": "https://i0.wp.com/sacshomeappliances.com/wp-content/uploads/2021/05/71620_front_1200x1200_1.png?fit=600%2C600&ssl=1",
+  "domain": "sacshomeappliances.com",
+  "matched_title": "Exact match: '205 IMPC PRM 3S Lumina Steel', 190L single door refrigerator.",
+  "query_used": ""
+ },
+ "NE-09928": {
+  "image_url": "https://www.bharathelectronics.in/uploads/products/1760622569480-81afSsSwiXL._SL1500_.jpg",
+  "domain": "bharathelectronics.in",
+  "matched_title": "Exact name match ('Neo 278GD PRM Karigari 2S TL', model 22224 vs target 22330 - likely a batch code variant of the same product).",
+  "query_used": ""
+ },
+ "NE-09930": {
+  "image_url": "https://media-assets.hyperinvento.com/companies/4eb88cf2-7f89-4c4d-8867-e1af885e4e80/products/666e7acb-82de-4597-8a5f-2a66e2e3da68/featureds/images/d8f218718a614fc2b50eef4a9440ea13-product-featured-lg.jpg",
+  "domain": "dynamicdistributors.in",
+  "matched_title": "Exact match: 'NEO 278GD PRM SWARNA RUBY(2S)-TL' - colour/series/star all align.",
+  "query_used": ""
+ },
+ "NE-09933": {
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/519787039/LS/RF/KU/37895958/whirlpool-ifpro-inv-cnv-278-alpha-steel-2s-tl-double-door-refrigerator-1000x1000.jpg",
+  "domain": "indiamart.com",
+  "matched_title": "Exact match: 'IFPRO INV CNV 278 Alpha Steel TL Double Door Refrigerator' - colour/series/capacity/star all align.",
+  "query_used": ""
+ },
+ "NE-12283": {
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/7/523724449/CM/FG/RR/37895958/whirlpool-ifpro-inv-cnv-278-illusia-steel-tl-double-door-refrigerator-1000x1000.jpg",
+  "domain": "indiamart.com",
+  "matched_title": "Exact match: 'IFPRO INV CNV 278 Illusia Steel -TL Double Door Refrigerator' - colour/series/capacity/star all align.",
+  "query_used": ""
+ },
+ "NE-12285": {
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_b891158c-1285-4d64-ab13-949cd87857bb.png?v=1727519490&width=1946",
+  "domain": "ankurelectricals.com",
+  "matched_title": "Exact match: 'IF INV ELT 305GD CRYSTAL MIRROR (2S)-TL', 259L double door refrigerator.",
+  "query_used": ""
+ },
+ "NE-12288": {
+  "image_url": "https://www.navinmart.com/cdn/shop/files/image_1b171d38-d87e-4906-9c31-b466e2073e14.jpg?v=1784961839&width=640",
+  "domain": "navinmart.com",
+  "matched_title": "Exact match: 'Whirlpool refrigerator IFPRO INV CNV 355GD Jade Marble 2S', 308L.",
+  "query_used": ""
+ },
+ "NE-12289": {
+  "image_url": "https://salesindia.com/media/catalog/product/cache/6d3f693bbb26adda7ca0b9b35d930444/i/m/image_1_567.jpg",
+  "domain": "salesindia.com",
+  "matched_title": "Exact match: 'IFPRO BM INV CNV 340 OMEGA STEEL (2S)-Z', 285L bottom-mount double door refrigerator.",
+  "query_used": ""
+ }
+}

@@ -1,0 +1,240 @@
+[
+ {
+  "product_id": "NE-00086",
+  "product_name": "Castle Double Bedsheet Set (DBS)",
+  "model_code": "DBD:1082957 / SBD:1083520",
+  "category": "Bedsheet Range",
+  "sub_category": "Castle"
+ },
+ {
+  "product_id": "NE-00087",
+  "product_name": "Ultima Double Bedsheet Set (DBS)",
+  "model_code": "DBD:1082685 / SBD:1082952",
+  "category": "Bedsheet Range",
+  "sub_category": "Ultima"
+ },
+ {
+  "product_id": "NE-00160",
+  "product_name": "Neo-Soft Double Bedsheet",
+  "model_code": "1082967",
+  "category": "Bedsheet Range",
+  "sub_category": "Neo-Soft"
+ },
+ {
+  "product_id": "NE-00185",
+  "product_name": "Neo-Fit Fitted Bedsheet",
+  "model_code": "1083327",
+  "category": "Bedsheet Range",
+  "sub_category": "Neo-Fit"
+ },
+ {
+  "product_id": "NE-00187",
+  "product_name": "Crowning Touch Bedsheet",
+  "model_code": "1083077",
+  "category": "Bedsheet Range",
+  "sub_category": "Crowning Touch"
+ },
+ {
+  "product_id": "NE-00193",
+  "product_name": "Symphony Bedsheet",
+  "model_code": "1082259",
+  "category": "Bedsheet Range",
+  "sub_category": "Symphony"
+ },
+ {
+  "product_id": "NE-00200",
+  "product_name": "Expression Double Bedsheet",
+  "model_code": "1075486",
+  "category": "Bedsheet Range",
+  "sub_category": "Expression"
+ },
+ {
+  "product_id": "NE-00212",
+  "product_name": "Comfia King Size Double Bedsheet Set",
+  "model_code": "1083083",
+  "category": "Bedsheet Range",
+  "sub_category": "Comfia"
+ },
+ {
+  "product_id": "NE-00213",
+  "product_name": "Rangana Gold Double Bedsheet",
+  "model_code": "1077500",
+  "category": "Bedsheet Range - Rangana Gold",
+  "sub_category": "Rangana Gold"
+ },
+ {
+  "product_id": "NE-00217",
+  "product_name": "Ritu Kumar Home Double Bedsheet (DBS)",
+  "model_code": "1077758",
+  "category": "Bedsheet Range - Ritu Kumar Home",
+  "sub_category": "Ritu Kumar Home"
+ },
+ {
+  "product_id": "NE-00224",
+  "product_name": "Embrace Double Bed Reversible Comforter",
+  "model_code": "",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "sub_category": "Embrace"
+ },
+ {
+  "product_id": "NE-00233",
+  "product_name": "Lux Touch Double Bed Dohar",
+  "model_code": "1077950",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "sub_category": "Lux Touch"
+ },
+ {
+  "product_id": "NE-00235",
+  "product_name": "Ultima Charm Quilt",
+  "model_code": "",
+  "category": "Comforter, Dohar, Quilt & BIAB Range",
+  "sub_category": "Ultima"
+ },
+ {
+  "product_id": "NE-00241",
+  "product_name": "Rangana Bed in a Bag",
+  "model_code": "",
+  "category": "Comforter, Dohar, Quilt & BIAB Range - Rangana Gold",
+  "sub_category": "Rangana Gold"
+ },
+ {
+  "product_id": "NE-00242",
+  "product_name": "Ritu Kumar Dohar & Bedsheet Set",
+  "model_code": "",
+  "category": "Comforter, Dohar, Quilt & BIAB Range - Ritu Kumar Home",
+  "sub_category": "Ritu Kumar Home"
+ },
+ {
+  "product_id": "NE-00249",
+  "product_name": "Mink Moment Double Bed Blanket - 1.5 KG",
+  "model_code": "1077451",
+  "category": "Blanket Range",
+  "sub_category": "Mink Moment"
+ },
+ {
+  "product_id": "NE-00250",
+  "product_name": "Soft Scape Double Bed Blanket - 2.5 KG",
+  "model_code": "1077454",
+  "category": "Blanket Range",
+  "sub_category": "Soft Scape"
+ },
+ {
+  "product_id": "NE-00251",
+  "product_name": "Rangana Gold Double Blanket - 3 KG",
+  "model_code": "1077459",
+  "category": "Blanket Range - Rangana Gold",
+  "sub_category": "Rangana Gold"
+ },
+ {
+  "product_id": "NE-00265",
+  "product_name": "Serenity Double Bed Blanket - 4 KG",
+  "model_code": "1077461",
+  "category": "Blanket Range",
+  "sub_category": "Serenity"
+ },
+ {
+  "product_id": "NE-00266",
+  "product_name": "Wimbledon Sports Towel",
+  "model_code": "1074458",
+  "category": "Bath Range",
+  "sub_category": "Wimbledon"
+ },
+ {
+  "product_id": "NE-00267",
+  "product_name": "Elite Splendor Face Towel Set of 3",
+  "model_code": "1076911",
+  "category": "Bath Range",
+  "sub_category": "Elite Splendor"
+ },
+ {
+  "product_id": "NE-00269",
+  "product_name": "Elite Splendor Hand Towel Set of 2",
+  "model_code": "1076896",
+  "category": "Bath Range",
+  "sub_category": "Elite Splendor"
+ },
+ {
+  "product_id": "NE-00270",
+  "product_name": "Amaze Towel Set of 2 Hand Towels",
+  "model_code": "",
+  "category": "Bath Range",
+  "sub_category": "Amaze"
+ },
+ {
+  "product_id": "NE-00271",
+  "product_name": "Cotton Bamboo Hand Towel Set of 2",
+  "model_code": "1077707",
+  "category": "Bath Range",
+  "sub_category": "Cotton Bamboo"
+ },
+ {
+  "product_id": "NE-00274",
+  "product_name": "Hygrocotton Hand Towel Set of 2",
+  "model_code": "",
+  "category": "Bath Range",
+  "sub_category": "Hygrocotton"
+ },
+ {
+  "product_id": "NE-00277",
+  "product_name": "Cloud Twist Set of 2 Hand Towels",
+  "model_code": "1077523",
+  "category": "Bath Range",
+  "sub_category": "Cloud Twist"
+ },
+ {
+  "product_id": "NE-00278",
+  "product_name": "Spaces Elara Set of 2 Hand Towel",
+  "model_code": "1077528",
+  "category": "Bath Range",
+  "sub_category": "Spaces Elara"
+ },
+ {
+  "product_id": "NE-00279",
+  "product_name": "Elite Splendor 3 Pc Towel Set",
+  "model_code": "1076921",
+  "category": "Bath Range",
+  "sub_category": "Elite Splendor"
+ },
+ {
+  "product_id": "NE-00288",
+  "product_name": "Cotton Bamboo Bath Towel",
+  "model_code": "1077704",
+  "category": "Bath Range",
+  "sub_category": "Cotton Bamboo"
+ },
+ {
+  "product_id": "NE-00290",
+  "product_name": "Hygrocotton Bath Towel",
+  "model_code": "",
+  "category": "Bath Range - HygroCotton Technology",
+  "sub_category": "Hygrocotton (Spaces Innovations)"
+ },
+ {
+  "product_id": "NE-00291",
+  "product_name": "Cotton Bamboo 3PC Towel Set",
+  "model_code": "1077710",
+  "category": "Bath Range",
+  "sub_category": "Cotton Bamboo"
+ },
+ {
+  "product_id": "NE-00292",
+  "product_name": "Bath Carnival 4PC Towel Set",
+  "model_code": "1077469",
+  "category": "Bath Range",
+  "sub_category": "Bath Carnival"
+ },
+ {
+  "product_id": "NE-00294",
+  "product_name": "Bath Carnival 6 PC Towel Set",
+  "model_code": "1077473",
+  "category": "Bath Range",
+  "sub_category": "Bath Carnival"
+ },
+ {
+  "product_id": "NE-00295",
+  "product_name": "Chair Towel",
+  "model_code": "",
+  "category": "Bath Range",
+  "sub_category": "Chair Towel"
+ }
+]

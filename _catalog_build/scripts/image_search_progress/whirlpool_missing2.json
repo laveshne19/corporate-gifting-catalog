@@ -231,30 +231,9 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-09589",
-  "product_name": "NEO 305GD PRM SWARNA RUBY(2S)-TL",
-  "model_code": "22225",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-09592",
-  "product_name": "NEO 258LH CLS PLS Midnight Athena(2S)-TL",
-  "model_code": "22079",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
   "product_id": "NE-09595",
   "product_name": "IF 278 ARTEMIS STEEL(2S) CONV-TL",
   "model_code": "22204",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-09597",
-  "product_name": "IF INV CNV 455 ALPHA STEEL(1s)-Z",
-  "model_code": "22208",
   "category": "Home Appliances",
   "sub_category": "Refrigerator"
  },
@@ -292,13 +271,6 @@
   "model_code": "33042",
   "category": "Home Appliances",
   "sub_category": "FLT"
- },
- {
-  "product_id": "NE-09616",
-  "product_name": "NEO 278GD PRM SWARNA EMERALD(2S)-TL",
-  "model_code": "22222",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
  },
  {
   "product_id": "NE-09624",
@@ -504,13 +476,6 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-09694",
-  "product_name": "205 IMPC PRM 2S BLACK SPARKLE-Z",
-  "model_code": "73521",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
   "product_id": "NE-09695",
   "product_name": "205 IMPC PRM 2S SAPPHIRE MAGNOLIA-Z",
   "model_code": "73522",
@@ -518,23 +483,9 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-09696",
-  "product_name": "IFPRO INV CNV 375GD CRYSTAL MIRROR(2S)-T",
-  "model_code": "22248",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
   "product_id": "NE-09697",
   "product_name": "NEO SP278 PRM WINE ROSE(2S)-TL",
   "model_code": "22249",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-09698",
-  "product_name": "NEO SP278 PRM SAPPHIRE ROSE(2S)-TL",
-  "model_code": "22250",
   "category": "Home Appliances",
   "sub_category": "Refrigerator"
  },
@@ -581,32 +532,11 @@
   "sub_category": "Refrigerator"
  },
  {
-  "product_id": "NE-09742",
-  "product_name": "3DCOOL HC 15T 3S INV EXP S6M2PP0",
-  "model_code": "41507",
-  "category": "Home Appliances",
-  "sub_category": "Air Conditioner"
- },
- {
   "product_id": "NE-09744",
   "product_name": "XS9014BYME-(DD+Dist)",
   "model_code": "33049",
   "category": "Home Appliances",
   "sub_category": "FLT"
- },
- {
-  "product_id": "NE-12263",
-  "product_name": "205 GENIUS CLS PLUS 2S COSMIC GREY-Y",
-  "model_code": "73577",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-12265",
-  "product_name": "205 GENIUS CLS PLUS 3S SHERRY WINE-Y",
-  "model_code": "73579",
-  "category": "Home Appliances",
-  "sub_category": "DC"
  },
  {
   "product_id": "NE-12266",
@@ -626,20 +556,6 @@
   "product_id": "NE-09764",
   "product_name": "205 IMPC PRM 2S WINE SPRING-Y",
   "model_code": "73587",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09768",
-  "product_name": "205 IMPC PRM INV 5S RADIANT STEEL-Y(Dist-DD)",
-  "model_code": "73591",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09769",
-  "product_name": "205 IMPC PRM 3S WINE SERENA-Y",
-  "model_code": "73592",
   "category": "Home Appliances",
   "sub_category": "DC"
  },
@@ -672,13 +588,6 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-09774",
-  "product_name": "205 IMPC ROY 2S SAPPHIRE BELITA-Y",
-  "model_code": "73597",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
   "product_id": "NE-09781",
   "product_name": "205 IMPC ROY INV 5S PURPLE BLOSSOM-Y(Dist-DD)",
   "model_code": "73605",
@@ -707,44 +616,9 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-12268",
-  "product_name": "215 IMPC ROY 5S Inv Sapphire Enchant-Y(DD+Dist)",
-  "model_code": "73641",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09803",
-  "product_name": "215 IMPRO GD PRM 3S CRYSTAL BLACK-Y",
-  "model_code": "73643",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
   "product_id": "NE-09806",
   "product_name": "215 IMPRO GD PRM 5S INV KARIGARI-Y",
   "model_code": "73649",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-12269",
-  "product_name": "215 IMPRO GD PRM 5S INV RUBY SWARNA-Y",
-  "model_code": "73651",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09808",
-  "product_name": "215 IMPRO GD ROY 3S CRYSTAL BLACK-Y",
-  "model_code": "73652",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09809",
-  "product_name": "215 IMPRO GD ROY 3S RUBY SWARNA-Y",
-  "model_code": "73654",
   "category": "Home Appliances",
   "sub_category": "DC"
  },
@@ -784,27 +658,6 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-12274",
-  "product_name": "215 IMPRO ROY 3S COOL ILLUSIA-Y",
-  "model_code": "73675",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09842",
-  "product_name": "215 VMPRO PRM 3S ALPHA STEEL-Y",
-  "model_code": "73692",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09843",
-  "product_name": "215 VMPRO PRM 3S AURA STEEL-Y(Dist-DD)",
-  "model_code": "73693",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
   "product_id": "NE-09845",
   "product_name": "230 IMPRO GD PRM 3S CRYSTAL BLACK-Y",
   "model_code": "73703",
@@ -833,13 +686,6 @@
   "sub_category": "DC"
  },
  {
-  "product_id": "NE-12280",
-  "product_name": "260 IMPRO PLUS ROY 5S INV WINE BREEZE-Y",
-  "model_code": "73759",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
   "product_id": "NE-09881",
   "product_name": "305 IMPRO PLUS PRM 2S ALPHA STEEL-Y",
   "model_code": "73772",
@@ -850,20 +696,6 @@
   "product_id": "NE-12281",
   "product_name": "200 GENIUS CLS PLUS 1S WINE HARMONY-Y",
   "model_code": "73778",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-12282",
-  "product_name": "200 IMPC PRM 1S SAPPHIRE GLORIA-Y",
-  "model_code": "73780",
-  "category": "Home Appliances",
-  "sub_category": "DC"
- },
- {
-  "product_id": "NE-09892",
-  "product_name": "205 IMPC PRM 3S LUMINA STEEL-Y",
-  "model_code": "73789",
   "category": "Home Appliances",
   "sub_category": "DC"
  },
@@ -882,23 +714,9 @@
   "sub_category": "Refrigerator"
  },
  {
-  "product_id": "NE-09928",
-  "product_name": "NEO 278GD PRM KARIGARI(2S)-Y",
-  "model_code": "22330",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
   "product_id": "NE-09929",
   "product_name": "NEO 278GD PRM SWARNA EMERALD(2S)-Y",
   "model_code": "22331",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-09930",
-  "product_name": "NEO 278GD PRM SWARNA RUBY(2S)-Y",
-  "model_code": "22332",
   "category": "Home Appliances",
   "sub_category": "Refrigerator"
  },
@@ -910,20 +728,6 @@
   "sub_category": "Refrigerator"
  },
  {
-  "product_id": "NE-09933",
-  "product_name": "IFPRO INV CNV 278 ALPHA STEEL(2s)-Y-(G30-Top TP)",
-  "model_code": "22338",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-12283",
-  "product_name": "IFPRO INV CNV 278 ILLUSIA STEEL(2S)-Y",
-  "model_code": "22343",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
   "product_id": "NE-09943",
   "product_name": "NEO SP305 PRM IMPERIAL STEEL(1S)-Y",
   "model_code": "22372",
@@ -931,30 +735,9 @@
   "sub_category": "Refrigerator"
  },
  {
-  "product_id": "NE-12285",
-  "product_name": "IF INV ELT 305GD CRYSTAL MIRROR(2S)-Y",
-  "model_code": "22384",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
   "product_id": "NE-12287",
   "product_name": "IFPRO INV CNV PLATINA 355 ILLUSIA(2S)-Y",
   "model_code": "22412",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-12288",
-  "product_name": "IFPRO INV CNV 355GD JADE MARBLE(2S)-Y",
-  "model_code": "22419",
-  "category": "Home Appliances",
-  "sub_category": "Refrigerator"
- },
- {
-  "product_id": "NE-12289",
-  "product_name": "IFPRO BM INV CNV 340 OMEGA STEEL(2S)-Y",
-  "model_code": "22422",
   "category": "Home Appliances",
   "sub_category": "Refrigerator"
  }

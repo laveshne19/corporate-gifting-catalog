@@ -1,0 +1,940 @@
+[
+ {
+  "product_id": "NE-07503",
+  "product_name": "CF APOLLO LX 1200MM BROWN 1ST N ISI",
+  "model_code": "11ALSBRN1EPWI4DIXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-07506",
+  "product_name": "CF ENERGIA 1200MM WHITE 1ST N ISI",
+  "model_code": "11EISWHT1EPWI4DIXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-07509",
+  "product_name": "CF STRIKER NEO 1200MM WHITE 1ST N ISI",
+  "model_code": "11SRSWHT1CPWI4DIXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12085",
+  "product_name": "CEILINGFAN 1200MM ENERGIA 32 WH W/O REG",
+  "model_code": "111044931ST5W",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12086",
+  "product_name": "1200MM TECHNOAIR 5STAR W/O REG R.WH CF",
+  "model_code": "11104IP11ST5W",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12087",
+  "product_name": "1200MM TECHNOAIR 5STAR W/O REG  R.IV CF",
+  "model_code": "11104IP31ST5W",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12088",
+  "product_name": "CF 1200MM TECHNOAIR BLDC M WHITE REG 5ST",
+  "model_code": "11114TAM1211ST5",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-07527",
+  "product_name": "CF ALLURE DLX 4BLD 1200MM RICH IVORY 1ST",
+  "model_code": "11AL4SRIV1DPWI2DAX",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-07530",
+  "product_name": "CF ALDORA 1320MM BR BLK CHROME",
+  "model_code": "11ALDIBBC0AEWI1DAX",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07531",
+  "product_name": "CF ALDORA 1320MM BRUSH NICKEL",
+  "model_code": "11ALDIBNK0AEWI1DAX",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07532",
+  "product_name": "CF ALDORA 1320MM ANTIQUE BRASS ISI",
+  "model_code": "11ALIANB0AEWI1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07533",
+  "product_name": "CF ALDORA 1320MM ANTIQUE BRASS 1ST ISI",
+  "model_code": "11ALIANB1AEWI1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07534",
+  "product_name": "CF ALDORA 1320MM ANTIQUE COPPER ISI",
+  "model_code": "11ALIANC0AEWI1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07535",
+  "product_name": "CF ALDORA 1320MM ANTIQUE COPPER 1ST ISI",
+  "model_code": "11ALIANC1AEWI1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07536",
+  "product_name": "CF ALDORA 1320MM BRUSH BLACK CHROME ISI",
+  "model_code": "11ALIBBC0AEWI1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07539",
+  "product_name": "CF ALLURE DLX 1200MM IVORY 1ST ISI",
+  "model_code": "11ALSIVY1DPWI2DIXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-07674",
+  "product_name": "CF EX9 1220MM SPARKLE WHITE BLUE G",
+  "model_code": "11EX9CSWB0AGWI1DAX",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-07680",
+  "product_name": "CF EX9 1215MM SPARKLE WHITE BLUE G",
+  "model_code": "11EX9KSWB0AGWI1DAH",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-12124",
+  "product_name": "100MM CRISP AIR PREMIA AF VENT. STN STEE",
+  "model_code": "151063293",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12125",
+  "product_name": "150MM CRISP AIR PREMIA AF VENT. STN STEE",
+  "model_code": "151093293",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12126",
+  "product_name": "CF 1067 MM USHA HUNTER BAYPORT BRASS BR",
+  "model_code": "111033428H",
+  "category": "Home Appliances & Fans",
+  "sub_category": "LIFE STYLE"
+ },
+ {
+  "product_id": "NE-12127",
+  "product_name": "CF 1067 MM USHA HUNTER BAYPORT BRS NIKL",
+  "model_code": "111033430H",
+  "category": "Home Appliances & Fans",
+  "sub_category": "LIFE STYLE"
+ },
+ {
+  "product_id": "NE-12128",
+  "product_name": "1300MM USHA HUNTER CABO FRIO NEW BRONZE",
+  "model_code": "111054228H",
+  "category": "Home Appliances & Fans",
+  "sub_category": "LIFE STYLE"
+ },
+ {
+  "product_id": "NE-12129",
+  "product_name": "TF STRIKER PLUS HI SPEED 400MM BLACK ISI",
+  "model_code": "12STBBLB0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Table Fans"
+ },
+ {
+  "product_id": "NE-12130",
+  "product_name": "TF STRIKER PLUS HI SPEED 400MM BLUE ISI",
+  "model_code": "12STBBLW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Table Fans"
+ },
+ {
+  "product_id": "NE-12131",
+  "product_name": "TF STRIKER PLUS HI SPEED 400MM RED ISI",
+  "model_code": "12STBRDW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Table Fans"
+ },
+ {
+  "product_id": "NE-12132",
+  "product_name": "TF STRIKER PLUS HI SPEED 400MM WHITE ISI",
+  "model_code": "12STBWHT0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Table Fans"
+ },
+ {
+  "product_id": "NE-12133",
+  "product_name": "PF FARRATTA OSCILATING 500MM GREY ISI",
+  "model_code": "13FRDGRY0DPWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans Farratta"
+ },
+ {
+  "product_id": "NE-12134",
+  "product_name": "PF STRIKER PLUS HI SPEED 400MM BLACK ISI",
+  "model_code": "13STBBLB0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans"
+ },
+ {
+  "product_id": "NE-12135",
+  "product_name": "PF STRIKER PLUS HI SPEED 400MM BLUE ISI",
+  "model_code": "13STBBLW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans"
+ },
+ {
+  "product_id": "NE-12136",
+  "product_name": "PF STRIKER PLUS HI SPEED 400MM RED ISI",
+  "model_code": "13STBRDW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans"
+ },
+ {
+  "product_id": "NE-12137",
+  "product_name": "PF STRIKER PLUS HI SPEED 400MM WHITE ISI",
+  "model_code": "13STBWHT0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans"
+ },
+ {
+  "product_id": "NE-12138",
+  "product_name": "WF COLOSSUS 400MM RED ALUM BLD ISI",
+  "model_code": "14COBRED0CPWI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12139",
+  "product_name": "WF CYCLOTRON 400MM BLACK ISI",
+  "model_code": "14CYBBLK0CPWI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12140",
+  "product_name": "WF MIST AIR FLO 400MM WHITE ISI",
+  "model_code": "14MFBWHT0CPWI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12141",
+  "product_name": "WF MAXX AIR 400MM BLUE WHITE WR ISI",
+  "model_code": "14MXBBLW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12142",
+  "product_name": "WF MAXX AIR 400MM ORANGE WHITE WR ISI",
+  "model_code": "14MXBORW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12143",
+  "product_name": "WF MAXX AIR 400MM PURPLE WHITE WR ISI",
+  "model_code": "14MXBPRW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12144",
+  "product_name": "WF MAXX AIR 400MM RED WHITE WR ISI",
+  "model_code": "14MXBRDW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12145",
+  "product_name": "WF MAXX AIR 400MM WHITE WR ISI",
+  "model_code": "14MXBWHT0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12146",
+  "product_name": "WF STRIKER PLUS HI SPEED 400MM BLACK ISI",
+  "model_code": "14STBBLB0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12147",
+  "product_name": "WF STRIKER PLUS HI SPEED 400MM BLUE ISI",
+  "model_code": "14STBBLW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12148",
+  "product_name": "WF STRIKER PLUS HI SPEED 400MM RED ISI",
+  "model_code": "14STBRDW0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12149",
+  "product_name": "WF STRIKER PLUS HI SPEED 400MM WHITE ISI",
+  "model_code": "14STBWHT0DMXI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12150",
+  "product_name": "EF CRISP AIR VX 200MM BLACK ISI",
+  "model_code": "15CARBLK0HPWI6DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12151",
+  "product_name": "EF STRIKER HIGH SPEED 200MM BLACK ISI",
+  "model_code": "15SHRBLK0HPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12152",
+  "product_name": "EF CRISP AIR VX 250MM BLACK ISI",
+  "model_code": "15CASBLK0HPWI6DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12153",
+  "product_name": "EF CRISP AIR VX 150MM BLACK ISI",
+  "model_code": "15CAQBLK0HPWI6DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12154",
+  "product_name": "EF STRIKER HIGH SPEED 150MM BLACK ISI",
+  "model_code": "15SHQBLK0HPWI6DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12155",
+  "product_name": "EF CRISP AIR AX HIGH SPEED 150MM WH ISI",
+  "model_code": "15CAQWHT0COWI9DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12156",
+  "product_name": "EF CRISP AIR AX HIGH SPEED 100MM WH ISI",
+  "model_code": "15CAVWHT0COWIADAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Exhaust Fans"
+ },
+ {
+  "product_id": "NE-12157",
+  "product_name": "PF TURBO 180 450MM BLACK METAL BLADE ISI",
+  "model_code": "13TUCBLK0DPWI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Pedestal Fans"
+ },
+ {
+  "product_id": "NE-12158",
+  "product_name": "WF TURBO 180 450MM BLACK METAL BLADE ISI",
+  "model_code": "14TUCBLK0DPWI1DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Wall Fans"
+ },
+ {
+  "product_id": "NE-12159",
+  "product_name": "CF RACER CHROME 600MM SMOKE BR 1ST N ISI",
+  "model_code": "11RNASMB1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12160",
+  "product_name": "CF RACER CHROME 900MM SMOKE BR 1ST N ISI",
+  "model_code": "11RNBSMB1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12161",
+  "product_name": "CF RACER CHROME 1200MM RICH BR 1ST N ISI",
+  "model_code": "11RNSRBR1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12162",
+  "product_name": "CF RACER CHROME 1200MM RICH IV 1ST N ISI",
+  "model_code": "11RNSRIV1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12163",
+  "product_name": "CFRACER CHROM 1200MM R WH BRONZ 1STN ISI",
+  "model_code": "11RNSRWB1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12164",
+  "product_name": "CFRACER CHROM 1200MM R WH SILVR 1STN ISI",
+  "model_code": "11RNSRWS1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12165",
+  "product_name": "CF RACER CHROME 1200MM SMOKE BR 1STN ISI",
+  "model_code": "11RNSSMB1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12166",
+  "product_name": "CFSTRIKER GALAXY 1200MM WGLDTRM 1STN ISI",
+  "model_code": "11GASWGT1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12167",
+  "product_name": "CFSTRIKER NEO 1200MM COCOA BEAN 1STN ISI",
+  "model_code": "11NESCBN1CPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12168",
+  "product_name": "CFSTRIKER GALAXY 1200MM DRK GRY 1STN ISI",
+  "model_code": "11GASDGR1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12169",
+  "product_name": "CF STRIKER MILL 1200MM FRIARGRY 1STN ISI",
+  "model_code": "11SMSFRG1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12170",
+  "product_name": "CFSTRIKER NEO 1200MM GREY BROWN 1STN ISI",
+  "model_code": "11NESGRB1CPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12171",
+  "product_name": "CFSTRIKER PLAT 1200MM LAV CHRM 1ST N ISI",
+  "model_code": "11SPSLCR1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12172",
+  "product_name": "CFSTRIKER GALAXY 1200MM MLD GRY 1STN ISI",
+  "model_code": "11GASMGR1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12173",
+  "product_name": "CFSTRIKER GALAXY 1200MM BRTGOLD 1STN ISI",
+  "model_code": "11GASBRG1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12174",
+  "product_name": "CFSTRIKER NEO 1200MM SHUTTLEGRY 1STN ISI",
+  "model_code": "11NESSHG1CPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12175",
+  "product_name": "CF SUPER STRIKER 1200MM DARKBRN 1STN ISI",
+  "model_code": "11SUSDBR1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12176",
+  "product_name": "CFSUPER STRIKER 1200MM SUVAGREY 1STN ISI",
+  "model_code": "11SUSSGY1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Hi Trends C Fans"
+ },
+ {
+  "product_id": "NE-12177",
+  "product_name": "CF STRIKER 600MM WHITE 1ST N ISI",
+  "model_code": "11STRAWH1CPWI4DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12178",
+  "product_name": "CF STRIKER 900MM WHITE 1ST N ISI",
+  "model_code": "11STRBWH1CPWI4DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12179",
+  "product_name": "CF STRIKER 1400MM WHITE 1ST N ISI",
+  "model_code": "11STRJWH1CPWI3DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12180",
+  "product_name": "CF STRIKER 1200MM GLOSSY BROWN 1ST N ISI",
+  "model_code": "11STRSGB1CPWI4DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12181",
+  "product_name": "CF STRIKER 1200MM WHITE 1ST N ISI",
+  "model_code": "11STRSWH1CPWI4DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Standard C Fans"
+ },
+ {
+  "product_id": "NE-12182",
+  "product_name": "CF INFINITY 1200MM WHITE 1ST N ISI",
+  "model_code": "11IFSWHT1EPWI4DTXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12183",
+  "product_name": "CF JET 1200MM RICH WHITE 1ST N ISI",
+  "model_code": "11JTSRWH1EPWI4DRXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12184",
+  "product_name": "CF RACER 900MM RICH WHITE 1ST N ISI",
+  "model_code": "11RNBRWH1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12185",
+  "product_name": "CF RACER 1200MM RICH BLUE 1ST N ISI",
+  "model_code": "11RNSRBU1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12186",
+  "product_name": "CF RACER 1200MM RICH RED 1ST N ISI",
+  "model_code": "11RNSRRD1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12187",
+  "product_name": "CF RACER 1200MM RICH WHITE 1ST N ISI",
+  "model_code": "11RCNSRW1EPWI4DAUI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12188",
+  "product_name": "CF SWIFT 600MM WHITE 1ST N ISI",
+  "model_code": "11SNAWHT1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12189",
+  "product_name": "CF SWIFT 900MM WHITE 1ST N ISI",
+  "model_code": "11SNBWHT1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12190",
+  "product_name": "CF SWIFT 1400MM WHITE 1ST N ISI",
+  "model_code": "11SNJWHT1EPWI3DAXI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12191",
+  "product_name": "CF SWIFT 1200MM WHITE 1ST N ISI",
+  "model_code": "11SWNSWH1EPWI4DAUI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Economy C Fans"
+ },
+ {
+  "product_id": "NE-12192",
+  "product_name": "CF FONTANA1230MM LOTUS GOLDIV 5NST RBISI",
+  "model_code": "11FOLDGI5AERB1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-12193",
+  "product_name": "CF FONTANA1250MM MAP ANTQBRAS 5NST RBISI",
+  "model_code": "11FOMEAB5AERB1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-12194",
+  "product_name": "CF FONTANA1270MM ONE ANTQBRAS 5NST RBISI",
+  "model_code": "11FO1FAB5AERB1DAHI",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Premium Fans"
+ },
+ {
+  "product_id": "NE-12195",
+  "product_name": "JMG NUTRIMATIC 500 W SANGRIA 3JAR",
+  "model_code": "40NPJMG195N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "JMG"
+ },
+ {
+  "product_id": "NE-12196",
+  "product_name": "MG 500 WATT MG3750 2JAR MIXER WHITE & BL",
+  "model_code": "40011375083N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12197",
+  "product_name": "MG 1000W TP1000MX3 THUNDERBOLTPRO BLACK",
+  "model_code": "4010001100041N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12198",
+  "product_name": "MG 1000W TP1000MX4 THUNDERBOLTPRO RED",
+  "model_code": "4010001100087N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12199",
+  "product_name": "MG 800W TH800MX3 THUNDERBOLT MAGENTA SPA",
+  "model_code": "408001080052N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12200",
+  "product_name": "MG 800W TRIENERGYPLTP800MX4 BLACK & MAGE",
+  "model_code": "408001TP800473N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12201",
+  "product_name": "MG 800W TRIENERGYPLTP800MX4 BLACK & BLUE",
+  "model_code": "408001TP800474N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12202",
+  "product_name": "MG 800W TRIENERGYPLTP800MX4 BLACK & LAVE",
+  "model_code": "408001TP800475N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12203",
+  "product_name": "MG 800W TRIENERGYPLTP800MX4 FF BLACK&RED",
+  "model_code": "408001TP800FF99N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "MG"
+ },
+ {
+  "product_id": "NE-12204",
+  "product_name": "RC18GS2 D RICE COOKER WHITE",
+  "model_code": "40RC18GS2D126N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12205",
+  "product_name": "RC18GS2 D RICE COOKER BLACK",
+  "model_code": "40RC18GS2D141N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12206",
+  "product_name": "RC18GS2 D RICE COOKER GOLD",
+  "model_code": "40RC18GS2D198N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12207",
+  "product_name": "RC18SS1 D RICE COOKER WHITE",
+  "model_code": "40RC18SS1D126N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12208",
+  "product_name": "RC18SS1 D RICE COOKER BLACK",
+  "model_code": "40RC18SS1D141N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12209",
+  "product_name": "RC18SS1 D RICE COOKER GOLD",
+  "model_code": "40RC18SS1D198N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "RICE COOKER"
+ },
+ {
+  "product_id": "NE-12210",
+  "product_name": "JMG 3345 PINK",
+  "model_code": "4003133450YN",
+  "category": "Home Appliances & Fans",
+  "sub_category": "JMG"
+ },
+ {
+  "product_id": "NE-12211",
+  "product_name": "OIL FILED RADIATOR OFR 4209 F PTC BLACK",
+  "model_code": "46695OFR4209FP4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12212",
+  "product_name": "OIL FILED RADIATOR OFR 4209 FU PTC BLACK",
+  "model_code": "46695OFR4209FU4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12213",
+  "product_name": "OIL FILED RADIATOR OFR 4211 F PTC BLACK",
+  "model_code": "46695OFR4211FP4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12214",
+  "product_name": "OIL FILED RADIATOR OFR 4211 FU PTC BLACK",
+  "model_code": "46695OFR4211FU4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12215",
+  "product_name": "OIL FILED RADIATOR OFR 4213 F PTC BLACK",
+  "model_code": "46695OFR4213FP4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12216",
+  "product_name": "OIL FILED RADIATOR OFR 4213 FU PTC BLACK",
+  "model_code": "46695OFR4213FU4",
+  "category": "Home Appliances & Fans",
+  "sub_category": "OFR"
+ },
+ {
+  "product_id": "NE-12217",
+  "product_name": "HEAT CONVECTOR 443C NONTHERMO ISI MAROON",
+  "model_code": "46831443C32N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "HC"
+ },
+ {
+  "product_id": "NE-12218",
+  "product_name": "DRY IRON EI 3160-M BLACK",
+  "model_code": "412313160M41N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "E Iron"
+ },
+ {
+  "product_id": "NE-12219",
+  "product_name": "EI 3702 1000W BLACK",
+  "model_code": "41221370235N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "E Iron"
+ },
+ {
+  "product_id": "NE-12220",
+  "product_name": "EI 3602 LW TEFLON BLUE",
+  "model_code": "41231360208N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "E Iron"
+ },
+ {
+  "product_id": "NE-12221",
+  "product_name": "EI 3602 LW TEFLON PINK",
+  "model_code": "4123136020YN",
+  "category": "Home Appliances & Fans",
+  "sub_category": "E Iron"
+ },
+ {
+  "product_id": "NE-12222",
+  "product_name": "SI TEFLON SI3813C 130OW PINK",
+  "model_code": "412413813C0YN",
+  "category": "Home Appliances & Fans",
+  "sub_category": "Steam Iron"
+ },
+ {
+  "product_id": "NE-12223",
+  "product_name": "DESERT COOLER MAXX AIR ULTRA 95MAUD1",
+  "model_code": "4658195MAUD126N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12224",
+  "product_name": "DESERT COOLER MAXX AIR ULTRA 70MAUD1",
+  "model_code": "4658170MAUD126N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12225",
+  "product_name": "AEROSTYLE DESERT ELECTRONIC 100ASD1E WHI",
+  "model_code": "46641100ASD1E93N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12226",
+  "product_name": "AERO STYLE DESERT ELECTRONIC 85ASD1E WHIT",
+  "model_code": "4664185ASD1E26N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12227",
+  "product_name": "AERO STYLE DESERT ELECTRONIC 105ASD1E WHI",
+  "model_code": "46641105ASD1E26N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12228",
+  "product_name": "DESERT AIRCOOLER RACERPLUS 80RD2 GRY&WH",
+  "model_code": "46RACER180RD251N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12229",
+  "product_name": "DESERT AIRCOOLER RACERPLUS 95RD2 GRY&WH",
+  "model_code": "46RACER195RD251N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12230",
+  "product_name": "DESERT COOLER AIR KING PLUS 120AKPD1",
+  "model_code": "4611120AKPD107N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12231",
+  "product_name": "DESERT COOLER AIR KING PLUS 150AKPD1",
+  "model_code": "4611150AKPD107N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12232",
+  "product_name": "DESERT COOLERS AERO STYLE 105ASD1 WHITE",
+  "model_code": "46641105ASD126N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12233",
+  "product_name": "DESERT COOLERS STRIKER ELEC  100SD1E",
+  "model_code": "46561100SD1E26N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "DESERT"
+ },
+ {
+  "product_id": "NE-12234",
+  "product_name": "PERSONAL COOLERS COOL BOY DLX 35 WHITE",
+  "model_code": "4663135CBDP11",
+  "category": "Home Appliances & Fans",
+  "sub_category": "PERSONAL"
+ },
+ {
+  "product_id": "NE-12235",
+  "product_name": "PERSONAL COOLERS COOLBOY BREEZE 40 WHITE",
+  "model_code": "4663140CBBP11N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "PERSONAL"
+ },
+ {
+  "product_id": "NE-12236",
+  "product_name": "AEROSTYLE TOWER ELECTRONIC 35AST1E WHITE",
+  "model_code": "4664135AST1E93N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "TOWER"
+ },
+ {
+  "product_id": "NE-12237",
+  "product_name": "AEROSTYLE TOWER ELECTRONIC 50AST1E WHITE",
+  "model_code": "4664150AST1E93N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "TOWER"
+ },
+ {
+  "product_id": "NE-12238",
+  "product_name": "TOWERCOOLER AEROSTYLE BREEZE 45ASBT3F",
+  "model_code": "4664145ASBT3F94N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "TOWER"
+ },
+ {
+  "product_id": "NE-12239",
+  "product_name": "TOWERCOOLER AEROSTYLE BREEZE 60ASBT3F",
+  "model_code": "4664145ASBT3F94N",
+  "category": "Home Appliances & Fans",
+  "sub_category": "TOWER"
+ }
+]
