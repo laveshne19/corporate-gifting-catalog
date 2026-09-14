@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": "NE-07506",
+    "product_name": "CF ENERGIA 1200MM WHITE 1ST N ISI",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/7/527323595/ZE/DZ/VL/84831426/usha-energia-ceiling-fan-500x500.jpg",
+    "source_domain": "www.indiamart.com",
+    "match_confidence": "medium",
+    "notes": "Generic Usha Energia 1200mm ceiling fan listing; exact 1-star / ISI trim not confirmed from photo."
+  },
+  {
+    "product_id": "NE-12087",
+    "product_name": "1200MM TECHNOAIR 5STAR W/O REG  R.IV CF",
+    "image_url": "https://rukminim2.flixcart.com/image/480/480/k97dxu80/fan/b/s/p/technix-5-star-without-regulator-45-ceiling-fan-1200-usha-original-imafrfmd4fb7gm4x.jpeg?q=90",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "medium",
+    "notes": "Flipkart lists this as 'Technix' (not 'Technoair') 5-star without-regulator 1200mm fan; series naming could not be fully confirmed against model code."
+  },
+  {
+    "product_id": "NE-12088",
+    "product_name": "CF 1200MM TECHNOAIR BLDC M WHITE REG 5ST",
+    "image_url": "https://rukminim2.flixcart.com/image/480/480/xif0q/fan/k/b/a/technoair-1200mm-5-star-rated-energy-efficient-with-bldc-motor-original-imagrheavrc9hb7a.jpeg?q=80",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "USHA Technoair 1200mm 5-Star BLDC Motor White ceiling fan with remote - matches name, color, star rating exactly."
+  },
+  {
+    "product_id": "NE-07527",
+    "product_name": "CF ALLURE DLX 4BLD 1200MM RICH IVORY 1ST",
+    "image_url": "https://cdn.moglix.com/p/SXG8Soj3wBuvy-xxlarge.jpg",
+    "source_domain": "www.moglix.com",
+    "match_confidence": "high",
+    "notes": "Usha Allure Deluxe 4 Blade Rich Ivory 1200mm ceiling fan - exact match on blade count, color, size."
+  },
+  {
+    "product_id": "NE-07530",
+    "product_name": "CF ALDORA 1320MM BR BLK CHROME",
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.822075582_1697440596710.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Usha Aldora Brushed Black Chrome 1320mm ceiling fan - exact color and size match."
+  },
+  {
+    "product_id": "NE-07532",
+    "product_name": "CF ALDORA 1320MM ANTIQUE BRASS ISI",
+    "image_url": "https://static1.industrybuying.com/products/electrical/electrical-appliances/ceiling-fans/ELE.CEI.69600196_1684904960320.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Usha Aldora Antique Brass 1320mm ceiling fan - exact color and size match; ISI/star grade not visually distinguishable from photo."
+  },
+  {
+    "product_id": "NE-07533",
+    "product_name": "CF ALDORA 1320MM ANTIQUE BRASS 1ST ISI",
+    "image_url": "https://static1.industrybuying.com/products/electrical/electrical-appliances/ceiling-fans/ELE.CEI.69600196_1684904960320.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Same Aldora Antique Brass 1320mm fan as NE-07532; this SKU differs only by 1-star rating, not visually distinguishable in product photo."
+  },
+  {
+    "product_id": "NE-07534",
+    "product_name": "CF ALDORA 1320MM ANTIQUE COPPER ISI",
+    "image_url": "https://rukminim2.flixcart.com/image/480/480/xif0q/fan/d/3/4/aldora-85-1-ceiling-fan-1320-usha-original-imagrfctaseubed8.jpeg?q=80",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "Usha Aldora Antique Copper 1320mm ceiling fan - exact color and size match."
+  },
+  {
+    "product_id": "NE-07535",
+    "product_name": "CF ALDORA 1320MM ANTIQUE COPPER 1ST ISI",
+    "image_url": "https://rukminim2.flixcart.com/image/480/480/xif0q/fan/d/3/4/aldora-85-1-ceiling-fan-1320-usha-original-imagrfctaseubed8.jpeg?q=80",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "Same Aldora Antique Copper 1320mm fan as NE-07534; differs only by 1-star rating, not visually distinguishable in product photo."
+  },
+  {
+    "product_id": "NE-07536",
+    "product_name": "CF ALDORA 1320MM BRUSH BLACK CHROME ISI",
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.822075582_1697440596710.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Same Aldora Brushed Black Chrome 1320mm image as NE-07530; ISI certification not visually distinguishable."
+  },
+  {
+    "product_id": "NE-07674",
+    "product_name": "CF EX9 1220MM SPARKLE WHITE BLUE G",
+    "image_url": "https://m.media-amazon.com/images/I/61qnJ+9ZpHL._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "USHA EX9 BLDC 1200mm 5-Star Premium Ceiling Fan (Sparkle White) - color matches but blue-grill accent trim and exact 1220mm size not confirmed."
+  },
+  {
+    "product_id": "NE-07680",
+    "product_name": "CF EX9 1215MM SPARKLE WHITE BLUE G",
+    "image_url": "https://m.media-amazon.com/images/I/61qnJ+9ZpHL._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "Same EX9 Sparkle White fan as NE-07674; size variant (1215mm) and blue-grill trim not confirmed."
+  },
+  {
+    "product_id": "NE-12124",
+    "product_name": "100MM CRISP AIR PREMIA AF VENT. STN STEE",
+    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/kfc-exhaust-fans-21-01-2020-fanf2hgmxj4n4gkj-178208136-lk2h7rif.jpg",
+    "source_domain": "www.justdial.com",
+    "match_confidence": "medium",
+    "notes": "Listing title is a literal match to product name (Crisp Air Premia AF Vent Stainless Steel 100mm) but photo may be a generic seller stock image."
+  },
+  {
+    "product_id": "NE-12127",
+    "product_name": "CF 1067 MM USHA HUNTER BAYPORT BRS NIKL",
+    "image_url": "https://www.bestofelectricals.com/images/thumbs/0028001_hunter-bayport-brushed-nickel-finish-with-oak-blades-designer-ceiling-fan_600.jpeg",
+    "source_domain": "www.bestofelectricals.com",
+    "match_confidence": "high",
+    "notes": "Usha Hunter Bayport Brushed Nickel designer ceiling fan - exact color/model match."
+  },
+  {
+    "product_id": "NE-12128",
+    "product_name": "1300MM USHA HUNTER CABO FRIO NEW BRONZE",
+    "image_url": "https://5.imimg.com/data5/UC/UC/MY-26974835/cabo-frio-new-bronze-lifestyle-ceiling-fans-500x500.png",
+    "source_domain": "www.indiamart.com",
+    "match_confidence": "high",
+    "notes": "Usha Hunter Cabo Frio New Bronze lifestyle ceiling fan - exact model and color match."
+  },
+  {
+    "product_id": "NE-12136",
+    "product_name": "PF STRIKER PLUS HI SPEED 400MM RED ISI",
+    "image_url": "https://m.media-amazon.com/images/I/51kgly+cwtL._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "Usha Striker Plus 400mm Pedestal Fan listing; exact Red colourway of the pedestal (vs table/wall variants) not confirmed."
+  },
+  {
+    "product_id": "NE-12137",
+    "product_name": "PF STRIKER PLUS HI SPEED 400MM WHITE ISI",
+    "image_url": "https://rukminim1.flixcart.com/image/1500/1500/xif0q/fan/4/x/t/striker-plus-185-1-induction-pedestal-fan-400-usha-original-imahcjmxzqfdmc6a.jpeg?q=70",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "medium",
+    "notes": "Usha Striker Plus 400mm Pedestal Fan listing; White colourway not explicitly confirmed in listing title."
+  },
+  {
+    "product_id": "NE-12139",
+    "product_name": "WF CYCLOTRON 400MM BLACK ISI",
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/wall-fans/ELE.WAL.133379080_1749115385950.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Usha Cyclotron 400mm Wall Fan, Black - exact match on model, size, color."
+  },
+  {
+    "product_id": "NE-12140",
+    "product_name": "WF MIST AIR FLO 400MM WHITE ISI",
+    "image_url": "https://www.myg.in/images/thumbnails/300/300/detailed/73/ma1-removebg-preview.png.png",
+    "source_domain": "www.myg.in",
+    "match_confidence": "high",
+    "notes": "Usha Mist Air Flo Wall Fan 400mm 3 Blade White - exact match on model, size, color."
+  },
+  {
+    "product_id": "NE-12143",
+    "product_name": "WF MAXX AIR 400MM PURPLE WHITE WR ISI",
+    "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/fan/h/6/t/14mxabprw0dmxi1dax-55-1-wall-fan-400-usha-original-imagsn4kggmjreyg.jpeg?q=80",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "Flipkart image filename '14mxabprw0dmxi1dax' matches product model code 14MXBPRW0DMXI1DAXI almost exactly - confirmed exact match."
+  },
+  {
+    "product_id": "NE-12148",
+    "product_name": "WF STRIKER PLUS HI SPEED 400MM RED ISI",
+    "image_url": "https://m.media-amazon.com/images/I/617GG+4xVHL._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "Usha Striker Plus 400mm Wall Fan in Maroon; closest available colourway to 'Red', exact match not confirmed (only Maroon/Black/Blue/White variants found)."
+  },
+  {
+    "product_id": "NE-12151",
+    "product_name": "EF STRIKER HIGH SPEED 200MM BLACK ISI",
+    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/ked56kw0/fan/m/x/v/200mm-striker-high-speed-exh-60-1-200-exhaust-fan-usha-original-imafvfq5dya33rxg.jpeg?q=70",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "Usha Striker High Speed 200mm Exhaust Fan - matches model and size; black is the standard/default color for this exhaust fan line."
+  },
+  {
+    "product_id": "NE-12154",
+    "product_name": "EF STRIKER HIGH SPEED 150MM BLACK ISI",
+    "image_url": "https://rukminim2.flixcart.com/image/480/640/ked56kw0/fan/w/r/y/150mm-striker-high-speed-exh-40-1-150-exhaust-fan-usha-original-imafv2j5hacksuhg.jpeg?q=80",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "Usha Striker High Speed 150mm Exhaust Fan - matches model and size; black is the standard/default color."
+  },
+  {
+    "product_id": "NE-12159",
+    "product_name": "CF RACER CHROME 600MM SMOKE BR 1ST N ISI",
+    "image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e3af1d2-091b-4186-a1f5-0a3debd888f5.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "Usha Racer Chrome Smoke Brown ceiling fan; only 900mm/1200mm size listings found online, 600mm size variant not specifically confirmed."
+  },
+  {
+    "product_id": "NE-12160",
+    "product_name": "CF RACER CHROME 900MM SMOKE BR 1ST N ISI",
+    "image_url": "https://cdn.moglix.com/p/nGEx0aVemehHT-medium.jpg",
+    "source_domain": "www.moglix.com",
+    "match_confidence": "high",
+    "notes": "Usha Racer Chrome 50W 1-Star Smoke Brown Ceiling Fan, Sweep 900mm - exact match on size, color, star rating."
+  },
+  {
+    "product_id": "NE-12166",
+    "product_name": "CFSTRIKER GALAXY 1200MM WGLDTRM 1STN ISI",
+    "image_url": "https://www.bestomart.com/cdn/shop/files/1000136967-1_1024x1024.jpg?v=1740206633",
+    "source_domain": "www.bestomart.com",
+    "match_confidence": "high",
+    "notes": "Usha Striker Galaxy Ceiling Fan 1200mm Wooden With Gold Trims - exact match to 'Wooden Gold Trim' description."
+  },
+  {
+    "product_id": "NE-12170",
+    "product_name": "CFSTRIKER NEO 1200MM GREY BROWN 1STN ISI",
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.924337192_1704971635699.webp",
+    "source_domain": "www.industrybuying.com",
+    "match_confidence": "high",
+    "notes": "Usha Striker Neo 1200mm Grey Brown Ceiling Fan - exact match on model, size, and color."
+  },
+  {
+    "product_id": "NE-12171",
+    "product_name": "CFSTRIKER PLAT 1200MM LAV CHRM 1ST N ISI",
+    "image_url": "https://m.media-amazon.com/images/I/51qUEHbBKQL.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "high",
+    "notes": "USHA Striker Platinum 1200mm 1-Star ISI Certified Lavender/Pearl White ceiling fan - exact match."
+  },
+  {
+    "product_id": "NE-12172",
+    "product_name": "CFSTRIKER GALAXY 1200MM MLD GRY 1STN ISI",
+    "image_url": "https://m.media-amazon.com/images/I/617XqLgn0ML._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "USHA Striker Galaxy 1200mm 1-Star ISI Dark Grey ceiling fan - close match to 'Mild Grey' colourway, exact shade name not confirmed."
+  },
+  {
+    "product_id": "NE-12179",
+    "product_name": "CF STRIKER 1400MM WHITE 1ST N ISI",
+    "image_url": "https://m.media-amazon.com/images/I/21eP6l4SArL._AC_UF894,1000_QL80_.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "Usha Swift 1400mm Ceiling Fan (White) - matches size and color, but is 'Swift' series rather than plain 'Striker'; no exact plain-white 1400mm Striker listing found."
+  },
+  {
+    "product_id": "NE-12180",
+    "product_name": "CF STRIKER 1200MM GLOSSY BROWN 1ST N ISI",
+    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/usha_1400_mm_striker_w_o_reg_glossy_br_3_blade_ceiling_fan_glossy_brown__82000900_0.jpeg",
+    "source_domain": "www.justdial.com",
+    "match_confidence": "medium",
+    "notes": "Usha Striker W/O Reg Glossy Brown ceiling fan - color matches exactly but listing is 1400mm rather than 1200mm."
+  },
+  {
+    "product_id": "NE-12183",
+    "product_name": "CF JET 1200MM RICH WHITE 1ST N ISI",
+    "image_url": "https://www.vishalmegamart.com/dw/image/v2/BGHT_PRD/on/demandware.static/-/Sites-vmm-gm-master-catalog/default/dwfc058539/images/large/1265013736.jpg?sw=900&sh=900",
+    "source_domain": "www.vishalmegamart.com",
+    "match_confidence": "high",
+    "notes": "Usha 1200mm Jet White ceiling fan - exact match on model, size, color."
+  },
+  {
+    "product_id": "NE-12184",
+    "product_name": "CF RACER 900MM RICH WHITE 1ST N ISI",
+    "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/fan/r/c/a/racer-900-60-1-ceiling-fan-900-usha-original-imaghfm7jekh57h9.jpeg?q=20",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "medium",
+    "notes": "USHA Racer 900mm Ceiling Fan - matches model and size exactly; Rich White colourway not explicitly stated in listing title."
+  },
+  {
+    "product_id": "NE-12195",
+    "product_name": "JMG NUTRIMATIC 500 W SANGRIA 3JAR",
+    "image_url": "https://m.media-amazon.com/images/I/71LD6oRwU-L.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "USHA Nutrimatic Juicer Mixer Grinder 500W, 3 Jars - matches model/wattage/jar count exactly; listed in dual-tone Purple, exact 'Sangria' color name not confirmed."
+  },
+  {
+    "product_id": "NE-12202",
+    "product_name": "MG 800W TRIENERGYPLTP800MX4 BLACK & LAVE",
+    "image_url": "https://m.media-amazon.com/images/I/61a7QmpnS9L.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "high",
+    "notes": "USHA Trienergy+ 800W TP800MX4 4-Jar Mixer Grinder, Lavender - exact model code and color match."
+  },
+  {
+    "product_id": "NE-12203",
+    "product_name": "MG 800W TRIENERGYPLTP800MX4 FF BLACK&RED",
+    "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/mixer-grinder-juicer/2/s/w/plus-mixer-grinder-800-watt-copper-motor-with-quadri-flow-square-original-imah4eqzmphuezhh.jpeg?q=90",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "USHA Trienergy+ 800W TP800MX4 4-Jar Mixer Grinder, Red/Black with QuadriFlow (FF) jar - exact model code and color match."
+  },
+  {
+    "product_id": "NE-12208",
+    "product_name": "RC18SS1 D RICE COOKER BLACK",
+    "image_url": "https://m.media-amazon.com/images/I/712ruFZsQwL.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "USHA RC18SS1 D 700W 1.8L Rice Cooker - exact model match, but Amazon listing shows White/Silver rather than Black colourway requested."
+  },
+  {
+    "product_id": "NE-12209",
+    "product_name": "RC18SS1 D RICE COOKER GOLD",
+    "image_url": "https://m.media-amazon.com/images/I/712ruFZsQwL.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "medium",
+    "notes": "USHA RC18SS1 D 700W 1.8L Rice Cooker - exact model match, but Amazon listing shows White/Silver rather than Gold colourway requested."
+  },
+  {
+    "product_id": "NE-12217",
+    "product_name": "HEAT CONVECTOR 443C NONTHERMO ISI MAROON",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/575606564/VO/IL/TI/218051611/usha-hc-443-c-1800-watt-heat-convector-room-heater-500x500.png",
+    "source_domain": "www.indiamart.com",
+    "match_confidence": "medium",
+    "notes": "USHA HC 443 C 1800W Heat Convector - exact model match; Maroon colourway not confirmed (a Golden variant of this model was found instead)."
+  },
+  {
+    "product_id": "NE-12219",
+    "product_name": "EI 3702 1000W BLACK",
+    "image_url": "https://m.media-amazon.com/images/I/51mlgHc+qCL.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "high",
+    "notes": "USHA EI 3702 1000-Watt Dry Iron (Black) - exact model and color match."
+  },
+  {
+    "product_id": "NE-12220",
+    "product_name": "EI 3602 LW TEFLON BLUE",
+    "image_url": "https://rukminim2.flixcart.com/image/480/480/k1wgx3k0/iron/b/f/b/usha-ei-3602-1000-watt-lightweight-dry-iron-original-imafhdp42qhmqgy5.jpeg?q=90",
+    "source_domain": "www.flipkart.com",
+    "match_confidence": "high",
+    "notes": "USHA EI 3602 LW (Lightweight) Teflon Dry Iron, Icy Blue - exact model and color match."
+  },
+  {
+    "product_id": "NE-12224",
+    "product_name": "DESERT COOLER MAXX AIR ULTRA 70MAUD1",
+    "image_url": "https://www.ushaaircoolers.com/sites/default/files/2026-03/Maxx_air_ultra-removebg-preview.png",
+    "source_domain": "www.ushaaircoolers.com",
+    "match_confidence": "high",
+    "notes": "Official USHA Air Coolers product page image for the Maxx Air Ultra 70L desert cooler - exact model match."
+  },
+  {
+    "product_id": "NE-12225",
+    "product_name": "AEROSTYLE DESERT ELECTRONIC 100ASD1E WHI",
+    "image_url": "https://mc.bajajfinserv.in/media/catalog/product/u/s/ushaaerostyle100asd1white_additional3.jpeg",
+    "source_domain": "www.bajajfinserv.in",
+    "match_confidence": "medium",
+    "notes": "Usha Aerostyle 100L Desert Air Cooler White (100ASD1) - matches size, series, and color; the electronic control panel variant (100ASD1E) specifically was not confirmed."
+  },
+  {
+    "product_id": "NE-12226",
+    "product_name": "AERO STYLE DESERT ELECTRONIC 85ASD1E WHIT",
+    "image_url": "https://media-ik.croma.com/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/320685_0_C-Oq7aYxJ.png?updatedAt=1770215239076&tr=w-600",
+    "source_domain": "www.croma.com",
+    "match_confidence": "medium",
+    "notes": "Usha Aero Style 85ASD1 85L Desert Air Cooler, White - matches size, series, and color; electronic variant suffix (E) not confirmed."
+  },
+  {
+    "product_id": "NE-12227",
+    "product_name": "AERO STYLE DESERT ELECTRONIC 105ASD1E WHI",
+    "image_url": "https://m.media-amazon.com/images/I/51-jZxiFS1L.jpg",
+    "source_domain": "www.amazon.in",
+    "match_confidence": "high",
+    "notes": "Usha Desert Cooler 105 Litres, model 46641105ASD126N, AERO STYLE 105ASD1 White - model code nearly identical to product's 46641105ASD1E26N."
+  },
+  {
+    "product_id": "NE-12230",
+    "product_name": "DESERT COOLER AIR KING PLUS 120AKPD1",
+    "image_url": "https://www.ushaaircoolers.com/sites/default/files/2026-03/AIR_KING_PLUS_120L__x3a_150L_-removebg-preview.png",
+    "source_domain": "www.ushaaircoolers.com",
+    "match_confidence": "high",
+    "notes": "Official USHA Air Coolers product page image for Air King Plus 120L/150L desert cooler - exact model match."
+  },
+  {
+    "product_id": "NE-12231",
+    "product_name": "DESERT COOLER AIR KING PLUS 150AKPD1",
+    "image_url": "https://www.ushaaircoolers.com/sites/default/files/2026-03/AIR_KING_PLUS_120L__x3a_150L_-removebg-preview.png",
+    "source_domain": "www.ushaaircoolers.com",
+    "match_confidence": "high",
+    "notes": "Same official image as NE-12230; this product page explicitly covers both the 120L and 150L Air King Plus variants."
+  },
+  {
+    "product_id": "NE-12233",
+    "product_name": "DESERT COOLERS STRIKER ELEC  100SD1E",
+    "image_url": "https://5.imimg.com/data5/LT/EG/DZ/GLADMIN-16989267/striker-electronic-100-cooler-500x500.png",
+    "source_domain": "www.indiamart.com",
+    "match_confidence": "high",
+    "notes": "Usha Desert Striker Electronic 100L Cooler - exact match on model name and size."
+  },
+  {
+    "product_id": "NE-12235",
+    "product_name": "PERSONAL COOLERS COOLBOY BREEZE 40 WHITE",
+    "image_url": "https://www.ushaaircoolers.com/sites/default/files/2026-09/Usha%20Air%20Coolers%20-%20Coolboy%20Breeze%2040L.jpg",
+    "source_domain": "www.ushaaircoolers.com",
+    "match_confidence": "high",
+    "notes": "Official USHA Air Coolers product image explicitly labeled 'Coolboy Breeze 40L' - exact model and capacity match."
+  },
+  {
+    "product_id": "NE-12236",
+    "product_name": "AEROSTYLE TOWER ELECTRONIC 35AST1E WHITE",
+    "image_url": "https://www.bbassets.com/media/uploads/p/l/40364059_6-usha-tower-cooler-aerostyle-35l.jpg",
+    "source_domain": "www.bigbasket.com",
+    "match_confidence": "high",
+    "notes": "Usha Aerostyle 35 Litres Tower Air Cooler, model 4664135AST1E93N, White - model code is an exact match to the product's model code."
+  }
+]

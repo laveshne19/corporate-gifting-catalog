@@ -1,0 +1,178 @@
+[
+ {
+  "product_id": "NE-02136",
+  "product_name": "Haier HIL2801CBSB",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact model match. Found closely related family models (HIL2801RBSJ, HIL2801DBSJ, HIL2801EGCB) on Amazon/Flipkart/Croma but none with the CBSB color/variant suffix."
+ },
+ {
+  "product_id": "NE-02140",
+  "product_name": "Haier HAF-M403I",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found for this exact model code; searches returned only generic Haier microwave blog/social content."
+ },
+ {
+  "product_id": "NE-02177",
+  "product_name": "Haier HRD-2115PMIA-N",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Same 2115 series exists with several other color/variant codes (PMH-N, PMB-N, PMGA-N, EPMI-N, PGCA-N) but not PMIA-N specifically."
+ },
+ {
+  "product_id": "NE-02184",
+  "product_name": "Haier HRD-2113PRMGA-N",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Same 2113 series exists with other variant codes (PMG-N, BBSA-N, PWGA-N, CRHA-N, CMBA-N, CGCA-N, PRH-N) but not PRMGA-N specifically."
+ },
+ {
+  "product_id": "NE-02197",
+  "product_name": "Haier HRD-2353BNSA-P",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/0/909138_base.jpeg",
+  "source_domain": "www.bajajfinserv.in",
+  "match_confidence": "high",
+  "notes": "Exact model code match (215L 3-Star Direct Cool Single Door Refrigerator, Silver/Nickel Steel). Also confirmed on lotuselectronics.com and darlingretail.com listings."
+ },
+ {
+  "product_id": "NE-02299",
+  "product_name": "Haier HW120-DM12LC3GNU1:PUNE",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches for HW120-* consistently returned the unrelated HW120-DM14F9BKU1/DM14F11BKU1 series, not DM12LC3GNU1."
+ },
+ {
+  "product_id": "NE-02322",
+  "product_name": "Haier HW70-IM12F4BKU1:PUNE",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches for HW70-* returned the unrelated HW70-IM12929BKU1/S3U1 series, not IM12F4BKU1."
+ },
+ {
+  "product_id": "NE-02326",
+  "product_name": "Haier HWM110-HDMT11BKU1:NOIDA",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches for HWM110/HW110 returned unrelated models (HW110-DM14959CS8U1, HWM110-H688BK, HWM110-B1678ES8), not HDMT11BKU1."
+ },
+ {
+  "product_id": "NE-02330",
+  "product_name": "Haier HWM100-HT9BK:NOIDA",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches for HWM100/HW100 returned unrelated models (HW100-DM14F9BKU1, HWM100-H326BK, HTW100-178BK), not HT9BK."
+ },
+ {
+  "product_id": "NE-02387",
+  "product_name": "Haier HTW70-1217BR:NOIDA",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches for HTW70 returned HTW70-178 (Champaign Gold) and HTW70-178BKN, not 1217BR."
+ },
+ {
+  "product_id": "NE-02391",
+  "product_name": "Haier EI3V-ZYON 4.5kW(W)",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/523413131/QM/LP/GB/37895958/haier-ei3v-zyon-water-geyser.jpg",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "high",
+  "notes": "Exact model match: Haier EI3V ZYON instant water geyser. Same product line/name also listed on official shop.haierindia.com (3L, 4.5kW, White/Ivory ZYON Instant Water Heater)."
+ },
+ {
+  "product_id": "NE-02404",
+  "product_name": "Haier EI5.9V-ZYRA PRO:HIL/WH",
+  "image_url": "https://m.media-amazon.com/images/I/61HR8JSt+uL._AC_UF1000,1000_QL80_.jpg",
+  "source_domain": "www.amazon.in",
+  "match_confidence": "medium",
+  "notes": "Closest match is Haier ZYRA 5.5 Litre Instant Water Heater (EI5-5V ZYRA) on Amazon.in — same product family/name (ZYRA) and instant water heater category, but capacity label differs (5.5V vs listed 5.9V) and no listing explicitly named 'ZYRA PRO'."
+ },
+ {
+  "product_id": "NE-02469",
+  "product_name": "Haier ES25V-AQUALIS",
+  "image_url": "https://m.media-amazon.com/images/I/71ClNRgFgiL._AC_UF1000,1000_QL80_.jpg",
+  "source_domain": "www.amazon.in",
+  "match_confidence": "high",
+  "notes": "Exact model match: Haier Aqualis Storage Water Geyser 25L, 5 Star, 2.2kW Fast Heating."
+ },
+ {
+  "product_id": "NE-02471",
+  "product_name": "Haier ES25V-VOLCANO 2.2KW",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found under the 'Volcano' name for the ES25V line; only unrelated ES25V variants (Estile, Precis, Aqualad, Regenta, Molten) turned up."
+ },
+ {
+  "product_id": "NE-02473",
+  "product_name": "Haier ES25V-VOLCANO 3KW",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found under the 'Volcano' name for the ES25V line; only unrelated ES25V variants turned up."
+ },
+ {
+  "product_id": "NE-02485",
+  "product_name": "Haier HR-5818Z://HAIER/WATER HEATER",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found for model code HR-5818Z; likely a data-entry artifact given the embedded '://HAIER/WATER HEATER' text."
+ },
+ {
+  "product_id": "NE-02496",
+  "product_name": "Haier HIH-CT7905B",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches returned unrelated Haier chimney models (HIH-G75HM-N, HIH-T5905, HIH-T90HM-V, HIH-T1900-BLDC-IN), not CT7905B."
+ },
+ {
+  "product_id": "NE-02499",
+  "product_name": "Haier HIH-GT3605B",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches returned unrelated Haier chimney models (HIH-G60HM-G, HIH-G60HM-NE, HIH-V60HM-C), not GT3605B."
+ },
+ {
+  "product_id": "NE-02500",
+  "product_name": "Haier HIH-GT1605B",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches returned unrelated Haier chimney models (HIH-G1600-IN, HIH-G60HM-G, HIH-T1600-BLDC), not GT1605B."
+ },
+ {
+  "product_id": "NE-02549",
+  "product_name": "Haier HIH-GT3602B",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No exact match. Searches returned unrelated Haier chimney models (HIH-G60HM-G, HIH-G60HM-NE, HIH-V60HM-C), not GT3602B."
+ },
+ {
+  "product_id": "NE-03006",
+  "product_name": "Haier HCQ-Q76496I",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found for this model code; searches returned unrelated Haier chimney models (HIH-G1750-IN, HIH-G75HM-N, HIH-T1600-BLDC)."
+ },
+ {
+  "product_id": "NE-03207",
+  "product_name": "Haier HCQ-Q66396F",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No matching listings found for this model code; same generic chimney results as other HCQ-series searches, no exact match."
+ }
+]

@@ -1,0 +1,274 @@
+[
+ {
+  "product_id": "NE-00086",
+  "product_name": "Castle Double Bedsheet Set (DBS)",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bedsheet/9/k/z/microfiber-queen-flat-105-tc-floral-1-bedsheet-with-2-pillow-original-imahnfn7ggjmkcdx.jpeg?q=70",
+  "source_domain": "www.flipkart.com",
+  "match_confidence": "high",
+  "notes": "Listing title 'Castle Welspun Linen Cotton Double Flat 105 TC Printed 1 Bedsheet with 2 Pillow Covers' matches product name and set composition exactly."
+ },
+ {
+  "product_id": "NE-00087",
+  "product_name": "Ultima Double Bedsheet Set (DBS)",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bedsheet/c/i/v/yellow-floral-cotton-bedsheet-1-yellow-floral-cotton-bedsheet-original-imahhz5sdnssnckz.jpeg?q=70",
+  "source_domain": "www.flipkart.com",
+  "match_confidence": "high",
+  "notes": "'WELSPUN ULTIMA Cotton Double Flat 190 TC Printed 1 Bedsheet with 2 Pillow Covers' - exact product line and set match."
+ },
+ {
+  "product_id": "NE-00160",
+  "product_name": "Neo-Soft Double Bedsheet",
+  "image_url": "https://m.media-amazon.com/images/I/517z6--Nh-L._AC_UF894,1000_QL80_.jpg",
+  "source_domain": "www.amazon.in",
+  "match_confidence": "high",
+  "notes": "'Welspun Neosoft 400 TC Linen Bedsheet Collection' on Amazon.in - exact sub-brand name match."
+ },
+ {
+  "product_id": "NE-00185",
+  "product_name": "Neo-Fit Fitted Bedsheet",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/629857413WhatsApp-Image-2025-07-19-at-10.57-Photoroom-2.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun Neo Fit Fitted Double Bedsheet' - exact name and product type match, but from a non-preferred reseller/gifting domain rather than welspunindia/amazon/flipkart."
+ },
+ {
+  "product_id": "NE-00187",
+  "product_name": "Crowning Touch Bedsheet",
+  "image_url": "https://trophykart.in/images/upload/product/8ce9cce62b3dcf2d00905b8a18581ece.webp",
+  "source_domain": "trophykart.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun - Crowning Touch Bedsheet' - exact sub-brand match; reseller/corporate-gifting domain, not a preferred marketplace."
+ },
+ {
+  "product_id": "NE-00193",
+  "product_name": "Symphony Bedsheet",
+  "image_url": "https://static.wixstatic.com/media/a3eec1_38069a2e539b4dcd8af46fc94e53040a~mv2.jpg/v1/fill/w_825,h_638,al_c,q_85,enc_avif,quality_auto/a3eec1_38069a2e539b4dcd8af46fc94e53040a~mv2.jpg",
+  "source_domain": "www.indiancorporategift.com",
+  "match_confidence": "medium",
+  "notes": "'Welspun Symphony Double Bedsheet Set - 100% Cotton with 2 Pillow Covers' - exact name match; non-preferred corporate-gifting domain, no amazon/flipkart listing found for this sub-brand."
+ },
+ {
+  "product_id": "NE-00200",
+  "product_name": "Expression Double Bedsheet",
+  "image_url": "https://giftlinksstore.com/wp-content/uploads/2023/02/644.jpg",
+  "source_domain": "giftlinksstore.com",
+  "match_confidence": "medium",
+  "notes": "'Welspun Expressions Double Bed sheet' - name match (brand spells sub-line 'Expressions'); non-preferred reseller domain."
+ },
+ {
+  "product_id": "NE-00212",
+  "product_name": "Comfia King Size Double Bedsheet Set",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/3/592996706/BZ/RB/SO/112441589/comfia-bedsheet-welspun.jpeg",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "medium",
+  "notes": "'COMFIA BEDSHEET WELSPUN, 200 TC' - exact sub-brand name match; IndiaMART listing rather than preferred marketplace, king-size spec not independently confirmed in image."
+ },
+ {
+  "product_id": "NE-00213",
+  "product_name": "Rangana Gold Double Bedsheet",
+  "image_url": "https://oriongiftworld.b-cdn.net/productimages/ORI-WLSP%2028.jpg",
+  "source_domain": "oriongiftworld.com",
+  "match_confidence": "medium",
+  "notes": "'RANGANA GOLD - A Tribute to the Beautiful Indian Culture' Welspun bedsheet listing - exact sub-brand match; non-preferred corporate-gifting domain."
+ },
+ {
+  "product_id": "NE-00217",
+  "product_name": "Ritu Kumar Home Double Bedsheet (DBS)",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/2040903052WhatsApp-Image-2025-07-19-at-10.57-Photoroom.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun Spaces Ritu Kumar Home Bagicha Double Bedsheet' - matches designer sub-brand and product type; specific pattern/colourway not verified against catalog spec."
+ },
+ {
+  "product_id": "NE-00224",
+  "product_name": "Embrace Double Bed Reversible Comforter",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": null,
+  "notes": "SKIPPED - no listing found under the 'Embrace' name; search only returned other Welspun comforter lines (Arlo, generic Polycotton AC Comforter), which are different products."
+ },
+ {
+  "product_id": "NE-00233",
+  "product_name": "Lux Touch Double Bed Dohar",
+  "image_url": "https://amd.deodap.com/cdn/shop/files/522_59cc3176-b1ea-44db-8321-c637fd44583a_1024x1024.jpg?v=1755164248",
+  "source_domain": "amd.deodap.com",
+  "match_confidence": "medium",
+  "notes": "'Welspun Luxe Touch Double Bed Dohar (2mtr x 2.10mtr)' - name match (catalog 'Lux Touch' = brand's 'Luxe Touch'); reseller domain, not a preferred marketplace."
+ },
+ {
+  "product_id": "NE-00235",
+  "product_name": "Ultima Charm Quilt",
+  "image_url": "https://thesurprisebox.in/wp-content/uploads/2026/05/ULTIMA-CHARM-QULIT.webp",
+  "source_domain": "thesurprisebox.in",
+  "match_confidence": "medium",
+  "notes": "'Ultima Charm Quilt' - exact product name match; non-preferred gifting-reseller domain."
+ },
+ {
+  "product_id": "NE-00241",
+  "product_name": "Rangana Bed in a Bag",
+  "image_url": "https://spaces.in/cdn/shop/files/1082822-4.jpg?v=1768464034&width=372",
+  "source_domain": "spaces.in",
+  "match_confidence": "high",
+  "notes": "'Rangana Combo Bed In A Bag' from Spaces.in - Spaces is Welspun's own retail brand/domain, exact product name match."
+ },
+ {
+  "product_id": "NE-00242",
+  "product_name": "Ritu Kumar Dohar & Bedsheet Set",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/2040903052WhatsApp-Image-2025-07-19-at-10.57-Photoroom.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "No listing found for the exact 'Dohar & Bedsheet Set' combo; closest variant is the Ritu Kumar Home Bagicha Double Bedsheet from the same designer sub-brand, used as a close visual proxy."
+ },
+ {
+  "product_id": "NE-00249",
+  "product_name": "Mink Moment Double Bed Blanket - 1.5 KG",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": null,
+  "notes": "SKIPPED - no product named 'Mink Moment' found; results only returned differently-named Welspun mink blankets (Velis, Elva, Snuggle) which are not confirmed as the same product."
+ },
+ {
+  "product_id": "NE-00250",
+  "product_name": "Soft Scape Double Bed Blanket - 2.5 KG",
+  "image_url": "https://m.media-amazon.com/images/I/41g3Jy2QvgL._AC_UF894,1000_QL80_.jpg",
+  "source_domain": "www.amazon.in",
+  "match_confidence": "high",
+  "notes": "'Spaces 2.5 Kg Soft Scape Stripe Multicolor Blanket Mink for Double Bed' on Amazon.in - exact name and weight (2.5 KG) match."
+ },
+ {
+  "product_id": "NE-00251",
+  "product_name": "Rangana Gold Double Blanket - 3 KG",
+  "image_url": "https://corporategiftingidea.com/cdn/shop/files/1_7a804c1e-c94e-4633-a202-4de01d8b1586.png?v=1755065310&width=1445",
+  "source_domain": "corporategiftingidea.com",
+  "match_confidence": "medium",
+  "notes": "'SPACES Rangana Gold Double Bed Blanket' - name matches; weight (3 KG) not confirmed in this listing (a different IndiaMART listing for the same sub-brand showed 5 KG), non-preferred domain."
+ },
+ {
+  "product_id": "NE-00265",
+  "product_name": "Serenity Double Bed Blanket - 4 KG",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": null,
+  "notes": "SKIPPED - the only 'Serenity' double blanket found (Home Centre listing) is branded 'Portico', a different manufacturer, not Welspun; no genuine Welspun Serenity 4kg blanket listing located."
+ },
+ {
+  "product_id": "NE-00266",
+  "product_name": "Wimbledon Sports Towel",
+  "image_url": "http://spaces.in/cdn/shop/files/1087323_1.jpg?v=1781982147",
+  "source_domain": "spaces.in",
+  "match_confidence": "high",
+  "notes": "'Wimbledon 100% Cotton 420 GSM Dobby Sports Hand Towel' from Spaces.in (Welspun's own retail brand) - exact product line match."
+ },
+ {
+  "product_id": "NE-00267",
+  "product_name": "Elite Splendor Face Towel Set of 3",
+  "image_url": "https://oriongiftworld.b-cdn.net/productimages/ORI-WLSP%2004.jpg",
+  "source_domain": "oriongiftworld.com",
+  "match_confidence": "medium",
+  "notes": "'Elite SPLENDOR Face Towel Set of 3' - exact name match; non-preferred corporate-gifting domain."
+ },
+ {
+  "product_id": "NE-00269",
+  "product_name": "Elite Splendor Hand Towel Set of 2",
+  "image_url": "https://oriongiftworld.b-cdn.net/productimages/ORI-WLSP%2003.jpg",
+  "source_domain": "oriongiftworld.com",
+  "match_confidence": "medium",
+  "notes": "'Elite SPLENDOR Set of 2 Hand Towel' - exact name match; non-preferred corporate-gifting domain."
+ },
+ {
+  "product_id": "NE-00270",
+  "product_name": "Amaze Towel Set of 2 Hand Towels",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": null,
+  "notes": "SKIPPED - no product named 'Amaze' found; results returned unrelated Welspun hand towel sets (generic Easy Care, Arlo Sports) with different names."
+ },
+ {
+  "product_id": "NE-00271",
+  "product_name": "Cotton Bamboo Hand Towel Set of 2",
+  "image_url": "https://www.buzzstore.in/ecommerce/upload/images/edit/welspun-cotton-bamboo-towle-51-2025-09.webp",
+  "source_domain": "www.brandedcorporategift.com",
+  "match_confidence": "medium",
+  "notes": "'Welspun Cotton Bamboo Towel' bulk-gifting listing - matches the Cotton Bamboo product line; exact 'Hand Towel Set of 2' variant not independently confirmed, non-preferred domain."
+ },
+ {
+  "product_id": "NE-00274",
+  "product_name": "Hygrocotton Hand Towel Set of 2",
+  "image_url": "http://spaces.in/cdn/shop/products/1054044-1.jpg?v=1753901573",
+  "source_domain": "spaces.in",
+  "match_confidence": "high",
+  "notes": "'Spaces Hygro Brown 600 GSM Cotton Hand Towel - Set of 2' from Spaces.in (Welspun-owned retail brand) - exact name and set-size match."
+ },
+ {
+  "product_id": "NE-00277",
+  "product_name": "Cloud Twist Set of 2 Hand Towels",
+  "image_url": "https://www.buzzstore.in/ecommerce/upload/images/edit/welspun-cloud-twist-hand-towel--01-2025-09.webp",
+  "source_domain": "www.brandedcorporategift.com",
+  "match_confidence": "medium",
+  "notes": "'Welspun CLOUD TWIST Hand Towel' - exact sub-brand name match; non-preferred corporate-gifting domain."
+ },
+ {
+  "product_id": "NE-00278",
+  "product_name": "Spaces Elara Set of 2 Hand Towel",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/6/612921160/AQ/ZF/NM/201582882/elara-hand-towel-500x500.png",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "medium",
+  "notes": "'Elara Hand Towel' - name matches the Elara sub-line; 'Set of 2' composition and Spaces branding not independently visible/confirmed in this specific listing, non-preferred domain."
+ },
+ {
+  "product_id": "NE-00279",
+  "product_name": "Elite Splendor 3 Pc Towel Set",
+  "image_url": "https://oriongiftworld.b-cdn.net/productimages/ORI-WLSP%2001.jpg",
+  "source_domain": "oriongiftworld.com",
+  "match_confidence": "medium",
+  "notes": "'Elite SPLENDOR Set of 3 Towels' - exact name match; non-preferred corporate-gifting domain."
+ },
+ {
+  "product_id": "NE-00288",
+  "product_name": "Cotton Bamboo Bath Towel",
+  "image_url": "https://trophykart.in/images/upload/product/3b4944bcfb853fc9228ca198e2f13d7a.webp",
+  "source_domain": "trophykart.in",
+  "match_confidence": "medium",
+  "notes": "'WELSPUN - COTTON BAMBOO TOWEL' - exact sub-brand name match; reseller domain, not a preferred marketplace."
+ },
+ {
+  "product_id": "NE-00290",
+  "product_name": "Hygrocotton Bath Towel",
+  "image_url": "http://spaces.in/cdn/shop/files/1081085_1000X1000-01.jpg?v=1770983417",
+  "source_domain": "spaces.in",
+  "match_confidence": "high",
+  "notes": "'Hygro Cotton Bath Towel, 600 GSM, Solid' from Spaces.in (Welspun-owned retail brand) - exact product line and type match."
+ },
+ {
+  "product_id": "NE-00291",
+  "product_name": "Cotton Bamboo 3PC Towel Set",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/download-1-1.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun Spaces Cotton Bamboo 3 Piece Towel Set' - exact name and piece-count match; non-preferred gifting-reseller domain."
+ },
+ {
+  "product_id": "NE-00292",
+  "product_name": "Bath Carnival 4PC Towel Set",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/62f61eea5ba6562f61eea5ba6e.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun 4 Piece Bath Carnival Towel Set' - exact name and piece-count match; non-preferred gifting-reseller domain."
+ },
+ {
+  "product_id": "NE-00294",
+  "product_name": "Bath Carnival 6 PC Towel Set",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/download-9-1.jpg",
+  "source_domain": "giftvision.in",
+  "match_confidence": "medium",
+  "notes": "'Welspun Bath Carnival 6 Pieces Towel Set For Men & Women' - exact name and piece-count match; non-preferred gifting-reseller domain."
+ },
+ {
+  "product_id": "NE-00295",
+  "product_name": "Chair Towel",
+  "image_url": "https://img.freeup.app/fit-in/600x600/filters:upscale()/7d0d72722945264e46af17369650307a.jpg",
+  "source_domain": "www.freeup.app",
+  "match_confidence": "medium",
+  "notes": "'Welspun Chair Towel - New in Box!' - exact product name match, but sourced from a liquidation/resale marketplace listing rather than a standard retailer."
+ }
+]

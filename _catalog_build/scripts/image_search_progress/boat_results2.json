@@ -1,0 +1,146 @@
+[
+ {
+  "product_id": "NE-11801",
+  "product_name": "Type C C600 - Red",
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/RED_5_114e3709-a6c5-4acd-ac83-eb3a020a8a7a_1024x.png?v=1730726249",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page for C600 Fast Charging Cable, Red variant image."
+ },
+ {
+  "product_id": "NE-11807",
+  "product_name": "Type C C300 - Black",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/boat/494351837/3/LeCmAwZyEm-SZBbNVdHmo-Boat-Type-C-Cable-C300-Black-494351837-i-4-1200Wx1200H.jpeg",
+  "source_domain": "www.reliancedigital.in",
+  "match_confidence": "high",
+  "notes": "Reliance Digital listing titled 'Boat Type C Cable C300 Black' - exact model and colour match."
+ },
+ {
+  "product_id": "NE-11812",
+  "product_name": "Boat Dual QC-PD Port Rapid Car Charger Micro Black",
+  "image_url": "http://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_mu.png?v=1627301901",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page 'Dual QC-PD Port Rapid Car Charger with Micro USB cable' - exact variant match."
+ },
+ {
+  "product_id": "NE-11813",
+  "product_name": "Wcd-Qc3a Black",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/314621350/QQ/NJ/YO/10044338/boat-wcd-qc3a-micro-cable-18w-usb-wall-charger-with-micro-usb-cable.jpeg",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "medium",
+  "notes": "IndiaMART listing explicitly titled 'Black boAt WCD QC3A Micro Cable 18W USB Wall Charger'; correct model and colour but non-preferred domain (no boat-lifestyle/amazon/flipkart listing with confirmed black colour found)."
+ },
+ {
+  "product_id": "NE-11814",
+  "product_name": "Aux Gold 500 1.5",
+  "image_url": "https://5.imimg.com/data5/VX/CT/MY-73215032/boat-500-1-5-aux-golden-cable-500x500.jpg",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "medium",
+  "notes": "IndiaMART listing 'Golden Boat 500-1.5 Aux Gold / Silver / Grey Cable' - exact model (AUX 500-1.5) and Gold colour match, but non-preferred domain."
+ },
+ {
+  "product_id": "NE-11815",
+  "product_name": "Micro Usb 300-1.5 Grey & Black",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Could not find a boAt Micro USB 300-1.5m cable listing in the specific Grey & Black colourway; only Silver (vplak.com) and Deuce USB 300 2-in-1 (different product) variants were found on Amazon/Flipkart/boat-lifestyle."
+ },
+ {
+  "product_id": "NE-11820",
+  "product_name": "Immortal Im1000d White Sabre",
+  "image_url": "https://nayejaisa.com/wp-content/uploads/2023/07/61F20GG0nS._SL1500_.jpg",
+  "source_domain": "nayejaisa.com",
+  "match_confidence": "high",
+  "notes": "Listing explicitly titled 'boAt Immortal IM1000D Dual Channel Gaming Wired Over Ear Headphones ... White Sabre' - exact model and colour match."
+ },
+ {
+  "product_id": "NE-11821",
+  "product_name": "Immortal Im1300 White Sabre",
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/products/IM1300-FI_White02_1024x.png?v=1659425496",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page for Immortal 1300, White image file explicitly named 'White02'."
+ },
+ {
+  "product_id": "NE-11842",
+  "product_name": "AIRDOPES PLUS AURA FRACTAL WHITE",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/boat/494841376/0/cNerdJPnq5-X28cPlYpD-boAt-Airdopes-Plus-Aura-TWS-494841376-1.jpg",
+  "source_domain": "www.reliancedigital.in",
+  "match_confidence": "high",
+  "notes": "Reliance Digital product URL explicitly contains 'fractal-white' - exact model and colour match."
+ },
+ {
+  "product_id": "NE-11843",
+  "product_name": "Airdopes Plus Aura Fractal Blue",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/boat/494841377/2/fbpgc2qlPE-EvwyKyQyr-boAt-Airdopes-Plus-Aura-TWS-494841377-3.jpg",
+  "source_domain": "www.reliancedigital.in",
+  "match_confidence": "high",
+  "notes": "Reliance Digital product URL explicitly contains 'fractal-blue' - exact model and colour match."
+ },
+ {
+  "product_id": "NE-11844",
+  "product_name": "Airdopes Plus Neo Active White",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "No 'Airdopes Plus Neo Active' product found on boat-lifestyle.com, Amazon, or Flipkart after multiple query variations; closest matches were 'Airdopes 141 Neo' (different product line) and 'Airdopes Plus Aura/311/318' series, none matching this exact name."
+ },
+ {
+  "product_id": "NE-11845",
+  "product_name": "Airdopes Plus Neo Active Blue",
+  "image_url": null,
+  "source_domain": null,
+  "match_confidence": "skip",
+  "notes": "Same as NE-11844 - no 'Airdopes Plus Neo Active' product listing found for the Blue colourway either."
+ },
+ {
+  "product_id": "NE-11855",
+  "product_name": "Wcd-Qc3a Type C Black",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/465050283/AJ/QJ/SD/235546674/51qssyxhypl-sy450-500x500.jpg",
+  "source_domain": "www.indiamart.com",
+  "match_confidence": "medium",
+  "notes": "IndiaMART listing explicitly titled 'Black Boat WCD QC3A Type C Cable Charger' - exact model and colour match, but non-preferred domain."
+ },
+ {
+  "product_id": "NE-11860",
+  "product_name": "Auxs 500-1.5 Silver",
+  "image_url": "https://files.vplak.com/500-images/boat/AUXS500-1-5/silver/image-1.jpg",
+  "source_domain": "www.vplak.com",
+  "match_confidence": "medium",
+  "notes": "Vplak.com listing 'Boat Auxs500-1.5 Aux Cable' with image path explicitly under /AUXS500-1-5/silver/ - exact model and colour match, but non-preferred domain."
+ },
+ {
+  "product_id": "NE-11861",
+  "product_name": "Type C C600 - Black",
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/01BLACK_1024x.png?v=1730726682",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page for C600 Fast Charging Cable, Black variant image."
+ },
+ {
+  "product_id": "NE-11866",
+  "product_name": "Boat Dual QC-PD Port Rapid Car Charger PD Black",
+  "image_url": "http://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_pd.png?v=1627302177",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page 'Dual QC-PD Port Rapid Car Charger with Power Delivery Cable' - exact variant match."
+ },
+ {
+  "product_id": "NE-11869",
+  "product_name": "Wcdv 20w Pd White",
+  "image_url": "https://m.media-amazon.com/images/I/61GYns36acL._AC_UF1000,1000_QL80_.jpg",
+  "source_domain": "www.amazon.in",
+  "match_confidence": "high",
+  "notes": "Amazon.in listing 'Boat WCD 20W PD + Boat Type C C300 - White' - explicit White colour match for WCDV 20W PD charger."
+ },
+ {
+  "product_id": "NE-11871",
+  "product_name": "Boat Dual QC-PD Port Rapid Car Charger TypeC Black",
+  "image_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/pi_3_tc.png?v=1627301552",
+  "source_domain": "www.boat-lifestyle.com",
+  "match_confidence": "high",
+  "notes": "boAt official product page 'Dual QC-PD Port Rapid Car Charger with Type C Cable' - exact variant match."
+ }
+]
