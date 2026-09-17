@@ -165,5 +165,21 @@ def main():
         fh.write(html_out)
     print("Wrote", out_path, f"({len(html_out)/1024:.0f} KB)")
 
+    # Shared metadata for downstream SEO page generation (build_seo_pages.py)
+    # and sitemap generation (finalize_site_assets.py) — single source of
+    # truth so the brand/category landing pages never drift from what the
+    # homepage itself shows in its Brands/Categories sections.
+    site_meta = {
+        "total": len(slim),
+        "authorised_brand_count": len(authorised_brand_names),
+        "brands": brands,
+        "categories": categories,
+        "brand_meta": brand_meta,
+        "cat_meta": cat_meta,
+        "gen_date": date.today().strftime("%d %b %Y"),
+    }
+    with open(os.path.join(OUT_DIR, "site_meta.json"), "w") as fh:
+        json.dump(site_meta, fh, ensure_ascii=False, indent=1)
+
 if __name__ == "__main__":
     main()

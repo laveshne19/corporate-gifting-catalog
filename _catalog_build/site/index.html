@@ -581,7 +581,7 @@
 <footer class="sitefoot">
   <div class="wrap">
     <div class="footer-mark">🎁</div>
-    <div><b>Nalanda Enterprises</b> — Corporate Gifting India Catalog, Version 20260914 · Generated 14 Sep 2026</div>
+    <div><b>Nalanda Enterprises</b> — Corporate Gifting India Catalog, Version 20260917 · Generated 17 Sep 2026</div>
     <div>Prices shown are MRP (Maximum Retail Price) and are subject to change without notice. Contact us for current bulk/dealer pricing, stock availability and gifting quotes.</div>
     <div>This catalog is consolidated from current vendor price lists and brand catalogues; a subset of listings are pending image or MRP verification and are marked accordingly.</div>
   </div>
@@ -1040,6 +1040,25 @@ document.getElementById('grid').addEventListener('click', e=>{
 });
 document.getElementById('lightboxClose').addEventListener('click', ()=> lightbox.classList.remove('open'));
 lightbox.addEventListener('click', e=>{ if(e.target===lightbox) lightbox.classList.remove('open'); });
+
+/* Deep-link support: /?brand=boAt or /?cat=Personal%20Audio or /?q=earbuds,
+   used by the static brand/category landing pages to jump straight into a
+   pre-filtered catalog view. */
+(function initFromQueryString(){
+  const params = new URLSearchParams(location.search);
+  const qBrand = params.get('brand');
+  const qCat = params.get('cat');
+  const qQuery = params.get('q');
+  let matched = false;
+  if(qBrand && BRANDS.includes(qBrand)){ state.brand = qBrand; brandFilter.value = qBrand; matched = true; }
+  if(qCat && CATEGORIES.includes(qCat)){ state.cat = qCat; catFilter.value = qCat; matched = true; }
+  if(qQuery){ state.q = qQuery; document.getElementById('searchInput').value = qQuery; matched = true; }
+  if(matched){
+    requestAnimationFrame(() => {
+      document.getElementById('catalog').scrollIntoView({behavior:'instant', block:'start'});
+    });
+  }
+})();
 
 render();
 

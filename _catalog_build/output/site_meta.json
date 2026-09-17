@@ -1,0 +1,707 @@
+{
+ "total": 12310,
+ "authorised_brand_count": 52,
+ "brands": [
+  "AJIO",
+  "Amazon",
+  "Amazon Pay",
+  "Amazon Shopping",
+  "BOYA",
+  "Bajaj",
+  "Belkin",
+  "Bigbasket",
+  "Blinkit",
+  "Bose",
+  "Cello",
+  "Crompton",
+  "DailyObjects",
+  "Fastrack",
+  "Fire-Boltt",
+  "Flipkart",
+  "Forever New",
+  "Haier",
+  "Hamleys Luxe",
+  "Havells",
+  "Helios",
+  "Honda",
+  "IFB",
+  "Imagine Apple Premium Reseller",
+  "Intex",
+  "La Opala",
+  "Lava",
+  "Lenovo",
+  "Levi's",
+  "Lifelong",
+  "Lifestyle",
+  "Luminarc",
+  "Luxe (30+ Brands)",
+  "Marshall",
+  "Max Fashion",
+  "Mivi",
+  "Motorola",
+  "Myntra",
+  "NM",
+  "Noise",
+  "Nothing",
+  "OPPO",
+  "Otek",
+  "Pantaloons",
+  "Philips",
+  "Portronics",
+  "Preethi",
+  "Prestige",
+  "Qubo",
+  "Ray-Ban",
+  "Realme",
+  "Safari",
+  "Samsung",
+  "Sennheiser",
+  "Simon Carter",
+  "Skybags",
+  "Skyline",
+  "Sujata",
+  "Sunflame",
+  "Swiss Military",
+  "Symphony",
+  "Titan",
+  "Usha",
+  "VIP",
+  "Vaku",
+  "Welspun",
+  "Westside",
+  "Whirlpool",
+  "WiWu",
+  "Zepto",
+  "boAt",
+  "boUlt"
+ ],
+ "categories": [
+  "410633",
+  "Accessories",
+  "Air Conditioner",
+  "Air Cooler",
+  "Air Fryer",
+  "Air Purifier",
+  "Air Purifiers",
+  "Appliances",
+  "Audio",
+  "Audio & Wearables",
+  "Audio Accessories",
+  "Audio Adapters",
+  "Audio, Wearables & Accessories",
+  "Audiophile Headphones",
+  "Audiophile In-ear",
+  "BT Speaker",
+  "Backpack",
+  "Bath Range",
+  "Bath Range - HygroCotton Technology",
+  "Bedsheet Range",
+  "Bedsheet Range - HygroCotton Innovations",
+  "Bedsheet Range - Rangana Gold",
+  "Bedsheet Range - Ritu Kumar Home",
+  "Blanket Range",
+  "Blanket Range - Rangana Gold",
+  "Blenders",
+  "Built in Oven",
+  "CHOPPER",
+  "CLASSIC",
+  "COOKERS",
+  "CROSS",
+  "Car Accessories",
+  "Category",
+  "Ceiling Fan",
+  "Charcoal Barbecue",
+  "Chimney",
+  "Chimneys",
+  "Chopper",
+  "CineHead",
+  "Coffee Maker",
+  "Coffee Makers",
+  "Coffee Set",
+  "Comforter, Dohar, Quilt & BIAB Range",
+  "Comforter, Dohar, Quilt & BIAB Range - Rangana Gold",
+  "Comforter, Dohar, Quilt & BIAB Range - Ritu Kumar Home",
+  "Commercial Mixer Grinder",
+  "Computer Accessories",
+  "Condenser USB Microphones",
+  "Cooking Pot | Buffet Server",
+  "Cooktop",
+  "Corporate Gifting Accessories",
+  "DELUXE",
+  "Dashcam",
+  "Dashcams",
+  "Deep Fryer",
+  "Digital Lavalier Microphones",
+  "Dinnerware",
+  "Dry Irons",
+  "Duffle",
+  "Earbuds",
+  "Edge Gas Stove Series",
+  "Efficia Convertible Hob",
+  "Efficia Gas Stove Series",
+  "Egg Boiler",
+  "Electric Barbecue",
+  "Electric Chopper",
+  "Electric Dosa & Grill Maker",
+  "Electric Frypans & Multi Cooking Pots",
+  "Electric Kettle",
+  "Electric Kettles",
+  "Electric Lunch Box",
+  "Electric Madhani",
+  "Electric Tandoor",
+  "Electronics & Accessories",
+  "Electronics & Gadgets",
+  "Electronics Accessories",
+  "Extension Boards",
+  "FP",
+  "Food Processor",
+  "Fresh Air / Ventilation Fan",
+  "GAS STOVE -  GLASS TOP",
+  "GAS STOVE - STAINLESS STEEL",
+  "Gaming",
+  "Gaming Monitors",
+  "Garment Steamer",
+  "Gas Stove",
+  "Gas Stoves",
+  "Gift Cards",
+  "Gift Combo Pack",
+  "Gift Sets",
+  "Glass Mate",
+  "Griller",
+  "HAND BLENDERS",
+  "HP",
+  "Hair Brush | Hair Dryer",
+  "Hair Straightener / Curler",
+  "Hand Blender",
+  "Hand Mixer & Blender",
+  "Handheld Microphones",
+  "Headphone",
+  "Headphones",
+  "Health, Care & Wellness Devices",
+  "Hearing Care",
+  "Heater",
+  "Home Appliances",
+  "Home Appliances & Fans",
+  "Home Improvement & Safety",
+  "Home Theater",
+  "Hot Plate",
+  "INDUCTION STOVE",
+  "IT Accessories",
+  "Immersion Water Heater",
+  "Indium Hobs(HB)",
+  "Induction",
+  "Induction Cooker",
+  "Innovative Gadgets",
+  "Insect Killer",
+  "Irons",
+  "JMG",
+  "Jmg",
+  "Juice Extractor",
+  "Juicer",
+  "Juicer Mixer Grinder",
+  "Juicers",
+  "KETTLES",
+  "Kettles",
+  "Kids Dinnerware",
+  "Kitchen & Dining",
+  "Kitchen Appliances",
+  "Laptops & Computing",
+  "Large Audio",
+  "Lavalier Microphones",
+  "Luggage & Bags",
+  "Lunch Box",
+  "MAESTRO",
+  "MIXERS",
+  "Magic Plus Gas Stove Series",
+  "Majestic",
+  "Marvel Plus Series",
+  "Meal Mate",
+  "Messanger Bags",
+  "Microphone Boom Arm",
+  "Microwave",
+  "Mixer Grinder",
+  "Mixer Grinders",
+  "Mobile Accessories",
+  "Mobiles & Tablets",
+  "Multi Kettle",
+  "Neckband",
+  "Nirlep Cookware",
+  "Non Stick Cookware",
+  "Nutri Blender",
+  "Nutri Mixer",
+  "OTG",
+  "Osmium Hobs(Chromatic steel body)",
+  "Otg",
+  "Oven Toaster",
+  "Ovenware",
+  "Over Nighter",
+  "PC Accessories",
+  "PREMIUM",
+  "Palladium Hobs(With FFD)",
+  "Palladium Hobs(Without FFD)",
+  "Personal Audio",
+  "Personal Care",
+  "Personal Care Appliances",
+  "Pop Up Toaster",
+  "Pop-Up Toaster",
+  "Portable Geyser",
+  "Portable Speakers",
+  "Power Accessories",
+  "Powerbank",
+  "Premia Gas Stove Series",
+  "Pressure Cooker",
+  "Pressure cooker",
+  "Professional Winshield / Mounts",
+  "Projection Screens",
+  "Projectors",
+  "Regal",
+  "Rice Cooker",
+  "Robotic Window Cleaners",
+  "Robusto",
+  "Room Heaters",
+  "Roti Maker",
+  "Roti Maker & Multi Maker",
+  "Royale Plus Gas Stove Series",
+  "SMPS",
+  "STANDARD",
+  "STELLAR",
+  "Sandwich Maker",
+  "Sandwich Makers",
+  "Seasonal Products",
+  "Shotgun Microphones",
+  "Sling",
+  "Slow Cooker",
+  "Slow Juicer",
+  "Small Domestic Appliances",
+  "Small Home Appliances",
+  "Smart Display",
+  "Smart Gadgets",
+  "Smart Home Devices",
+  "Smart Speaker",
+  "Smartwatch",
+  "Soundbar",
+  "Soundbars",
+  "Soundbars and Subs",
+  "Speakers",
+  "Sports & Fitness",
+  "Stainless Steel Gas Stove Series",
+  "Stand Mixer",
+  "Steam Inhaler",
+  "Steam Iron | Dry Iron",
+  "Steam Irons",
+  "Sterno",
+  "Streaming Device",
+  "Suitcase",
+  "Svachh Black Gas Stove Series",
+  "Svachh Efficia Convertible Hob",
+  "TOASTERS",
+  "TV Hearing Headphones",
+  "Table Blender",
+  "Tablets",
+  "Television",
+  "True Wireless Earbuds",
+  "Two-Wheelers",
+  "USB Microphones",
+  "Vacuum Cleaner",
+  "Vacuum Cleaners",
+  "Vectra Gas Stove Series",
+  "Video Door Phone",
+  "Vocal/Instrument Microphones",
+  "Waffle Maker",
+  "Washing Machine",
+  "Water Bottle",
+  "Water Heater",
+  "Wearables",
+  "Wet Grinders",
+  "Wireless Microphone Holder",
+  "Wireless Microphones",
+  "Yogurt Maker"
+ ],
+ "brand_meta": [
+  {
+   "name": "boAt",
+   "count": 1866,
+   "category": "Wearables",
+   "logo": "brand_logos/boAt.png"
+  },
+  {
+   "name": "Portronics",
+   "count": 1412,
+   "category": "Electronics Accessories",
+   "logo": "brand_logos/Portronics.png"
+  },
+  {
+   "name": "Usha",
+   "count": 1405,
+   "category": "Home Appliances & Fans",
+   "logo": "brand_logos/Usha.png"
+  },
+  {
+   "name": "Lifelong",
+   "count": 1368,
+   "category": "Sports & Fitness",
+   "logo": "brand_logos/Lifelong.jpg"
+  },
+  {
+   "name": "Whirlpool",
+   "count": 1067,
+   "category": "Home Appliances",
+   "logo": "brand_logos/Whirlpool.png"
+  },
+  {
+   "name": "Haier",
+   "count": 554,
+   "category": "Home Appliances",
+   "logo": "brand_logos/Haier.png"
+  },
+  {
+   "name": "Samsung",
+   "count": 549,
+   "category": "Mobile Accessories",
+   "logo": "brand_logos/Samsung.png"
+  },
+  {
+   "name": "Cello",
+   "count": 548,
+   "category": "Kitchen & Dining",
+   "logo": "brand_logos/Cello.png"
+  },
+  {
+   "name": "IFB",
+   "count": 501,
+   "category": "Home Appliances",
+   "logo": "brand_logos/IFB.png"
+  },
+  {
+   "name": "Bajaj",
+   "count": 368,
+   "category": "Water Heater",
+   "logo": "brand_logos/Bajaj.png"
+  },
+  {
+   "name": "Skyline",
+   "count": 215,
+   "category": "Electric Kettle",
+   "logo": "brand_logos/Skyline.png"
+  },
+  {
+   "name": "Prestige",
+   "count": 214,
+   "category": "Stainless Steel Gas Stove Series",
+   "logo": "brand_logos/Prestige.png"
+  },
+  {
+   "name": "Belkin",
+   "count": 210,
+   "category": "Electronics Accessories",
+   "logo": "brand_logos/Belkin.png"
+  },
+  {
+   "name": "Crompton",
+   "count": 151,
+   "category": "Home Appliances & Fans",
+   "logo": "brand_logos/Crompton.png"
+  },
+  {
+   "name": "Luminarc",
+   "count": 144,
+   "category": "Dinnerware",
+   "logo": "brand_logos/Luminarc.png"
+  },
+  {
+   "name": "Sujata",
+   "count": 138,
+   "category": "Chimneys",
+   "logo": "https://sujataappliances.com/wp-content/uploads/2026/05/SujataLogo-NEW-1024x345-1.png"
+  },
+  {
+   "name": "DailyObjects",
+   "count": 131,
+   "category": "Corporate Gifting Accessories",
+   "logo": ""
+  },
+  {
+   "name": "Swiss Military",
+   "count": 126,
+   "category": "Audio, Wearables & Accessories",
+   "logo": "brand_logos/Swiss_Military.png"
+  },
+  {
+   "name": "Havells",
+   "count": 121,
+   "category": "Small Domestic Appliances",
+   "logo": "brand_logos/Havells.png"
+  },
+  {
+   "name": "La Opala",
+   "count": 112,
+   "category": "Dinnerware",
+   "logo": "brand_logos/La_Opala.png"
+  },
+  {
+   "name": "Sunflame",
+   "count": 79,
+   "category": "Cooktop",
+   "logo": "brand_logos/Sunflame.png"
+  },
+  {
+   "name": "Philips",
+   "count": 68,
+   "category": "Audio",
+   "logo": "brand_logos/Philips.png"
+  },
+  {
+   "name": "WiWu",
+   "count": 59,
+   "category": "Accessories",
+   "logo": "brand_logos/WiWu.png"
+  },
+  {
+   "name": "NM",
+   "count": 54,
+   "category": "Suitcase",
+   "logo": ""
+  },
+  {
+   "name": "Noise",
+   "count": 54,
+   "category": "Personal Audio",
+   "logo": "brand_logos/Noise.jpg"
+  },
+  {
+   "name": "BOYA",
+   "count": 53,
+   "category": "Wireless Microphones",
+   "logo": "brand_logos/BOYA.png"
+  },
+  {
+   "name": "Marshall",
+   "count": 52,
+   "category": "Audio",
+   "logo": "brand_logos/Marshall.jpg"
+  },
+  {
+   "name": "OPPO",
+   "count": 49,
+   "category": "Mobiles & Tablets",
+   "logo": "brand_logos/OPPO.png"
+  },
+  {
+   "name": "Welspun",
+   "count": 45,
+   "category": "Bath Range",
+   "logo": "brand_logos/Welspun.png"
+  },
+  {
+   "name": "Safari",
+   "count": 45,
+   "category": "Luggage & Bags",
+   "logo": "brand_logos/Safari.png"
+  },
+  {
+   "name": "boUlt",
+   "count": 44,
+   "category": "Earbuds",
+   "logo": "https://cdn.brandfetch.io/idXSHJ3GSR/w/500/h/136/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1784035278646"
+  },
+  {
+   "name": "Realme",
+   "count": 43,
+   "category": "Mobiles & Tablets",
+   "logo": "brand_logos/Realme.png"
+  },
+  {
+   "name": "Otek",
+   "count": 43,
+   "category": "SMPS",
+   "logo": "brand_logos/Otek.svg"
+  },
+  {
+   "name": "Sennheiser",
+   "count": 37,
+   "category": "Audiophile Headphones",
+   "logo": "brand_logos/Sennheiser.png"
+  },
+  {
+   "name": "Qubo",
+   "count": 34,
+   "category": "Smart Home Devices",
+   "logo": "brand_logos/Qubo.jpg"
+  },
+  {
+   "name": "Intex",
+   "count": 34,
+   "category": "Speakers",
+   "logo": "brand_logos/Intex.jpg"
+  },
+  {
+   "name": "Lava",
+   "count": 33,
+   "category": "Mobiles & Tablets",
+   "logo": "brand_logos/Lava.png"
+  },
+  {
+   "name": "Preethi",
+   "count": 33,
+   "category": "Kitchen Appliances",
+   "logo": "brand_logos/Preethi.png"
+  },
+  {
+   "name": "Motorola",
+   "count": 31,
+   "category": "Mobiles & Tablets",
+   "logo": "brand_logos/Motorola.jpg"
+  },
+  {
+   "name": "Mivi",
+   "count": 30,
+   "category": "Audio",
+   "logo": "brand_logos/Mivi.png"
+  },
+  {
+   "name": "Fire-Boltt",
+   "count": 28,
+   "category": "Wearables",
+   "logo": "brand_logos/Fire-Boltt.jpg"
+  },
+  {
+   "name": "Bose",
+   "count": 19,
+   "category": "Home Theater",
+   "logo": "brand_logos/Bose.png"
+  },
+  {
+   "name": "Fastrack",
+   "count": 18,
+   "category": "Smartwatch",
+   "logo": "brand_logos/Fastrack.png"
+  },
+  {
+   "name": "Skybags",
+   "count": 17,
+   "category": "Luggage & Bags",
+   "logo": "brand_logos/Skybags.png"
+  },
+  {
+   "name": "Honda",
+   "count": 14,
+   "category": "Two-Wheelers",
+   "logo": "https://cdn.freebiesupply.com/logos/large/2x/honda-3-logo-png-transparent.png"
+  },
+  {
+   "name": "VIP",
+   "count": 13,
+   "category": "Luggage & Bags",
+   "logo": "brand_logos/VIP.png"
+  },
+  {
+   "name": "Vaku",
+   "count": 12,
+   "category": "Electronics Accessories",
+   "logo": ""
+  },
+  {
+   "name": "Nothing",
+   "count": 12,
+   "category": "Mobiles & Tablets",
+   "logo": "brand_logos/Nothing.jpg"
+  },
+  {
+   "name": "Amazon",
+   "count": 11,
+   "category": "Smart Speaker",
+   "logo": "brand_logos/Amazon.png"
+  },
+  {
+   "name": "Titan",
+   "count": 10,
+   "category": "Smartwatch",
+   "logo": "brand_logos/Titan.jpg"
+  },
+  {
+   "name": "Lenovo",
+   "count": 9,
+   "category": "Tablets",
+   "logo": "brand_logos/Lenovo.png"
+  },
+  {
+   "name": "Symphony",
+   "count": 7,
+   "category": "Water Heater",
+   "logo": "brand_logos/Symphony.png"
+  }
+ ],
+ "cat_meta": [
+  {
+   "name": "Home Appliances",
+   "count": 2122,
+   "emoji": "🔌"
+  },
+  {
+   "name": "Home Appliances & Fans",
+   "count": 1556,
+   "emoji": "🌀"
+  },
+  {
+   "name": "Electronics Accessories",
+   "count": 918,
+   "emoji": "📱"
+  },
+  {
+   "name": "Wearables",
+   "count": 822,
+   "emoji": "🎧"
+  },
+  {
+   "name": "Sports & Fitness",
+   "count": 807,
+   "emoji": "🏋️"
+  },
+  {
+   "name": "Personal Audio",
+   "count": 743,
+   "emoji": "🎧"
+  },
+  {
+   "name": "Mobile Accessories",
+   "count": 608,
+   "emoji": "📱"
+  },
+  {
+   "name": "Kitchen & Dining",
+   "count": 548,
+   "emoji": "🍳"
+  },
+  {
+   "name": "Audio",
+   "count": 247,
+   "emoji": "🎧"
+  },
+  {
+   "name": "Accessories",
+   "count": 246,
+   "emoji": "📱"
+  },
+  {
+   "name": "Mobiles & Tablets",
+   "count": 243,
+   "emoji": "📱"
+  },
+  {
+   "name": "Dinnerware",
+   "count": 233,
+   "emoji": "🍽️"
+  },
+  {
+   "name": "Small Home Appliances",
+   "count": 221,
+   "emoji": "🔌"
+  },
+  {
+   "name": "PC Accessories",
+   "count": 217,
+   "emoji": "💻"
+  }
+ ],
+ "gen_date": "17 Sep 2026"
+}
