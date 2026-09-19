@@ -43,6 +43,7 @@ PAGE_SHELL = """<!DOCTYPE html>
 <link rel="icon" type="image/png" sizes="32x32" href="../images/_brand/favicon_32.png">
 <link rel="shortcut icon" href="../images/_brand/favicon.ico">
 <meta name="theme-color" content="{navy}">
+<meta name="keywords" content="corporate gifting for pharma companies, FMCG corporate gifts, corporate gifting for IT companies, corporate gifting company Chandigarh, pharma field force gifting, FMCG trade gifting, corporate gifting vendor India, bulk employee gifts India, 12 years corporate gifting">
 <meta name="robots" content="index, follow">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{og_title}">
@@ -148,22 +149,53 @@ def icard(icon, title, desc):
     return f'<div class="icard"><div class="ic">{icon}</div><h3>{title}</h3><p>{desc}</p></div>'
 
 
+INDUSTRIES = [
+    ("💊", "Pharma &amp; Healthcare", "Field-force &amp; MR gifting, hospital &amp; clinic rewards"),
+    ("🛒", "FMCG", "Trade gifting, distributor incentives, retail rollouts"),
+    ("💼", "IT &amp; Corporate Offices", "Employee onboarding &amp; reward programmes"),
+    ("🏭", "Manufacturing", "Channel partner &amp; dealer recognition gifts"),
+    ("🏦", "BFSI", "Banks, NBFCs &amp; insurance client gifting"),
+    ("🎓", "Education", "Institutional &amp; staff recognition gifting"),
+    ("🏨", "Hospitality", "Guest amenities &amp; staff reward gifting"),
+    ("🛍️", "Retail &amp; E-commerce", "Seasonal &amp; festive bulk gifting programmes"),
+]
+
+
+def industries_html():
+    cards = "".join(
+        f'<div class="icard"><div class="ic">{ic}</div><h3>{name}</h3><p>{desc}</p></div>'
+        for ic, name, desc in INDUSTRIES
+    )
+    return f"""
+  <section class="block">
+    <h2>Industries we serve</h2>
+    <p>12 years of bulk gifting programmes for procurement and HR teams across India's
+    largest-volume sectors — from pharma field-force incentives to FMCG trade gifting.</p>
+    <div class="card-grid">{cards}</div>
+  </section>
+"""
+
+
 def build_about(total, brand_count):
     stats_html = '<div class="stat-row">' + "".join([
-        stat("9 Years", "Trusted Gifting"),
+        stat("12 Years", "Trusted Gifting"),
+        stat("500+", "Corporate Clients"),
         stat(f"{brand_count}", "Authorised Brands"),
         stat(f"{total:,}", "Products Catalogued"),
     ]) + "</div>"
 
     body = f"""
   <section class="block">
-    <h2>What we do</h2>
-    <p>Nalanda Enterprises is a Chandigarh-based authorised corporate gifting partner. We consolidate
-    price lists and product catalogues from {brand_count} authorised distributor brands — spanning
-    electronics, home appliances, dinnerware, luggage and lifestyle categories — into one searchable
-    catalog of {total:,} products, each with a verified MRP. Dealers, procurement teams and HR
-    departments across India use it to source and price bulk corporate gifting orders without
-    chasing dozens of separate vendor PDFs.</p>
+    <h2>Our story</h2>
+    <p>Nalanda Enterprises has spent 12 years building trust as a Chandigarh-based authorised
+    corporate gifting partner. What started as a regional distributor relationship has grown into
+    a catalog of {brand_count} authorised brands and {total:,} verified-MRP products, serving
+    500+ corporate clients — from pharma field-force incentive programmes to FMCG trade gifting,
+    IT employee onboarding kits to festive dealer rollouts. We consolidate price lists and product
+    catalogues from every authorised brand we carry — spanning electronics, home appliances,
+    dinnerware, luggage and lifestyle categories — into one searchable catalog, so dealers,
+    procurement teams and HR departments across India can source and price bulk corporate gifting
+    orders without chasing dozens of separate vendor PDFs.</p>
   </section>
   <section class="block">
     <h2>How we work</h2>
@@ -176,6 +208,7 @@ def build_about(total, brand_count):
       {icard("🎁", "Built for Bulk", "From festive/Diwali gifting programs to employee reward rollouts, quantities and budgets are handled as a program, not a one-off order.")}
     </div>
   </section>
+  {industries_html()}
   <section class="block">
     <h2>Who we work with</h2>
     <p>Procurement teams sourcing employee gifts, dealers stocking up for the festive season, HR
@@ -194,6 +227,8 @@ def build_about(total, brand_count):
             "name": "Nalanda Enterprises",
             "url": f"{PRIMARY_DOMAIN}/",
             "telephone": "+91-9115513366",
+            "email": "info@nalandaenterprises.com",
+            "foundingDate": "2014",
             "address": {"@type": "PostalAddress", "streetAddress": "SCF-4, Sector 19D",
                         "addressLocality": "Chandigarh", "addressCountry": "IN"},
         }
@@ -201,7 +236,21 @@ def build_about(total, brand_count):
     return stats_html, body, jsonld
 
 
+PROGRAMS = [
+    ("🎉", "Employee Onboarding Kits", "Welcome hampers that make a first impression from day one."),
+    ("🏆", "Rewards &amp; Recognition", "Milestone gifts for work anniversaries, promotions and top performers."),
+    ("🎆", "Festival Gifting", "Diwali, New Year and festive programmes planned and delivered on time, every year."),
+    ("🤝", "Client Appreciation", "Premium gifts that strengthen relationships, branded to your company."),
+    ("📈", "Channel Partner &amp; Dealer Rewards", "Scalable recognition gifting for distributors and dealers."),
+    ("🎯", "Sales Incentive Programs", "Structured incentive gifting for quarterly and annual achievers."),
+]
+
+
 def build_services(total, brand_count):
+    programs_cards = "".join(
+        f'<div class="icard"><div class="ic">{ic}</div><h3>{name}</h3><p>{desc}</p></div>'
+        for ic, name, desc in PROGRAMS
+    )
     body = f"""
   <section class="block">
     <h2>Corporate gifting, sourced and supplied in bulk</h2>
@@ -214,6 +263,13 @@ def build_services(total, brand_count):
       {icard("📋", "Quotation &amp; Proposal Support", "Priced, presentation-ready product proposals built from the live catalog for your internal approvals.")}
     </div>
   </section>
+  <section class="block">
+    <h2>Every gifting occasion, handled by one team</h2>
+    <p>12 years of experience across the full corporate gifting lifecycle — from a new hire's first day
+    to a dealer's tenth year with us.</p>
+    <div class="card-grid">{programs_cards}</div>
+  </section>
+  {industries_html()}
   <section class="block">
     <h2>The catalog behind every quote</h2>
     <p>All {total:,} products across {brand_count} authorised brands are searchable by name, spec or
@@ -278,14 +334,15 @@ def main():
     brand_count = site_meta["authorised_brand_count"]
 
     pages = [
-        ("about", "About Nalanda Enterprises | Corporate Gifting India",
-         f"Chandigarh-based authorised corporate gifting partner — {brand_count} authorised brands, "
-         f"{total:,} verified-MRP products, 9 years supplying bulk corporate and dealer gifting across India.",
+        ("about", "About Nalanda Enterprises | 12 Years of Corporate Gifting India",
+         f"12 years, 500+ corporate clients, {brand_count} authorised brands — Chandigarh-based corporate "
+         f"gifting partner for Pharma, FMCG, IT and Healthcare companies across India.",
          "COMPANY", "About Nalanda Enterprises", "About",
          f"Authorised corporate gifting partner sourcing {total:,} products across {brand_count} brands — verified MRP, bulk supply, Chandigarh-based.",
          *build_about(total, brand_count)),
-        ("services", "Corporate Gifting Services | Nalanda Enterprises",
-         f"Bulk corporate gifting, festive/Diwali programs, dealer stock sourcing and budget-tiered gift curation across {brand_count} authorised brands.",
+        ("services", "Corporate Gifting Services for Pharma, FMCG &amp; IT | Nalanda Enterprises",
+         f"Bulk corporate gifting for Pharma, FMCG, IT and Manufacturing companies — festive programs, "
+         f"dealer stock sourcing and budget-tiered gift curation across {brand_count} authorised brands.",
          "SERVICES", "Corporate Gifting Services", "Services",
          "Bulk corporate gifting, festive gifting programs, dealer stock sourcing and budget-tiered curation.",
          *build_services(total, brand_count)),

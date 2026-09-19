@@ -2,10 +2,15 @@
 
 > India's corporate gifting catalog by Nalanda Enterprises — 12410 products across 54 authorised brands (boAt, Noise, Swiss Military, Portronics, Samsung, Whirlpool, Haier, IFB, Usha, Lifelong, Cello and more), each with a verified MRP, for bulk corporate gifting, dealer stock and employee reward programs across India.
 
-Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate gifting partner, sourcing electronics, appliances, dinnerware, luggage and lifestyle products in bulk. This site is the searchable master catalog: every product a prospective corporate buyer, dealer or procurement team can ask about.
+Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate gifting partner with 12 years' experience, sourcing electronics, appliances, dinnerware, luggage and lifestyle products in bulk for 500+ corporate clients. This site is the searchable master catalog: every product a prospective corporate buyer, dealer or procurement team can ask about.
+
+## Industries served
+Pharma & Healthcare (field-force/MR gifting, hospital rewards), FMCG (trade gifting, distributor incentives), IT & Corporate Offices (employee onboarding/rewards), Manufacturing (channel partner/dealer gifts), BFSI, Education, Hospitality, Retail & E-commerce.
 
 ## Primary
 - [Full searchable catalog](https://corporategiftingindia.co/): all 12410 products, filterable by brand, category and budget
+- [About Nalanda Enterprises](https://corporategiftingindia.co/about/): company history, stats, industries served
+- [Corporate Gifting Services](https://corporategiftingindia.co/services/): programs and occasions supported
 
 ## Brand catalogs
 - [boAt](https://corporategiftingindia.co/brands/boat/): 1866 products, Wearables

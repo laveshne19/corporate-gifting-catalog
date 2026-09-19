@@ -87,13 +87,22 @@ def write_llms_txt():
         "across India.",
         "",
         "Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate "
-        "gifting partner, sourcing electronics, appliances, dinnerware, luggage and "
-        "lifestyle products in bulk. This site is the searchable master catalog: every "
-        "product a prospective corporate buyer, dealer or procurement team can ask about.",
+        "gifting partner with 12 years' experience, sourcing electronics, appliances, "
+        "dinnerware, luggage and lifestyle products in bulk for 500+ corporate clients. "
+        "This site is the searchable master catalog: every product a prospective corporate "
+        "buyer, dealer or procurement team can ask about.",
+        "",
+        "## Industries served",
+        "Pharma & Healthcare (field-force/MR gifting, hospital rewards), FMCG (trade gifting, "
+        "distributor incentives), IT & Corporate Offices (employee onboarding/rewards), "
+        "Manufacturing (channel partner/dealer gifts), BFSI, Education, Hospitality, "
+        "Retail & E-commerce.",
         "",
         "## Primary",
         f"- [Full searchable catalog]({PRIMARY_DOMAIN}/): all {total} products, filterable by "
         "brand, category and budget",
+        f"- [About Nalanda Enterprises]({PRIMARY_DOMAIN}/about/): company history, stats, industries served",
+        f"- [Corporate Gifting Services]({PRIMARY_DOMAIN}/services/): programs and occasions supported",
         "",
         "## Brand catalogs",
     ]
