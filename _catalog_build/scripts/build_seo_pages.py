@@ -26,6 +26,20 @@ PRIMARY_DOMAIN = "https://corporategiftingindia.co"
 PAGE_CAP = 60  # products shown per landing page — mirrors the homepage's PAGE_SIZE
 
 NAVY = "#0f2a4a"
+TOTAL_PRODUCTS = "12,310"  # overwritten from site_meta.json in main()
+
+GTM_ID = "GTM-PHBBN49S"
+GTM_HEAD = f"""<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
+new Date().getTime(),event:'gtm.js'}});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+}})(window,document,'script','dataLayer','{GTM_ID}');</script>
+<!-- End Google Tag Manager -->"""
+GTM_BODY = f"""<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={GTM_ID}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->"""
 
 
 def slugify(s):
@@ -107,6 +121,7 @@ def product_jsonld(items, page_url):
 PAGE_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
+{gtm_head}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title}</title>
@@ -171,6 +186,7 @@ footer{{padding:26px 0;border-top:1px solid var(--border);color:var(--muted);fon
 </style>
 </head>
 <body>
+{gtm_body}
 <nav class="topnav"><div class="wrap">
   <a class="logo" href="{rel}"><b>Corporate</b> Gifting India</a>
   <a class="nav-cta" href="{rel}">Search Full Catalog</a>
@@ -276,10 +292,11 @@ def build_pages(kind, meta_list, key_field, recs_by_key, other_kind, other_slugs
         page = PAGE_TEMPLATE.format(
             title=html.escape(title), description=html.escape(description), canonical=canonical,
             rel=rel, navy=NAVY, og_title=html.escape(og_title), PRIMARY_DOMAIN=PRIMARY_DOMAIN,
+            gtm_head=GTM_HEAD, gtm_body=GTM_BODY,
             breadcrumb_ld=breadcrumb_ld, itemlist_ld=itemlist_ld,
             breadcrumb_label=breadcrumb_label, eyebrow=eyebrow, h1=html.escape(h1), intro=intro,
             count=count, price_lo=price_lo, deep_link=deep_link, cards=cards,
-            total="12,310", shown=len(items), label_lower=html.escape(label_lower),
+            total=TOTAL_PRODUCTS, shown=len(items), label_lower=html.escape(label_lower),
             other_label=other_label, other_links=other_links,
         )
         os.makedirs(dir_path, exist_ok=True)
@@ -290,8 +307,10 @@ def build_pages(kind, meta_list, key_field, recs_by_key, other_kind, other_slugs
 
 
 def main():
+    global TOTAL_PRODUCTS
     recs = json.load(open(os.path.join(OUT_DIR, "master_consolidated.json")))
     site_meta = json.load(open(os.path.join(OUT_DIR, "site_meta.json")))
+    TOTAL_PRODUCTS = f"{site_meta['total']:,}"
 
     recs_by_brand = {}
     for r in recs:

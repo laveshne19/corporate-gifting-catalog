@@ -18,9 +18,23 @@ SITE_DIR = os.path.join(BASE, "_catalog_build", "site")
 PRIMARY_DOMAIN = "https://corporategiftingindia.co"
 NAVY = "#0f2a4a"
 
+GTM_ID = "GTM-PHBBN49S"
+GTM_HEAD = f"""<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
+new Date().getTime(),event:'gtm.js'}});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+}})(window,document,'script','dataLayer','{GTM_ID}');</script>
+<!-- End Google Tag Manager -->"""
+GTM_BODY = f"""<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={GTM_ID}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->"""
+
 PAGE_SHELL = """<!DOCTYPE html>
 <html lang="en">
 <head>
+{gtm_head}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title}</title>
@@ -88,6 +102,7 @@ footer{{padding:26px 0;border-top:1px solid var(--border);color:var(--muted);fon
 </style>
 </head>
 <body>
+{gtm_body}
 <nav class="topnav"><div class="wrap">
   <a class="logo" href="../"><b>Corporate</b> Gifting India</a>
   <div class="navlinks">
@@ -276,6 +291,7 @@ def main():
         page = PAGE_SHELL.format(
             title=title, description=description, canonical=canonical, navy=NAVY,
             og_title=title, PRIMARY_DOMAIN=PRIMARY_DOMAIN,
+            gtm_head=GTM_HEAD, gtm_body=GTM_BODY,
             jsonld=json.dumps(jsonld, ensure_ascii=False),
             breadcrumb_label=breadcrumb_label, eyebrow=eyebrow, h1=h1, intro=og_desc,
             stats_html=stats_html, body_html=body_html,
