@@ -1,6 +1,6 @@
 {
- "total": 12310,
- "authorised_brand_count": 52,
+ "total": 12410,
+ "authorised_brand_count": 54,
  "brands": [
   "AJIO",
   "Amazon",
@@ -45,6 +45,7 @@
   "Nothing",
   "OPPO",
   "Otek",
+  "POCO",
   "Pantaloons",
   "Philips",
   "Portronics",
@@ -64,6 +65,7 @@
   "Swiss Military",
   "Symphony",
   "Titan",
+  "Toshiba",
   "Usha",
   "VIP",
   "Vaku",
@@ -439,6 +441,12 @@
    "logo": "brand_logos/La_Opala.png"
   },
   {
+   "name": "Lava",
+   "count": 106,
+   "category": "Accessories",
+   "logo": "brand_logos/Lava.png"
+  },
+  {
    "name": "Sunflame",
    "count": 79,
    "category": "Cooktop",
@@ -535,12 +543,6 @@
    "logo": "brand_logos/Intex.jpg"
   },
   {
-   "name": "Lava",
-   "count": 33,
-   "category": "Mobiles & Tablets",
-   "logo": "brand_logos/Lava.png"
-  },
-  {
    "name": "Preethi",
    "count": 33,
    "category": "Kitchen Appliances",
@@ -583,6 +585,12 @@
    "logo": "brand_logos/Skybags.png"
   },
   {
+   "name": "Toshiba",
+   "count": 15,
+   "category": "Electronics & Gadgets",
+   "logo": ""
+  },
+  {
    "name": "Honda",
    "count": 14,
    "category": "Two-Wheelers",
@@ -605,6 +613,12 @@
    "count": 12,
    "category": "Mobiles & Tablets",
    "logo": "brand_logos/Nothing.jpg"
+  },
+  {
+   "name": "POCO",
+   "count": 12,
+   "category": "Mobiles & Tablets",
+   "logo": ""
   },
   {
    "name": "Amazon",
@@ -649,7 +663,7 @@
   },
   {
    "name": "Wearables",
-   "count": 822,
+   "count": 828,
    "emoji": "🎧"
   },
   {
@@ -659,12 +673,12 @@
   },
   {
    "name": "Personal Audio",
-   "count": 743,
+   "count": 760,
    "emoji": "🎧"
   },
   {
    "name": "Mobile Accessories",
-   "count": 608,
+   "count": 613,
    "emoji": "📱"
   },
   {
@@ -673,19 +687,19 @@
    "emoji": "🍳"
   },
   {
-   "name": "Audio",
-   "count": 247,
-   "emoji": "🎧"
-  },
-  {
    "name": "Accessories",
-   "count": 246,
+   "count": 291,
    "emoji": "📱"
   },
   {
    "name": "Mobiles & Tablets",
-   "count": 243,
+   "count": 255,
    "emoji": "📱"
+  },
+  {
+   "name": "Audio",
+   "count": 247,
+   "emoji": "🎧"
   },
   {
    "name": "Dinnerware",
@@ -703,5 +717,5 @@
    "emoji": "💻"
   }
  ],
- "gen_date": "18 Sep 2026"
+ "gen_date": "19 Sep 2026"
 }

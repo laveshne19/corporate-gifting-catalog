@@ -1,11 +1,11 @@
 # Corporate Gifting India
 
-> India's corporate gifting catalog by Nalanda Enterprises — 12310 products across 52 authorised brands (boAt, Noise, Swiss Military, Portronics, Samsung, Whirlpool, Haier, IFB, Usha, Lifelong, Cello and more), each with a verified MRP, for bulk corporate gifting, dealer stock and employee reward programs across India.
+> India's corporate gifting catalog by Nalanda Enterprises — 12410 products across 54 authorised brands (boAt, Noise, Swiss Military, Portronics, Samsung, Whirlpool, Haier, IFB, Usha, Lifelong, Cello and more), each with a verified MRP, for bulk corporate gifting, dealer stock and employee reward programs across India.
 
 Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate gifting partner, sourcing electronics, appliances, dinnerware, luggage and lifestyle products in bulk. This site is the searchable master catalog: every product a prospective corporate buyer, dealer or procurement team can ask about.
 
 ## Primary
-- [Full searchable catalog](https://corporategiftingindia.co/): all 12310 products, filterable by brand, category and budget
+- [Full searchable catalog](https://corporategiftingindia.co/): all 12410 products, filterable by brand, category and budget
 
 ## Brand catalogs
 - [boAt](https://corporategiftingindia.co/brands/boat/): 1866 products, Wearables
@@ -28,6 +28,7 @@ Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate g
 - [Swiss Military](https://corporategiftingindia.co/brands/swiss-military/): 126 products, Audio, Wearables & Accessories
 - [Havells](https://corporategiftingindia.co/brands/havells/): 121 products, Small Domestic Appliances
 - [La Opala](https://corporategiftingindia.co/brands/la-opala/): 112 products, Dinnerware
+- [Lava](https://corporategiftingindia.co/brands/lava/): 106 products, Accessories
 - [Sunflame](https://corporategiftingindia.co/brands/sunflame/): 79 products, Cooktop
 - [Philips](https://corporategiftingindia.co/brands/philips/): 68 products, Audio
 - [WiWu](https://corporategiftingindia.co/brands/wiwu/): 59 products, Accessories
@@ -44,7 +45,6 @@ Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate g
 - [Sennheiser](https://corporategiftingindia.co/brands/sennheiser/): 37 products, Audiophile Headphones
 - [Qubo](https://corporategiftingindia.co/brands/qubo/): 34 products, Smart Home Devices
 - [Intex](https://corporategiftingindia.co/brands/intex/): 34 products, Speakers
-- [Lava](https://corporategiftingindia.co/brands/lava/): 33 products, Mobiles & Tablets
 - [Preethi](https://corporategiftingindia.co/brands/preethi/): 33 products, Kitchen Appliances
 - [Motorola](https://corporategiftingindia.co/brands/motorola/): 31 products, Mobiles & Tablets
 - [Mivi](https://corporategiftingindia.co/brands/mivi/): 30 products, Audio
@@ -52,10 +52,12 @@ Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate g
 - [Bose](https://corporategiftingindia.co/brands/bose/): 19 products, Home Theater
 - [Fastrack](https://corporategiftingindia.co/brands/fastrack/): 18 products, Smartwatch
 - [Skybags](https://corporategiftingindia.co/brands/skybags/): 17 products, Luggage & Bags
+- [Toshiba](https://corporategiftingindia.co/brands/toshiba/): 15 products, Electronics & Gadgets
 - [Honda](https://corporategiftingindia.co/brands/honda/): 14 products, Two-Wheelers
 - [VIP](https://corporategiftingindia.co/brands/vip/): 13 products, Luggage & Bags
 - [Vaku](https://corporategiftingindia.co/brands/vaku/): 12 products, Electronics Accessories
 - [Nothing](https://corporategiftingindia.co/brands/nothing/): 12 products, Mobiles & Tablets
+- [POCO](https://corporategiftingindia.co/brands/poco/): 12 products, Mobiles & Tablets
 - [Amazon](https://corporategiftingindia.co/brands/amazon/): 11 products, Smart Speaker
 - [Titan](https://corporategiftingindia.co/brands/titan/): 10 products, Smartwatch
 - [Lenovo](https://corporategiftingindia.co/brands/lenovo/): 9 products, Tablets
@@ -65,14 +67,14 @@ Nalanda Enterprises is a Chandigarh-based authorised distributor and corporate g
 - [Home Appliances](https://corporategiftingindia.co/categories/home-appliances/): 2122 products
 - [Home Appliances & Fans](https://corporategiftingindia.co/categories/home-appliances-fans/): 1556 products
 - [Electronics Accessories](https://corporategiftingindia.co/categories/electronics-accessories/): 918 products
-- [Wearables](https://corporategiftingindia.co/categories/wearables/): 822 products
+- [Wearables](https://corporategiftingindia.co/categories/wearables/): 828 products
 - [Sports & Fitness](https://corporategiftingindia.co/categories/sports-fitness/): 807 products
-- [Personal Audio](https://corporategiftingindia.co/categories/personal-audio/): 743 products
-- [Mobile Accessories](https://corporategiftingindia.co/categories/mobile-accessories/): 608 products
+- [Personal Audio](https://corporategiftingindia.co/categories/personal-audio/): 760 products
+- [Mobile Accessories](https://corporategiftingindia.co/categories/mobile-accessories/): 613 products
 - [Kitchen & Dining](https://corporategiftingindia.co/categories/kitchen-dining/): 548 products
+- [Accessories](https://corporategiftingindia.co/categories/accessories/): 291 products
+- [Mobiles & Tablets](https://corporategiftingindia.co/categories/mobiles-tablets/): 255 products
 - [Audio](https://corporategiftingindia.co/categories/audio/): 247 products
-- [Accessories](https://corporategiftingindia.co/categories/accessories/): 246 products
-- [Mobiles & Tablets](https://corporategiftingindia.co/categories/mobiles-tablets/): 243 products
 - [Dinnerware](https://corporategiftingindia.co/categories/dinnerware/): 233 products
 - [Small Home Appliances](https://corporategiftingindia.co/categories/small-home-appliances/): 221 products
 - [PC Accessories](https://corporategiftingindia.co/categories/pc-accessories/): 217 products
