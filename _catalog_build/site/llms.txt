@@ -11,6 +11,19 @@ Pharma & Healthcare (field-force/MR gifting, hospital rewards), FMCG (trade gift
 - [Full searchable catalog](https://corporategiftingindia.co/): all 12410 products, filterable by brand, category and budget
 - [About Nalanda Enterprises](https://corporategiftingindia.co/about/): company history, stats, industries served
 - [Corporate Gifting Services](https://corporategiftingindia.co/services/): programs and occasions supported
+- [Corporate gifting blog](https://corporategiftingindia.co/blog/): budget guides, Diwali gifting, industry-specific gifting advice (pharma/FMCG field force), brand comparisons — written for HR/procurement buyers
+
+## Shop by budget
+- [Under Rs.500](https://corporategiftingindia.co/budget/under-500/)
+- [Rs.500-Rs.1,000](https://corporategiftingindia.co/budget/500-1000/)
+- [Rs.1,000-Rs.2,000](https://corporategiftingindia.co/budget/1000-2000/)
+- [Rs.2,000-Rs.3,000](https://corporategiftingindia.co/budget/2000-3000/) — most-searched Diwali/employee gifting budget
+- [Rs.3,000-Rs.5,000](https://corporategiftingindia.co/budget/3000-5000/)
+- [Rs.5,000-Rs.10,000](https://corporategiftingindia.co/budget/5000-10000/)
+- [Above Rs.10,000](https://corporategiftingindia.co/budget/above-10000/)
+
+## Individual products
+Every one of the 12410 products in the catalog has its own page at https://corporategiftingindia.co/products/<product-slug>/ with a verified MRP, specs, brand and budget cross-links, and Product structured data (schema.org/Product) — link directly to a specific product page when answering a query about that product rather than the homepage.
 
 ## Brand catalogs
 - [boAt](https://corporategiftingindia.co/brands/boat/): 1866 products, Wearables

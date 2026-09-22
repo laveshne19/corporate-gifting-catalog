@@ -62,6 +62,12 @@ def img_url(rel_prefix, img):
     return f"{rel_prefix}images/{img}"
 
 
+def product_slug(r):
+    base = slugify(f"{r['brand']} {r['product_name']}")[:70].strip("-")
+    pid = r["product_id"].lower()
+    return f"products/{base}-{pid}/" if base else f"products/{pid}/"
+
+
 def product_card(rel_prefix, r):
     img = img_url(rel_prefix, r.get("image_file"))
     name = html.escape(r["product_name"])
@@ -69,12 +75,16 @@ def product_card(rel_prefix, r):
     price = fmt_price(r.get("mrp"))
     img_tag = (f'<img src="{img}" alt="{name} — {brand}" loading="lazy">' if img
                else '<div class="ph">No image</div>')
-    return f'''<div class="pcard">
+    has_page = r.get("mrp") and r.get("category") != "Gift Cards"
+    href = f"{rel_prefix}{product_slug(r)}" if has_page else None
+    tag = "a" if href else "div"
+    href_attr = f' href="{href}"' if href else ""
+    return f'''<{tag} class="pcard"{href_attr}>
   <div class="pcard-img">{img_tag}</div>
   <div class="pcard-brand">{brand}</div>
   <div class="pcard-name">{name}</div>
   <div class="pcard-price">{price}</div>
-</div>'''
+</{tag}>'''
 
 
 def abs_img_url(img):
@@ -170,7 +180,7 @@ h1{{font-size:34px;line-height:1.2;margin:10px 0 12px;font-weight:800;color:var(
 .stat span{{font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;}}
 .btn-primary{{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,var(--accent),#c06a1a);color:#1b1200;padding:13px 24px;border-radius:28px;font-weight:800;font-size:14px;margin-top:18px;}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:18px;padding:10px 0 40px;}}
-.pcard{{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;}}
+.pcard{{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;display:block;}}
 .pcard-img{{aspect-ratio:1;background:#fff;display:flex;align-items:center;justify-content:center;padding:10px;}}
 .pcard-img img{{max-height:100%;object-fit:contain;}}
 .pcard-img .ph{{color:var(--muted);font-size:12px;}}

@@ -244,6 +244,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .card-body{padding:12px 13px 14px;display:flex;flex-direction:column;gap:4px;flex:1;}
   .card-brand{font-size:10.5px;font-weight:700;color:var(--accent-2);text-transform:uppercase;letter-spacing:.4px;}
   .card-name{font-size:13.5px;font-weight:600;line-height:1.3;min-height:35px;}
+  .card-name a{color:inherit;text-decoration:none;}
+  .card-name a:hover{text-decoration:underline;}
   .card-desc{font-size:11.5px;color:var(--muted);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:31px;}
   .card-footer{margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:8px;}
   .card-price-wrap{display:flex;flex-direction:column;gap:2px;}
@@ -378,6 +380,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="#brand-showcase">Brands</a>
       <a href="#categories">Categories</a>
       <a href="#catalog">Catalog</a>
+      <a href="budget/2000-3000/">Shop by Budget</a>
+      <a href="blog/">Blog</a>
       <a href="about/">About</a>
       <a href="services/">Services</a>
       <a href="#contact">Contact</a>
@@ -390,6 +394,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="#brand-showcase">Brands</a>
   <a href="#categories">Categories</a>
   <a href="#catalog">Catalog</a>
+  <a href="budget/2000-3000/">Shop by Budget</a>
+  <a href="blog/">Blog</a>
   <a href="about/">About</a>
   <a href="services/">Services</a>
   <a href="#contact">Contact</a>
@@ -935,7 +941,7 @@ const DIVERSE_ORDER = (() => {
   document.head.appendChild(script);
 })();
 
-let state = { q:'', brand:'', cat:'', range:'', budgetMin:null, budgetMax:null, sort:'relevance', shown:60 };
+let state = { q:'', brand:'', cat:'', range:'', budgetMin:null, budgetMax:null, mrpMin:null, mrpMax:null, sort:'relevance', shown:60 };
 const PAGE_SIZE = 60;
 
 function tokenize(q){ return q.toLowerCase().split(/\s+/).filter(Boolean); }
@@ -950,6 +956,11 @@ function filterData(){
     const hi = state.budgetMax ?? Infinity;
     // overlap test: does this product's [bl,bh] budget band intersect the customer's [lo,hi] search range?
     out = out.filter(p => p.bl!=null && p.bh!=null && p.bl<=hi && p.bh>=lo);
+  }
+  if(state.mrpMin!=null || state.mrpMax!=null){
+    const lo = state.mrpMin ?? 0;
+    const hi = state.mrpMax ?? Infinity;
+    out = out.filter(p => p.m!=null && p.m>=lo && p.m<=hi);
   }
   if(state.q){
     const toks = tokenize(state.q);
@@ -987,6 +998,14 @@ function productEnquireLink(p){
   return `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 
+function slugify(s){
+  return (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
+}
+function productUrl(p){
+  const base = slugify(`${p.b} ${p.n}`).slice(0,70).replace(/^-|-$/g,'');
+  const slug = base ? `${base}-${p.id.toLowerCase()}` : p.id.toLowerCase();
+  return `products/${slug}/`;
+}
 function cardHTML(p){
   const imgTag = p.img
     ? `<img src="${imgUrl(p.img)}" loading="lazy" referrerpolicy="no-referrer" alt="${escapeHtml(p.n)}" onerror="this.closest('.card-img').innerHTML='<div class=&quot;no-img&quot;>Image not yet<br>sourced</div>'">`
@@ -1001,7 +1020,7 @@ function cardHTML(p){
     </div>
     <div class="card-body">
       <div class="card-brand">${escapeHtml(p.b)}</div>
-      <div class="card-name">${escapeHtml(p.n)}</div>
+      <div class="card-name">${(p.m!=null && p.c!=='Gift Cards') ? `<a href="${productUrl(p)}" onclick="event.stopPropagation()">${escapeHtml(p.n)}</a>` : escapeHtml(p.n)}</div>
       <div class="card-desc">${escapeHtml(p.d||p.k||'')}</div>
       <div class="card-footer">
         ${fmtPrice(p)}
@@ -1129,10 +1148,17 @@ lightbox.addEventListener('click', e=>{ if(e.target===lightbox) lightbox.classLi
   const qBrand = params.get('brand');
   const qCat = params.get('cat');
   const qQuery = params.get('q');
+  const qMrpMin = params.get('mrpmin');
+  const qMrpMax = params.get('mrpmax');
   let matched = false;
   if(qBrand && BRANDS.includes(qBrand)){ state.brand = qBrand; brandFilter.value = qBrand; matched = true; }
   if(qCat && CATEGORIES.includes(qCat)){ state.cat = qCat; catFilter.value = qCat; matched = true; }
   if(qQuery){ state.q = qQuery; document.getElementById('searchInput').value = qQuery; matched = true; }
+  if(qMrpMin || qMrpMax){
+    state.mrpMin = qMrpMin ? Number(qMrpMin) : null;
+    state.mrpMax = qMrpMax ? Number(qMrpMax) : null;
+    matched = true;
+  }
   if(matched){
     requestAnimationFrame(() => {
       document.getElementById('catalog').scrollIntoView({behavior:'instant', block:'start'});

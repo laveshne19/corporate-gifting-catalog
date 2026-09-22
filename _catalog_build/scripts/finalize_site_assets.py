@@ -37,9 +37,19 @@ def copy_images():
         json.dump(recs, fh, indent=1, ensure_ascii=False)
     print(f"Images copied to site: {copied}, missing/broken references cleared: {missing}")
 
+def _load(name):
+    p = os.path.join(OUT_DIR, name)
+    return json.load(open(p)) if os.path.exists(p) else []
+
+
 def write_sitemap():
-    seo_urls_path = os.path.join(OUT_DIR, "seo_page_urls.json")
-    seo_urls = json.load(open(seo_urls_path)) if os.path.exists(seo_urls_path) else []
+    """One combined sitemap covering brand/category, product, budget and
+    blog pages. ~12,500 URLs total, well under the 50,000-URL /
+    50MB-uncompressed sitemap protocol limits, so a single file is fine."""
+    seo_urls = _load("seo_page_urls.json")
+    product_urls = _load("product_page_urls.json")
+    budget_urls = _load("budget_page_urls.json")
+    blog_urls = _load("blog_page_urls.json")
 
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
@@ -47,6 +57,13 @@ def write_sitemap():
     for path in seo_urls:
         priority = "0.8" if path.startswith("/brands/") else "0.7"
         sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
+    for path in budget_urls:
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>0.75</priority></url>")
+    for path in blog_urls:
+        priority = "0.6" if path != "/blog/" else "0.65"
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>monthly</changefreq><priority>{priority}</priority></url>")
+    for path in product_urls:
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>")
     sitemap.append("</urlset>")
     with open(os.path.join(SITE_DIR, "sitemap.xml"), "w") as fh:
         fh.write("\n".join(sitemap))
@@ -58,7 +75,8 @@ def write_sitemap():
     ]
     with open(os.path.join(SITE_DIR, "robots.txt"), "w") as fh:
         fh.write("\n".join(robots) + "\n")
-    print(f"Wrote sitemap.xml ({1 + len(seo_urls)} URLs) and robots.txt")
+    total_urls = 1 + len(seo_urls) + len(budget_urls) + len(blog_urls) + len(product_urls)
+    print(f"Wrote sitemap.xml ({total_urls} URLs) and robots.txt")
 
 def write_llms_txt():
     """GEO: a plain-text index for AI assistants/answer engines (ChatGPT,
@@ -103,6 +121,23 @@ def write_llms_txt():
         "brand, category and budget",
         f"- [About Nalanda Enterprises]({PRIMARY_DOMAIN}/about/): company history, stats, industries served",
         f"- [Corporate Gifting Services]({PRIMARY_DOMAIN}/services/): programs and occasions supported",
+        f"- [Corporate gifting blog]({PRIMARY_DOMAIN}/blog/): budget guides, Diwali gifting, industry-specific "
+        "gifting advice (pharma/FMCG field force), brand comparisons — written for HR/procurement buyers",
+        "",
+        "## Shop by budget",
+        f"- [Under Rs.500]({PRIMARY_DOMAIN}/budget/under-500/)",
+        f"- [Rs.500-Rs.1,000]({PRIMARY_DOMAIN}/budget/500-1000/)",
+        f"- [Rs.1,000-Rs.2,000]({PRIMARY_DOMAIN}/budget/1000-2000/)",
+        f"- [Rs.2,000-Rs.3,000]({PRIMARY_DOMAIN}/budget/2000-3000/) — most-searched Diwali/employee gifting budget",
+        f"- [Rs.3,000-Rs.5,000]({PRIMARY_DOMAIN}/budget/3000-5000/)",
+        f"- [Rs.5,000-Rs.10,000]({PRIMARY_DOMAIN}/budget/5000-10000/)",
+        f"- [Above Rs.10,000]({PRIMARY_DOMAIN}/budget/above-10000/)",
+        "",
+        "## Individual products",
+        f"Every one of the {total} products in the catalog has its own page at "
+        f"{PRIMARY_DOMAIN}/products/<product-slug>/ with a verified MRP, specs, brand and budget "
+        "cross-links, and Product structured data (schema.org/Product) — link directly to a specific "
+        "product page when answering a query about that product rather than the homepage.",
         "",
         "## Brand catalogs",
     ]
