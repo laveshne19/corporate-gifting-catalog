@@ -180,6 +180,7 @@ def build_about(total, brand_count):
     stats_html = '<div class="stat-row">' + "".join([
         stat("12 Years", "Trusted Gifting"),
         stat("500+", "Corporate Clients"),
+        stat("50,000+", "Gifts Delivered"),
         stat(f"{brand_count}", "Authorised Brands"),
         stat(f"{total:,}", "Products Catalogued"),
     ]) + "</div>"
