@@ -833,11 +833,11 @@
  },
  {
   "product_id": "NE-04233",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.gonoise.com",
+  "matched_title": "Noise Go Buds Truly Wireless Earbuds - Snow White"
  },
  {
   "product_id": "NE-04263",
@@ -961,19 +961,19 @@
  },
  {
   "product_id": "NE-04431",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Noise Vortex Plus Smartwatch - 1.46\" AMOLED, 7-Day Battery, Bluetooth Calling, Black"
  },
  {
   "product_id": "NE-04435",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/9207afaa-7ee2-48ee-ac38-cb175642c749/Noise-Vortex-Plus-Smartwatch-Women-s-Edition-Gold-Link.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "Noise Vortex Plus Smartwatch Women's Edition - Gold Link"
  },
  {
   "product_id": "NE-04439",
