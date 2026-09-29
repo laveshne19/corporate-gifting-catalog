@@ -1086,5 +1086,21 @@
   "confidence": "high",
   "source_domain": "www.flipkart.com",
   "matched_title": "OTEK OT-330A Portable Room Air Purifier"
+ },
+ {
+  "product_id": "NE-01038",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "352A Air Purifier - White"
+ },
+ {
+  "product_id": "NE-01039",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "Otek ShineMate T9 \u2013 Smart Robotic Window Cleaner \u2013 Otekworld"
  }
 ]

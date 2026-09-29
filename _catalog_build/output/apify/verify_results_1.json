@@ -993,35 +993,35 @@
  },
  {
   "product_id": "NE-00218",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Aluminium Splendora 1100 Watts Dry Iron"
  },
  {
   "product_id": "NE-00219",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/51NzhP5VuNL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Herculo 1100 Watts Dry Iron (Black & Grey)"
  },
  {
   "product_id": "NE-00220",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj DX 16"
  },
  {
   "product_id": "NE-00221",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj DX4 NEO Dry Iron (White/Lavender) 1000 Watt"
  },
  {
   "product_id": "NE-00222",

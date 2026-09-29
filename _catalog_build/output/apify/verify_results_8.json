@@ -1246,5 +1246,37 @@
   "confidence": null,
   "source_domain": "www.amazon.in",
   "matched_title": "Haier HFC-145SPW4 Single Door Convertible Deep Freezer (White, 102 L)"
+ },
+ {
+  "product_id": "NE-02089",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71URJrkhCmL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-230SPW4 Hard Top Single Door Convertible Deep Freezer, 218L"
+ },
+ {
+  "product_id": "NE-02091",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717IiCaYcbL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-320DPW4 Double Door Convertible Deep Freezer, 310L"
+ },
+ {
+  "product_id": "NE-02093",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71zUkbbXsiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-355DPW5 Double Door Convertible Deep Freezer (White 324L)"
+ },
+ {
+  "product_id": "NE-02095",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71LSA-vuU0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-410DPW5 Double Door Convertible Deep Freezer (White 383L)"
  }
 ]

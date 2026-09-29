@@ -1222,5 +1222,45 @@
   "confidence": "high",
   "source_domain": "havells.com",
   "matched_title": "Nimo Steam Iron"
+ },
+ {
+  "product_id": "NE-01767",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/i/y/h/elece-12-g-min-powerful-steam-ghgsiecg120-havells-original-imahnxuet2fvzygy.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS ELECE 12 G/MIN POWERFUL STEAM (GHGSIECG120) 1200 W Steam Iron"
+ },
+ {
+  "product_id": "NE-01768",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghggsdgu160.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Fyber Standing Garment Steamer"
+ },
+ {
+  "product_id": "NE-01769",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghggsdeb110_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Falcon Hand Held Garment Steamer"
+ },
+ {
+  "product_id": "NE-01770",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghgdiemk125.png",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Alpha Black Dry Iron"
+ },
+ {
+  "product_id": "NE-01771",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIBZB110.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 1100 Watt Hawk Blue & White Heavy Weight Dry Iron"
  }
 ]

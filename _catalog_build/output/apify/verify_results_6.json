@@ -1281,11 +1281,11 @@
  },
  {
   "product_id": "NE-01184",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy CELLO Vista Plastic Casserole with Lid ... 1500ml, Blue"
  },
  {
   "product_id": "NE-01185",
@@ -1297,19 +1297,19 @@
  },
  {
   "product_id": "NE-01186",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.flipkart.com",
+  "matched_title": "cello Vista Plastic Casserole with Lid ... Pink (file casseroles-3500ml)"
  },
  {
   "product_id": "NE-01189",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.indiamart.com",
+  "matched_title": "CELLO VISTA 3PCS INSULATED CASSEROLE"
  },
  {
   "product_id": "NE-01190",

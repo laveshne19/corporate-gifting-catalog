@@ -1210,18 +1210,18 @@
  {
   "product_id": "NE-01442",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71wD8jez6qL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Plastic MF Matiz Lunch Box Combo | Stainless Steel Lunch Box and Tumbler Set"
  },
  {
   "product_id": "NE-01443",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Prime Lunch Box with Stainless Steel Inner, 3 Units, Blue"
  },
  {
   "product_id": "NE-01559",
