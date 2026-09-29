@@ -1441,35 +1441,35 @@
  },
  {
   "product_id": "NE-00276",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "BAJAJ Shield Crest Plus 6 Litre 5 Star Vertical Storage Geyser"
  },
  {
   "product_id": "NE-00019",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/CrestPlus.jpg?v=1726637979&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Shield Series Crest Plus 10L"
  },
  {
   "product_id": "NE-00020",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316225_0_E0juJ2BXP.png?updatedAt=1753966269259",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "BAJAJ Shield Crest Plus 15 Litre 5 Star Vertical Storage Geyser"
  },
  {
   "product_id": "NE-00021",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316229_3_7vXJe2aVjd.png?updatedAt=1753966614367",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "BAJAJ Shield Crest Plus 25 Litre 5 Star Vertical Storage Geyser"
  },
  {
   "product_id": "NE-00280",
