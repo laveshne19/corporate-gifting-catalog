@@ -62,5 +62,1029 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-00899",
+  "keep": false,
+  "image_url": "https://cdn-tp1.euw1.kibocommerce.com/101180-102063/cms/102063/files/c56e0c6b-81b0-4e09-b7b2-39627dff5943?quality=75&max=900&w=640&q=75",
+  "confidence": "high",
+  "source_domain": "www.aceuae.com",
+  "matched_title": "Shop Luminarc Diwali Opal Glass Soup Bowl (12.5 cm) Online | ACE UAE"
+ },
+ {
+  "product_id": "NE-00900",
+  "keep": false,
+  "image_url": "https://cdn.mafrservices.com/sys-master-root/hbc/h9a/16735758057502/340633_main.jpg",
+  "confidence": "high",
+  "source_domain": "www.carrefouruae.com",
+  "matched_title": "Buy Luminarc Feston Bowl White 24cm Online | Carrefour UAE"
+ },
+ {
+  "product_id": "NE-00901",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Feston White -27 Cm Dinner Plate - Flipkart"
+ },
+ {
+  "product_id": "NE-00902",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2026/06/04/370431/8d011e99-ffd7-4442-8bce-5a156bbf3b91_size1920x1799_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Feston 19 cm Opal Dessert Plate, P4468"
+ },
+ {
+  "product_id": "NE-00903",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Luminarc Porcelain Festoon Salad Bowl (12 Cm, White) -Set of 6 - Amazon.in"
+ },
+ {
+  "product_id": "NE-00904",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00905",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00906",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00907",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00908",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00909",
+  "keep": false,
+  "image_url": "https://cdn.mafrservices.com/sys-master-root/he3/hef/48744272363550/1935650_main.jpg",
+  "confidence": "high",
+  "source_domain": "www.carrefouruae.com",
+  "matched_title": "Buy Luminarc Simply Mono Dinner Plate Black 26cm Online | Carrefour UAE"
+ },
+ {
+  "product_id": "NE-00910",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00911",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00912",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00914",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00915",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00916",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00917",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00918",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00919",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00920",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00921",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00922",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00923",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00924",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00925",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00926",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00927",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00928",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00929",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00930",
+  "keep": false,
+  "image_url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/A25DIN160044/A25DIN160044_WHITE/A25DIN160044_WHITE.jpg",
+  "confidence": "high",
+  "source_domain": "www.shoppersstop.com",
+  "matched_title": "Buy Luminarc Pink Aliya Pink Feston 27Pc Dinner Set | Shoppers Stop"
+ },
+ {
+  "product_id": "NE-00932",
+  "keep": false,
+  "image_url": "https://elechome.in/wp-content/uploads/2024/12/Luminarc-27Pc-Elise-Dinner-Set-V9113.jpg",
+  "confidence": "high",
+  "source_domain": "elechome.in",
+  "matched_title": "Buy Luminarc 27Pc Elise Dinner Set V9113 Online | Elechome.in"
+ },
+ {
+  "product_id": "NE-00933",
+  "keep": false,
+  "image_url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/AW24V9115/AW24V9115_BLUE_MIX_LIGHT/AW24V9115_BLUE_MIX_LIGHT.jpg_2000Wx3000H",
+  "confidence": "high",
+  "source_domain": "www.shoppersstop.com",
+  "matched_title": "Florine Feston 27 Pc Dinner Set"
+ },
+ {
+  "product_id": "NE-00934",
+  "keep": false,
+  "image_url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/AW24V9102/AW24V9102_BLACK_MIX/AW24V9102_BLACK_MIX.jpg_2000Wx3000H",
+  "confidence": "high",
+  "source_domain": "www.shoppersstop.com",
+  "matched_title": "Adorna Simply 33 Pc Dinner Set"
+ },
+ {
+  "product_id": "NE-00935",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/12/06/221397/e0ffa735-02f1-4799-b3e9-16c31bf1d5f5_size1920x1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Simply Andriy Dinner Set, 33 pcs, V7783"
+ },
+ {
+  "product_id": "NE-00936",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00937",
+  "keep": false,
+  "image_url": "https://assets.myntassets.com/assets/images/24387204/2024/1/18/32dfe3b7-2168-41c5-b06b-830bc54c3a441705554848346-Luminarc-Blissful-Blooms-Simply-33Pc-Dinner-Set-545170555484-4.jpg",
+  "confidence": "high",
+  "source_domain": "www.myntra.com",
+  "matched_title": "Buy Luminarc Blissful Blooms Simply 33Pc Dinner Set | Myntra"
+ },
+ {
+  "product_id": "NE-00938",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dinner-set/m/x/e/yes-lsbmg33-luminarc-enriched-0-original-imagymg95awvgyav.jpeg",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Pack of 33 sodo glass Brush Metallic Green Dinner Set - Flipkart"
+ },
+ {
+  "product_id": "NE-00939",
+  "keep": false,
+  "image_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/d/4dbcacfMULTI-V1896_1.jpg?rnd=20200526195200&tr=w-512",
+  "confidence": "high",
+  "source_domain": "www.nykaafashion.com",
+  "matched_title": "Buy Luminarc Colchique Simply 33 Piece Opal Dinner Set Online"
+ },
+ {
+  "product_id": "NE-00940",
+  "keep": false,
+  "image_url": "https://media.homeboxstores.com/i/homebox/164229103-164229103HMBX12122021_01-2100.jpg",
+  "confidence": "high",
+  "source_domain": "www.homeboxstores.com",
+  "matched_title": "Buy Luminarc Dofido 33-Piece Dinner Set Online in UAE | Homebox"
+ },
+ {
+  "product_id": "NE-00941",
+  "keep": false,
+  "image_url": "https://media.homeboxstores.com/i/homebox/164229104-164229104HMBX12122021_01-2100.jpg",
+  "confidence": "high",
+  "source_domain": "www.homeboxstores.com",
+  "matched_title": "Luminarc Dulashi 33-Piece Dinner Set | Homebox"
+ },
+ {
+  "product_id": "NE-00942",
+  "keep": false,
+  "image_url": "https://rukminim2.flixcart.com/image/832/832/xif0q/dinner-set/d/y/3/-original-imahhcbhqyz5zjgn.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Pack of 33 Glass sodalime transparent glass floozen Dinner Set - Flipkart"
+ },
+ {
+  "product_id": "NE-00943",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00944",
+  "keep": false,
+  "image_url": "https://cdn.mafrservices.com/pim-content/UAE/media/product/2236149/1741147804/2236149_main.jpg",
+  "confidence": "high",
+  "source_domain": "www.carrefouruae.com",
+  "matched_title": "Buy Luminarc Grey Wood, 26 Pcs Dinner Set Online | Carrefour UAE"
+ },
+ {
+  "product_id": "NE-00945",
+  "keep": false,
+  "image_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/24387202/2024/1/18/8c6a7b6b-7571-4574-886b-05e72ab3cc2a1705554842873-Luminarc-Ingmar-Grey-Simply-33Pc-Dinner-Set-5131705554842479-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.myntra.com",
+  "matched_title": "Buy Luminarc Ingmar Grey Simply 33Pc Dinner Set | Myntra"
+ },
+ {
+  "product_id": "NE-00061",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.shoppersstop.com",
+  "matched_title": "Ingmar White Simply 33Pc Dinner Set- New"
+ },
+ {
+  "product_id": "NE-00948",
+  "keep": false,
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-Luminarc-Glass-Dinner-Set-33-Pcs-Simply-Kassia-1743409296248.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "Glass Luminarc Dinner Set 33 Pcs Simply Kassia"
+ },
+ {
+  "product_id": "NE-00949",
+  "keep": false,
+  "image_url": "https://images-magento.shoppersstop.com/pub/media/catalog/product/AW24V6420/AW24V6420_BLUE_MIX_LIGHT/AW24V6420_BLUE_MIX_LIGHT.jpg_2000Wx3000H",
+  "confidence": "high",
+  "source_domain": "www.shoppersstop.com",
+  "matched_title": "Keon Simply 33Pc Dinner Set- New"
+ },
+ {
+  "product_id": "NE-00950",
+  "keep": false,
+  "image_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/24387198/2024/1/18/fcd8dfea-c60b-462f-a382-2b56325620e81705554829683-Luminarc-Moonflower-Grey-Simply-33Pc-Dinner-Set-573170555482-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.myntra.com",
+  "matched_title": "Buy Luminarc Moonflower Grey Simply 33Pc Dinner Set | Myntra"
+ },
+ {
+  "product_id": "NE-00951",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00952",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Pack of 33 Opalware Trompette Simply 33Pc Opal Dinner Set - Flipkart"
+ },
+ {
+  "product_id": "NE-00953",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Luminarc Made in UAE French Style Design Sodo Glass Printed 33Pcs Zayba Dinner Set, Multicolor"
+ },
+ {
+  "product_id": "NE-00954",
+  "keep": false,
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-Luminarc-Glass-Dinner-Set-33-Pieces-French-Elegance-Pink-Love-1790170985709.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "Glass Luminarc Dinner Set 33 Pieces French Elegance Pink Love"
+ },
+ {
+  "product_id": "NE-00955",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dinner-set/l/4/t/yes-v9100-luminarc-enriched-2-original-imah4ng83rzk2hgj.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Pack of 33 Glass Made in UAE sodalime transparent glass Gismon Dinner Set - Flipkart"
+ },
+ {
+  "product_id": "NE-00956",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00957",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00958",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00959",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00960",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71bIGTg4eAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.eg",
+  "matched_title": "Luminarc Garnet Dinner Set - 46 Pieces - Amazon.eg"
+ },
+ {
+  "product_id": "NE-00961",
+  "keep": false,
+  "image_url": "https://img.lazcdn.com/g/p/66cd8c3d90b04129274c18f8a9cb8b1d.jpg_960x960q80.jpg_.webp",
+  "confidence": "high",
+  "source_domain": "www.lazada.com.my",
+  "matched_title": "LUMINARC SIMPLY BEATRICE 46PCS DINNER SET [MODEL: V5981] | Lazada Malaysia"
+ },
+ {
+  "product_id": "NE-00962",
+  "keep": false,
+  "image_url": "https://www.brandylb.com/cdn/shop/files/trompetteturq.png?v=1770688297&width=4096",
+  "confidence": "high",
+  "source_domain": "www.brandylb.com",
+  "matched_title": "Luminarc Trompette 46-Piece Dinner Set Turquoise P1286"
+ },
+ {
+  "product_id": "NE-00963",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00964",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2025/11/09/623661/773ac16d-ce6e-414a-ba16-11b6bcd4809c_size1920x1799_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Vexium Glass Dinner Set, 25 pcs, X2337"
+ },
+ {
+  "product_id": "NE-00965",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00967",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00968",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00969",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41oH4yIVE4L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "Luminarc Hana White Dinner Set 46 Pcs White - Amazon.ae"
+ },
+ {
+  "product_id": "NE-00970",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00064",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00973",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00974",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00976",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00977",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00978",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00979",
+  "keep": false,
+  "image_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/d/4dbcacfMULTI-V1900_4.jpg?rnd=20200526195200&tr=w-512",
+  "confidence": "high",
+  "source_domain": "www.nykaafashion.com",
+  "matched_title": "Buy Luminarc Hana Beige Neo Carina 33 Piece Opal Dinner Set Online"
+ },
+ {
+  "product_id": "NE-00067",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LUMINARC Pack of 33 Glass sodalime clear glass Annalee Green Dinner Set - Flipkart"
+ },
+ {
+  "product_id": "NE-00982",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00983",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00984",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00985",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00987",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00988",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00989",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00990",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00991",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00992",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00993",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00994",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00995",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00996",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00997",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00998",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00999",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01000",
+  "keep": false,
+  "image_url": "https://media.dajar.pl/media/media-dajar/thumbnails/products/33339_4218f407_thumbnail_1024.jpg",
+  "confidence": "high",
+  "source_domain": "dajar.pl",
+  "matched_title": "Breakfast set Little Bear's Feast 3-piece LUMINARC"
+ },
+ {
+  "product_id": "NE-01001",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01002",
+  "keep": false,
+  "image_url": "https://images.prom.ua/7148344121_w640_h640_luminarc-x3054-nabor.jpg",
+  "confidence": "high",
+  "source_domain": "prom.ua",
+  "matched_title": "Luminarc X3054 Kids set Smile&Sparkle 3 pieces glass - Prom.ua"
+ },
+ {
+  "product_id": "NE-01003",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Luminarc Smart Cuisine Ramekin Bowl 11 cm, Set of 1, White - Amazon.in"
+ },
+ {
+  "product_id": "NE-01004",
+  "keep": false,
+  "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-7r98u-loagmwh5n4zvb8",
+  "confidence": "high",
+  "source_domain": "shopee.ph",
+  "matched_title": "Luminarc Smart Cuisine Carine 28cm 1pc Tart Dish N3165 Round White Baking Dish"
+ },
+ {
+  "product_id": "NE-01005",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71mqygrKIqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.co.uk",
+  "matched_title": "Luminarc - Smart Cuisine Carine Oval 250\u00b0C Oven Dish - Dimensions: 25 x 15 cm"
+ },
+ {
+  "product_id": "NE-00069",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Luminarc - Smart Cuisine Ultra-Light (White, 32 x 20 cm Oval Dish) - Amazon.in"
+ },
+ {
+  "product_id": "NE-01008",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ySx320PEL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.fr",
+  "matched_title": "Luminarc - Smart Cuisine Carine square dish - Dimensions 20x20 cm"
+ },
+ {
+  "product_id": "NE-01009",
+  "keep": false,
+  "image_url": "https://f.nooncdn.com/p/pzsku/Z59F72989B3B3805FF6A5Z/45/_/1705301121/832c7496-c6ff-48db-ae49-e6aab7879f44.jpg?width=800",
+  "confidence": "high",
+  "source_domain": "www.noon.com",
+  "matched_title": "Luminarc Smart Cuisine Carine Square Casserole Baking Dish White 26 x 26 cm P4026"
+ },
+ {
+  "product_id": "NE-01010",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/812RNlopC0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.se",
+  "matched_title": "White Baking Dish 29 x 29 cm Smart Cuisine Carine : Amazon.se"
+ },
+ {
+  "product_id": "NE-01011",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/516va-zhR1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "Luminarc P8330 Smart Cuisine Oven Dish, Culinary Opal - Amazon.ae"
+ },
+ {
+  "product_id": "NE-01013",
+  "keep": false,
+  "image_url": "https://www.latabledarc.com/cdn/shop/files/f0e36461dc9e2ec195518dd091227c80.jpg?v=1762446732",
+  "confidence": "high",
+  "source_domain": "www.latabledarc.com",
+  "matched_title": "Smart Cuisine Diwali 30cm White Baking Dish - La Table d'Arc"
+ },
+ {
+  "product_id": "NE-01014",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31ox8I28dGL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.de",
+  "matched_title": "Luminarc N6416 Serving Dish 26 cm Diwali White : Amazon.de"
+ },
+ {
+  "product_id": "NE-01015",
+  "keep": false,
+  "image_url": "https://assets.kogan.com/images/kg-electronic/KXG-L019-N3273/3-c317710478-693bae7113cfa.jpg?auto=webp&bg-color=fff&canvas=1200%2C800&dpr=1&enable=upscale&fit=bounds&height=800&quality=90&width=1200",
+  "confidence": "high",
+  "source_domain": "www.kogan.com",
+  "matched_title": "Luminarc Smart Diwali Round Baking Dish 22x7cm Bakeware Opal Glass White"
+ },
+ {
+  "product_id": "NE-00072",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71qYotY-HdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.com.be",
+  "matched_title": "Luminarc - Serving dish 18 cm-Diwali, White : Amazon.com.be"
+ },
+ {
+  "product_id": "NE-01017",
+  "keep": false,
+  "image_url": "https://www.latabledarc.com/cdn/shop/files/79355928587712dff8137fb108ca1c64.jpg?v=1762446688",
+  "confidence": "high",
+  "source_domain": "www.latabledarc.com",
+  "matched_title": "Smart Cuisine Trianon White Baking Dish 22.3 x 17 cm - La Table d'Arc"
+ },
+ {
+  "product_id": "NE-01018",
+  "keep": false,
+  "image_url": "https://www.latabledarc.com/cdn/shop/files/07202fab255356296a7765f05aae282b.jpg?v=1762446747",
+  "confidence": "high",
+  "source_domain": "www.latabledarc.com",
+  "matched_title": "Plat de cuisson blanc 32 x 26 cm Smart Cuisine Trianon - La Table d'Arc"
+ },
+ {
+  "product_id": "NE-01020",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81LBXFNupKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ie",
+  "matched_title": "Luminarc Trianon Round Tart Dish - 26 cm Tempered Glass Baking Dish : Amazon.ie"
+ },
+ {
+  "product_id": "NE-01021",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01022",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01023",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "BM09 AI Integrated Mouse - Black"
+ },
+ {
+  "product_id": "NE-01024",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "JOY Smart Portable Projector"
+ },
+ {
+  "product_id": "NE-01025",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61Xc4CmBqOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK Epic Native Full HD 1080P Projector for Office & Classroom, 6000 Lumens"
+ },
+ {
+  "product_id": "NE-01026",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "Pixa FHD Smart Projector"
+ },
+ {
+  "product_id": "NE-01027",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61gkFblcGkL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK Epic 1122 Smart Projector Native 1080P Full HD 4K Support"
+ },
+ {
+  "product_id": "NE-01028",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51VGOBWGiRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK PIXA1000 Smart Projector, 7000 Lumens, Android 13 ATV, 1080P Full HD"
+ },
+ {
+  "product_id": "NE-01029",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61KAGRXLZRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK Play Projector, 4K Ultra HD Support, Native 1080P Full HD, Android 13, 7500 Lumens"
+ },
+ {
+  "product_id": "NE-01030",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Galaxy-Primary-image-may.png?v=1778326022&width=1920",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "Galaxy Smart FHD Projector - Black"
+ },
+ {
+  "product_id": "NE-01031",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6116cPdxooL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK Galaxy100 Smart Projector, Inbuilt Netflix & Prime, 1080P Native, 1100 ANSI Lumens"
+ },
+ {
+  "product_id": "NE-01032",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Cinecast-FR-84--001.png?v=1751697022&width=1920",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "Motorized Projector Screen Floor Rising - FR84"
+ },
+ {
+  "product_id": "NE-01033",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Cinecast-FR-100-001.png?v=1751697038&width=1920",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "Motorized Projector Screen Floor Rising - FR100"
+ },
+ {
+  "product_id": "NE-01034",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Otek M65 65 Inch Motorized Projector Screen 16:9 ALR Fabric - Amazon.in"
+ },
+ {
+  "product_id": "NE-01035",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/M-80-inch-01.png?v=1774001487&width=1920",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "CineCast Motorised - M80"
+ },
+ {
+  "product_id": "NE-01036",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/M-100-inch-01.png?v=1751697007&width=1920",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "CineCast Motorised - M100"
+ },
+ {
+  "product_id": "NE-01037",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/air-purifier/8/6/e/200-21-8-ot-330a-21-8-3-5-otek-original-imahag5ff5nptfww.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "OTEK OT-330A Portable Room Air Purifier"
  }
 ]

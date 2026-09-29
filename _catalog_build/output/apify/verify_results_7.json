@@ -201,27 +201,27 @@
  },
  {
   "product_id": "NE-01267",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "cello HOT EXPRESS 3 3 Containers Stainless Steel Office Lunch Box"
  },
  {
   "product_id": "NE-01268",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim2.flixcart.com",
+  "matched_title": "cello Hot Express insulated lunchbox 4 container orange"
  },
  {
   "product_id": "NE-01269",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim2.flixcart.com",
+  "matched_title": "cello HOT TRON 3 INSULATED LUNCH CARRIER"
  },
  {
   "product_id": "NE-01270",
@@ -249,19 +249,19 @@
  },
  {
   "product_id": "NE-01283",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "indiamart image file: lunch-express-2-pcs-gift-set-hot-express-3-puro-sports-600"
  },
  {
   "product_id": "NE-01409",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/q/g/u/925-lunch-buddy-lunch-box-with-plastic-spoon-and-fork-100-food-original-imagrdnsjkquvfev.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Lunch Buddy Lunch Box with Plastic Spoon and Fork | Pink"
  },
  {
   "product_id": "NE-01410",
@@ -273,11 +273,11 @@
  },
  {
   "product_id": "NE-01411",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Buy Cello Maclunch Insulated Lunch Box with Spoon & Fork, Pink"
  },
  {
   "product_id": "NE-01412",
@@ -289,83 +289,83 @@
  },
  {
   "product_id": "NE-01284",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Mark 4 Deluxe 4 Containers Stainless Steel, Plastic Office Lunch Box"
  },
  {
   "product_id": "NE-01285",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61DtRKZk1XL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Mark 2 Insulated Lunch Carrier, Pink"
  },
  {
   "product_id": "NE-01286",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Mark 3 Plastic Insulated Lunch Carrier, Pink"
  },
  {
   "product_id": "NE-01288",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Mark 4 Insulated Lunch Carrier 4 Containers"
  },
  {
   "product_id": "NE-01291",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Meal Kit Stainless Steel Lunch Box Set, 355ml, Set of 4, Beige"
  },
  {
   "product_id": "NE-01294",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "kitchenmart.co.in",
+  "matched_title": "Cello Meal Star Jumbo Insulated Lunch Box | 5 Stainless Steel Containers"
  },
  {
   "product_id": "NE-01295",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "kitchenmart.co.in",
+  "matched_title": "Cello Mega Hot 5 Container Insulated Stainless Steel Lunch Pack"
  },
  {
   "product_id": "NE-01424",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://kitchenmart.co.in/cdn/shop/files/7158qFkXbEL_1600x.jpg?v=1771169536",
+  "confidence": "high",
+  "source_domain": "kitchenmart.co.in",
+  "matched_title": "Cello Mega Hot 5 Container Insulated Stainless Steel Lunch Pack"
  },
  {
   "product_id": "NE-01296",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Plastic Merit 3 Insulated Food Carrier, Red, 500 ml"
  },
  {
   "product_id": "NE-01297",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "cello Merit 2 Pink 2 Containers Plastic Office Lunch Box"
  },
  {
   "product_id": "NE-01298",
@@ -386,34 +386,34 @@
  {
   "product_id": "NE-01300",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/jw6pifk0/lunch-box/m/2/w/my-decker-2-containers-lunch-box-800-ml-red-cello-2-original-imafgwjswtp5fycx.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello MY DECKER 2 Containers Lunch Box (800 ml) Red"
  },
  {
   "product_id": "NE-01301",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello My Decker 3 3 Containers Plastic Office Lunch Box"
  },
  {
   "product_id": "NE-01302",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/r/t/i/600-my-decker-lunch-box-cello-4-original-imahycqcw3zt9hrw.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello My Decker Lunch Box 4 Containers Stainless Steel Office Lunch Box"
  },
  {
   "product_id": "NE-01303",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/815kZRV1vPL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Alfa Microwave Safe Steel 3 x 375ml Container, 800ml Steel Water Bottle"
  },
  {
   "product_id": "NE-01433",
@@ -425,19 +425,19 @@
  },
  {
   "product_id": "NE-01304",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Camotreat Stainless Steel Lunch Box Set with Bag, Green"
  },
  {
   "product_id": "NE-01435",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/l/0/n/1150-lunch-mf-glory-microwavable-stainless-steel-container-cello-original-imah4xhfmsgyzwnt.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Lunch MF GLORY microwavable stainless steel container 3 Containers"
  },
  {
   "product_id": "NE-01305",
@@ -449,11 +449,11 @@
  },
  {
   "product_id": "NE-01307",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Micro Deck Lunch Box Set with Carry Bag, Blue"
  },
  {
   "product_id": "NE-01308",
@@ -465,51 +465,51 @@
  },
  {
   "product_id": "NE-01309",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Express Micro Fresh Executive Lunch Box with Jacket, Set of 3, Blue"
  },
  {
   "product_id": "NE-01311",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Express Microfresh Combo Lunch Box with Bag, Blue"
  },
  {
   "product_id": "NE-01314",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://i0.wp.com/durgashop.in/wp-content/uploads/2025/02/Cello-Pioneer-2-Insulated-Lunch-Box-Stainless-Steel-1.png?fit=1000%2C1000&ssl=1",
+  "confidence": "high",
+  "source_domain": "i0.wp.com",
+  "matched_title": "Cello Pioneer 2 Insulated Lunch Box (Stainless Steel)"
  },
  {
   "product_id": "NE-01316",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/x/a/m/720-preety-poly-insulated-lunch-box-with-inner-steel-and-ss-veg-original-imahyh6grbcmuuuf.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello PREETY POLY Insulated Lunch Box with Inner Steel and SS Veg Box"
  },
  {
   "product_id": "NE-01317",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cpimg.tistatic.com/05180325/b/4/Cello-Qube-Big-Insulated-Lunch-Carrier.jpg",
+  "confidence": "high",
+  "source_domain": "cpimg.tistatic.com",
+  "matched_title": "Cello Qube Big Insulated Lunch Carrier"
  },
  {
   "product_id": "NE-01320",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cms.celloworld.com/pub/media/catalog/product/cache/575b4cef96dfa3612019445e8bece1fa/3/_/3_qube_big_dlx_orange_6.jpg",
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: qube_big_dlx_orange)"
  },
  {
   "product_id": "NE-01449",
@@ -522,26 +522,26 @@
  {
   "product_id": "NE-01322",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/Thermoware/IT00029468-700x700.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Cello Lunch Box Hotline Ranger 3 Container"
  },
  {
   "product_id": "NE-01324",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Plastic Ranger Insulated 4 Container Lunch Carrier, Brown"
  },
  {
   "product_id": "NE-01325",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/Thermoware/IT00002312-550x550.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Cello Hotline Ranger 5 Container"
  },
  {
   "product_id": "NE-01453",
@@ -561,11 +561,11 @@
  },
  {
   "product_id": "NE-01329",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Lunch STELLAR Express Insulated Lunch Carrier 3 Containers"
  },
  {
   "product_id": "NE-01330",
@@ -577,27 +577,27 @@
  },
  {
   "product_id": "NE-01331",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Spice Insulated 3 Container Lunch Carrier, Blue"
  },
  {
   "product_id": "NE-01461",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61PsgP1cysL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Super Kids 2 Compartment Inner Steel Insulated Lunch Box, Blue"
  },
  {
   "product_id": "NE-01334",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Tri Lunch Insulated Lunch Box"
  },
  {
   "product_id": "NE-01335",
@@ -609,11 +609,11 @@
  },
  {
   "product_id": "NE-01336",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Top Lunch-3 Insulated Stainless Steel Lunch Box Blue"
  },
  {
   "product_id": "NE-01466",
@@ -626,34 +626,34 @@
  {
   "product_id": "NE-01467",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71Cu69tvPIL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Click It Toons Big | 2 Containers Lunch Box, 1024 ml, Red"
  },
  {
   "product_id": "NE-01468",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/x/t/f/200-tiffy-lunch-box-cello-1-original-imahycrknxagmgjs.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello TIFFY Lunch Box 1 Containers"
  },
  {
   "product_id": "NE-01469",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Tiffy Unicorn Gift Set Insulated Lunch Box & Bottle | Box 460 ml Bottle 400 ml"
  },
  {
   "product_id": "NE-01340",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: velvetto_3_black)"
  },
  {
   "product_id": "NE-01341",
@@ -666,122 +666,122 @@
  {
   "product_id": "NE-01342",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/IOS/Default/2023/6/315561184/FP/XI/XF/132461002/product-jpeg.png",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Wow Foodie Small Lunch Box"
  },
  {
   "product_id": "NE-01343",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: wow_foodie_big_blue)"
  },
  {
   "product_id": "NE-01344",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://assets.myntassets.com/w_412,q_50,,dpr_3,fl_progressive,f_webp/assets/images/18306284/2022/5/17/fc2ce79d-397a-48c8-8e08-3f6d0f7d9ce81652808093319CelloBrownStainlessSteelKitchenStorage1.jpg",
+  "confidence": "high",
+  "source_domain": "assets.myntassets.com",
+  "matched_title": "Cello Wow Set of 2 Brown Inner Steel Outer Plastic Insulated Lunch Box"
  },
  {
   "product_id": "NE-01345",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Wow Insulated Lunch Box | 3 Stainless Steel Containers"
  },
  {
   "product_id": "NE-01480",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://kesariya.shop/wp-content/uploads/2025/09/41oiQATa9eL._SX522_.jpg",
+  "confidence": "high",
+  "source_domain": "kesariya.shop",
+  "matched_title": "CELLO LUNCH BOX-WOW MEAL MATE 4PCS"
  },
  {
   "product_id": "NE-01482",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/12/JA/WK/KI/3008540/zing-2-pcs-gift-set-merit-3-puro-gliss-600-.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "ZING 2 PCS GIFT SET (MERIT 3 + PURO GLISS 600)"
  },
  {
   "product_id": "NE-01350",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Zoom 2 Insulated Lunch Box"
  },
  {
   "product_id": "NE-01351",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71pTjpL5iQL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Zoom 3 Inner Steel Insulated Lunch Box, 915 ml, Dark Brown"
  },
  {
   "product_id": "NE-01485",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/04/61fuHAb9NwL._SL1500_.jpg",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Atom Plug Eat 2 Containers Stainless Steel Electric Lunch Box"
  },
  {
   "product_id": "NE-01355",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Electro 3 Tier Compartment Stainless Steel Electric Lunch Box"
  },
  {
   "product_id": "NE-01356",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Electro 4 Tier Compartment Stainless Steel Electric Lunch Box"
  },
  {
   "product_id": "NE-01357",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Newton 3 Tier Compartment Stainless Steel Electric Lunch Box, Grey"
  },
  {
   "product_id": "NE-01358",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81Wp5+0DERL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Newton 4 Tier Compartment Stainless Steel Electric Lunch Box, Grey"
  },
  {
   "product_id": "NE-01359",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Proton 2 Stainless Steel Electric Lunch Box, Maroon"
  },
  {
   "product_id": "NE-01491",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.rasoishop.com/cdn/shop/files/8901372151234-2.jpg?v=1686659812&width=1445",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Lunch Bag - With 3 Container, Big Bite, Yellow (rasoishop, Cello EAN 8901372151234)"
  },
  {
   "product_id": "NE-01492",
@@ -801,43 +801,43 @@
  },
  {
   "product_id": "NE-01365",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: freshco_2_plus)"
  },
  {
   "product_id": "NE-01366",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Freshco Plus Set of 4 Pcs Lunch Box, Burgundy"
  },
  {
   "product_id": "NE-01380",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF High Meal Combo Lunch Box Set with Bag, Blue"
  },
  {
   "product_id": "NE-01381",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF President Combo Stainless Steel Lunch Box with Bag, Black"
  },
  {
   "product_id": "NE-01383",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.fcglcdn.com/brainbees/images/products/zoom/22466741b.webp",
+  "confidence": "high",
+  "source_domain": "cdn.fcglcdn.com",
+  "matched_title": "CELLO MF President Stainless Steel Lunch Box with Bag, Black Leatherite"
  },
  {
   "product_id": "NE-01502",
@@ -849,59 +849,59 @@
  },
  {
   "product_id": "NE-01386",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Senator Set of 4 Stainless Steel Lunch Box, Black"
  },
  {
   "product_id": "NE-01389",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Plastic Sensation Belt Flask (White Red, 1 L, 1000 ml)"
  },
  {
   "product_id": "NE-01392",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Nexus Vacuum Flask, 600ml, Grey"
  },
  {
   "product_id": "NE-01394",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Plastic Nexus Vacuum Flask, 1 L, Yellow"
  },
  {
   "product_id": "NE-01397",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: senorita_orange_600)"
  },
  {
   "product_id": "NE-01398",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/4/408940219/YQ/ZR/DL/6524653/cello-senorita-vacuum-flask.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Plastic Cello Senorita Vacuum Flask, Capacity: 1000 Ml"
  },
  {
   "product_id": "NE-01399",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://feribazar.in/products/1785718160_gal_6a6fe59079d83.webp",
+  "confidence": "high",
+  "source_domain": "feribazar.in",
+  "matched_title": "Cello Prudent 500 Vacuum Flask with Double Wall Insulation, 500ml (Dark Blue)"
  },
  {
   "product_id": "NE-01400",
@@ -913,19 +913,19 @@
  },
  {
   "product_id": "NE-01403",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Neptune Plastic Tuff Jug, 1 Litre, Brown"
  },
  {
   "product_id": "NE-01404",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/615SfUHCdNL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Neptune Tuff Jug, 1.5 Litres, White, Plastic"
  },
  {
   "product_id": "NE-01406",
@@ -953,51 +953,51 @@
  },
  {
   "product_id": "NE-01413",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim2.flixcart.com",
+  "matched_title": "cello puro inner steel tuff jug 750ml"
  },
  {
   "product_id": "NE-01414",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71yN5zyASHL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Puro TUFF Insulated Jug, 1 Litre, Red"
  },
  {
   "product_id": "NE-01415",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/k5r2mq80/jug/f/s/t/puro-tuff-jug-insulated-stainless-steel-1-5-ltr-b-cello-original-imafzdhhvqgynzcm.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello puro tuff jug insulated stainless steel 1.5 ltr"
  },
  {
   "product_id": "NE-01416",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/8/540471334/WO/SV/TX/251369869/2l-cello-puro-tuff-jug.jpeg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "2L Cello Puro Tuff PU Insulated Jug, Capacity: 2 Litre"
  },
  {
   "product_id": "NE-01417",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: puro_sip_green_300)"
  },
  {
   "product_id": "NE-01418",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Puro Sip Insulated Jug, 450 ml"
  },
  {
   "product_id": "NE-01419",
@@ -1018,82 +1018,82 @@
  {
   "product_id": "NE-01530",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ice-bucket/f/r/b/icp-chllr-green-3-ltr-cello-3-original-imagrw9uthvfey4c.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello 3 L Plastic Chiller Ice Packs, Ice Bucket"
  },
  {
   "product_id": "NE-01531",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61f62i3RV+L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Chiller Ice Packs, 8 litres, Green"
  },
  {
   "product_id": "NE-01532",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Chiller Ice Box, 12 Litre, Red"
  },
  {
   "product_id": "NE-01533",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71mobegbmbL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Chiller Ice Box, 14 Litre, Blue"
  },
  {
   "product_id": "NE-01422",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.cabraloutdoors.com/cdn/shop/products/SPEARHEAD-2021-07-29T103638.490.png?v=1627611886&width=1214",
+  "confidence": "high",
+  "source_domain": "www.cabraloutdoors.com",
+  "matched_title": "Cello Picnic-20 Insulated Chill Box | Size: 20 Ltrs"
  },
  {
   "product_id": "NE-01423",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "rukminim2.flixcart.com",
+  "matched_title": "cello 30 L Plastic Cello Picnic Ice Packs 30 Litres, Red"
  },
  {
   "product_id": "NE-01536",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/b/b/r/-original-imah26h5nk8nggnh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello MF All Steel Lunch-2 2 Containers Stainless Steel Office Lunch Box"
  },
  {
   "product_id": "NE-01537",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/v/i/2/-original-imah26h553jqeuhc.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello MF All Steel Lunch-3 3 Containers Stainless Steel Office Lunch Box"
  },
  {
   "product_id": "NE-01538",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/8/f/u/-original-imah26h4x2n92v2q.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello MF Steel click 2 Containers Stainless Steel Office Lunch Box"
  },
  {
   "product_id": "NE-01539",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71u3U4bnXjL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Click 3 Plus Stainless Steel Lunch Box Set, 475ml, 3 Unit, Red"
  },
  {
   "product_id": "NE-01540",
@@ -1105,43 +1105,43 @@
  },
  {
   "product_id": "NE-01425",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Freshco Plus Set of 4 Pcs Lunch Box, Burgundy"
  },
  {
   "product_id": "NE-01426",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/c/h/l/-original-imah28hgrxjbkhaj.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Hot n fresh premium lunchbox red 3 Containers"
  },
  {
   "product_id": "NE-01427",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Blaze Stainless Steel Lunch Box for Office Use Blue"
  },
  {
   "product_id": "NE-01428",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81d83K4S1CL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Fab Lunch Box with Bag for Office Use, Brown"
  },
  {
   "product_id": "NE-01429",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello MF Freshpro Stainless Steel Lunch Box Set with Bag, Black"
  },
  {
   "product_id": "NE-01430",
@@ -1154,10 +1154,10 @@
  {
   "product_id": "NE-01432",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81SBBdq-pVL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Food Junction Jumbo Lunch Box with Jacket | Set of 6"
  },
  {
   "product_id": "NE-01434",
@@ -1169,43 +1169,43 @@
  },
  {
   "product_id": "NE-01436",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Optima Jumbo Lunch Box with Jacket | Set of 7"
  },
  {
   "product_id": "NE-01439",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Meal Station 3 Stainless Steel Lunch Box with Jacket, Blue"
  },
  {
   "product_id": "NE-01554",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Trent Plus Lunch Box with Bag for Office, Blue"
  },
  {
   "product_id": "NE-01440",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Matiz Lunch Box with Jacket, 2 Unit, Orange"
  },
  {
   "product_id": "NE-01441",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Plastic Matiz Lunch Box (375ml, Red) Stainless Steel 3 Unit"
  },
  {
   "product_id": "NE-01442",
