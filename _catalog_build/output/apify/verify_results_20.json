@@ -1,0 +1,258 @@
+[
+ {
+  "product_id": "NE-11402",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Sport Band (M/L) for Galaxy Watch9 (Watch8) Blue | Samsung India"
+ },
+ {
+  "product_id": "NE-11403",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2607/gallery/in-galaxy-watch9-misty-band-medium-and-large-et-sxl35-et-sxl35lbegin-553489075?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Misty Band (M/L) for Galaxy Watch9 (Watch8) Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11404",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.martpe.in",
+  "matched_title": "Galaxy Book4 15.6inch 32/1TB -(NP754XGK-LS4IN) | Martpe"
+ },
+ {
+  "product_id": "NE-11405",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Book4-15.6 Full HD ... (NP754XGQ-LS1IN), Silver"
+ },
+ {
+  "product_id": "NE-11406",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75,format=auto/product/samsung-galaxy-book4-intel-core-5-120u-windows-11-home-laptop-np750xgk-lg7in-grey-16gb-512gb-right-view-01.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Samsung Galaxy Book4 Intel Core 5 120U Windows 11 Home Laptop, NP750XGK-LG7IN (Gray,16GB-512GB)"
+ },
+ {
+  "product_id": "NE-11407",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/c/7/f/galaxy-book4-notebook-samsung-original-imahctz65x7qpa7n.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Samsung Galaxy Book4 (i7 14th Gen) Intel Core 7 150U NP750XGK-LG8IN Notebook"
+ },
+ {
+  "product_id": "NE-11408",
+  "keep": false,
+  "image_url": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/g/69fdb00d06dd34655b63c35d/p5xdsy9lfq-tbzwqpu0na-samsung-np750xhd-kd1in-laptop-494582576-i-2-1200wx1200h-1024x1024.jpg",
+  "confidence": "high",
+  "source_domain": "www.martpe.in",
+  "matched_title": "Galaxy Book5 15.6inch Ultra 5, 16/512gb (NP754XHD-KD2IN) | Martpe"
+ },
+ {
+  "product_id": "NE-11409",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11410",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582578/0/GVTjjNXlvr-aMmkyG9lsz-Samsung-NP750XHD-KD3IN-Laptop-494582578-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book5 Ai Metal Intel Core Ultra 7 255u 16GB/1TB NP750XHD-KD3IN"
+ },
+ {
+  "product_id": "NE-11411",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro 360 NP960QHA-KG4IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11412",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 360 NP750QHA-LG3IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11413",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 NP740VJG-KG1IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11414",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11415",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 NP760XJG-KG1IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11416",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np760xjg-kg2in/gallery/in-galaxy-book-np760xjg-kg2in-galaxy-book---------cm--ultra-------gb--copilot--pc-gray-551796900?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6, 40.62 cm, Ultra 7, Copilot+ PC | Samsung Business India (np760xjg-kg2in)"
+ },
+ {
+  "product_id": "NE-11417",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11631",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11632",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11633",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11634",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11635",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition (Samsung India, file name spells exact model code)"
+ },
+ {
+  "product_id": "NE-11636",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11637",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11638",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11639",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11640",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11641",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11423",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro NP940XJG-KG4IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11424",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro NP960XJG-KG1IN (Samsung India, file name spells model)"
+ },
+ {
+  "product_id": "NE-11425",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Samsung Galaxy Book4 Edge ... NP750XQB-KA1IN Thin and Light"
+ },
+ {
+  "product_id": "NE-11642",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11426",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

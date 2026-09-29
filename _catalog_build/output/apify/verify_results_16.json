@@ -1,0 +1,1026 @@
+[
+ {
+  "product_id": "NE-02440",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Image1_d74f3541-e2bd-4a00-bc48-56551501fd41.png?v=1699004471",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Stream 1.5M 4k@60hz HDMI To HDMI Cable"
+ },
+ {
+  "product_id": "NE-11325",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Image1_6c4f28ab-3261-48a1-99a8-acefe3900ab4.png?v=1708756141",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Konnect Link- 3A USB to Type C Charging Cable"
+ },
+ {
+  "product_id": "NE-11326",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1_4c972c68-bc85-4baf-91c4-e17670d8c14b.jpg?v=1708768520",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Konnect Link C Square 100W Type C to Type C Cable"
+ },
+ {
+  "product_id": "NE-11327",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect Link CL Type C to 8PIN Cable"
+ },
+ {
+  "product_id": "NE-11332",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/2/587467713/GS/CI/SB/24324119/screenshot-2026-02-27-142646.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Silicon PORTRONICS POR 2719 SILKLINK, 1 m"
+ },
+ {
+  "product_id": "NE-11333",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indiamart.com",
+  "matched_title": "TPE PORTRONICS POR 1816 KONNECT LINK CL, 1.2 M"
+ },
+ {
+  "product_id": "NE-11351",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect 240C Type C to Type C Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-02447",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/513636ktZXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Omnicord 60W 4 in 1 Nylon Braided Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-11352",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect Vision C Type C to HDMI Cable"
+ },
+ {
+  "product_id": "NE-11354",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/618gnfhzPeL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics ikonnect C+ Type C to 3.5mm Aux Cable"
+ },
+ {
+  "product_id": "NE-11355",
+  "keep": false,
+  "image_url": "https://newmarketkart-images.s3.ap-south-1.amazonaws.com/product/images/KlX23bQly6EMWwvfomPuwyLY1fa7W0gMJTbJcaCW.webp",
+  "confidence": "high",
+  "source_domain": "newmarketkart.com",
+  "matched_title": "Portronics Konnect View 27W Lightning Fast charging Cable POR 2052"
+ },
+ {
+  "product_id": "NE-11357",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1_97d98ce3-71d9-4ab1-8504-aff5475af71a.jpg?v=1706528254",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Konnect X Usb To Type C 3A -1M"
+ },
+ {
+  "product_id": "NE-11358",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indiamart.com",
+  "matched_title": "PORTRONICS POR 1892 iKONNECT L"
+ },
+ {
+  "product_id": "NE-11359",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics iKonnect C Pro Type C to 3.5 mm Audio Jack Connector"
+ },
+ {
+  "product_id": "NE-11360",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/iKonnectCMax1200x12005.jpg?v=1707285688",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Aux Cable 1 M iKonnect C MAX USB C to 3.5mm Male Aux Cable"
+ },
+ {
+  "product_id": "NE-11362",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Dash Pro 65W USB to Type C Charging Cable"
+ },
+ {
+  "product_id": "NE-11363",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51RZXz6sesL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect 4 IN 1 Multi Functional Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-11364",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics Konnect Spydr 2 Multi-functional Charging Cable"
+ },
+ {
+  "product_id": "NE-11365",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect L1 20W Type C to 8 Pin Quick Charging Cable"
+ },
+ {
+  "product_id": "NE-11367",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect C1 20W PD Type C to Type C Data & Charging Cable (Black)"
+ },
+ {
+  "product_id": "NE-11368",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "ridersjunction.com",
+  "matched_title": "Portronics Konnect A Plus 2m Type C To Type C Cable (POR 1797)"
+ },
+ {
+  "product_id": "NE-11369",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Aux 7 3.5mm Male To Male Aux Cable(Grey)"
+ },
+ {
+  "product_id": "NE-10373",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Konnect_B_1500x1500-1.jpg?v=1763552443",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect B 100W Type C to C Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-11370",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect C Square 60W POR-1065 Type-C to Type-C 1.2M Cable"
+ },
+ {
+  "product_id": "NE-11372",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Konnect_Dash_2_1400x1800_1.jpg?v=1710322113",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Dash 2 Unbreakable 6.5A 65w USB A to Type C VOOC Flash Charging Cable"
+ },
+ {
+  "product_id": "NE-11373",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.moglix.com",
+  "matched_title": "Portronics Konnect-Trio Plus 1.2m Black 3 in 1 Multi Functional Cable, POR 1051"
+ },
+ {
+  "product_id": "NE-11374",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51hreDKa97L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect L 20W PD Type-C to 8-Pin USB Charging Cable"
+ },
+ {
+  "product_id": "NE-11375",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Maglink C Square"
+ },
+ {
+  "product_id": "NE-11379",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "a2zit.in",
+  "matched_title": "Portronics Maglink CL Type C to 8 Pin Magnetic Cable 1m POR2576"
+ },
+ {
+  "product_id": "NE-11418",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/products/1_d03f2c9a-517f-42d5-9476-355739e4938f.jpg?v=1647866748",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Core Micro USB Cable (Black)"
+ },
+ {
+  "product_id": "NE-11419",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Konnect Core 3 USB to Type-C Charging Cable"
+ },
+ {
+  "product_id": "NE-11420",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Por-1031 Konnect Core Ii 1 M Micro Usb Cable"
+ },
+ {
+  "product_id": "NE-11421",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Konnect G1"
+ },
+ {
+  "product_id": "NE-11422",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect G3 Laptop Power Cable Black"
+ },
+ {
+  "product_id": "NE-11429",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect G4 Desktop Power Cable"
+ },
+ {
+  "product_id": "NE-11430",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71plp4Hb51L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Snapcase 60W Multifunctional Fast Charging Data Cable Kit"
+ },
+ {
+  "product_id": "NE-11431",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61U53pEqNwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Snapcase 2 Fast Charging Data Cable Kit - 60W Retractable Black Case"
+ },
+ {
+  "product_id": "NE-11432",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/714I0cVnbXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Snapcase 3 60W Fast Charging Data Cable Kit"
+ },
+ {
+  "product_id": "NE-11433",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Snapcase 4 60W Multifunctional Fast Charging Data Cable Kit"
+ },
+ {
+  "product_id": "NE-11434",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy SnapCase 5 Multipurpose 60W Charging Cable Kit"
+ },
+ {
+  "product_id": "NE-11435",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Snapacase 6 60W Multifunctional Charging Data Cable Kit,Wireless Watch Charging"
+ },
+ {
+  "product_id": "NE-11436",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Snapcase Ultra multifunctional Cable & Connector Kit"
+ },
+ {
+  "product_id": "NE-11437",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61dSJPpx5JL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Bridge X USB 3.0 Type C Female to USB Male OTG Adapter"
+ },
+ {
+  "product_id": "NE-11438",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics USB Type C OTG Adapter (BridgeY file)"
+ },
+ {
+  "product_id": "NE-11439",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/512mVdgHLlL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics POR-2849 PrintLink 1.5 Printer Cable"
+ },
+ {
+  "product_id": "NE-02486",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1-2_f5aba43d-ba07-4337-8855-af92b972a216.jpg?v=1745480743",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Print Link USB A to USB B for Printer 3M Cable-white (POR 2850)"
+ },
+ {
+  "product_id": "NE-02487",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6179WskseJL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics POR-2851 Printlink 5 Printer Cable"
+ },
+ {
+  "product_id": "NE-11440",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portonics_Uniconnect_USB_Male_to_Female_Extension_Cable.jpg?v=1746168093",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Uniconnect, 1.5M USB Extension Cable"
+ },
+ {
+  "product_id": "NE-11441",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Keylink 4 in 1 Multifunctional Charging Cable"
+ },
+ {
+  "product_id": "NE-11442",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Konnect J9 3-in-1 Cable"
+ },
+ {
+  "product_id": "NE-11443",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indiamart.com",
+  "matched_title": "PORTRONICS POR 2103 Konnect Aux 5, Nylon"
+ },
+ {
+  "product_id": "NE-11444",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/3_225bf46a-18de-4422-a3c7-147192637a7f.jpg?v=1740812087",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "HUE X - Type C To Type C 60W 1M, White+Blue"
+ },
+ {
+  "product_id": "NE-11445",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_EtherC_Multifunctional_Cable_cable_for_smooth_data_transfer_and_essential_computer_accessories.jpg?v=1764932766",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics POR-3254 EtherC, Type-C to RJ45 Ethernet Cable"
+ },
+ {
+  "product_id": "NE-11446",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Net X10 Ethernet 10M | 1000 Mbps High-Speed LAN Cable"
+ },
+ {
+  "product_id": "NE-11447",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Net X1 Cat 6 Ethernet Cable | Lan Cable for PC"
+ },
+ {
+  "product_id": "NE-11448",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Ethernet Cable 2 M Net X2 Cat-6 RJ45 Ethernet Cable 2M"
+ },
+ {
+  "product_id": "NE-11449",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "NetX20 CAT-6 High-Speed LAN and Ethernet Cable"
+ },
+ {
+  "product_id": "NE-11450",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics FLATRO 60W Type-C to Type-C Cable 1M"
+ },
+ {
+  "product_id": "NE-11451",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics 60W Velin Type C to Type C Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-11452",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Dockline 100W Type C Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-11453",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61IRZMT1xWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics 60W Quadline 4-In-1 Multifunctional Fast Charging Retractable Cable"
+ },
+ {
+  "product_id": "NE-11454",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics 100W Konnect Halo Type C to Type C Cable"
+ },
+ {
+  "product_id": "NE-11455",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics 240W Type C to Type C Cable-Free Adapter with Stand (Dockpin)"
+ },
+ {
+  "product_id": "NE-02501",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40595-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Svachh Efficia Convertible Hob 02 AI (2 Brass Burners) - TTK Prestige 40595"
+ },
+ {
+  "product_id": "NE-11456",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40596-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Svachh Efficia Hob 03 AI (with Toughened Glass Top Multi Spark Ignition System & 3 Brass Burners) - TTK Prestige"
+ },
+ {
+  "product_id": "NE-11457",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/6/5614-40597-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Svachh Efficia HOB 04 AI (Toughened Glass Top, 4 Brass Burners)"
+ },
+ {
+  "product_id": "NE-02504",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Efficia Convertible 2 Burner Glasstop Hob"
+ },
+ {
+  "product_id": "NE-02505",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Efficia Convertible 3 Burner Glasstop Hob"
+ },
+ {
+  "product_id": "NE-02506",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Efficia Convertible 4 Burner Glasstop Hob"
+ },
+ {
+  "product_id": "NE-02507",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/i/z/a/-original-imahzcymqpdfywt5.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige GTSB-02 Svachh Black Toughened Glass Top LP Gas Table Glass Manual Gas Stove"
+ },
+ {
+  "product_id": "NE-02508",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51EBzXHQj1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Svachh GTSB-03 Glass Top Gas Stove"
+ },
+ {
+  "product_id": "NE-02509",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/614SxwxCnSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Svachh GTSB-04 Glass Top Gas Stove with 4 Brass Burners"
+ },
+ {
+  "product_id": "NE-02510",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/6/0687-40073-IMG3.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Premia Schott Glass Top Gas Stove (2 Burners) - GTS 02 (D) (Black)"
+ },
+ {
+  "product_id": "NE-02511",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40170-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Premia Schott Glass Top Gas Stove (3 Burners) - GTS 03L (D) (Black) - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02512",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/7/8766-40271-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Premia Schott Glass Top Gas Stove (4 Burners) - GTS 04 (D) (Black) - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02513",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/khavrm80/gas-stove/w/m/c/40090-prestige-original-imafxcfmgezmyz2c.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige Edge Glass Manual Gas Stove (40090)"
+ },
+ {
+  "product_id": "NE-02514",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/PEmVGW7IVzLHm-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy Prestige Edge Schott 3 Burners Glass Manual Gas Stove, 40186"
+ },
+ {
+  "product_id": "NE-02516",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40589-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Vectra 2 Burner Glasstop Gas Stove, Black - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02517",
+  "keep": false,
+  "image_url": "https://www.rasoishop.com/cdn/shop/files/40590.jpg?v=1725368008",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Prestige Vectra Glass Top 3 Burner Gas Stove ( Black )"
+ },
+ {
+  "product_id": "NE-02518",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/612p-pATlgL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Vectra Glass Top 4 Burner Gas Stove ( Black )"
+ },
+ {
+  "product_id": "NE-02519",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40382-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Svachh Neo Toughened Glasstop Gas Stove with Liftable 2 Burners (Black) - GTSN 02"
+ },
+ {
+  "product_id": "NE-02520",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/7/9794-40383-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Svachh Neo 3 Burner Gas Stove"
+ },
+ {
+  "product_id": "NE-02521",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/3/8345-40385-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Svachh Neo Toughened Glasstop Gas Stove with Liftable 4 Burners (Black) - GTSN 04 L"
+ },
+ {
+  "product_id": "NE-02522",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/4/3414-40512-P-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Royale Plus Gt 02 Toughened Black Glass Top"
+ },
+ {
+  "product_id": "NE-02523",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40513-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Royale Plus GT 03 Toughened Black Glass Top - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02524",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/4/2485-40520-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Royale Plus 3 Burner GT03L SS Glasstop Gas Stove with Stainless Steel Body"
+ },
+ {
+  "product_id": "NE-02525",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Royale Plus GT 04 Toughened Black Glass Top Gas Stove"
+ },
+ {
+  "product_id": "NE-02526",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/7/4/7492-40003-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Marvel Plus Toughened Glass Top Gas Stove (1 Burner) - GTM 01"
+ },
+ {
+  "product_id": "NE-02527",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/6/2647-40094-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Marvel Plus Toughened Glass Top Gas Stove (2 Burners) - GTM 02-Black"
+ },
+ {
+  "product_id": "NE-02528",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Marvel Plus Stainless Steel 2 Brass Burner Manual Glass Top Gas Stove, GTM 02 SS (Black)"
+ },
+ {
+  "product_id": "NE-02529",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51oZytOBA-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Marvel Plus Auto Ignition 2 Burner Glass top GTM 02 AI Black"
+ },
+ {
+  "product_id": "NE-02530",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40189-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Marvel Plus 3 Burner GTM-03-Black Glass Top Gas Stove - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02531",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/3/8327-40357-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Marvel Plus Stainless Steel 3 Burner Glass Top Manual Gas Stove, Black"
+ },
+ {
+  "product_id": "NE-02532",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.tatacliq.com",
+  "matched_title": "Buy Prestige Marvel Plus GTM 03 AI 3 Brass Burners Glass Top - Tata CLiQ"
+ },
+ {
+  "product_id": "NE-02533",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Marvel Plus 4 Burner GTM 04 SQ Glasstop Gas Stove"
+ },
+ {
+  "product_id": "NE-02534",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61HRSxm1i9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Marvel Plus Gtm 04 Ss Plus Manual Stainless steel 4 Burners Gas Stove, Black"
+ },
+ {
+  "product_id": "NE-02535",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/i/w/0/-original-imahzcym3egvwvuz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige Plus GTM 04 LONG Glass Manual Gas Stove"
+ },
+ {
+  "product_id": "NE-02536",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/9/1932-40598-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Efficia LP Gas Stove with Powder-Coated Body, Glass Top & 2 Brass Burners - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02537",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/4/6419-40599-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Efficia Glass Manual Gas Stove (40599)"
+ },
+ {
+  "product_id": "NE-02538",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/5/3532-40398-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Plus LP Gas Stove GTMP-02"
+ },
+ {
+  "product_id": "NE-02539",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/7/3757-40397-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Plus Glass Top 3 Burner Gas Stove - Black"
+ },
+ {
+  "product_id": "NE-02540",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/9/0994-40524-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Plus LP Gas Stove GTMP-03 (40524)"
+ },
+ {
+  "product_id": "NE-02541",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40510-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Magic Plus LP Gas Stove GTMP 04 SQ - TTK Prestige"
+ },
+ {
+  "product_id": "NE-02542",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40508-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Plus LP Gas Stove GTMP 04"
+ },
+ {
+  "product_id": "NE-02543",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40000-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Prithvi Stainless Steel Gas Stove (1 Burner)"
+ },
+ {
+  "product_id": "NE-02544",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Prime LP Gas Stove with 2 Brass Burners"
+ },
+ {
+  "product_id": "NE-02545",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige Star Stainless Steel 2 Burner Gas Stove"
+ },
+ {
+  "product_id": "NE-02546",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/7/0/7004-40054-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Shakti Stainless Steel Gas Stove (2 Burners)"
+ },
+ {
+  "product_id": "NE-02547",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/5/8576-40053-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Agni Manual Stainless steel 2 Burners Gas Stove, Silver"
+ },
+ {
+  "product_id": "NE-02548",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/6/1691-40212-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Prime Stainless Steel Gas Stove (3 Burners)"
+ },
+ {
+  "product_id": "NE-11458",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/7/0/7063-40077-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Agni Classic Stainless Steel 2 Burner Gas Stove"
+ },
+ {
+  "product_id": "NE-02550",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/6/3636-40211-P-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Fame Stainless Steel Gas Stove (3 Burners)"
+ },
+ {
+  "product_id": "NE-02551",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/40150-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Perfect Stainless Steel 3 Burner Gas Stove ( Silver )"
+ },
+ {
+  "product_id": "NE-02552",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Gas Stove Duplex 3L Dgs"
+ },
+ {
+  "product_id": "NE-02553",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige Gas Stove Duplex DGS 4 Burner"
+ },
+ {
+  "product_id": "NE-02554",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/induction-cook-top/5/m/x/-original-imahzy6jj8fjkczb.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige Xpress 1200W Induction Cooktop"
+ },
+ {
+  "product_id": "NE-02555",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Prestige Ray Induction 1350W Cooktop"
+ },
+ {
+  "product_id": "NE-02556",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/9/1979-41134-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PIC 20 NEO 1600W Induction Cooktop - Black"
+ },
+ {
+  "product_id": "NE-02557",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 20 WIZ 1600W Induction Cooktop (Automatic Whistle Counter)"
+ },
+ {
+  "product_id": "NE-02558",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51eO1yM8gnL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 16.0 Plus 2000W Single Induction Cooktop with 8 Preset Menus"
+ },
+ {
+  "product_id": "NE-02559",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 15.0+ 1900 Watts Induction Cooktop | Black"
+ },
+ {
+  "product_id": "NE-02560",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/5/9533-41999-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Induction Cook-Top PIC 31.0 V4"
+ },
+ {
+  "product_id": "NE-02561",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Prestige 2300 W Induction Cooktop Touch Panel (Sleeq 41063)"
+ },
+ {
+  "product_id": "NE-02562",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71O5-x8b6qL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 29 2000-Watt Induction Cooktop (Blue)"
+ },
+ {
+  "product_id": "NE-02564",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71dSioWgXTL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 3.1 V3 2000 w Induction Cooktop ( Black )"
+ },
+ {
+  "product_id": "NE-02565",
+  "keep": false,
+  "image_url": "https://odncatalog-aws.s3.dualstack.us-east-1.amazonaws.com/Prestige/31.07.2026/41994-1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Swish V4 Whistle Counter Induction Cooktop"
+ },
+ {
+  "product_id": "NE-02566",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Prestige PIC 6.1 V3 Induction Cooktop"
+ },
+ {
+  "product_id": "NE-02567",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/1/6183-41915-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PIC 2.0 V2 2000 W Induction Cooktop (Black)"
+ }
+]

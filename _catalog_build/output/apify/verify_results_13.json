@@ -1,0 +1,514 @@
+[
+ {
+  "product_id": "NE-06033",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Dash 13 150W Portable Karaoke Party Speaker"
+ },
+ {
+  "product_id": "NE-06039",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Dash 14 120W Party Speaker With Mic"
+ },
+ {
+  "product_id": "NE-06044",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Apollo One 20W Portable Bluetooth Speaker"
+ },
+ {
+  "product_id": "NE-06059",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Apollo One Plus 20W Speaker with Wireless Mic"
+ },
+ {
+  "product_id": "NE-06080",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Apollo 20 Wireless Karaoke Speaker"
+ },
+ {
+  "product_id": "NE-06081",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Apollo 30"
+ },
+ {
+  "product_id": "NE-06084",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/speaker/party-speaker/q/f/o/por-2340-portronics-original-imah3g5rhzn95etc.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics Iron Beats II TWS Wireless Speaker 250 W Bluetooth Party Speaker"
+ },
+ {
+  "product_id": "NE-01907",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/speaker/party-speaker/e/r/p/por-2344-portronics-original-imahd8dnzkjeqram.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics Iron Beats IV 250W Party Speaker With Dual 6 Subwoofer"
+ },
+ {
+  "product_id": "NE-06087",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Iron Beats 5 150W Bluetooth Party Speaker"
+ },
+ {
+  "product_id": "NE-06088",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Iron_Beats_5_Prime_250W_Party_Speaker.jpg?v=1765355340",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Iron Beats 5 Prime 250W Party Speaker with Mic"
+ },
+ {
+  "product_id": "NE-06089",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-06090",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/azCefS7fcbEa4-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Portronics Iron Beats 5 Pro 180W Black Party Speaker with Dual Karaoke Mic, POR 2347"
+ },
+ {
+  "product_id": "NE-06097",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71FMVw6VjaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Dash 7 Omnidirectional Type C Wireless Microphone"
+ },
+ {
+  "product_id": "NE-06099",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Wireless_microphone_for_YouTube_vlogging_mobile_India_Portronics_Dash_7_Ai.png?v=1762153263",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Dash 7 Ai Type C Wireless Microphone"
+ },
+ {
+  "product_id": "NE-06100",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_e261d2ce-adf5-44bd-ac91-fe2dc948d7b5.jpg?v=1721202743",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "VlogMate"
+ },
+ {
+  "product_id": "NE-06122",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_ultra_ai_noise_cancellation_mic.jpg?v=1790584741",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy New Portronics VlogMate Ultra Wireless Mic for Phone"
+ },
+ {
+  "product_id": "NE-06129",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_c_wireless_mic_for_youtube_videos_and_live_streaming.jpg?v=1790588468",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics VlogMate C Type-C Wireless Microphone For Podcast"
+ },
+ {
+  "product_id": "NE-06137",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_VlogMate_One_wireless_microphone_with_long_range.jpg?v=1757329061",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Vlogmate One Ai Powered Wireless Recording Microphone"
+ },
+ {
+  "product_id": "NE-01918",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61tFjTndJ4L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Vlogmate 2 Dual Wireless Microphone with Type C & 8 Pin Receiver"
+ },
+ {
+  "product_id": "NE-06159",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics New Wireless Microphone Vlogmate 3 For Vlogger"
+ },
+ {
+  "product_id": "NE-06162",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_vlogmate_neo_dual_wireless_microphone.jpg?v=1781170033",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Vlogmate Neo"
+ },
+ {
+  "product_id": "NE-06200",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_provox_wired_microphone_with_on_off_switch_and_long_cable.jpg?v=1781615771",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Provox Wired Dynamic Mic for Karaoke & Speeches"
+ },
+ {
+  "product_id": "NE-06201",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Dash21500x15002.jpg?v=1691658671",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Dash 2 Wireless Karaoke Mic with 10W Speaker - Black"
+ },
+ {
+  "product_id": "NE-06207",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_In_Tune_5_PC_Speaker_Wired_speakers_for_pc.jpg?v=1767879108",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "In Tune 5"
+ },
+ {
+  "product_id": "NE-06220",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/In_Tune_6_Mini_Portable_Speaker_with_rgb_light.jpg?v=1742204468",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics In Tune 6 6W USB PC Speaker with RGB Lights"
+ },
+ {
+  "product_id": "NE-06242",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_spatial_arc_2.1_channel_home_theatre_soundbar_with_subwoofer.jpg?v=1777035853",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Spatial Arc 200W 2.1 Channel Bluetooth Soundbar"
+ },
+ {
+  "product_id": "NE-06268",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/speaker/soundbar/o/2/i/por-3317-portronics-original-imahn6vqyvkxuxrc.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics CineArc 200W Bluetooth Soundbar, Wired Subwoofer 5.1Ch Home Theatre"
+ },
+ {
+  "product_id": "NE-06271",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Radian POR 1680 16W Stereo Soundbar Black"
+ },
+ {
+  "product_id": "NE-06279",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/speaker/soundbar/r/i/d/decibel-20-portronics-original-imagg2zyyqphmtzt.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics Decibel 20 16W Wireless Bluetooth Soundbar"
+ },
+ {
+  "product_id": "NE-06303",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/2_aa5ef1bf-dae9-4c88-bc3f-92a2df887a88.jpg?v=1640855480",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Decibel 21 Bluetooth Sound bar with power of 1800 mAh"
+ },
+ {
+  "product_id": "NE-06306",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Decibal23_1500x1500-05.jpg?v=1694172079",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "DECIBEL 23"
+ },
+ {
+  "product_id": "NE-06308",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "DECIBEL 24"
+ },
+ {
+  "product_id": "NE-06309",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-06317",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics 140W Pure Sound 110 2.1 Channel Home Theatre"
+ },
+ {
+  "product_id": "NE-06323",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Pure Sound 105 200W Wired Bluetooth Subwoofer"
+ },
+ {
+  "product_id": "NE-06326",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Pure Sound 106 Bluetooth Soundbar with Wired Subwoofer"
+ },
+ {
+  "product_id": "NE-06327",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Pure Sound 107"
+ },
+ {
+  "product_id": "NE-01937",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Pure Sound 108 160W Bluetooth Soundbar with Wired Subwoofer - Black"
+ },
+ {
+  "product_id": "NE-06330",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/Mq0OEub5Z6psQ-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Portronics Pure Sound Pro X1 100W Black Bluetooth Soundbar with Wired Subwoofer & Remote Control, POR-1961"
+ },
+ {
+  "product_id": "NE-06364",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Pure Sound Pro X2 150W Home Theatre System"
+ },
+ {
+  "product_id": "NE-06365",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/products/Portronics_Sound_Slick_IV_Bluetooth_soundbars_for_TV.jpg?v=1752146559",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Sound Slick IV"
+ },
+ {
+  "product_id": "NE-06366",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Sound Slick V"
+ },
+ {
+  "product_id": "NE-06367",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy Portronics Sound Slick 6 60W Bluetooth Soundbar with Remote Online - Croma"
+ },
+ {
+  "product_id": "NE-06368",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Sound Slick 8"
+ },
+ {
+  "product_id": "NE-06369",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_sound_slick_x_250w_hd_sound_bluetooth_soundbar_online.jpg?v=1746684955",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Sound Slick X"
+ },
+ {
+  "product_id": "NE-06370",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Sound Slick X1 600W Dolby Atmos Soundbar"
+ },
+ {
+  "product_id": "NE-01946",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Zuno_Wireless_Soundbar_with_Wired_Subwoofer_for_Deep_Bass.jpg?v=1771829035",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Zuno"
+ },
+ {
+  "product_id": "NE-06371",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics 250 Wireless Bluetooth Headset (Black)"
+ },
+ {
+  "product_id": "NE-01948",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Y2 in Ear Neckband With Gaming Mode & Dual Pairing"
+ },
+ {
+  "product_id": "NE-01949",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/harmonic-y3-neckband-earphones-bluetooth-mic.png?v=1759908313",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Y3"
+ },
+ {
+  "product_id": "NE-01950",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy New Harmonics Y4 in ear Bluetooth Neckband Earphone"
+ },
+ {
+  "product_id": "NE-06373",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Harmonics_Z11_wireless_neckband_in-earphones_with_voice_assistant_and_magnetic_latch.jpg?v=1734355970",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Z11 Bluetooth Wireless In-Ear Earphones with 35h Playback | Black"
+ },
+ {
+  "product_id": "NE-06376",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_harmonics_z11_pro_earphone_neckband.jpg?v=1768916080",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Z11 PRO"
+ },
+ {
+  "product_id": "NE-01952",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Z5 Wireless Bluetooth Stereo Headset"
+ },
+ {
+  "product_id": "NE-01953",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/HarmonicsZ71200x12004.jpg?v=1688970496",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Z7"
+ },
+ {
+  "product_id": "NE-06377",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/03_c03cd275-93e1-4e09-a06c-66b545b9b993.jpg?v=1708335020",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Z10"
+ },
+ {
+  "product_id": "NE-01954",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_harmonics_z13_bluetooth_neckband_with_upto_35_hours.jpg?v=1777548669",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Harmonics Z13 Bluetooth Neckband Earphones"
+ },
+ {
+  "product_id": "NE-01955",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_harmonics_z14_bluetooth_neckband_with_vibration_alert.jpg?v=1774876999",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Z14"
+ },
+ {
+  "product_id": "NE-01956",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/products/1_e0f882c3-94c7-4e07-9f2f-c5728e7eb2e8.jpg?v=1723555274",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Klip 4 Retractable Bluetooth Earphone - Black"
+ },
+ {
+  "product_id": "NE-06378",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/5_9fc2a6b4-c71d-4aa5-8eb0-474fba3edbac.jpg?v=1755598330",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Klip 6"
+ },
+ {
+  "product_id": "NE-06379",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Harmonics_Klip_7_Retractable_Bluetooth_Earphone.jpg?v=1756986888",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Klip 7 Retractable Bluetooth Earphone"
+ },
+ {
+  "product_id": "NE-06380",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_muffs_m2_foldable_wireless_headphones.jpg?v=1731927089",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Muffs M2 Wireless Over Ear Headphones"
+ },
+ {
+  "product_id": "NE-06381",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_bluetooth_headphones_Muff_M3_with_rechargable.jpg?v=1744893873",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Muffs M3 Over-Ear Headphones - with ANC Enabled"
+ },
+ {
+  "product_id": "NE-06382",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Muffs M5 ANC Bluetooth Headphones | 50H Playtime, Quad Mic"
+ }
+]
