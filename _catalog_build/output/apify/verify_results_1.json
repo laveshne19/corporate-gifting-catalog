@@ -1258,18 +1258,18 @@
  {
   "product_id": "NE-00252",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/Converge_Front.png?v=1745148032&width=1500",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Converge - 3L / 3kW"
  },
  {
   "product_id": "NE-00253",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Majesty Horizontal - 15L RW"
  },
  {
   "product_id": "NE-00254",

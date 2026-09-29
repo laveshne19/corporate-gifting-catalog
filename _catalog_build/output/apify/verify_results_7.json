@@ -1482,10 +1482,10 @@
  {
   "product_id": "NE-01460",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.shopify.com/s/files/1/0801/3922/3334/files/8901372213161_2.jpg?v=1743069882",
+  "confidence": "high",
+  "source_domain": "cdn.shopify.com",
+  "matched_title": "Puro Steel X Felix 900 Insulated Bottle, 680 ml (celloworld.com)"
  },
  {
   "product_id": "NE-01462",
@@ -1497,18 +1497,18 @@
  },
  {
   "product_id": "NE-01463",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Flint 900 Insulated Water Bottle 650 ml, Black"
  },
  {
   "product_id": "NE-01464",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Puro Steel-X Genx 600 Inner Steel Bottle"
  }
 ]

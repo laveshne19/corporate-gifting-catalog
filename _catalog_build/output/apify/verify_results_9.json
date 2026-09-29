@@ -1357,17 +1357,15 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02390",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "mymec.in",
+  "matched_title": "Haier EI3V-ZYON 3L Instant Water Heater Ivory"
  },
  {
   "product_id": "NE-02391",
@@ -1375,8 +1373,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02392",
@@ -1384,8 +1381,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02393",

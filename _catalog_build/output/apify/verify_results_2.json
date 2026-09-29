@@ -1282,74 +1282,66 @@
  {
   "product_id": "NE-00451",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/tawa-ecg24.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Tawa Ebony Concave Griddle 24 (file: tawa-ecg24)"
  },
  {
   "product_id": "NE-00452",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/61E2mjh2shL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "Nirlep Ebony Aluminium Tawa, 26cm, Deep Grey (ECG26)"
  },
  {
   "product_id": "NE-00453",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.oweg.in/image/cache/catalog/Tawa/ECG28N/61I1FdwrCYL._SL1500_-800x800.webp",
+  "confidence": "high",
+  "source_domain": "www.oweg.in",
+  "matched_title": "Nirlep ECG 28 Aluminium Ebony 28 Cm Hard Anodized Concave Tawa (ECG28N)"
  },
  {
   "product_id": "NE-00454",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_500x500/tawa-ecg30.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Tawa Ebony Concave Griddle 30 (file: tawa-ecg30)"
  },
  {
   "product_id": "NE-00455",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/2_ec38d99e-51be-40d3-8704-a4b852934c8b.jpg?v=1726219861&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Ebony Hard Anodised Induction Concave Griddle 26cm - 26 cm"
  },
  {
   "product_id": "NE-00456",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://apnidukaan.com/cdn/shop/files/2_ff2cf127-f019-4b3a-81fc-5dcce20430d9.webp?v=1746007755&width=1500",
+  "confidence": "high",
+  "source_domain": "apnidukaan.com",
+  "matched_title": "Ebony Hard Anodised Induction Concave Griddle 28cm - 28 cm"
  },
  {
   "product_id": "NE-00457",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/kadhai-iedk24gl.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Ebony Deep Kadai With IB 24Cm (file: kadhai-iedk24gl)"
  },
  {
   "product_id": "NE-00458",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://cdnstatic.adoerp.com/Product_image_750px/WEBP_750px_03c8f57-40f8-1d03-e72e-01c4d00a115_71eRLdl8FJL._SL1500_.webp",
+  "confidence": "high",
+  "source_domain": "mondaldistribution.in",
+  "matched_title": "BAJAJ IEDK26GL EBONY DEEP KADHAI WITH IB 26CM.BLACK"
  },
  {
   "product_id": "NE-00459",
