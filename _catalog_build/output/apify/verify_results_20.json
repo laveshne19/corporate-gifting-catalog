@@ -254,5 +254,117 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-11427",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11428",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02715",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Electric-Kettles/VTL-5004.jpg?updatedAt=1728457483415",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Kettle 1350W 1.7 Litres (VTL-5004.jpg)"
+ },
+ {
+  "product_id": "NE-02716",
+  "keep": false,
+  "image_url": "https://skylineappliances.online/cdn/shop/files/VTL-5005.png?v=1744440814&width=600",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Kettle 1000W 1.2 Litres (VTL-5005)"
+ },
+ {
+  "product_id": "NE-02717",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline 1.8L Electric Kettle, 1500W Rapid Heating, Silver VTL-5006 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02718",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51aHJlQwxeL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Electric Kettle 1.2 ltr VTL-5007 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02719",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/electric-kettle/v/g/l/vtl-5028-skyline-original-imahkf4gqgcjq3ss.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SKYLINE VTL-5028 Electric Kettle"
+ },
+ {
+  "product_id": "NE-02720",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31IQMWnPGBL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline VTL-5013 Electric Kettle 600 W (0.5) : Amazon.in"
+ },
+ {
+  "product_id": "NE-02721",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02722",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/716Ad6NBQjL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline 1500W 1.8L Double Wall Electric Kettle VTL-6200 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02725",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/VTL-9003.webp?v=1757485372",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Electric Plastic Kettle (1.2 Ltr.) VTL-9003"
+ },
+ {
+  "product_id": "NE-02726",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02727",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Glass Kettle 1.7L VTL-4115 (official CDN, file name spells model code)"
+ },
+ {
+  "product_id": "NE-02728",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/1_bc024a3b-ebaf-4139-add9-9e985518d317.png?v=1742889598",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline 1500 Watts, 1.7 Liter Electric Kettle and Noodle Maker - VTL-7070"
  }
 ]

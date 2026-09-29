@@ -510,5 +510,261 @@
   "confidence": "high",
   "source_domain": "www.samsung.com",
   "matched_title": "Galaxy A36 5G Rugged Case Black Mobile Accessories - EF-RA366CBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11082",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ua366ctegus/gallery/us-galaxy-a36-5g-screen-protector-ef-ua366-ef-ua366ctegus-545839110?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A36 5G Screen Protector Transparent Mobile Accessories - EF-UA366CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11083",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pa566cbegus/gallery/us-galaxy-a56-5g-silicone-case-ef-pa566-ef-pa566cbegus-547927890?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Silicone Case Black Mobile Accessories - EF-PA566CBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11511",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pa566cgegus/gallery/us-galaxy-a56-5g-silicone-case-ef-pa566-ef-pa566cgegus-547927906?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Silicone Case Sage Green Mobile Accessories - EF-PA566CGEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11512",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51W1FKGqwAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A56 5G Silicone Phone Case, Protective, Comfortable, Easy to Hold, US Version, Pink"
+ },
+ {
+  "product_id": "NE-11086",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-ra566cbegin/gallery/in-galaxy-a56-5g-rugged-case-ef-ra566-ef-ra566cbegin-545409364?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Rugged Case - Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11087",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ua566ctegus/gallery/us-galaxy-a56-5g-screen-protector-ef-ua566-ef-ua566ctegus-547932507?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Screen Protector Transparent Mobile Accessories - EF-UA566CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11088",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11089",
+  "keep": false,
+  "image_url": "https://surajbusiness.com/cdn/shop/files/71bveoiH8CL._SL1500.jpg?v=1770660382&width=1445",
+  "confidence": "high",
+  "source_domain": "surajbusiness.com",
+  "matched_title": "Samsung Galaxy 20,000mAh Power Bank (Gray) | 45W Super Fast Charging"
+ },
+ {
+  "product_id": "NE-11090",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/eb-p3400xungin/gallery/in-10ah-battery-pack-eb-p3400-eb-p3400xungin-536180574?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25W Powerbank 10000mAh (EB-P3400XUNG) | Samsung India"
+ },
+ {
+  "product_id": "NE-11091",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11092",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71s+kuyTLiS.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Eo-Ic100Bbegus Corded Type-C Wired in Ear Earphones with Mic, Black"
+ },
+ {
+  "product_id": "NE-11093",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t2510xwngin/gallery/in-25w-power-adapter-ep-t2510-ep-t2510xwngin-549980255?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25W Travel Adaptor with Cable (EP-T2510XWNG) | Samsung India"
+ },
+ {
+  "product_id": "NE-11513",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t2510nwngin/gallery/in-25w-power-adapter-ep-t2510-506974-ep-t2510nwngin-549980217?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25 W Travel Adaptor without Cable (EP-T2510NWNGIN)"
+ },
+ {
+  "product_id": "NE-11095",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t4511nbngin/gallery/in-45w-power-adapter-ep-t4511-537088-ep-t4511nbngin-544968447?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "45 W Type-C Travel Adaptor Without Cable | Samsung Business India"
+ },
+ {
+  "product_id": "NE-11514",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t4511xbegus/gallery/us-45w-power-adapter-ep-t4511-ep-t4511xbegus-549253529?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "45W PD Power Adapter with 5A USB C Cable, Black Mobile Accessories - EP-T4511XBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11097",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t6530nbngin/gallery/in-65w-power-adapter-trio-ep-t6530-ep-t6530nbngin-539529052?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "65W Travel Adaptor without cable EP-T6530NBNG | Samsung India"
+ },
+ {
+  "product_id": "NE-11515",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11516",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t1510nbngin/gallery/in-15w-power-adapter-ep-t1510-ep-t1510nbngin-539710902?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "15W Power Adapter black EP-T1510NBNG | Samsung India"
+ },
+ {
+  "product_id": "NE-11517",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t1510nwngin/gallery/in-15w-power-adapter-ep-t1510-ep-t1510nwngin-539710911?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "EP-T1510N 15W Power Adapter white | Samsung India"
+ },
+ {
+  "product_id": "NE-11102",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11103",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11104",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/in-cable-combo-dg930-ep-dg930ibegin-frontblack-119451395?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Shop Cable (Type-C) (Black)-Price, Reviews and Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-11105",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11106",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11107",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11108",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t5020xbegus/gallery/us-50w-power-adapter-duo-ep-t5020-ep-t5020xbegus-551074441?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "50W PD Duo Power Adapter with 5A USB C Cable, Black | Samsung US"
+ },
+ {
+  "product_id": "NE-11109",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/eb-u2500xjegin/gallery/in-eb-u2500-eb-u2500xjegin-552102106?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Magnetic Wireless Battery Pack Gray | Samsung India"
+ },
+ {
+  "product_id": "NE-11110",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ch/gp-pwu024wiabw/gallery/ch-3in1-pad-wireless-charger-gp-pwu024wiabw-547301053?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "3 in 1 Wireless Charger Black | Samsung Schweiz (GP-PWU024WI)"
+ },
+ {
+  "product_id": "NE-11111",
+  "keep": false,
+  "image_url": "https://www.thechennaimobiles.com/_next/image?url=https%3A%2F%2Fapi.thechennaimobiles.com%2F1766683365162.jpg&w=1600&q=75",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "Ep Pad Samsung Wireless Charger Dark Gray (P2400BBEGIN)"
+ },
+ {
+  "product_id": "NE-11518",
+  "keep": false,
+  "image_url": "https://youget.pt/92236-large_default/carregador-wireless-samsung-15w-branco-ep-p2400bwe.jpg",
+  "confidence": "high",
+  "source_domain": "youget.pt",
+  "matched_title": "Carregador Wireless Samsung EP-P2400BWE 15W Branco"
+ },
+ {
+  "product_id": "NE-11113",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11519",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]
