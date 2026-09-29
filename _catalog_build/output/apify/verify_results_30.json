@@ -1097,11 +1097,11 @@
  },
  {
   "product_id": "NE-04699",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "corporategiftingindia.co",
+  "matched_title": "boAt Wave Electra - Cherry blossom \u2014 Bulk Corporate Gift | boAt | Corporate  Gifting India"
  },
  {
   "product_id": "NE-04700",
@@ -1146,18 +1146,18 @@
  {
   "product_id": "NE-04705",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/358940880/YO/EW/ZI/202000293/sdf.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Boat Wave Connect Plus Olive Green Smartwatch at \u20b9 4000/piece | Boat  Smartwatch in Patna | ID: 2852820545755"
  },
  {
   "product_id": "NE-04706",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61xWEQ4ZTFL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Ultima Call Max Smart Watch w/ 2\" Big HD Display, Advanced BT Calling,  100+ Sports Modes, 10 Days Battery Life, Multiple Watch Faces, IP68, HR &  SpO2, Sedentary Alerts(Active Black) :"
  },
  {
   "product_id": "NE-04707",
@@ -1186,10 +1186,10 @@
  {
   "product_id": "NE-04710",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-wave-force-2-active-black-smart-watch-dl50p0m3.png",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt Wave Cosmos Max Smart Watch (Cool Grey) in Midnapore at \u20b9 8,459 - \u20b9  8,999 by S S Enterprise - Justdial"
  },
  {
   "product_id": "NE-04711",
@@ -1202,10 +1202,10 @@
  {
   "product_id": "NE-04712",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://img-prd-pim.poorvika.com/product/Boat-lunar-fit-smartwatch-active-black-Front-Left-View.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Buy Boat Lunar Fit 1.43 AMOLED Display ( Active Black ) Smartwatch"
  },
  {
   "product_id": "NE-04713",
@@ -1226,7 +1226,7 @@
  {
   "product_id": "NE-04715",
   "keep": false,
-  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-smart-watch-22-09-2023-83-272642366-0ei8fyki.png",
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/zebronics-smart-watch-23-08-2022-001-272248730-tqcs2fj3.jpg",
   "confidence": "high",
   "source_domain": "www.justdial.com",
   "matched_title": "boAt Wave Elevate Smart Watch (Deep Grey) in Vadodara at \u20b9 6,239 - \u20b9 6,499  by Talk Time Mobile Store - Justdial"
@@ -1250,18 +1250,18 @@
  {
   "product_id": "NE-04718",
   "keep": false,
-  "image_url": "https://img-prd-pim.poorvika.com/product/Boat-lunar-fit-smartwatch-deep-green-Specs.png",
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/275326_14_nh5bnv.png",
   "confidence": "high",
-  "source_domain": "www.poorvika.com",
-  "matched_title": "Buy Boat Lunar Fit Sports Mode ( Deep Green ) Smartwatch"
+  "source_domain": "www.croma.com",
+  "matched_title": "boAt Lunar Fit Smartwatch with Bluetooth Calling (36.9mm AMOLED Display,  IP67 Water Resistant, Deep Green Strap)"
  },
  {
   "product_id": "NE-04719",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://93mobiles.com/wp-content/uploads/2026/03/61n3NobqX5L._SL1500_-1.jpg",
+  "confidence": "high",
+  "source_domain": "93mobiles.com",
+  "matched_title": "boAt Lunar Seek - Premium 1.39\" (3.53 cm) HD Display Smartwatch with Bluetooth Calling Active Black"
  },
  {
   "product_id": "NE-04720",
@@ -1274,10 +1274,10 @@
  {
   "product_id": "NE-04721",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://stream.jdmagicbox.com/thumbnail/mp-0sq0cdmlmdld0lh-boat-lunar-comet-smart-watch-deep-purple--272678882/jd-Ott_720x540_Thumbnail.0000000.jpg",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt-Lunar-Comet-Smart-Watch-Deep-Purple- Watch Product Video"
  },
  {
   "product_id": "NE-04722",
@@ -1338,10 +1338,10 @@
  {
   "product_id": "NE-04729",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/noisecolorfitcanvastrinitysmartwatch1-96inmetalblue-272843469-hsgilwe1.png",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt Wave Elevate Pro Smart Watch (Active Black) in Delhi at \u20b9 10,559 - \u20b9  10,999 by Aradhaya Enterprises - Justdial"
  },
  {
   "product_id": "NE-04730",
@@ -1378,10 +1378,10 @@
  {
   "product_id": "NE-04734",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/300459_16_wji1a0.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy boAt Enigma Z30 Smartwatch with Bluetooth Calling (36.3mm AMOLED  Display, IP67 Sweat Resistant, Zet Black Strap) Online - Croma"
  },
  {
   "product_id": "NE-04735",
@@ -1402,18 +1402,18 @@
  {
   "product_id": "NE-04737",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/gtxd-watch-2226821004-hzo17y97.jpg",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt Primia Celestial Smart Watch (Silver Metal) in Delhi at \u20b9 8,929 - \u20b9  9,499 by Aradhaya Enterprises - Justdial"
  },
  {
   "product_id": "NE-04738",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-smart-watch-11-12-2023-25-272717063-7dazs5a9.jpg",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt Lunar Tigon Smart Watch (Deep Blue) in Pune at \u20b9 11,279 - \u20b9 11,999 by  Arihant Udyog - Justdial"
  },
  {
   "product_id": "NE-04739",
@@ -1426,10 +1426,10 @@
  {
   "product_id": "NE-04740",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/boat-smart-watch-27-10-2023-20-272678843-lh97irbo.jpg",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "boAt Wave Genesis Smart Watch (Deep Blue) in Bangalore at \u20b9 6,174 - \u20b9 6,499  by Supralax Electronics Pvt Ltd - Justdial"
  },
  {
   "product_id": "NE-04741",
@@ -1458,10 +1458,10 @@
  {
   "product_id": "NE-04744",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Wearable%20Devices/Images/303905_0_thvfje.png?tr=w-600",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy boAt Enigma Switch Smartwatch with Bluetooth Calling (35.3mm HD  Display, IP68 Sweat Resistant, Steel Silver Strap) Online - Croma"
  },
  {
   "product_id": "NE-04745",
