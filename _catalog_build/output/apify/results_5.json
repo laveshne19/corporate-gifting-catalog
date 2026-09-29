@@ -841,24 +841,24 @@
  },
  {
   "product_id": "NE-11658",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/710EArtZwVL.jpg",
+  "confidence": "medium",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Classic 3 Burner Gas Stove Glass Top"
  },
  {
   "product_id": "NE-11659",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71Sz2hMGSQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Classic 2 Burner Gas Stove Manual Ignition"
  },
  {
   "product_id": "NE-11660",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_65e3c391-1f2d-4327-8781-29b59bac6b0c.png?v=1759666313",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Classic AI, 2 Burner Glass Top Auto Ignition Brass Burner  Gas Stove (Black)"
  },
  {
   "product_id": "NE-11684",
@@ -911,9 +911,9 @@
  },
  {
   "product_id": "NE-11692",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-mag-pad-charger-white-silver-a1b2c3d4.jpg?v=1778914198&width=2048",
+  "confidence": "medium",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Swiss Military MAG PAD/Charger (EMI: ₹ 200 / mon)"
  }
 ]
