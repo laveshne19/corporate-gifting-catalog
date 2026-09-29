@@ -1441,12 +1441,11 @@
  },
  {
   "product_id": "NE-02403",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 5.5 Litre Instant Water Heater, White, EI5-5V ZYRA"
  },
  {
   "product_id": "NE-02404",
@@ -1454,70 +1453,62 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02405",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Haier_ES10V-ESTILE_Water_Heater_10_L_-_White_3.jpg?v=1780663962&width=1500",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Haier ES10V-ESTILE Water Heater 10 L - White"
  },
  {
   "product_id": "NE-02406",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES15V-ESTILE 15 L Storage Water Geyser"
  },
  {
   "product_id": "NE-02407",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-ESTILE 25 L Storage Water Geyser"
  },
  {
   "product_id": "NE-02408",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.sathya.store",
+  "matched_title": "Haier Precis 10 Ltr Water Heater (ES10VPRECIS)"
  },
  {
   "product_id": "NE-02409",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://bc-storage.sfo2.cdn.digitaloceanspaces.com/girias/product/precises15v%2815ltr%29%28ga0at1001%29-waterheater-haier/510D5dAjWZL._SX569_.jpg",
+  "confidence": "high",
+  "source_domain": "www.giriasindia.com",
+  "matched_title": "PRECIS ES15V (15 LTR)(GA0AT1001) - WATER HEATER - HAIER"
  },
  {
   "product_id": "NE-02410",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-Precis 25 L Storage Water Geyser"
  },
  {
   "product_id": "NE-02411",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.giriasindia.com",
+  "matched_title": "PRECIS ES10V (10 LTR)(GA0U30000) - WATER HEATER - HAIER"
  }
 ]

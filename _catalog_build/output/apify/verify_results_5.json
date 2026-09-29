@@ -1438,5 +1438,77 @@
   "confidence": null,
   "source_domain": "www.amazon.in",
   "matched_title": "Buy Spaces 2.5 Kg Soft Scape Stripe Multicolor Blanket Mink for Double Bed - Amazon.in"
+ },
+ {
+  "product_id": "NE-00266",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "spaces.in",
+  "matched_title": "Wimbledon 100% Cotton 420 GSM Dobby Sports Hand Towel - Strawberry"
+ },
+ {
+  "product_id": "NE-01110",
+  "keep": false,
+  "image_url": "https://spaces.in/cdn/shop/files/1087320_10.jpg?v=1781981964&width=1445",
+  "confidence": "high",
+  "source_domain": "spaces.in",
+  "matched_title": "Wimbledon 100% Cotton 525 GSM Jacquard 2026 Champions Bath Towel - Green"
+ },
+ {
+  "product_id": "NE-00271",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00274",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/415578899/OJ/XR/RL/14357089/hygrocotton-hand-towel-set-of-2-mrp-799.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "HYGROCOTTON Hand Towel Set of 2 Mrp 799"
+ },
+ {
+  "product_id": "NE-00277",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.brandedcorporategift.com",
+  "matched_title": "Welspun CLOUD TWIST Hand Towel"
+ },
+ {
+  "product_id": "NE-01118",
+  "keep": false,
+  "image_url": "https://amd.deodap.com/cdn/shop/files/4_ef45f915-25ec-4aee-b2e7-bb44e8bb4451_1200x1200.png?v=1755164560",
+  "confidence": "high",
+  "source_domain": "amd.deodap.com",
+  "matched_title": "Di0015 Welspun Elite Splendor Bath Towel (70cm x 137cm)"
+ },
+ {
+  "product_id": "NE-01120",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00288",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "trophykart.in",
+  "matched_title": "WELSPUN - COTTON BAMBOO TOWEL"
+ },
+ {
+  "product_id": "NE-00290",
+  "keep": false,
+  "image_url": "https://spaces.in/cdn/shop/products/1054239-3.jpg?v=1695812841&width=1445",
+  "confidence": "high",
+  "source_domain": "spaces.in",
+  "matched_title": "Buy Hygro Cotton Bath Towel Online | SPACES India"
  }
 ]

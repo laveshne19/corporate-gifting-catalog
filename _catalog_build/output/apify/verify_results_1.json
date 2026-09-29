@@ -1362,26 +1362,26 @@
  {
   "product_id": "NE-00012",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/q/1/2/2024-immorto-2000-bajaj-10-original-imah4ckxa2bxbkkb.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ IMMORTO 10 L Water Geyser"
  },
  {
   "product_id": "NE-00013",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://mahajanelectronics.com/cdn/shop/files/1_aeddeced-3dec-47bc-b31c-db467babf494.webp?v=1761377191&width=1500",
+  "confidence": "high",
+  "source_domain": "mahajanelectronics.com",
+  "matched_title": "Bajaj Shield Series Immorto 15L Geyser"
  },
  {
   "product_id": "NE-00014",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71DZEv49DxL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Shield Series Immorto 25L Storage Water Heater"
  },
  {
   "product_id": "NE-00268",
@@ -1394,50 +1394,50 @@
  {
   "product_id": "NE-00015",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/307572_1_lriwr4.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "BAJAJ Armor Series Pentacle 10 Litre 5 Star Vertical Storage Geyser"
  },
  {
   "product_id": "NE-00016",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://electronicparadise.in/cdn/shop/files/Bajaj_Armor_Series_Pentacle_15_L_Storage_Water_Heater_for_Home.jpg?v=1729150992&width=1214",
+  "confidence": "high",
+  "source_domain": "electronicparadise.in",
+  "matched_title": "Bajaj Armour Series Pentacle 15L Storage Water Heater (White & Blue)"
  },
  {
   "product_id": "NE-00017",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Armor Series Pentacle 25L"
  },
  {
   "product_id": "NE-00273",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj 10 L Endure Series Gracio White Storage Water Heater"
  },
  {
   "product_id": "NE-00018",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/d/c/q/2023-endure-series-gracio-15l-2000-bajaj-15-original-imagykdawgpucqux.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Endure Series Gracio 15L 15 L Storage Water Geyser"
  },
  {
   "product_id": "NE-00275",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71E8+S-XFSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Endure Series Gracio 25L Storage Water Heater"
  },
  {
   "product_id": "NE-00276",

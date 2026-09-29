@@ -1346,11 +1346,10 @@
  {
   "product_id": "NE-00459",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/pot-pan/t/w/i/iekd2-5-nirlep-original-imagnzh7yrxtzrqg.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Nirlep IEKD2.5 Kadhai 24.5 cm diameter with Lid 2.5 L capacity"
  },
  {
   "product_id": "NE-00460",
@@ -1358,35 +1357,31 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-00461",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NH2MFP18.jpg?v=1726210551&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Order Nutrihealth Non Stick Aluminium ... | Bajaj Electricals (file: NH2MFP18)"
  },
  {
   "product_id": "NE-00462",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NH2MFPSET.jpg?v=1726210338&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "NutriHealth Non Stick Aluminium 2 Minute Fry Pan Set (NH2MFPSET)"
  },
  {
   "product_id": "NE-00463",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHCFG31.jpg?v=1726211904&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "NutriHealth Non Stick Aluminium Chef Expert Flat Griddle - 31 cm (NHCFG31)"
  },
  {
   "product_id": "NE-00464",
@@ -1394,8 +1389,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-00465",
@@ -1403,8 +1397,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-00466",
@@ -1412,26 +1405,23 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-00467",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHCIFP28.jpg?v=1726211418&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Discover Nutrihealth Non Stick Aluminium ... | Bajaj Electricals (file: NHCIFP28)"
  },
  {
   "product_id": "NE-00468",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHCIFP32.jpg?v=1726211622&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "NutriHealth Chef Expert Fry Pan - 32 cm (file: NHCIFP32)"
  },
  {
   "product_id": "NE-00469",
