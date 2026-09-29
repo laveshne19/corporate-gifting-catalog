@@ -1282,42 +1282,42 @@
  {
   "product_id": "NE-00255",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/wh-150692.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Bajaj Majesty Horizontal 25L RW"
  },
  {
   "product_id": "NE-00256",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/HM/LI/JQ/GLADMIN-65746991/150693-1-1257c-500x500-500x500-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Bajaj White Majesty Horizontal Storage Water Heater - 25 L - LW"
  },
  {
   "product_id": "NE-00257",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Majesty 15GMH (RF) 15-Litre 2000-Watt Storage Water Heater"
  },
  {
   "product_id": "NE-00258",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/s/b/e/2022-maestro-150897-with-marine-grade-glassline-coating-duraace-original-imahhheywkhkhnau.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Maestro 150897 10 L Storage Water Geyser"
  },
  {
   "product_id": "NE-00259",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/266064_1_qgprl5.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "BAJAJ Maestro 15 Litre 5 Star Vertical Storage Geyser"
  },
  {
   "product_id": "NE-00260",

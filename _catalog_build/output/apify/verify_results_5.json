@@ -1374,5 +1374,37 @@
   "confidence": null,
   "source_domain": "giftvision.in",
   "matched_title": "Welspun Spaces Ritu Kumar Home Bagicha Double Bedsheet \u2013 Gift Vision"
+ },
+ {
+  "product_id": "NE-01094",
+  "keep": false,
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/6085268691459572007011-Photoroom-2-Photoroom-4.jpg",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Welspun Ultima Double Bed Dohar \u2013 Gift Vision"
+ },
+ {
+  "product_id": "NE-01098",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01099",
+  "keep": false,
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/download-6-1.jpg",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Welspun Ultima Bed In A Bag 3 Piece Bedroom Set \u2013 Gift Vision"
+ },
+ {
+  "product_id": "NE-01100",
+  "keep": false,
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-19-at-10.57-Photoroom-7.jpg",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Welspun Crowning Touch Bed In A Bag 4 Piece Bedroom Set \u2013 Gift Vision"
  }
 ]
