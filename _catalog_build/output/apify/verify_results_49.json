@@ -766,5 +766,749 @@
     "confidence": null,
     "source_domain": null,
     "matched_title": null
+  },
+  {
+    "product_id": "NE-08422",
+    "keep": false,
+    "image_url": "https://www.bestomart.com/cdn/shop/files/1000059803-1_1024x1024.jpg?v=1689763365",
+    "confidence": "high",
+    "source_domain": "www.bestomart.com",
+    "matched_title": "Usha Aldora Ceiling Fan Antique Brass 1320mm"
+  },
+  {
+    "product_id": "NE-08423",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08424",
+    "keep": false,
+    "image_url": "https://cdn.cayroshop.com/cayroshop/master_images/6864ca2d7d241c8d6e68dd4a_57860b90.png?w=340&h=340&fit=contain&fmt=auto&bg=white&q=80&sharpen=true",
+    "confidence": "high",
+    "source_domain": "www.cayroshop.com",
+    "matched_title": "Usha Aldora 1320mm Ceiling Fan Black Chrome | Cayroshop"
+  },
+  {
+    "product_id": "NE-08425",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08426",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08427",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08428",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/514PtfA3n7L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Bloom Daffodil 1 Star 1250mm 3 Blade Electroplated Finish Ceiling Fan (Dust Resistant, Golden & Brown)"
+  },
+  {
+    "product_id": "NE-08429",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08430",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/616klZo00KL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Daffodil Goodbye Dust Ceiling Fan 1250mm, Sparkle Golden and  Brown Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08431",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08432",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08433",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/71nhoYeOqvL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Daffodil Goodbye Dust Ceiling Fan 1250mm, Sparkle White  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08434",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/419CL1RVbSL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA EX9 BLDC 1200mm High Speed Dust Resistant 5 Star 100% Copper Motor  Premium Ceiling Fan (Midnight Black) Online at Low Prices in India -  Amazon.in"
+  },
+  {
+    "product_id": "NE-08435",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08436",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08437",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08438",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08439",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61qnJ+9ZpHL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA EX9 BLDC 1200mm High Speed Dust Resistant 5 Star 100% Copper Motor Premium Ceiling Fan (Sparkle White)"
+  },
+  {
+    "product_id": "NE-08440",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/614zUrd+E-L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Heleous 1220mm Premium BLDC Ceiling Fan with Rust Free ABS Blades  and RF Remote (White) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12259",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41ynY7B8A5L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12260",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51j+qb8RCvL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  ..."
+  },
+  {
+    "product_id": "NE-12261",
+    "keep": false,
+    "image_url": "https://www.cherahomejunction.com/cdn/shop/files/CF_RACER_CHROME_1200MM_1ST_ISI1.jpg?v=1785414370&width=1214",
+    "confidence": "high",
+    "source_domain": "www.cherahomejunction.com",
+    "matched_title": "Usha Racer Chrome Ceiling Fan 1200 mm - Rich Brown"
+  },
+  {
+    "product_id": "NE-12262",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12263",
+    "keep": false,
+    "image_url": "https://img-prd-pim.poorvika.com/product/Usha-Racer-Chrome-1200-mm-Ceiling-Fan-Rich-White-Bronze-front-view.png",
+    "confidence": "high",
+    "source_domain": "www.poorvika.com",
+    "matched_title": "Shop Usha Racer Chrome 1200mm Ceiling Fan, Rich White Bronze"
+  },
+  {
+    "product_id": "NE-12264",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12265",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51j+qb8RCvL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  ..."
+  },
+  {
+    "product_id": "NE-08448",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08449",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08450",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61bbVydbr7L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Swift Alpha Chrome 1200mm Ceiling Fan (Smoke Brown) : Amazon.in: Home  Improvement"
+  },
+  {
+    "product_id": "NE-08451",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12266",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Galaxy 1200mm Energy Efficient 1 Star Rated Power Saving  High Speed Oil & Dust Resistant Ceiling Fan|1star| ISI Certified |New  Bright Gold| Online at Low Prices in India -"
+  },
+  {
+    "product_id": "NE-08453",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12267",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08455",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61XdPEhDGFL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Dark Brown| Online  ..."
+  },
+  {
+    "product_id": "NE-12268",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41yOopA3AvL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Galaxy 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Dark Grey| Online  at ..."
+  },
+  {
+    "product_id": "NE-12269",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12270",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12271",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12273",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Galaxy 1200mm Energy Efficient 1 Star Rated Power Saving  High Speed Oil & Dust Resistant Ceiling Fan|1star| ISI Certified |New  Bright Gold| Online at Low Prices in India -"
+  },
+  {
+    "product_id": "NE-08462",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08463",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08464",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08465",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08466",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08467",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12274",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61luT4IP8UL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker NEO 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Shuttle Grey |  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08469",
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.224337151_1704973291506.webp",
+    "confidence": "high",
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Buy Usha Striker One 1200 mm Spanish Green Ceiling Fan Online at Best  Prices - Industrybuying."
+  },
+  {
+    "product_id": "NE-08470",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08471",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51+9uej+QRL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Super Striker 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Charcoal| Online at  Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12275",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12276",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08474",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12277",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/31-iK+6ws-L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker 1200mm Ceiling Fan (Rich White) | High Speed | High Air  Delivery with 100% Copper Motor | for Home & Office | 24 Months Warranty  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08476",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12278",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08478",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41SzOjyTcRL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker 1400mm Ceiling Fan (Matt Brown) | Powerful Motor with  Copper Winding Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08480",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61use8J-AIL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Striker 1200mm Ceiling Fan Without Regulator (Matt Brown) : Amazon.in:  Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08481",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12280",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08483",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12281",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08485",
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.824337290_1704971642152.webp",
+    "confidence": "high",
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Usha Swift Alpha 1200 mm Matt Brown Ceiling Fan"
+  },
+  {
+    "product_id": "NE-08486",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08487",
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.822075780_1697440600434.webp",
+    "confidence": "high",
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "USHA Swift Alpha 1 Star 1200mm 3 Blade Copper Motor Ceiling Fan (Water Resistant, Rich White)"
+  },
+  {
+    "product_id": "NE-08488",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Swift Alpha Chrome 1200mm Ceiling Fan (Smoke Brown) : Amazon.in: Home  Improvement"
+  },
+  {
+    "product_id": "NE-08489",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/31R32v3zQDL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Dark Brown| Online  at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08490",
+    "keep": false,
+    "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/fan/a/p/m/infinity-1200-mm-ultra-high-speed-3-blade-ceiling-fan-rich-brown-original-imagr5gnqj9xhzzw.jpeg?q=80",
+    "confidence": "high",
+    "source_domain": "www.flipkart.com",
+    "matched_title": "USHA INFINITY 1200 mm Ultra High Speed 3 Blade Ceiling Fan (RICH BROWN,  Pack of 1) with 2 Year Warranty Ultra High Speed 1200 mm Ceiling Fan Price  in India - Buy"
+  },
+  {
+    "product_id": "NE-08491",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41JPtMYZPvS.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer 1200mm 50 Watt Energy Efficient 1 Star Rated Power Saving  High Speed Ceiling Fan (Ivory) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12282",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.flipkart.com",
+    "matched_title": "USHA INFINITY 1200 mm Ultra High Speed 3 Blade Ceiling Fan (RICH WHITE,  Pack of 1) with 2 Year Warranty Ultra High Speed 1200 mm Ceiling Fan Price  in India - Buy"
+  },
+  {
+    "product_id": "NE-08493",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/ANDROID/Default/2025/9/547460893/JS/PF/ZA/161809028/product-jpeg-500x500.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha CF Jet 1200MM Rich Brown, 350 RPM at \u20b9 1500/piece in Siliguri | ID:  2857576163548"
+  },
+  {
+    "product_id": "NE-08494",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51OKLmvCwNL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Racer 1200MM Ultra High Speed 400RPM Ceiling Fan Ivory W/O REG  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12283",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.vishalmegamart.com",
+    "matched_title": "Usha 1200mm Jet White Fan | Vishal Mega Mart India"
+  },
+  {
+    "product_id": "NE-08496",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer 600MM Energy Saving Ultra High-Speed Ceiling Fan |1star| ISI  Certified | Rich Brown Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08497",
+    "keep": false,
+    "image_url": "https://www.cherahomejunction.com/cdn/shop/files/CF_RACER_CHROME_1200MM_1ST_ISI1.jpg?v=1785414370&width=1214",
+    "confidence": "high",
+    "source_domain": "www.cherahomejunction.com",
+    "matched_title": "Usha Racer Chrome Ceiling Fan 1200 mm - Rich Brown \u2013 Chera Home Junction"
+  },
+  {
+    "product_id": "NE-08498",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61Yz+L5C+7L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Racer Chrome 1200MM Ultra High Speed 400RPM Ceiling Fan (Rich Ivory)  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08500",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/512WGpZ6RNL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer 1200mm 50 WATT Energy Saving High-Speed Ceiling Fan |1star|  ISI Certified |Rich Brown Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12285",
+    "keep": false,
+    "image_url": "https://www.ushafans.com/sites/default/files/Racer_Rich-Blue-1.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Racer Ceiling Fan, 400 RPM Ultra High Speed | Usha Fans"
+  },
+  {
+    "product_id": "NE-08502",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51OKLmvCwNL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Racer 1200MM Ultra High Speed 400RPM Ceiling Fan Ivory W/O REG  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12286",
+    "keep": false,
+    "image_url": "https://www.ushafans.com/sites/default/files/Racer_Rich-Red-1.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Racer Ceiling Fan, 400 RPM Ultra High Speed | Usha Fans"
+  },
+  {
+    "product_id": "NE-12287",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/21y4MkJ63BL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer 1200 mm Energy Saving High-Speed Decorative Ceiling Fan  |1star| ISI Certified |Rich White Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08505",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41em+vKckiL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Swift 600MM Ceiling Fan Without Regulator (Brown) Online at Low  Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08506",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Swift 600mm Ceiling Fan Without Regulator (Ivory) Online at Low  Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12288",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51u8PAXaFvL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Swift 600mm Ceiling Fan Without Regulator (White),Pack of 2 Online  at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08508",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha 900MM Swift W/O REG BR CF 900 mm 3 Blade Ceiling Fan (Brown, Pack  of 1) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-12289",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA 900MM Swift W/o Reg White CF Online at Low Prices in India -  Amazon.in"
+  },
+  {
+    "product_id": "NE-08510",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51ip1o3+LJL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Swift 1400mm Ceiling Fan (Rich Brown)"
+  },
+  {
+    "product_id": "NE-12290",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/417-FEQPogL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Swift 1400mm Ceiling Fan (White) Pack of 4 Online at Low Prices in  India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08512",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51GsLIHbZxL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Swift 1200 mm Ceiling Fan ( Rich Brown )"
+  },
+  {
+    "product_id": "NE-08513",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.flipkart.com",
+    "matched_title": "USHA SWIFT 1200MM IVORY CF with 1 Year Warranty 1200 mm Ceiling Fan Price  in India - Buy USHA SWIFT 1200MM IVORY CF with 1 Year Warranty 1200 mm  Ceiling Fan online at Flipkart.com"
+  },
+  {
+    "product_id": "NE-12291",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Swift 1200 mm Ceiling Fan (Rich White) Online at Low Prices in  India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08515",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51FLohdtl-L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Fontana Lotus 1230mm BLDC Ceiling Fan with Decorative Lights|BEE 5  Star Rated|100% Copper Motor |RF Remote, High Air Delivery|3Y Motor & 2Y ..."
+  },
+  {
+    "product_id": "NE-12292",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Fontana Lotus 1230mm Ceiling Fan with Decorative Lights | 100%  Copper Motor | High Air Speed and Delivery | 2 Year Warranty | (Gold Ivory)  ..."
+  },
+  {
+    "product_id": "NE-12293",
+    "keep": false,
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61TgKFqXvIL._AC_UL495_SR435,495_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Fontana Maple 1250mm BLDC Ceiling Fan with Decorative Lights|BEE 5  Star Rated|100% Copper Motor|RF Remote, High Air Delivery|3Y Motor & 2Y PCB  Warranty|(Antique Brass) Pack of 1|Free Installation Online at"
   }
 ]
