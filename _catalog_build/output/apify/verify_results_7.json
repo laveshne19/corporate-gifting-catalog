@@ -1129,8 +1129,8 @@
  },
  {
   "product_id": "NE-01428",
-  "keep": false,
-  "image_url": "https://m.media-amazon.com/images/I/81d83K4S1CL.jpg",
+  "keep": true,
+  "image_url": null,
   "confidence": "high",
   "source_domain": "m.media-amazon.com",
   "matched_title": "CELLO MF Fab Lunch Box with Bag for Office Use, Brown"
@@ -1233,83 +1233,83 @@
  },
  {
   "product_id": "NE-01445",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Stainless Steel MF Super Lunch Box Set, Red, 2-Units"
  },
  {
   "product_id": "NE-01562",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61JnoM-3BgL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Swag Lunch Box with Inner Steel Set of 3 with Bag, Red"
  },
  {
   "product_id": "NE-01563",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cms.celloworld.com/pub/media/catalog/product/u/r/urban_meal_3.png",
+  "confidence": "high",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World official (file: urban_meal)"
  },
  {
   "product_id": "NE-01564",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Thermo Click Toons Big 1024 ml, Pink"
  },
  {
   "product_id": "NE-01565",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/t/v/4/mf-optima-combo-lunch-box-set-of-5-with-fabric-bag-cello-original-imah2f2bannnwgjb.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello MF Optima Combo Lunch Box Set of 5 with Fabric Bag"
  },
  {
   "product_id": "NE-01446",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Hot Wave, Lunch Stainless Steel Inner, of 2 (Blue)"
  },
  {
   "product_id": "NE-01447",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Hot Wave Stainless Steel 3 Container Lunch Box, Blue"
  },
  {
   "product_id": "NE-01568",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61TtvGnM3IL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Micro Lunch Box with Jacket, Red | 2 x 375 ml"
  },
  {
   "product_id": "NE-01569",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81ws2f1C8tL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO MF Micro Insulated Lunch Box | Stainless Steel Inner | 3-Pieces, Red"
  },
  {
   "product_id": "NE-01570",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81+FSTY3z0L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Tri Lunch Insulated Lunch Box | Inner Stainless Steel Compartment"
  },
  {
   "product_id": "NE-01571",
@@ -1330,10 +1330,10 @@
  {
   "product_id": "NE-01448",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/639640630/EJ/XS/BL/6869454/cello-puro-steel-x-arc-600-water-bottle-500x500.jpeg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Puro Steel X Arc 600 Water Bottle"
  },
  {
   "product_id": "NE-01450",
@@ -1345,27 +1345,27 @@
  },
  {
   "product_id": "NE-01575",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Puro Steel-X Amazer 600 Insulated Water Bottle 550 ml, Yellow"
  },
  {
   "product_id": "NE-01576",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Amazer 900 Insulated Water Bottle 710 ml, Orange"
  },
  {
   "product_id": "NE-01577",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://agromech.com/cdn/shop/files/PL26026_3_large.jpg?v=1782564050",
+  "confidence": "high",
+  "source_domain": "agromech.com",
+  "matched_title": "Cello Kidzbee Puro Steel X Aveo 350ml Insulated Water Bottle"
  },
  {
   "product_id": "NE-01578",
@@ -1377,19 +1377,19 @@
  },
  {
   "product_id": "NE-01451",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Puro Steel-X Benz 600 Insulated Water Bottle"
  },
  {
   "product_id": "NE-01452",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.shopify.com/s/files/1/0801/3922/3334/files/8901372177142_1_f206949d-95d8-4e22-acd2-406f5a0aeb31.jpg?v=1754996774",
+  "confidence": "high",
+  "source_domain": "cdn.shopify.com",
+  "matched_title": "Puro Steel X Benz 900 Insulated Bottle - 730ml (celloworld.com)"
  },
  {
   "product_id": "NE-01454",
@@ -1401,27 +1401,27 @@
  },
  {
   "product_id": "NE-01455",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Benz 1200 Insulated Water Bottle 970ml, Black"
  },
  {
   "product_id": "NE-01583",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81OtCXYvXgL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Benz Icon Insulated Water Bottle for Kids 500 ml, Blue"
  },
  {
   "product_id": "NE-01584",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Benz Icon Insulated Water Bottle 650 ml, Blue"
  },
  {
   "product_id": "NE-01456",

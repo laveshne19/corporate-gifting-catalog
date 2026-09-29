@@ -1321,27 +1321,27 @@
  },
  {
   "product_id": "NE-01197",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy CELLO Velvetto Deluxe 1500 Insulated Casserole Hot Box for Kitchen 1500 ml, Grey"
  },
  {
   "product_id": "NE-01198",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy CELLO Velvetto Deluxe 2000 Insulated Casserole Hot Box for Kitchen 2000 ml, Grey"
  },
  {
   "product_id": "NE-01199",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Velvetto Deluxe Insulated Steel Casserole with Glass lid Cream / 2500ml"
  },
  {
   "product_id": "NE-01200",
@@ -1378,18 +1378,18 @@
  {
   "product_id": "NE-01338",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/09/download-2-9.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Auris 2 Piece Gift Set (1pc Water Jug + 1pc Hot Pot)"
  },
  {
   "product_id": "NE-01208",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81GVhq+ThaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy CELLO Gemini Lunch Box Gift Set of 3 Pieces with Bag for Office Use, Blue"
  },
  {
   "product_id": "NE-01209",
@@ -1401,27 +1401,27 @@
  },
  {
   "product_id": "NE-01210",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.corporate.celloworld.com",
+  "matched_title": "celloworld wow_breakfast_set_of_2 (file name)"
  },
  {
   "product_id": "NE-01346",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "http://www.rasoishop.com/cdn/shop/files/8901372170105.jpg?v=1729320031",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Cello Puro Inner Stainless Steel Tea Break Set | Set of 7 Pcs"
  },
  {
   "product_id": "NE-01212",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro SIP Coffee Set 3 PC Insulated Tuff Flask and Mugs (Orange)"
  },
  {
   "product_id": "NE-01352",
@@ -1434,10 +1434,10 @@
  {
   "product_id": "NE-01353",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71GpkQnGi1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy CELLO Emoji Funfood Gift Set | Kids Lunch Box | Red"
  },
  {
   "product_id": "NE-01354",
@@ -1482,18 +1482,18 @@
  {
   "product_id": "NE-01225",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.rasoishop.com/cdn/shop/files/8901372238386-1.jpg?v=1766863122&width=1946",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Cello Zest Gift Set – Insulated Tiffin Box with Bottle | Set of 2 Pcs"
  },
  {
   "product_id": "NE-01255",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "source_domain": "corporatediwaligifts.in",
+  "matched_title": "Cello Zion Meal (Bite Buddy + Puro Cool X 600)"
  },
  {
   "product_id": "NE-01367",
@@ -1506,9 +1506,9 @@
  {
   "product_id": "NE-01368",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/h/a/d/715-helix-stainless-steel-tiffin-with-1-veg-box-cello-2-original-imahb3n5k6ghyype.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "cello Helix stainless steel tiffin with 1 veg box 2 Containers School Lunch Box"
  }
 ]

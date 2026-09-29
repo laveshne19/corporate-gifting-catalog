@@ -1278,5 +1278,237 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "Haier HFC-410DPW5 Double Door Convertible Deep Freezer (White 383L)"
+ },
+ {
+  "product_id": "NE-02096",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71HwOhhbccL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 500L 5 Star HFC-500DPW5 White Convertible Hard Top Double Door Freezer"
+ },
+ {
+  "product_id": "NE-02099",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71OaIOOIsBL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 588L 5 Star HFC-588DPW5 White Convertible Hard top Double Door Deep Freezer"
+ },
+ {
+  "product_id": "NE-02102",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/9/890069_white_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 295 L 3 Star Double Door Convertible Deep Freezer White (HFC-325G3)"
+ },
+ {
+  "product_id": "NE-02105",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02106",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-575G3, Glass Top Freezer with LED (White)"
+ },
+ {
+  "product_id": "NE-02107",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02110",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-400CET, Double Door Combo Freezer (Titanium Grey)"
+ },
+ {
+  "product_id": "NE-02112",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02113",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02114",
+  "keep": false,
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/VisiCooler/IT00121845-700x700.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Haier 285 L Single door Visi Cooler (HVC-305GT5)"
+ },
+ {
+  "product_id": "NE-02116",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 505 L HVC-505GT5 Single Door Visi Cooler"
+ },
+ {
+  "product_id": "NE-02117",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02118",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02119",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/637063259/CN/NZ/MZ/50144875/haier-visi-cooler-hvc-1005gt5.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier Visi Cooler HVC-1005GT5"
+ },
+ {
+  "product_id": "NE-02123",
+  "keep": false,
+  "image_url": "https://backend.paiinternational.in/media/images/JJ_3fMpUUI.jpg",
+  "confidence": "high",
+  "source_domain": "www.paiinternational.in",
+  "matched_title": "Haier Floor Standing Water Dispenser with Anti-Rodent (HWD-3MPFS, Black & White)"
+ },
+ {
+  "product_id": "NE-02124",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "dynamicdistributors.in",
+  "matched_title": "Haier Table Top Water Dispenser with Hot, Normal & Cold Tap, White, HWD-3MPTT"
+ },
+ {
+  "product_id": "NE-02125",
+  "keep": false,
+  "image_url": "https://api.thechennaimobiles.com/1766275259459.jpg",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "Haier 19 L Inverter Technology Solo Microwave Oven (BLACK) (HIL1901MBPB)"
+ },
+ {
+  "product_id": "NE-02126",
+  "keep": false,
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/Microwave_Oven/IT00124686-1-550x550.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Haier Vogue 20L HIL20V1MBPD Blueberry Solo Microwave Oven"
+ },
+ {
+  "product_id": "NE-02127",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/microwave-new/3/o/l/-resized-original-imahfr7vf9myfzvu.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier 20 L ... HIL20V1MOPD Solo Microwave Oven"
+ },
+ {
+  "product_id": "NE-02128",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "Haier Vogue 20L HIL20V1MYPD Lemon Solo Microwave Oven"
+ },
+ {
+  "product_id": "NE-02131",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HIL2301MBEJ 23L Solo Microwave Oven"
+ },
+ {
+  "product_id": "NE-02156",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51Y8Mk+OHmL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 185L 1 Star Direct Cool Single Door Refrigerator, Coral Charm Glass, HRD-2061SCGA-N"
+ },
+ {
+  "product_id": "NE-02157",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier 190 L Direct Cool Single Door 2 Star Refrigerator (file: hrd-2112bbsa-n)"
+ },
+ {
+  "product_id": "NE-02158",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-190-l-direct-cool-single-door-2-star-refrigerator-hrd-2112brba-n-radish-blue-Front-Right-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 190 L Direct Cool Single Door 2 Star Refrigerator, HRD-2112BRBA-N (Radish Blue)"
+ },
+ {
+  "product_id": "NE-02159",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/321449_0_FRpNOQg7z.png?updatedAt=1775440034940",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Haier 190 Litres 3 Star Direct Cool Single Door Refrigerator (HRD-2113BBSA-N, Brushline Silver)"
+ },
+ {
+  "product_id": "NE-02160",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-190-l-direct-cool-single-door-5-star-refrigerator-hrd-2105bnsa-p-nickel-steel-Front-Right-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 190 L Direct Cool Single Door 5 Star Refrigerator, HRD-2105BNSA-P (Nickel Steel)"
+ },
+ {
+  "product_id": "NE-02161",
+  "keep": false,
+  "image_url": "https://assets.nikshanonline.com/wp-content/uploads/2026/04/1-38.png",
+  "confidence": "high",
+  "source_domain": "nikshanonline.com",
+  "matched_title": "Haier 190L Single Door Fridge HRD-2105CBSA-P"
+ },
+ {
+  "product_id": "NE-02162",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 190 L Direct Cool Single Door 2 Star Refrigerator, HRD-2112CSSA-N (Saffron Sienna)"
+ },
+ {
+  "product_id": "NE-02163",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 190 L 2 Star Direct Cool Single Door Refrigerator Purple Sienna (HRD-2112CPSA-N)"
  }
 ]

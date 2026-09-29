@@ -1102,5 +1102,213 @@
   "confidence": null,
   "source_domain": "otekworld.com",
   "matched_title": "Otek ShineMate T9 \u2013 Smart Robotic Window Cleaner \u2013 Otekworld"
+ },
+ {
+  "product_id": "NE-01040",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "otekworld.com",
+  "matched_title": "ShineMate T10"
+ },
+ {
+  "product_id": "NE-01041",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61bCF-q22VL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK ShineMate W6 Robotic Window Cleaner 90W Brushless DC Motor"
+ },
+ {
+  "product_id": "NE-01042",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Mitevanisher_04.png?v=1786000851&width=1080",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "Mite Vanisher"
+ },
+ {
+  "product_id": "NE-01043",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/1_Extention_Board_Amazon_422_copy.webp?v=1756125128&width=1080",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "VoltSafe 422"
+ },
+ {
+  "product_id": "NE-01044",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01045",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/1ExtentionBoard_Amazon_531copy.webp?v=1774000394",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "VoltSafe 531"
+ },
+ {
+  "product_id": "NE-01046",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy OTEK VoltSafe 331 Extension Board with 3 Universal Sockets,3 USB,1 Type C Ports"
+ },
+ {
+  "product_id": "NE-01047",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/VnHg6nz8m3nr1-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy OTEK VoltSafe 524 250W 10A Extension Board with 2m Cable Online At Best Price On Moglix"
+ },
+ {
+  "product_id": "NE-01048",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Artboard_8.webp?v=1777531084",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "VoltSafe C422"
+ },
+ {
+  "product_id": "NE-01049",
+  "keep": false,
+  "image_url": "https://otekworld.com/cdn/shop/files/Artboard_12.webp?v=1777531063",
+  "confidence": "high",
+  "source_domain": "otekworld.com",
+  "matched_title": "VoltSafe C822 Extension boards"
+ },
+ {
+  "product_id": "NE-01050",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01051",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01052",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01053",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01054",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01055",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01056",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01057",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01058",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01059",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01060",
+  "keep": false,
+  "image_url": "https://kenielectronics.com/wp-content/uploads/2026/07/OTEK-Car-Dash-Camera-Front-Position-1296P-HD-Recording.webp",
+  "confidence": "high",
+  "source_domain": "kenielectronics.com",
+  "matched_title": "OTEK Copilot 1K Dash Camera | WiFi 1296P Car DVR"
+ },
+ {
+  "product_id": "NE-01061",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71IWE0F3p5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK Copilot 2K Dashcam, 1440P Front Camera, WiFi & GPS"
+ },
+ {
+  "product_id": "NE-01062",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71DmRFh7USL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK NanoStrike 24 Inch FHD Gaming Monitor, 144Hz, 1ms MPRT, HDR10"
+ },
+ {
+  "product_id": "NE-01063",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71DRK9GQHUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK NanoStrike 27F10C 27 Inch FHD Gaming Monitor, 180Hz"
+ },
+ {
+  "product_id": "NE-01064",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61tcPxzoc+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK NanoStrike 32 inch Curved FHD Gaming Monitor 240Hz"
+ },
+ {
+  "product_id": "NE-01065",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71gHejmr9rL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OTEK NanoStrike 34-Inch Curved Gaming Monitor, 180Hz, WQHD"
  }
 ]

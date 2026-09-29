@@ -1262,5 +1262,221 @@
   "confidence": "high",
   "source_domain": "havells.com",
   "matched_title": "Havells 1100 Watt Hawk Blue & White Heavy Weight Dry Iron"
+ },
+ {
+  "product_id": "NE-01772",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDICEO100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Aquilla 1000 W Dry Iron"
+ },
+ {
+  "product_id": "NE-01773",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIBFB100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 1000 Watt Stealth Blue Dry Iron"
+ },
+ {
+  "product_id": "NE-01774",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDICDW100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Czar Dry Iron (GHGDICDW100)"
+ },
+ {
+  "product_id": "NE-01775",
+  "keep": false,
+  "image_url": "https://www.navinmart.com/cdn/shop/files/stufo_dry_iron_1.jpg?v=1771420759&width=1200",
+  "confidence": "high",
+  "source_domain": "www.navinmart.com",
+  "matched_title": "Havells Stufo 1000W Dry Iron with non-stick soleplate"
+ },
+ {
+  "product_id": "NE-01776",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghgdicsg100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Komfi Dry Iron"
+ },
+ {
+  "product_id": "NE-01777",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/p/r/pressa.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Pressa Dry Iron by Havells - GHGDICTC110"
+ },
+ {
+  "product_id": "NE-01778",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51OhgE-GHqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Trendy 750 watt Dry Iron (Ruby Red), (GHGDICFW075)"
+ },
+ {
+  "product_id": "NE-01779",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIAZP100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Enticer Dry Iron (GHGDIAZP100)"
+ },
+ {
+  "product_id": "NE-01780",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIAXB060.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Insta Dry Iron (GHGDIAXB060)"
+ },
+ {
+  "product_id": "NE-01781",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHGDIBUR075.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Glace Dry Iron (GHGDIBUR075)"
+ },
+ {
+  "product_id": "NE-01782",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01783",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrfhajk120.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Calmy PTC Fan Room Heater"
+ },
+ {
+  "product_id": "NE-01784",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHRFHAYW200.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Cista Fan room Heater (GHRFHAYW200)"
+ },
+ {
+  "product_id": "NE-01785",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrfheji180_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Fiesta Heat Convector Room Heater"
+ },
+ {
+  "product_id": "NE-01786",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHRGHBWK100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Walthero Carbon Room Heater"
+ },
+ {
+  "product_id": "NE-01787",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrghcnw105_3_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Calentar (ghrghcnw105)"
+ },
+ {
+  "product_id": "NE-01788",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrghche090.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Comodito (ghrghche090)"
+ },
+ {
+  "product_id": "NE-01789",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrghaik120.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Inclino Halogen Room Heater"
+ },
+ {
+  "product_id": "NE-01790",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/e/m/ember_main.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Ember Quartz Room Heater"
+ },
+ {
+  "product_id": "NE-01791",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHRGHAHK080.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Bero Quartz Room Heater (GHRGHAHK080)"
+ },
+ {
+  "product_id": "NE-01792",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_8b49e0bb-fd76-4901-a0b3-e6c71c7a4946.png?v=1765196223&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Glow Quartz Infrared Room Heater"
+ },
+ {
+  "product_id": "NE-01793",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/8/482723_base_1_1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "HAVELLS Hestio 2900 Watts PTC Fan Oil Filled Room Heater Black (GHROFCTK290)"
+ },
+ {
+  "product_id": "NE-01794",
+  "keep": false,
+  "image_url": "https://mahajanelectronics.com/cdn/shop/files/mahajan-ch-p1-1_c94403d2-ba2e-4a38-bc7c-6b944035922a.jpg?v=1785654056&width=1500",
+  "confidence": "high",
+  "source_domain": "mahajanelectronics.com",
+  "matched_title": "Havells 13 Fin Hestio GHROFCLK290 Wave Fin OFR | 2900 Watt"
+ },
+ {
+  "product_id": "NE-01795",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrofckk290_m.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Hestio 11 Wave Fins Oil Filled Room Heater"
+ },
+ {
+  "product_id": "NE-01796",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrofcjk240_m.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Hestio 9 Wave Fin Hestio Oil Filled Room Heater"
+ },
+ {
+  "product_id": "NE-03220",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260605_065127_150595e3.png?w=728&q=75&fm=auto",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda Hornet 2.0 (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-03221",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260605_065508_8b491ee4.png",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda NX200 (2026) - Price, Mileage & Expert Reviews | Autocar India"
  }
 ]

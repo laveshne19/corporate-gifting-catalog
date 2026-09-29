@@ -1025,155 +1025,155 @@
  },
  {
   "product_id": "NE-00222",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Popular Plus 750 W Dry Iron (White)"
  },
  {
   "product_id": "NE-00223",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://api.suryaelectronics.in/Resources/ProductImage/Bajaj-Dry-Iron-Black_1_24092026100706640.jpg",
+  "confidence": "high",
+  "source_domain": "www.suryaelectronics.in",
+  "matched_title": "Bajaj DX 2 600W Black Dry Iron | 440329"
  },
  {
   "product_id": "NE-00225",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Steam Majesty 1000 W Garment Steamer"
  },
  {
   "product_id": "NE-00226",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj MX 16 1400-Watt Steam Iron"
  },
  {
   "product_id": "NE-00227",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/d/q/p/smart-mx-40c-440503-with-anti-scale-technology-bajaj-original-imagj8fuefu5uyzk.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Smart MX 40C (440503) 2000 W Steam Iron"
  },
  {
   "product_id": "NE-00228",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ M 4 Neo (440509) 1250 W Steam Iron"
  },
  {
   "product_id": "NE-00229",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj MX 45 Steam Aluminium Soleplate Iron 2000 Watts"
  },
  {
   "product_id": "NE-00230",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/kerfl3k0pkrrdj/home-appliances/y/s/g/15060-bajaj-original-imafvddhjcjnm8bu.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ 150650 1500 W Immersion Heater Rod"
  },
  {
   "product_id": "NE-00231",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/wh-150651.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Bajaj 1000 W Immersion Heater Rod (Water) 150651"
  },
  {
   "product_id": "NE-00232",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/immersion-rod/3/j/n/1000-150832-bajaj-original-imahjf2svsh9tcdv.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Bajaj Waterproof 1000 Watts Immersion Rod Heater (150832)"
  },
  {
   "product_id": "NE-00005",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Waterproof 1500 Watts Immersion Rod Heater"
  },
  {
   "product_id": "NE-00234",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/Duetto-01.png?v=1745045801&width=1500",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Majesty Duetto Gas Water Heater (LPG) - 6L"
  },
  {
   "product_id": "NE-00006",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/wh-150710.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Bajaj Geyser Majesty Duetto Gas Water Heater (PNG)"
  },
  {
   "product_id": "NE-00236",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/2183aOy2zBL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Majesty Duetto Eco 5 Ltr Lpg Gas Water Heater"
  },
  {
   "product_id": "NE-00237",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/l15bxjk0/water-geyser/k/x/2/2014-flora-1l-3kw-instant-water-heater-3000-bajaj-1-original-imagcs3q3p4skkxh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Flora 1L-3KW Instant Water Heater"
  },
  {
   "product_id": "NE-00238",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Flora 3-Litre Instant Water Heater (White)"
  },
  {
   "product_id": "NE-00239",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/q/1/9/2014-flora-4-5kw-instant-3-ltr-vertical-water-heater-240-bajaj-3-original-imaghubhkbzgqqgb.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Flora 4.5KW Instant 3 Ltr Vertical Water Heater"
  },
  {
   "product_id": "NE-00240",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/FloraPlus-01.png?v=1745045954&width=1500",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Shield Series Flora Plus - 1L / 3kW"
  },
  {
   "product_id": "NE-00007",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.moglix.com/p/73ShilNl7rwsk-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Bajaj Shield Flora Plus 3 Litre 3000W White Instant Water Heater, 150915"
  },
  {
   "product_id": "NE-00008",
@@ -1194,34 +1194,34 @@
  {
   "product_id": "NE-00244",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/m/x/y/2023-shield-series-verre-plus-iwh-3000-bajaj-5-original-imah3agghyd7as2g.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ SHIELD SERIES VERRE PLUS IWH 5 L Instant Water Geyser"
  },
  {
   "product_id": "NE-00245",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/4_61d9154d-aa10-49c2-aab6-7c123df87139.jpg?v=1749637493",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Verre 5L 3KW – Bajaj Electricals India"
  },
  {
   "product_id": "NE-00246",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/i/y/6/2023-aquaquick-instant-water-heater-3l-3kw-3000-bajaj-3-original-imah7bafhpmtfzzg.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Aquaquick Instant Water Heater 3L 3KW"
  },
  {
   "product_id": "NE-00247",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/Aquaquick.jpg?v=1733891711&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Aquaquick 5.9L / 3 KW"
  },
  {
   "product_id": "NE-00248",

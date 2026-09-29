@@ -1025,291 +1025,259 @@
  },
  {
   "product_id": "NE-00419",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Morphy Richards Stylist Care Hd222Dc Professional Hair Dryer ... 2200 Watts"
  },
  {
   "product_id": "NE-00420",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2026/4/24/24332257-15b4-45cd-ba46-81eb5c2ac073_569710_1.png",
+  "confidence": "high",
+  "source_domain": "instamart.in",
+  "matched_title": "Morphy Richards Idazzle Neo, 1200W Hair Dryer - Blue"
  },
  {
   "product_id": "NE-00421",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/81hSlleF8dL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Morphy Richards Estella Hair Straightener Brush"
  },
  {
   "product_id": "NE-00422",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/340059_2.jpg?v=1745235367&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards Stylist Care Hot Hair Brush (340059)"
  },
  {
   "product_id": "NE-00423",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/61cSyczNPYL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Morphy Richards Kingsman Elite | 3-in-1 Multipurpose for Men"
  },
  {
   "product_id": "NE-00424",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370063-1.jpg?v=1740416771&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "AT200 2 Slice Pop-Up Toaster"
  },
  {
   "product_id": "NE-00425",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370080-1.jpg?v=1740416765&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "AT402 4 Slice Pop-up Toaster (370080)"
  },
  {
   "product_id": "NE-00426",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370071-1.jpg?v=1740416768&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Order Windsor Series Digital Toaster | Bajaj Electricals (370071)"
  },
  {
   "product_id": "NE-00427",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/290012_default.png?v=1740416911&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "OFR 13F Room Heater (290012)"
  },
  {
   "product_id": "NE-00428",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/290013_default.png?v=1740416902&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards 2400W Oil Filled Radiator Room Heater with 9 Fins (290013)"
  },
  {
   "product_id": "NE-00429",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/290014_default.png?v=1740416905&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards OFR11F - 11 Fin Oil Filled Radiator with PTC Fan Heater"
  },
  {
   "product_id": "NE-00430",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/290019_1.jpg?v=1749123073&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards XR 15 F Oil Free Analog Radiator (290019 Thermocore XR Analog)"
  },
  {
   "product_id": "NE-00431",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Find Thermocore Xr Digital Oil Free Radiator | Bajaj Electricals"
  },
  {
   "product_id": "NE-00432",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/9FHeatWaveOFRRoomHeater_1500x1500_px.jpg?v=1744952413&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "9F Heat Wave OFR Room Heater"
  },
  {
   "product_id": "NE-00433",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/11FHeatWaveOFRRoomHeater_1500x1500_px.jpg?v=1744952451&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards 11F Heat Wave Oil Filled Radiator"
  },
  {
   "product_id": "NE-00434",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/13FHeatWaveOFRRoomHeater_1500x1500_px.jpg?v=1744952472&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Morphy Richards 13F Heat Wave Oil Filled Radiator"
  },
  {
   "product_id": "NE-00435",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370072_1.jpg?v=1740416752&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Imperio Series SM72 Sandwich Maker"
  },
  {
   "product_id": "NE-00436",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370068-1.jpg?v=1740416757&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Luxe Rose (Toast & Grill) Sandwich Maker"
  },
  {
   "product_id": "NE-00437",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/370070-1.jpg?v=1740416755&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Get Luxe Rose Twg Online | Bajaj Electricals"
  },
  {
   "product_id": "NE-00438",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/71KYVT-sypL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Morphy Richards Melange 800W Stand Mixer| 5L SS Bowl"
  },
  {
   "product_id": "NE-00439",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/q/u/3/glide-500016-morphy-richards-original-imagzf8texmaqxwn.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Morphy Richards by Bajaj Electrical Limited Glide (500016) 1250 W Steam Iron"
  },
  {
   "product_id": "NE-00440",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy MR ULTRA GLIDE STEAM IRON - 1600W"
  },
  {
   "product_id": "NE-00441",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/81jOXPg3USL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Morphy Richards Super Glide 2000W Steam Iron"
  },
  {
   "product_id": "NE-00442",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Morphy Richards Turbo Steam 2200W Steam Iron"
  },
  {
   "product_id": "NE-00443",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/Hero_image_9d641d8e-bba7-4b61-9d48-c31eaf87699f.jpg?v=1752732022&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Turbo Blaze"
  },
  {
   "product_id": "NE-00444",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Morphy_Richards_500084_Cordless_Steam_Ease_2200_W_Blue_and_Black_3.jpg?v=1789045114&width=1214",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Morphy Richards 500084 Cordless Steam Ease 2200 W – Blue and Black"
  },
  {
   "product_id": "NE-00445",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/IronBox/IT00119782-700x700.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Morphy Richards Intellitemp 2400 W Steam Iron (Black Purple Dual Tone)"
  },
  {
   "product_id": "NE-00446",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/640143_1.jpg?v=1740416696&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Storm Blend 1000W"
  },
  {
   "product_id": "NE-00447",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "2 in 1 BlendMaster"
  },
  {
   "product_id": "NE-00448",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/640141_1.jpg?v=1749188284&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "4 in 1 BlendMaster"
  },
  {
   "product_id": "NE-00449",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHGS4A.jpg?v=1735886370&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Nutrihealth Non Stick Aluminium Induction Gift Set - Fry Pan 24 cm, Kadhai 24 cm, Tawa 26 cm (NHGS4A)"
  },
  {
   "product_id": "NE-00450",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHPGS4A.jpg?v=1735910806&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "NutriHealth Pro Hapiiness 4-Pc Gift Set (NHPGS4A)"
  },
  {
   "product_id": "NE-00451",

@@ -1218,18 +1218,18 @@
  {
   "product_id": "NE-00839",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/816KsA86k7L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Diva by La Opala, Pearl Collection, Opal Glass Dinner Set 28 pcs, Silky Cluster"
  },
  {
   "product_id": "NE-00840",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61-Xrx5LnkL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Quadra Collection, Opal Glass Dinner Set 29 pcs, Midnight Black"
  },
  {
   "product_id": "NE-00841",
@@ -1242,98 +1242,98 @@
  {
   "product_id": "NE-00842",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71LPY-bMw8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Quadra Collection, Opal Glass Dinner Set 29 pcs, Golden Shades"
  },
  {
   "product_id": "NE-00843",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Quadra Collection, Opal Glass Dinner Set 29 pcs, Belladonna"
  },
  {
   "product_id": "NE-00844",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81miwly+2QL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Diva by La Opala, Quadra Collection, Opal Glass Dinner Set 29 pcs, Autumnal"
  },
  {
   "product_id": "NE-00845",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/9/LP/WM/CR/113820518/41wffncnnol.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Opal ware LaOpala Quadra Blossom Dinner Set"
  },
  {
   "product_id": "NE-00846",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71ER-EELrhL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Quadra Collection, Opal Glass Dinner Set 29 pcs, Summertide"
  },
  {
   "product_id": "NE-00847",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Diva by La Opala, Quadra Collection, Opal Glass Dinner Set 29 pcs, Snowdrop"
  },
  {
   "product_id": "NE-00848",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 62 pcs Medusa Gold"
  },
  {
   "product_id": "NE-00849",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-La-Opala-Sovrana-35-Pc-Dinner-Set-Silver-Phoenix-1749195750234.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "Dinner Set La Opala Sovrana 35 Pc Silver Phoenix"
  },
  {
   "product_id": "NE-00850",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/91WlFzgwjYL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Sovrana Collection, Opal Glass Dinner Set 27 pcs, Moroccan Gold"
  },
  {
   "product_id": "NE-00851",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/91DkII5Pb0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Sovrana Collection, Opal Glass Dinner Set 27 pcs, Moroccan Pink"
  },
  {
   "product_id": "NE-00852",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva, Sovrana Collection, Opal Glass Dinner Set 27 pcs, Persian Grey"
  },
  {
   "product_id": "NE-00853",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/91XHdPd8WbL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 27 pcs Persian Silver"
  },
  {
   "product_id": "NE-00854",
@@ -1353,11 +1353,11 @@
  },
  {
   "product_id": "NE-00856",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Amaya Blue 35 Pcs Dinner Set, Sovrana Collection"
  },
  {
   "product_id": "NE-00857",
@@ -1370,74 +1370,74 @@
  {
   "product_id": "NE-00858",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/714NAukxNyL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 27 pcs Regent Blue"
  },
  {
   "product_id": "NE-00859",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/915Xl0CYE-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 33 pcs Regent Red"
  },
  {
   "product_id": "NE-00860",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/819nSDl9EKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 45 pcs Regent Blue"
  },
  {
   "product_id": "NE-00861",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/71pG3efBRhL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Sovrana Collection Dinner Set 62 pcs Regent Blue"
  },
  {
   "product_id": "NE-00862",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81ARUMn+buL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Velvett Collection Dinner Set 62 pcs Tudor Grey"
  },
  {
   "product_id": "NE-00863",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Velvett Collection Dinner Set 35 pcs Imperial Grey"
  },
  {
   "product_id": "NE-00864",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Velvett Collection Dinner Set 35 pcs Aria Grey"
  },
  {
   "product_id": "NE-00865",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Velvett Collection Dinner Set 45 pcs Stella Grey"
  },
  {
   "product_id": "NE-00866",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "La Opala Diva Velvett Collection Dinner Set 62 pcs Pearl Grey"
  },
  {
   "product_id": "NE-00867",
