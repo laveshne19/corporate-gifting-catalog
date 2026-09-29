@@ -21,7 +21,7 @@ BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
 OUT_DIR = os.path.join(BASE, "_catalog_build", "output")
 APIFY_DIR = os.path.join(OUT_DIR, "apify")
 
-BAD_HOST = re.compile(r"(encrypted-tbn\d*\.gstatic\.com|lookaside\.|fbsbx|instagram|pinimg|pinterest|ytimg|twimg|x\.com/"
+BAD_HOST = re.compile(r"(encrypted-tbn\d*\.gstatic\.com|lookaside\.|fbsbx|instagram|pinimg|pinterest|ytimg|twimg|//(www\.)?x\.com/"
                       r"|corporategiftingindia\.|alienfox\.)", re.I)  # own site = circular; alienfox = placeholders
 # Exact-model but small (~200-400px) images: good enough to fill a blank, not to replace an existing image.
 LOW_RES_HOST = re.compile(r"(bajajfinserv|greateasternretail)", re.I)
@@ -40,6 +40,8 @@ EXCLUDE = {
 
 def clean_url(u):
     u = (u or "").strip()
+    if u.startswith("http://"):  # Shopify/CDN hosts serve the same file over https
+        u = "https://" + u[len("http://"):]
     # Amazon: strip the resize suffix (…/I/ABC._AC_UF350,350_QL80_.jpg -> …/I/ABC.jpg)
     m = re.match(r"(https://m\.media-amazon\.com/images/I/[^.]+)\.[^/]*\.(jpg|png|webp)$", u)
     if m:
@@ -51,44 +53,82 @@ def usable(u):
     return u.startswith("https://") and not BAD_HOST.search(u) and IMG_EXT.search(u)
 
 
-def main():
-    queue = {q["product_id"]: q for q in json.load(open(os.path.join(APIFY_DIR, "queue.json")))}
+# Passes are applied in order; a later pass overrides an earlier one.
+#   refresh : products with no image ('missing') or a low-confidence image ('low')
+#   recheck : products whose image was proven wrong (shared across product types,
+#             or another brand's photo) -> exact match or cleared
+#   verify  : full-catalog re-verification (owner's rule: a photo stays only if it
+#             is confirmed to be the exact product; otherwise "Image on request")
+PASSES = [
+    ("refresh", "queue.json", "results_[0-9]*.json"),
+    ("recheck", "recheck_queue.json", "recheck_results.json"),
+    ("verify", "verify_queue.json", "verify_results_*.json"),
+]
+
+
+def load_pass(queue_name, results_glob):
+    qpath = os.path.join(APIFY_DIR, queue_name)
+    if not os.path.exists(qpath):
+        return {}, {}
+    queue = {q["product_id"]: q for q in json.load(open(qpath))}
     picks = {}
-    for path in sorted(glob.glob(os.path.join(APIFY_DIR, "results_*.json"))):
+    for path in sorted(glob.glob(os.path.join(APIFY_DIR, results_glob))):
         for r in json.load(open(path)):
             if r.get("product_id") in queue:
                 picks[r["product_id"]] = r
+    return queue, picks
 
+
+def main():
     recs = json.load(open(os.path.join(OUT_DIR, "master_consolidated.json")))
+    by_id = {r["product_id"]: r for r in recs}
     today = date.today().isoformat()
-    stats = {"missing_filled": 0, "low_replaced": 0, "rejected": 0, "no_result": 0}
-    for rec in recs:
-        q = queue.get(rec["product_id"])
-        if not q:
-            continue
-        p = picks.get(rec["product_id"])
-        if not p or not p.get("image_url") or rec["product_id"] in EXCLUDE:
-            stats["no_result"] += 1
-            continue
-        conf = (p.get("confidence") or "").lower()
-        url = clean_url(p["image_url"])
-        ok_conf = conf in ("high", "medium") if q["reason"] == "missing" else conf == "high"
-        if not ok_conf or not usable(url) or (q["reason"] == "low" and LOW_RES_HOST.search(url)):
-            stats["rejected"] += 1
-            continue
-        # Guard: only touch records still in the state we queued them in.
-        if q["reason"] == "missing" and rec.get("image_file"):
-            continue
-        if q["reason"] == "low" and rec.get("image_file") != q["current"]:
-            continue
-        rec["image_file"] = url
-        rec["image_source"] = f"Apify Google Images ({conf} confidence): {p.get('source_domain', '')}"
-        rec["date_last_updated"] = today
-        stats["missing_filled" if q["reason"] == "missing" else "low_replaced"] += 1
+    for name, queue_name, results_glob in PASSES:
+        queue, picks = load_pass(queue_name, results_glob)
+        stats = {"set": 0, "kept": 0, "cleared": 0, "unchanged": 0, "rejected": 0}
+        for pid, q in queue.items():
+            rec = by_id.get(pid)
+            if rec is None:
+                continue
+            p = picks.get(pid)
+            if name != "refresh" and p is None:
+                stats["unchanged"] += 1  # not processed yet (pass still running)
+                continue
+            if p and p.get("keep") and name == "verify":
+                rec["image_source"] = "Verified exact match (Apify Google Images re-check)"
+                rec["date_last_updated"] = today
+                stats["kept"] += 1
+                continue
+            url = clean_url(p.get("image_url")) if p else ""
+            conf = ((p or {}).get("confidence") or "").lower()
+            if pid in EXCLUDE:
+                url = ""
+            if name == "refresh":
+                ok = (conf in ("high", "medium") if q["reason"] == "missing" else conf == "high") and url
+                ok = ok and usable(url) and not (q["reason"] == "low" and LOW_RES_HOST.search(url))
+                if not ok:
+                    stats["rejected" if url else "unchanged"] += 1
+                    continue
+                # Only touch records still in the state they were queued in.
+                if (q["reason"] == "missing" and rec.get("image_file")) or \
+                        (q["reason"] == "low" and rec.get("image_file") != q["current"]):
+                    continue
+            else:
+                if not (conf == "high" and url and usable(url)):
+                    rec["image_file"] = ""
+                    rec["image_source"] = "Image on request (no exact-match photo confirmed)"
+                    rec["date_last_updated"] = today
+                    stats["cleared"] += 1
+                    continue
+            rec["image_file"] = url
+            rec["image_source"] = f"Apify Google Images ({conf} confidence, {name}): {p.get('source_domain', '')}"
+            rec["date_last_updated"] = today
+            stats["set"] += 1
+        if queue:
+            print(name, stats)
 
     with open(os.path.join(OUT_DIR, "master_consolidated.json"), "w") as fh:
         json.dump(recs, fh, indent=1, ensure_ascii=False)
-    print(stats)
 
 
 if __name__ == "__main__":

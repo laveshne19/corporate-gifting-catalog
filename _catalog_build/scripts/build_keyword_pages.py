@@ -90,6 +90,17 @@ SYNONYMS = {
 }
 
 
+# Product types that share vocabulary with a cluster but are not what it sells
+# (a "TWS Bluetooth speaker" must not appear on the earbuds page).
+EXCLUDE_TERMS = {
+    "bulk-earbuds": ["speaker", "soundbar", "watch"],
+    "bulk-headphones": ["speaker", "soundbar"],
+    "bulk-earphones-neckbands": ["speaker", "soundbar", "headphone"],
+    "bulk-smartwatches": ["earbud", "buds", "strap", "band_", "charger", "case"],
+    "bulk-power-banks": ["cable", "case"],
+}
+
+
 def slugify(s):
     s = (s or "").lower().strip()
     s = re.sub(r"[^a-z0-9]+", "-", s)
@@ -144,6 +155,7 @@ def match_products(recs, pm, has_page, seed=None):
     cats = [c.lower() for c in pm.get("categories") or []]
     brands = {b.lower() for b in pm.get("brands") or []}
     terms = expand_terms(pm.get("keywords_in_product_name"))
+    excl = re.compile(r"\b(" + "|".join(map(re.escape, pm["exclude"])) + r")", re.I) if pm.get("exclude") else None
     max_price = pm.get("max_price")
     min_price = pm.get("min_price")
     # Whole-word matching so "tab" doesn't hit "portable" or "mat" hit "matte".
@@ -168,7 +180,7 @@ def match_products(recs, pm, has_page, seed=None):
             hit = True
         if not terms and not cats and brands:
             hit = True
-        if not hit:
+        if not hit or (excl and excl.search(r["product_name"])):
             continue
         mrp = r.get("mrp") or 0
         if max_price and (not mrp or mrp > max_price):
@@ -390,6 +402,8 @@ def build():
         if not (pm.get("categories") or pm.get("keywords_in_product_name") or pm.get("brands")) \
                 and c.get("type") != "budget":
             pm["categories"] = DEFAULT_GIFT_CATS
+        if c["slug"] in EXCLUDE_TERMS:
+            pm["exclude"] = EXCLUDE_TERMS[c["slug"]]
         m = re.match(r"corporate-gifts-(under|above)-(\d+)$", c["slug"])
         if m:  # budget clusters: price band from the slug
             pm["max_price" if m.group(1) == "under" else "min_price"] = int(m.group(2))
