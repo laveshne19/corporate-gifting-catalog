@@ -254,5 +254,261 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-02920",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02923",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635449069/RZ/RU/KK/31143669/skyline-combo-gift-sets-refresh-set.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Combo Gift Sets Refresh Set"
+ },
+ {
+  "product_id": "NE-02924",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635447589/NK/VD/MP/31143669/skyline-fitness-set-nutri-fresh-mixer-steel-bottle-combo.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Fitness Set Nutri Fresh Mixer & Steel Bottle Combo"
+ },
+ {
+  "product_id": "NE-02925",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Combos/Evening%20Set.png?updatedAt=1758183655488",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Kettle & Oven Toaster Combo 10L Evening Set"
+ },
+ {
+  "product_id": "NE-02926",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02927",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Combos/Morning%20Set.png?updatedAt=1758183655237",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Kettle & Dry Iron Combo Morning Set"
+ },
+ {
+  "product_id": "NE-02928",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585727486/QG/KR/GP/30950573/skyline-hydra-set-electric-kettle-steel-bottle.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "SKYLINE HYDRA SET(electric kettle steel bottle)"
+ },
+ {
+  "product_id": "NE-02929",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Breakfast Set | Electric Kettle & Sandwich Toaster Combo"
+ },
+ {
+  "product_id": "NE-02933",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/PODSPROMAXLISTING1_bb08b5fb-dafd-4468-a6de-d62c12b48495.jpg?v=1778583366&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS EARBUDS PODS PRO MAX"
+ },
+ {
+  "product_id": "NE-02934",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/headphone/1/s/j/blopods-tws-swiss-military-original-imaheb7rcgmggeeg.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SWISS MILITARY BLOPODS TWS Bluetooth"
+ },
+ {
+  "product_id": "NE-02936",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/MeepPods_0.png?v=1774812363&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS EARBUDS MEEP"
+ },
+ {
+  "product_id": "NE-02938",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/swiss-military-audio-neckband-green-bluetooth-earbuds-a1b2c3d4.jpg?v=1779433410&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS NECKBAND - PEP- C"
+ },
+ {
+  "product_id": "NE-02939",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Kollar_Black.png?v=1785320733&width=600",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Neck Bands (Kollar_Black.png)"
+ },
+ {
+  "product_id": "NE-02940",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02950",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "UREE BT Speaker With RGB Lights"
+ },
+ {
+  "product_id": "NE-02951",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02952",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02953",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/MortleyWave-WebsiteCreative_1.png?v=1788430816&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Mortley Wave 20W Bluetooth Soundbar"
+ },
+ {
+  "product_id": "NE-02954",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Retro-2_1d87f8f9-6ade-482a-8921-65d264c1182b.jpg?v=1778572842&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Retro Classic 2.0 Bluetooth Speaker"
+ },
+ {
+  "product_id": "NE-02957",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Mortley_3X_Website_Creative_3_d6dd4773-27a4-4842-8b49-b6ee5ec14272.png?v=1788419652&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "MORTLEY 3X - 30W Bluetooth Soundbar with TWS & FM"
+ },
+ {
+  "product_id": "NE-02959",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Euphoria Wireless Remote Bluetooth Soundbar"
+ },
+ {
+  "product_id": "NE-02960",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Troopz Bluetooth Speaker with Wireless Mic"
+ },
+ {
+  "product_id": "NE-02962",
+  "keep": false,
+  "image_url": "https://images.snapmint.com/product_assets/images/001/203/776/large/data?1772451555",
+  "confidence": "high",
+  "source_domain": "snapmint.com",
+  "matched_title": "Swiss Military Pulse Pro 10000 mAh Power Bank (Black)"
+ },
+ {
+  "product_id": "NE-02965",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02968",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02969",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SWISS MILITARY 20000 mAh 22.5 W Wireless Pocket Size Power Bank (Electra 20K Pro)"
+ },
+ {
+  "product_id": "NE-02970",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS CHARGER - Voltaic 2.4+ With Micro Cable"
+ },
+ {
+  "product_id": "NE-02971",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Voltaic-2_162556ca-a0c6-4849-ba12-da03fdb2ddef.jpg?crop=center&height=1200&v=1778914572&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS CHARGER - Voltaic 2.4+ With C Type Cable"
+ },
+ {
+  "product_id": "NE-02974",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81PW-vo8HoL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Swiss Military ZAP 65+ Dual Port Car Charger, 65W"
+ },
+ {
+  "product_id": "NE-02975",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02976",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Spark-Trio.jpg?v=1778913404&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "Swiss Military Spark Trio Charger"
+ },
+ {
+  "product_id": "NE-02977",
+  "keep": false,
+  "image_url": "https://swissmilitaryaudio.com/cdn/shop/files/Artboard1_b0c7fe16-e5a7-4e5c-80fb-0c9ed68e6ac5.jpg?v=1778910945&width=1200",
+  "confidence": "high",
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS CABLE - PVXAM"
  }
 ]
