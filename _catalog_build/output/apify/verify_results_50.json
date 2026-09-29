@@ -330,10 +330,10 @@
   {
     "product_id": "NE-08568",
     "keep": false,
-    "image_url": "https://www.ushawatersolutions.com/sites/default/files/2019-03/3K0A4562_1_0.png",
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/inline-images/WSB---Range-Inshop-Branding---1366-x-600.jpg",
     "confidence": "high",
     "source_domain": "www.ushawatersolutions.com",
-    "matched_title": "Floor Standing Water Dispenser | USHA Water Solutions"
+    "matched_title": "Aquagenie+ Floor Standing Dispenser | USHA Water Solutions"
   },
   {
     "product_id": "NE-08569",
@@ -341,7 +341,7 @@
     "image_url": null,
     "confidence": "high",
     "source_domain": "www.amazon.in",
-    "matched_title": "Usha Instafresh Floor Standing Cooling Cabinet Bottled Water Dispenser"
+    "matched_title": "Usha Aquagenie Cooling Cabinet Water Dispenser for 20 Litre Bottle with  Refrigerator Hot and Cold Automatic, White : Amazon.in: Home Improvement"
   },
   {
     "product_id": "NE-08570",
@@ -1225,11 +1225,11 @@
   },
   {
     "product_id": "NE-08680",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2025/3/18/63e44cab-800c-4b0d-830e-641c87cb611e_624558_2.png",
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy Usha Cook Joy (3616) 1600-Watt Induction Cooktop (Black), Sealed, 1  Burner Online at Low Prices in India - Amazon.in"
+    "source_domain": "instamart.in",
+    "matched_title": "Buy USHA 1600 W Induction Cooktop Push Button (Multicolor, IC 3616D) Online  (1 unit) At Best Price"
   },
   {
     "product_id": "NE-08681",
@@ -1257,11 +1257,11 @@
   },
   {
     "product_id": "NE-08684",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://aaravelectronics.com/cdn/shop/files/4_18c397ab-caa1-42a6-a6f5-3f4dc16a886c.webp?v=1782548047",
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Usha Cookjoy CJ2000WPCN 2000 Watt Induction Cooktop"
+    "source_domain": "aaravelectronics.com",
+    "matched_title": "Usha CJ2000WTCXL 2000 Watt Induction Cooktop | Touch Control | Black"
   },
   {
     "product_id": "NE-08685",
@@ -1290,10 +1290,10 @@
   {
     "product_id": "NE-08688",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51LAnaSOodL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Usha Smash Deluxe 500W Mixer Grinder with 3 Stainless Steel Jars (1.2L,  0.8L, 0.4L) | 100% Copper Motor | 3-Speed Control | Compact Design | 5-Year  ..."
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-08689",
@@ -1418,10 +1418,10 @@
   {
     "product_id": "NE-08704",
     "keep": false,
-    "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/usha/494510219/0/otwdB1TVxx-cR6UZqvAZF-Usha-MG3750-Mixer-Grinder-494510219-i-1-1200Wx1200H.jpeg",
+    "image_url": "https://m.media-amazon.com/images/I/61z59lDHh4L.jpg",
     "confidence": "high",
-    "source_domain": "www.reliancedigital.in",
-    "matched_title": "Usha MG3750 500 Watt 3 Jar Mixer Grinder, Green"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Rapidmix 500-Watt Copper Motor Mixer Grinder With 3 Jars And 2  Years Product Warranty & 5 Years Motor Warranty (Sea Green/White), 500 Watt  (Pack of 2) Online at Low Prices"
   },
   {
     "product_id": "NE-12296",
@@ -1450,10 +1450,10 @@
   {
     "product_id": "NE-08708",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/511FkGndcWL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuODwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig0MCk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Colt Prime Mixer Grinder| 500W| Powerful 100% Copper Motor| Rust  Resistant Stainless Steel Jars & Blades| Uniform Grinding with 3 Jars| 5  Years Motor Warranty Online at Low Prices in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-08709",
@@ -1474,10 +1474,10 @@
   {
     "product_id": "NE-08711",
     "keep": false,
-    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/usha-rapid-mix-rm500mx3-mixer-grinder-2182341-o4o4h.jpg",
-    "confidence": "high",
-    "source_domain": "www.justdial.com",
-    "matched_title": "USHA Rapid Mix RM500MX3 Mixer Grinder in Vaishali at \u20b9 3,601 - \u20b9 3,790 by  Jmd Electricals - Justdial"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-08712",
@@ -1498,17 +1498,17 @@
   {
     "product_id": "NE-08714",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/X/bxt1/M/zbxt1Bmp$wwlg54.jpg",
-    "confidence": "high",
-    "source_domain": "www.smartbiz.in",
-    "matched_title": "Buy USHA Spin Pro 500 W Mixer Grinder (SN500 MX3_ 3 Jars Multicolor) |  BALAJIELECTRICALANDELECTRONIC"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-08715",
     "keep": false,
-    "image_url": "https://cdn.chattybao.com/user_delivery_confirmation/VenusElectricalsRefrigeration_1766915233293.webp",
-    "confidence": "high",
-    "source_domain": "venusstore.in",
-    "matched_title": "Usha XC500M13 Xcite 500 watt Mixer Grinder"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   }
 ]
