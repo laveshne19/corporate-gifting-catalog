@@ -254,5 +254,261 @@
   "confidence": "high",
   "source_domain": "www.indiamart.com",
   "matched_title": "Belkin X Marvel, Ironman Edition, 65W GaN Dual USB-C PD 3.0 Fast Charger"
+ },
+ {
+  "product_id": "NE-03268",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03269",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31tRGsOn1VL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin Travel Adapter Plug Kit for (25 W Hybrid USB Charger + 5K Power Bank), 4 Power Plugs (US, UK, EU, AU)"
+ },
+ {
+  "product_id": "NE-03270",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw6e509ce8/images/hi-res/0/31136e14f727a17c_BPB011_BLK_BOOSTCHARGE_PowerBank10K_Angle_Upright_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 10K Power Bank, USB-A to USB-C Cable | Belkin"
+ },
+ {
+  "product_id": "NE-03271",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb1e7adb8/images/hi-res/3/51283fe0c3c3fca3_BPB011_BLU_BOOSTCHARGE_PowerBank10K_Angle_Upright_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Power Bank 10K (Blue) | Belkin"
+ },
+ {
+  "product_id": "NE-11790",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11791",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1a35588c/images/hi-res/f/655e275285054ae8_BPB011_PEA_BOOSTCHARGE_Powerbank%2010K_TOP_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 10K Power Bank, 15W USB-C, White | Belkin"
+ },
+ {
+  "product_id": "NE-11792",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11793",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11794",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03277",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw5b459f4a/images/hi-res/3/3fbc0dcb9357d790_BPB012bt_PowerBank20k15W_MPP263_BPB012btBK_Vertical_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 20K Power Bank with USB-C Cable, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11795",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11796",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11797",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11798",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb4dfdbae/images/hi-res/4/4dd36f6afe681642_BPB012btSL_Boostcharge%20Powerbank20K_ANGLE_UPRIGHT_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 20K Power Bank with USB-C Cable, Silver | Belkin"
+ },
+ {
+  "product_id": "NE-11799",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw8cedab5e/images/hi-res/NaN/f7fa7a69c061c30_BPB012btGY_Powerbank%2020K_angle.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Power Bank 10K, 20K with USB-A to USB-C cable | Belkin (BPB012btGY)"
+ },
+ {
+  "product_id": "NE-11800",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03284",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03285",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11801",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03287",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03288",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw41619600/images/hi-res/d/3322557b18cc29f4_BPD002btBK_NPI_Boostcharge_MagneticWirelessPowerBank_Hero_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Magnetic Wireless Charger | MagSafe Power Bank | Belkin"
+ },
+ {
+  "product_id": "NE-11802",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw69255ceb/images/hi-res/6/6b3a50d9099b8a03_BPD002btWHT_NPI_Boostcharge_MagneticWirelessPowerBank_RightAngleWPhone_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Magnetic Wireless Charger | MagSafe Power Bank | Belkin (BPD002btWHT)"
+ },
+ {
+  "product_id": "NE-03290",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf56e3a3e/images/hi-res/8/456dd6f767a9c588_BPD004btBK(WH)_MPP242_MagneticWirelessPowerBank5K+Stand_FPK_BLK_Shot1_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 5K Magnetic Wireless Power Bank, Stand | Belkin"
+ },
+ {
+  "product_id": "NE-11803",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwe0bd20f4/images/hi-res/NaN/a962f0f445d3b7c_BPD004btBK(WH)_MPP242_MagneticWirelessPowerBank5K+Stand_FPK_WH_Shot1_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Magnetic Wireless Power Bank 5K + Stand | Belkin"
+ },
+ {
+  "product_id": "NE-11804",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11805",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03294",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61yDl9OVORL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin X Disney 5000 mAh Magsafe Wireless Power Bank ... Elsa Edition, White"
+ },
+ {
+  "product_id": "NE-11806",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31PuTNF67IL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin X Disney 100 Mickey | 5000 mAH Magsafe Wireless Power Bank"
+ },
+ {
+  "product_id": "NE-03296",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1375bfc3/images/hi-res/4/3316b9125bc6a579_BPD004qcBG-DY_1.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Magnetic Wireless Power Bank 5K + Stand (Disney Collection / Marvel Collection) | Belkin"
+ },
+ {
+  "product_id": "NE-03297",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03298",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3e64a883/images/hi-res/2/514fc36c617f2ca8_BPD008btBK_MagneticQi2PowerBanks_Hero_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Pro 10K Magnetic Power Bank, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11807",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]

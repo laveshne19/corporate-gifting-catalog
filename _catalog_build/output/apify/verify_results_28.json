@@ -97,11 +97,11 @@
  },
  {
   "product_id": "NE-04194",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null
+  "matched_title": "boAt Storm Call 4 Smartwatch"
  },
  {
   "product_id": "NE-04195",
@@ -254,5 +254,261 @@
   "confidence": "high",
   "source_domain": "93mobiles.com",
   "matched_title": "boAt Nirvana Space - TWS Earbuds Cosmos Green"
+ },
+ {
+  "product_id": "NE-04214",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante Bar 1150D with Dolby Audio 80 W Bluetooth Soundbar"
+ },
+ {
+  "product_id": "NE-04215",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Boat-Dual-QC-PD-Port-Rapid-Car-Charger-Black-01.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Boat Dual QC-PD Port Rapid Car Charger Black"
+ },
+ {
+  "product_id": "NE-04216",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/4384c7dd-2beb-4aaa-a739-2041e208b483/boAt-Rockerz-255-Neo-Bluetooth-Wireless-in-Ear-Earphones-with-Mic-with-Enx-Tech-Maroon-Madness.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Rockerz 255 Neo Bluetooth Wireless in Ear Earphones (Maroon Madness)"
+ },
+ {
+  "product_id": "NE-04217",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11897",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/smartwatch/j/f/z/-original-imahbzq3kmwuzgut.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "boAt Storm Infinity Plus | HD Smartwatch with 20-Day Battery Sports White"
+ },
+ {
+  "product_id": "NE-04219",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81X2lhPg4ZL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Stone 580 Bluetooth Speaker (Pine Green)"
+ },
+ {
+  "product_id": "NE-11898",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/boat/494623793/0/F19VnQaA8--5yeB3ondJg-boAt-Airdopes-494623793-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "boAt Airdopes 148 Gen 2 TWS Earbuds (Teal)"
+ },
+ {
+  "product_id": "NE-04221",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51ko9Hykw1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "boAt Airdopes Ace TWS in Ear Earbuds (Davys Green)"
+ },
+ {
+  "product_id": "NE-04222",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/305019_0_hofbwv.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "boAt Stone 750 12W Portable Bluetooth Speaker (Marine Blue)"
+ },
+ {
+  "product_id": "NE-04223",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04224",
+  "keep": false,
+  "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/305cdb9d-12ba-4b5e-a3bc-e4cf128e9ad2.png",
+  "confidence": "high",
+  "source_domain": "blinkit.com",
+  "matched_title": "boAt Wave Call HD Smart Watch (Cherry Blossom)"
+ },
+ {
+  "product_id": "NE-04225",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717JnyrOxKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Rockerz Plus 550 ANC Bluetooth Headphones (Green Militia)"
+ },
+ {
+  "product_id": "NE-04226",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/tr:w-640,ar-1125-1125,pr-true,f-auto,q-80/cms/product_variant/101a9ecb-2234-490c-ba83-885ece3a6c52.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Airdopes Ace Wireless Earbuds - Starry Blue"
+ },
+ {
+  "product_id": "NE-04227",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/8bb39a51-8cbf-41a7-ba2e-49ca981aa2fd/boAt-Airdopes-Progear-Open-Ear-TWS-Earbuds-for-Outdoor-Sports-W-Air-Conduction-Tech-in-Ear-4-Mics-W-Ai-Enx-100Hrs-Playback-15Mm-Drivers-Secure-Fit-Beast-Mode-W-40Ms-Latency-ASAP-Charge-Active-Black.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Airdopes Progear Open-Ear TWS Earbuds - Active Black"
+ },
+ {
+  "product_id": "NE-04228",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ieMdfhmfL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Lunar Vista Smart Watch (Olive Green)"
+ },
+ {
+  "product_id": "NE-04229",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04230",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11899",
+  "keep": false,
+  "image_url": "https://api.thechennaimobiles.com/1765336328098.png",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "Boat Rockerz 210 ANC Bluetooth (Onyx Black)"
+ },
+ {
+  "product_id": "NE-04232",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61OuvSKFA0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Stone Arc Bluetooth Speaker (Frozen Blue)"
+ },
+ {
+  "product_id": "NE-11900",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Headphones%20and%20Earphones/Images/312009_10_tcgczz.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "boAt Nirvana ION ANC Pro TWS Earbuds (Rose Quartz)"
+ },
+ {
+  "product_id": "NE-04234",
+  "keep": false,
+  "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/11c836e5-8eb5-483f-9076-7dc120300258.jpg",
+  "confidence": "high",
+  "source_domain": "blinkit.com",
+  "matched_title": "boAt Airdopes 163 TWS Earbuds (Bold Blue)"
+ },
+ {
+  "product_id": "NE-04235",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Lunar Call | 1.28 HD Display Smartwatch"
+ },
+ {
+  "product_id": "NE-04236",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Type C A750 Super Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-04237",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/White_5_1024x.png?v=1730726240",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt C600 Fast Charging Cable (White)"
+ },
+ {
+  "product_id": "NE-04238",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/7319a742-8edc-4159-af6b-9b799145dc25/boAt-Rockerz-550-Bluetooth-Wireless-Over-Ear-Headphones-with-Upto-20-Hours-50MM-Black-Symphony.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Rockerz 550 Bluetooth Wireless Over Ear Headphones (Black Symphony)"
+ },
+ {
+  "product_id": "NE-04239",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71LStnbkz4L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Airdopes 141 Pro Buds (Galactic Purple)"
+ },
+ {
+  "product_id": "NE-11901",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt C600 Fast Charging Cable (RED file)"
+ },
+ {
+  "product_id": "NE-04241",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61leGjTDm0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Rockerz 558 Bluetooth Wireless Over Ear Headphones (Army Green)"
+ },
+ {
+  "product_id": "NE-04242",
+  "keep": false,
+  "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/bd70f885aa8a92a80c1636c6927ed030",
+  "confidence": "high",
+  "source_domain": "instamart.in",
+  "matched_title": "boAt EnergyShroom PB300 10000mAh w/ 22.5W Fast Charge (King's Purple)"
+ },
+ {
+  "product_id": "NE-04243",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/tr:w-640,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/379bd169-e18a-40ad-8fff-6593033924e7.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Stone Arc Pro Plus, Spatial Audio, 45W | Tropical Blue"
+ },
+ {
+  "product_id": "NE-04244",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61RMZZ+e-GL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.sa",
+  "matched_title": "boAt Bassheads 225 in Ear Wired Earphones with Mic (Raging Red Indi)"
+ },
+ {
+  "product_id": "NE-04245",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/boat/494623908/0/UQ75wYwYsp-yDWrRO7YBb-boAt-Nirvana-Ivy-Pro-TWS-494623908-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "boAt Nirvana Ivy Pro | 52dB ANC Earbuds with Dolby Head Tracking Ivory Gold"
  }
 ]
