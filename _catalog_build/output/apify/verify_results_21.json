@@ -1278,5 +1278,237 @@
   "confidence": "high",
   "source_domain": "houseofsujata.com",
   "matched_title": "Turquoise BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03081",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Jasper Chimney - Premium Chimney for Modern Kitchens | SUJATA"
+ },
+ {
+  "product_id": "NE-03082",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Jasper Chimney - Premium Chimney for Modern Kitchens | SUJATA"
+ },
+ {
+  "product_id": "NE-03083",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Jasper Chimney - Premium Chimney for Modern Kitchens | SUJATA"
+ },
+ {
+  "product_id": "NE-03084",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/2/a/c/1550-2023-263-filterless-59-5-azuritebldc-1549-sujata-original-imahmy9mpmzb5zmf.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Azurite BLDC90 1550 CMH 90 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03085",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Azurite.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Azurite BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03086",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/l/o/r/1550-2023-263-filterless-59-5-azuritebldc-1549-sujata-original-imahmy9m2cgfcdhu.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA AzuriteBLDC 1549 CMH 59.5 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03087",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Elegant and Efficient Pearl Kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03088",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/ANDROID/Default/2025/6/519173238/HG/ID/DA/9316894/product-jpeg.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Sujata Chimney Pearl 75/1350/12"
+ },
+ {
+  "product_id": "NE-03089",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/6/x/y/1350-2026-130-filterless-60-pearl-60-chimney-for-kitchen-chimney-original-imahmgkzswhabfug.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Pearl 60 Chimney for Kitchen 60cm Filter Less Auto Clean"
+ },
+ {
+  "product_id": "NE-03090",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2024/02/corallatest.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Discover Sleek and Powerful Coral Kitchen Chimney | House of Sujata"
+ },
+ {
+  "product_id": "NE-03091",
+  "keep": false,
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-Sujata-BLDC-Chimney-Coral-25-Ft--75-cm-1250-m3hr-1782312589852.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "CORAL Sujata Bldc Chimney 2.5 Ft / 75 Cm 1250 M3/hr"
+ },
+ {
+  "product_id": "NE-03092",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/SujataChimneyCoral60_1.png?v=1759651785",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Coral, 60 cm 1100m3/hr Autoclean Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03093",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/w/0/q/1250-2025-200-filterless-60-onyx-1250-sujata-original-imahhmbmzvem9d3z.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA ONYX 1250 CMH 60 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03094",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2025/06/jadenew.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Stylish & Durable Jade kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03095",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03096",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_cce9cf03-38a1-4c87-bf21-3097a85353b6.png?v=1759650919&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 78 cm (Palladium FB 4B78TP, Black)"
+ },
+ {
+  "product_id": "NE-03097",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/5/856848_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Sujata 4 Burner Automatic Gas Hobs Black (Palladium FB 4B60)"
+ },
+ {
+  "product_id": "NE-03098",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/SujataHobPalladiumFB3B60.png?v=1759650819&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 3 Burner 60 cm (Palladium FB 3B60, Black)"
+ },
+ {
+  "product_id": "NE-03099",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_5251921e-b851-49a6-bc42-d7a4433dde3b.png?v=1759650897&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 78 cm (Palladium FB 4B78CR, Black)"
+ },
+ {
+  "product_id": "NE-03100",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_a8ff8588-d424-43ed-a157-40b8958724b9.png?v=1759650897",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 86 cm (Palladium FB 4B86TP, Black)"
+ },
+ {
+  "product_id": "NE-03101",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_257556c2-7c3e-4357-9b90-2906b1894825.png?v=1760175794&width=823",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 90 cm (Palladium FB 4B90CR, Black)"
+ },
+ {
+  "product_id": "NE-03102",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_e0b15a65-7222-41c0-b9c1-648022156a6f.png?v=1759650496",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 5 Burner (Palladium FB 5B86, Black)"
+ },
+ {
+  "product_id": "NE-03103",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/SujataHobPalladiumFB3B78FFD.png?v=1759665936&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 3 Burner 78 cm (Palladium FB 3B78 FFD, Black)"
+ },
+ {
+  "product_id": "NE-03104",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/SujataHobPalladiumFB4B78TPFFD.png?v=1759649906",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 78 cm (Palladium FB 4B78TP FFD, Black)"
+ },
+ {
+  "product_id": "NE-03105",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_b0fa773a-c2d7-4b65-a87f-96aa94fd65be.png?v=1759928075",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 78 cm (Palladium FB 4B78CR FFD, Black)"
+ },
+ {
+  "product_id": "NE-03106",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_1c30d915-cd43-4639-afdd-2fdf40b4f4ae.png?v=1759665943",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 60 cm (Palladium FB 4B60 FFD, Black)"
+ },
+ {
+  "product_id": "NE-03107",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03108",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_55b08ce8-f5ed-4b9c-a279-c4932bccaec2.png?v=1759665783&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Hob, 4 Burner 90 cm (Palladium FB 4B90CR FFD, Black)"
+ },
+ {
+  "product_id": "NE-03109",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/7/530182869/SC/FU/IQ/248207270/5-burner-sujata-palladium-fb-5b86-ffd-built-in-hob.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Sujata Palladium FFD (5B86 FFD)"
  }
 ]
