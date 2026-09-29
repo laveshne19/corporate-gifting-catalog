@@ -1,0 +1,258 @@
+[
+ {
+  "product_id": "NE-03235",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw2804ffa5/images/hi-res/7/4391bd98ffd488a6_WIA004BK_BackQuarter_WEB_1.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "MagSafe Charger Pad | Magnetic Portable Charging Pad | Belkin"
+ },
+ {
+  "product_id": "NE-03237",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41aCIBKePRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin BoostCharge Pro 2-in-1 Wireless Charging Dock with MagSafe 15W - Charcoal WIZ020BTH36"
+ },
+ {
+  "product_id": "NE-11784",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03239",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfe21712a/images/hi-res/e/46b35efa2a31357e_WIZ019-BLK_MagSafe_BoostChargePro_2in1WirelessChargeDock_FrontView_Tilt-NoProduct_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Wireless Charging Pad with MagSafe (15W) | Belkin"
+ },
+ {
+  "product_id": "NE-03240",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw23ddbb4d/images/hi-res/NaN/ef6a3c07f5ce7b4_WIA008_BK_BoostChargePro_Magnetic_Qi2%20NPI_GTM_HERO-Phone_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Convertible Magnetic Wireless Charging Stand with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03241",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw784b55c7/images/hi-res/6/152404694_WIZ021ttBK_FPK_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11785",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03243",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw87b61cd5/images/hi-res/b/27bbb09790a8ee60_WIZ022ttWH_BoostCharger_3in1Pad_Hero1_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11786",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbbebaeae/images/hi-res/3/3cdab412a0984f09_WIZ022qcBK_BoostCharger_3in1Pad_Hero_withPSU_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03245",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd1189dca/images/hi-res/2/2c860def73daa7c7_WIZ022xxBK-B1_PortableUSB-C_AppleWatchCharger_PluggedIn_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Portable USB-C Apple Watch Charger | Belkin"
+ },
+ {
+  "product_id": "NE-11787",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03247",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw83520787/images/hi-res/1/33f75aaa4a5a0448_WIZ023dqBK-BoostCharge-Pro-3in1Stand-webgg-hero-01__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Charging Stand, Qi2 15W, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03248",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03249",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw10b71764/images/hi-res/c/44df4516af38de8e_WIZ026ttBK-boostcharge-pro-2in1-travelpad-webgg-hero-01__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Magnetic Charging Travel Pad with Qi2 15W"
+ },
+ {
+  "product_id": "NE-03250",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0bb39cc5/images/hi-res/NaN/dfb0a20500699ae4_belkin-wiz028ttbk-2in1-magnetic-foldable-wireless-charger-qi2-15W-web-gallery-02-us.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Foldable Qi2 Wireless Charging Station, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03251",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1478e27a/images/hi-res/4/2660f8df9e8c03ab_belkin-WIZ029zbWH-Magnetic-Foldable-Charger-webgallery-PSU06-v01-in.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Foldable Wireless Charger with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11788",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03253",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03254",
+  "keep": false,
+  "image_url": "https://s3.belkin.com/resources/img/overview/f7u096/F7U096_WHT_ZB_3_JY_FIN.jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "18W USB-C Charger - Fast Charge Power Delivery | Belkin"
+ },
+ {
+  "product_id": "NE-03255",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc640cf5f/images/hi-res/NaN/d11316997688d69_WCB006_DQ_DualUsbcPdWallCharger_Front_Angle_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Dual USB-C Power Delivery 3.0 Wall Charger 40W | Belkin CA"
+ },
+ {
+  "product_id": "NE-03256",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw82da2756/images/hi-res/b/235a76debbad1f60_WCA005ZB_Shot2_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Wall Charger - Dynamic, Fast, Compact Design | Belkin"
+ },
+ {
+  "product_id": "NE-03257",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw75c246db/images/hi-res/9/9c95295693eb96d_WCB009zbWH_%E2%80%8B42W_Wall_Charger_PKG01.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Dual Wall Charger 42W with USB-C + USB-A ports | Belkin"
+ },
+ {
+  "product_id": "NE-03258",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw2f0a4e32/images/hi-res/f/47db5e0c9b545eb1_WCB010_B7-ZB.1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Wall Charger with PPS 60W + 4-Port USB Power Extender | Belkin"
+ },
+ {
+  "product_id": "NE-03259",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbf699e28/images/hi-res/b/267da3a4d99060a9_WCH013_Belkin_65W%20Dual%20USB-C%20Wall%20Charger_ZB%2065W%2034%20WHITE_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Pro 65W Dual Port USB-C GaN Wall Charger | Belkin"
+ },
+ {
+  "product_id": "NE-03260",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03261",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Chargers%20and%20Batteries/Images/271261_0_eotlnt.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Belkin BoostCharge Pro 108W Type A and Type C 4 Port GaN Charger (White) - Croma"
+ },
+ {
+  "product_id": "NE-03262",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03263",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03264",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd6fb667c/images/hi-res/8/43496e1cd0f99e19_BUZ001-WHT_3quarters_Shot_02_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "4-Port USB Powered Extension Cable | Belkin"
+ },
+ {
+  "product_id": "NE-11789",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf0d48ee4/images/hi-res/d/3981cf3f5d1ec0e3_BUZ001-BLK_Hero_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "4-Port USB Powered Extension Cable | Belkin"
+ },
+ {
+  "product_id": "NE-03266",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/415364109/DO/JP/UG/60067075/belkin-dual-usb-c-gan-wall-charger-with-pps-65w-wch013zbwh-dy-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin Dual USB-C GaN Wall Charger with PPS 65W (WCH013ZBWH-DY)"
+ },
+ {
+  "product_id": "NE-03267",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/6/424853927/CI/JL/RX/200235177/belkin-x-marvel-ironman-edition-65w-gan-dual-usb-c-pd-3-0-fast-charger.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin X Marvel, Ironman Edition, 65W GaN Dual USB-C PD 3.0 Fast Charger"
+ }
+]

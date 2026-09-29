@@ -1022,5 +1022,493 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-02817",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Juicer/VTL-7700.jpg?updatedAt=1758881472494",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Powerful 550W Juicer Mixer Grinder - Blend, Mix, and Juice with Ease"
+ },
+ {
+  "product_id": "NE-02818",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/633905252/TL/QY/WY/31143669/skyline-hand-mixer-vtl-7041.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline hand mixer VTL 7041"
+ },
+ {
+  "product_id": "NE-02819",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/633909031/WQ/QJ/US/31143669/skyline-hand-blender-with-chopper-whisker-vtl-4050-ss.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Hand Blender with chopper & whisker VTL 4050 SS"
+ },
+ {
+  "product_id": "NE-02820",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/ChatGPTImageSep17_2025_06_22_09PM.png?v=1758113857",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Hand Blender with Chopper VTL-4060 SS"
+ },
+ {
+  "product_id": "NE-02821",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/633912221/QJ/EI/JD/31143669/skyline-hand-blender-with-ss-shaft-vtl-7042.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Hand Blender with SS Shaft VTL 7042"
+ },
+ {
+  "product_id": "NE-02822",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/VTL-3100.webp?v=1758187990",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Electric Madhani Big VTL-3100"
+ },
+ {
+  "product_id": "NE-02823",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/1500/1500/xif0q/butter-churn-maker/1/d/b/vtl-3200-stainless-steel-electric-madhani-lassi-machine-butter-original-imah9qgfywepz3fr.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Skyline VTL-3200 Stainless Steel Electric Madhani | Lassi Machine | Butter Maker"
+ },
+ {
+  "product_id": "NE-02824",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02825",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Chopper%20or%20Salad%20Maker/VTL-9045.jpg?updatedAt=1728903463967",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Chopper 300 Watts with 650ml Capacity"
+ },
+ {
+  "product_id": "NE-02826",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Chopper%20or%20Salad%20Maker/VTL-9047.jpg?updatedAt=1728903464170",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Electric Chopper 300 Watts with 700ml Capacity"
+ },
+ {
+  "product_id": "NE-02827",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71JDM9GmHHL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline meat and vegetable chopper VTL-9049 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02828",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02829",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635248450/GE/PN/DH/31143669/skyline-roti-maker-vtl-2828.jpeg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Roti Maker VTL-2828"
+ },
+ {
+  "product_id": "NE-02830",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/0953/7696/5953/files/02_2c7d4ba4-a44d-4e4e-af66-3617a98cf137.jpg?v=1776422976",
+  "confidence": "high",
+  "source_domain": "www.zebrs.com",
+  "matched_title": "Skyline VTL-2929 Stainless Steel Multi Maker 8.5"
+ },
+ {
+  "product_id": "NE-02831",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51h11cul6PL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline VTL-7076 Steam and Spray Iron with Burst Function 1200-Watt : Amazon.in"
+ },
+ {
+  "product_id": "NE-02832",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/2/583126157/ZF/VV/KK/227833403/skyline-vtl-1001-750-w-dry-iron.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL 1001 Dry Iron, 750 W"
+ },
+ {
+  "product_id": "NE-02833",
+  "keep": false,
+  "image_url": "https://skylineappliances.online/cdn/shop/files/VTL-1002.jpg?v=1744440630",
+  "confidence": "high",
+  "source_domain": "skylineappliances.online",
+  "matched_title": "Skyline Heavy Weight Dry Iron 1000W | Pro Finish"
+ },
+ {
+  "product_id": "NE-02834",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Irons/VTL-1003.jpg?updatedAt=1729155210459",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 1000W Lightweight Dry Iron | Non-Stick Soleplate & Instant Heating (VTL-1003)"
+ },
+ {
+  "product_id": "NE-02835",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Insect%20Killer/VTL-8005.jpg?updatedAt=1728718402034",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 43W Insect Killer - 2ft (VTL-8005)"
+ },
+ {
+  "product_id": "NE-02836",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Insect%20Killer/VTL-8004.jpg?updatedAt=1728718402390",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Insect Killer with Dual 10W Tubes - 1.25 ft Effective Bug Zapper"
+ },
+ {
+  "product_id": "NE-02837",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585138718/UB/RT/XS/30950573/insect-killer-vtl-8002.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Insect killer VTL-8002"
+ },
+ {
+  "product_id": "NE-02838",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/2/583179488/MV/PR/UN/227833403/skyline-25-w-insect-killer.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL 8003 Insect Killer"
+ },
+ {
+  "product_id": "NE-02839",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585145674/JE/VK/WH/30950573/insect-killer-vtl-8004.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Insect killer VTL-8004"
+ },
+ {
+  "product_id": "NE-02840",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51GgTvE2YqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Portable Garment Steamer VTL-5103 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02841",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/2/583189458/MH/WC/SI/227833403/skyline-vtl-5102-1000-w-portable-garment-steamer.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL 5102 Portable Garment Steamer, 1000 W"
+ },
+ {
+  "product_id": "NE-02842",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51e1fVs++uL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Portable Garment Steamer, 1200W, Fast Heat-Up, 100ml Tank : Amazon.in"
+ },
+ {
+  "product_id": "NE-02843",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/1_dda20d9c-54a2-431d-964a-2663f43ff833.png?v=1744100564",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline 1700 Watts Garment Steamer, Black - VTL-5200"
+ },
+ {
+  "product_id": "NE-02844",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/634983518/PS/JR/SX/31143669/q1.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Garment Steamer with Double Rod VTL 5300"
+ },
+ {
+  "product_id": "NE-02845",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Steam Inhaler"
+ },
+ {
+  "product_id": "NE-02846",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/5_4c537c76-600a-41bc-9596-b06044b14483.png?v=1743925575",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline 700 Watts Hair Dryer with Cool Shot & Foldable Handle - VTL-8383"
+ },
+ {
+  "product_id": "NE-02847",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/10/456710760/CF/DW/NF/29652116/hairdryer.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL 8585 Hotel Hair Dryer"
+ },
+ {
+  "product_id": "NE-02848",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/1_56e3a2f4-d7b3-4627-81b3-64bf63f9879d.jpg?v=1743924006",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline Professional Hair Dryer, 2000 Watts AC Motor - VTL-7474"
+ },
+ {
+  "product_id": "NE-02849",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Hot Air Brush (3 in 1) VTL-7676 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02850",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Hair Straightener 35W (VTL-7272)"
+ },
+ {
+  "product_id": "NE-02851",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 35W Wet & Dry Hair Straightener (VTL-7575)"
+ },
+ {
+  "product_id": "NE-02852",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Straightener%20or%20Curler/VTL-7878.jpg?updatedAt=1728903598718",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 60W Wet & Dry 3-in-1 Hair Straightener, Curler & Crimper"
+ },
+ {
+  "product_id": "NE-02853",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635149826/AQ/FP/RX/31143669/skyline-hair-curler-vtl-8282.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Hair Curler VTL 8282"
+ },
+ {
+  "product_id": "NE-02854",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/ChatGPTImageFeb3_2026_05_43_17PM.png?v=1770120869",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "Skyline 25W Conical Hair Curler VTL-8181"
+ },
+ {
+  "product_id": "NE-02855",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/1_c42a2187-f424-4b57-9412-f0fe5c7a5ff0.png?v=1743765941",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline 1400 Watts Vacuum Cleaner with Suction & Blow Function - VTL-2525B"
+ },
+ {
+  "product_id": "NE-02856",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02857",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/zZTU0uhC1mqtH-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Skyline 800W 2-in-1 Stick & Handy Vacuum Cleaner, VTL-1050"
+ },
+ {
+  "product_id": "NE-02858",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41ea2ABBFiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline 800W Handheld Vacuum Cleaner VTL-1025 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02859",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585090693/DC/FO/UR/30950573/cyclonic-bagless-vacuum-clearner-vtl-3535.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "CYCLONIC BAGLESS VACUUM CLEARNER VTL-3535"
+ },
+ {
+  "product_id": "NE-02860",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585100909/XI/HU/ZZ/30950573/wet-and-dry-vacuum-clearner-vtl-2626.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "WET AND DRY VACUUM CLEARNER VTL-2626"
+ },
+ {
+  "product_id": "NE-02861",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2026/2/585693740/RU/YV/LS/30950573/skyline-skyglide-ceiling-fan.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "SKYLINE SKYGLIDE CEILING FAN, Induction Motor, 1200 MM 48 INCH"
+ },
+ {
+  "product_id": "NE-02862",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635418698/SY/UE/BA/31143669/skyline-ceiling-fan-24-600-mm-breeze.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Ceiling Fan 24 (600 MM) Breeze"
+ },
+ {
+  "product_id": "NE-02863",
+  "keep": false,
+  "image_url": "https://www.balajihomeessentials.com/cdn/shop/files/WhatsAppImage2026-04-12at5.54.11AM.jpg?v=1775987667",
+  "confidence": "high",
+  "source_domain": "www.balajihomeessentials.com",
+  "matched_title": "Skyline 12 Inch Desk/Table Fan (VTL-2444) | High-Speed Air Delivery"
+ },
+ {
+  "product_id": "NE-02864",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sky line All Purpose Fan, 12\" (300mm) : Amazon.in"
+ },
+ {
+  "product_id": "NE-02865",
+  "keep": false,
+  "image_url": "https://www.balajihomeessentials.com/cdn/shop/files/ChatGPTImageMay7_2026_09_27_45AM.png?v=1778160668",
+  "confidence": "high",
+  "source_domain": "www.balajihomeessentials.com",
+  "matched_title": "Skyline Chill Mate 9 Inch High Speed Table Fan | 225mm Portable Desk Fan"
+ },
+ {
+  "product_id": "NE-02866",
+  "keep": false,
+  "image_url": "https://skylineappliances.online/cdn/shop/files/BulletFan.jpg?v=1777545992",
+  "confidence": "high",
+  "source_domain": "skylineappliances.online",
+  "matched_title": "Skyline Bullet Farrata 16 Inch Fan - 2400 RPM"
+ },
+ {
+  "product_id": "NE-02867",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Fans/VTL-2111.jpg?updatedAt=1729163669623",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Fresh Air Fan(9\" / 225mm) VTL-2111"
+ },
+ {
+  "product_id": "NE-02868",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Fans/VTL-2333.jpg?updatedAt=1729163669776",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Fresh Air Fan(12\" / 300mm) VTL-2333"
+ },
+ {
+  "product_id": "NE-02869",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Skyline/VTL-2211.jpg?updatedAt=1735984505586",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Air Purifier | vtl-2211"
+ },
+ {
+  "product_id": "NE-02870",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635200452/SQ/KM/VM/31143669/skyline-quartz-heater-vtl-5053.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Quartz Heater VTL 5053"
+ },
+ {
+  "product_id": "NE-02871",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635203815/MK/FS/AH/31143669/skyline-halogen-heater-vtl-5056.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Halogen Heater VTL-5056"
+ },
+ {
+  "product_id": "NE-02872",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Sun Heater - Compact Radiant Warmth with 1000 Watts Power"
+ },
+ {
+  "product_id": "NE-02873",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/635206667/FM/HV/DW/31143669/skyline-fan-heater-vtl-5091.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline Fan Heater VTL-5091"
+ },
+ {
+  "product_id": "NE-02874",
+  "keep": false,
+  "image_url": "https://kitchenwarewala.in/wp-content/uploads/2026/02/SKYLINE-VTL-3500-4.webp",
+  "confidence": "high",
+  "source_domain": "kitchenwarewala.in",
+  "matched_title": "Skyline Portable Geyser 3000W Instant Water Heater (VTL-3500)"
+ },
+ {
+  "product_id": "NE-02875",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/10/456688794/MM/BM/ZX/29652116/immersion-water-heater-vtl-3300.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL 3300 Immersion Water Heater, 1000 W"
+ },
+ {
+  "product_id": "NE-02876",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Waterproof Immersion Water Heater - 1000W/1500W/2000W"
+ },
+ {
+  "product_id": "NE-02877",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.online",
+  "matched_title": "Skyline Double Wall Vacuum Bottle CLICK (file name Click.jpg, brand site)"
  }
 ]

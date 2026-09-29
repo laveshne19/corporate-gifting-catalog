@@ -510,5 +510,773 @@
   "confidence": "high",
   "source_domain": "swissmilitaryaudio.com",
   "matched_title": "SWISS CABLE - PVXAM"
+ },
+ {
+  "product_id": "NE-02978",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "swissmilitaryaudio.com",
+  "matched_title": "SWISS CABLE - PVXAC 3.1"
+ },
+ {
+  "product_id": "NE-02979",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02980",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02982",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02984",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02985",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02986",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02987",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02988",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/02/maestro-4-cr.jpg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "SUJATA Countertop Gas Stoves (maestro-4-cr.jpg)"
+ },
+ {
+  "product_id": "NE-02989",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/02/maestro-4.jpg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Maestro Glass Cooktop - Premium Toughened Glass Stove | SUJATA"
+ },
+ {
+  "product_id": "NE-02990",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/t/r/m/3-lpg-8-0-3b-maestro-manual-sujata-45-5-manual-original-imahmkzdxrpbzn3f.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Gas Stove 3 Burner 3B Maestro Manual"
+ },
+ {
+  "product_id": "NE-02991",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/02/stellar-4.jpg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Stellar Glass Cooktops - House of Sujata (stellar-4)"
+ },
+ {
+  "product_id": "NE-02992",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/607118780/WR/FJ/RP/188009060/sujata-premium-stellar-3-burners-gas-stove-heavy-duty-brass-burners-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Sujata Premium Stellar 3 Burners Gas Stove"
+ },
+ {
+  "product_id": "NE-02993",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/711bFuEpOQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Premium 4 Burner Gas Stove Glass Top Manual Ignition"
+ },
+ {
+  "product_id": "NE-02994",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71QVOv0ex6L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Gas Stove 4 Burner Glass Top Premium 4B AI"
+ },
+ {
+  "product_id": "NE-02995",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/u/o/h/3-lpg-16-15-3b-premium-manual-sujata-75-manual-enriched-3-original-imahm9xe9tfttmyt.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Gas Stove 3 Burner Premium Gas Stove Glass Manual"
+ },
+ {
+  "product_id": "NE-02996",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71iBvdUVR9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Premium Gas Stove Auto Ignition 3 Burners Glass Top"
+ },
+ {
+  "product_id": "NE-02997",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Premium 3B Neo | Sujata"
+ },
+ {
+  "product_id": "NE-02998",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61neKKXTWPL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Gas Stove 2 Burner Premium Gas Stove Glass Manual"
+ },
+ {
+  "product_id": "NE-02999",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/3_ea30233e-ce14-40be-9d83-5a2920acc7b5.jpg?v=1759666364&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Premium AI, 2 Burner Glass Top Auto Ignition"
+ },
+ {
+  "product_id": "NE-03000",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Cross Glass Cooktops - Stylish & Sturdy Cooking Range | SUJATA"
+ },
+ {
+  "product_id": "NE-03001",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11658",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Classic 3 Burner Gas Stove Glass Top"
+ },
+ {
+  "product_id": "NE-03008",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71kn7FxcM-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Regal Gas Stove 4 Burners Glass Top Manual Ignition"
+ },
+ {
+  "product_id": "NE-03009",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/k/q/z/3-lpg-9-5-3b-regal-m-sujata-75-manual-original-imahzfjrh53pz8hf.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Gas Stove 3 Burner (3B Regal M) Glass Manual"
+ },
+ {
+  "product_id": "NE-03010",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61CfwexhGsL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Regal Gas Stove 2 Burners Glass Top"
+ },
+ {
+  "product_id": "NE-03011",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2024/02/deleux-4b-side.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Superior Style Deluxe Glass Cooktops | SUJATA (deleux-4b-side)"
+ },
+ {
+  "product_id": "NE-03012",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_82f80dd4-9f11-4c9f-a9bb-f9becfa8da70.png?v=1759661180&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Deluxe AI, 4 Burner Glass Top Auto Ignition"
+ },
+ {
+  "product_id": "NE-03013",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71QpO0rNu1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Deluxe 3 Burner Gas Stove Glass Top (Black)"
+ },
+ {
+  "product_id": "NE-03014",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_719a4fa8-353d-47da-b6bb-24f9eb5d97c5.png?v=1759666277",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Deluxe AI, 3 Burner Glass Top Auto Ignition"
+ },
+ {
+  "product_id": "NE-03015",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Deluxe Gas Stove 2 Burner Manual Ignition"
+ },
+ {
+  "product_id": "NE-03016",
+  "keep": false,
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-Sujata-Gas-Stove-Deluxe-2-Burner-1747807798720.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "Sujata Gas Stove Deluxe 2 Burner Auto Ignition Lpg"
+ },
+ {
+  "product_id": "NE-03017",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71r2ccK0ITL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Standard Gas Stove 4 Burners Glass Top Manual"
+ },
+ {
+  "product_id": "NE-03018",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Standard Gas Stove 4 Burners Glass Top Auto Ignition"
+ },
+ {
+  "product_id": "NE-03019",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/7/2/b/3-lpg-9-5-sujata-standard-3b-sujata-68-5-manual-original-imahh4fbyzp5daj9.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA STANDARD-3B Glass Manual Gas Stove"
+ },
+ {
+  "product_id": "NE-03020",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03021",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/7/530448367/UD/WW/WT/248207270/standard-2b-side.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "2 Burner Sujata Standard Manual Ignition Cook Top"
+ },
+ {
+  "product_id": "NE-03022",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/3_800e917a-2ae1-4ad4-b614-0a66ca81f2de.png?v=1759660232&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Standard AI, 2 Burner Glass Top Auto Ignition"
+ },
+ {
+  "product_id": "NE-03023",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03024",
+  "keep": false,
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Sujata_Robusto_4B_Cooktop_Gas_Stove_Silver_2.jpg?v=1779873206&width=1214",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Sujata Robusto 4B Cooktop Gas Stove - Silver"
+ },
+ {
+  "product_id": "NE-03025",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71QRoZxvmuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Robusto Gas Stove 4 Burners Steel Body Auto Ignition"
+ },
+ {
+  "product_id": "NE-03026",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/579100363/WN/MQ/ZG/21397251/robusto-3b-front-500x500.webp",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Sujata Robusto 3-Burner Manual Gas Stove, Stainless Steel"
+ },
+ {
+  "product_id": "NE-03027",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71HnOM5UsML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Robusto Gas Stove 3 Burners Steel Auto Ignition"
+ },
+ {
+  "product_id": "NE-03028",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61VRhEVrHmL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Robusto Gas Stove 2 Burners Steel"
+ },
+ {
+  "product_id": "NE-03029",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Robusto Gas Stove 2 Burners Steel Auto Ignition"
+ },
+ {
+  "product_id": "NE-03030",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03031",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/5/856797_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Sujata 4 Burner Stainless Steel Automatic Gas Stove Silver (Sterno 4B AI)"
+ },
+ {
+  "product_id": "NE-03032",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/1/y/y/3-lpg-10-2-sterno-3b-sujata-78-manual-enriched-2-original-imahmgfmaffaebnh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Single Frame SS matte Finish Stainless Steel Manual Gas Stove (Sterno 3B)"
+ },
+ {
+  "product_id": "NE-03033",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03034",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/h/s/c/2-lpg-8-5-sterno-2b-sujata-63-manual-original-imahmgfm3hm2ndhu.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Single Frame SS matte Finish Stainless Steel Manual Gas Stove (Sterno 2B)"
+ },
+ {
+  "product_id": "NE-03035",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_5cb7c1b4-fbcc-4bc5-bac4-eb8cad7feaaf.png?v=1759659331&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Cooktop Sterno AI, 2 Burner Auto Ignition Stainless Steel"
+ },
+ {
+  "product_id": "NE-03036",
+  "keep": false,
+  "image_url": "https://kesariya.shop/wp-content/uploads/2026/07/6_17a6f7b2-dcac-4862-93d7-46723e9bf20b.png",
+  "confidence": "high",
+  "source_domain": "kesariya.shop",
+  "matched_title": "SUJATA GAS STOVE STERNO 2B PLUS"
+ },
+ {
+  "product_id": "NE-03037",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61rJFe6OoEL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Majestic 4 Burner Stove Steel Body Manual Ignition"
+ },
+ {
+  "product_id": "NE-03038",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/SujataMajestic4BAI.png?v=1759659146",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Majestic 4 Burner Gas Stove (Majestic 4B AI)"
+ },
+ {
+  "product_id": "NE-03039",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61avBa-gDFL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Majestic Gas Stove 3 Burners Steel Manual Ignition"
+ },
+ {
+  "product_id": "NE-03040",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/4/r/z/3-lpg-18-majestic-3b-ai-sujata-12-automatic-original-imahpg98zpc5xbkt.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Majestic 3 Burner Auto Ignition Gas Stove"
+ },
+ {
+  "product_id": "NE-03041",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/gas-stove/q/b/k/2-lpg-5-0-2b-majestic-manual-sujata-65-0-manual-original-imahm9tdfkhvwazh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA Majestic Manual Gas Stove 2 Burner"
+ },
+ {
+  "product_id": "NE-03042",
+  "keep": false,
+  "image_url": "https://kesariya.shop/wp-content/uploads/2026/07/SujataMajestic2BAI.png",
+  "confidence": "high",
+  "source_domain": "kesariya.shop",
+  "matched_title": "SUJATA GAS STOVE MAJESTIC 2B AI"
+ },
+ {
+  "product_id": "NE-03043",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/AMETHYST.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Sujata Amethyst BLDC Island Chimney (AMETHYST.png)"
+ },
+ {
+  "product_id": "NE-03044",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/EMERALD-90-PLUS.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Sujata Emerald Plus Island Chimney (EMERALD-90-PLUS.png)"
+ },
+ {
+  "product_id": "NE-03045",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Screenshot_10-3-2026_165334_.jpeg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Opal BLDC HS - House of Sujata"
+ },
+ {
+  "product_id": "NE-03046",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Screenshot_10-3-2026_165334_.jpeg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Opal BLDC HS - House of Sujata"
+ },
+ {
+  "product_id": "NE-03047",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Screenshot_10-3-2026_165334_.jpeg",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Opal BLDC HS - House of Sujata"
+ },
+ {
+  "product_id": "NE-03048",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03049",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03050",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03051",
+  "keep": false,
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Sujata_Diamond_90_cm_Filterless_Auto-Clean_BLDC_Motor_Kitchen_Chimney_Black_3.jpg?v=1780651553&width=1500",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Sujata Diamond 90 cm Filterless Auto-Clean BLDC Motor Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03052",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_bfe841ea-baca-4ae2-a495-601ecd2e6d1d.png?v=1759658766",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Diamond, 75 cm 1600 m3/hr Autoclean Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03053",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/3_980e024c-8547-474d-b2bc-bac58897b87e.png?v=1759658230&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Diamond, 60 cm 1500 m3/hr Autoclean Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03054",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/5_7e486204-eedd-4654-b991-295b58723805.png?v=1759658139&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Topaz, 90 cm 1350 m3/hr Autoclean Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03055",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Topaz Kitchen Chimney - Advanced Kitchen Ventilation | SUJATA"
+ },
+ {
+  "product_id": "NE-03056",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/5_7e486204-eedd-4654-b991-295b58723805.png?v=1759658139&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Topaz, 60 cm 1250 m3/hr Autoclean Kitchen Chimney"
+ },
+ {
+  "product_id": "NE-03057",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/QUARTZ-60-NNN.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Quartz BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03058",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71XOpJj4J5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Chimney for Kitchen 75cm (Quartz-Black)"
+ },
+ {
+  "product_id": "NE-03059",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/QUARTZ-60-NNN.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Quartz BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03060",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_33134556-9729-4fc5-b145-39698aab8c94.png?v=1759658072&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Ruby, 90 cm 1300 m3/hr Kitchen Chimney with BLDC Motor"
+ },
+ {
+  "product_id": "NE-03061",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/2_33134556-9729-4fc5-b145-39698aab8c94.png?v=1759658072&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Ruby, 75 cm 1250 m3/hr Kitchen Chimney with BLDC Motor"
+ },
+ {
+  "product_id": "NE-03062",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/z/6/z/1300-2025-110-filterless-60-sujata-ruby-60-1300-sujata-original-imahhbwszhpbryta.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA SUJATA_RUBY-60 1300 CMH 60 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03063",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/1/d/p/1450-2024-180-filterless-74-5-amber-90-1449-sujata-original-imahnyrvc3jrxgaz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA AMBER 90 1449 CMH Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03064",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/chimney/7/a/t/1449-2025-1450-filterless-75-amber75-1449-sujata-original-imahpqb5mz8gaht4.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SUJATA AMBER75 1449 CMH 75 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03065",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2025/11/amberchimney.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Amber Kitchen Chimney for Smoke-Free Cooking | SUJATA"
+ },
+ {
+  "product_id": "NE-03066",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Zircon-60-BLDC-side-scaled-1.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Zircon BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03067",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/6/969019_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Sujata Metallic Finish Wall Mounted 1750 CMH Chimney Grey (Zircon 75 BLDC)"
+ },
+ {
+  "product_id": "NE-03068",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sujata Chimney for Kitchen 60cm 1750 m3/hr (Zircon Grey)"
+ },
+ {
+  "product_id": "NE-03069",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2025/08/magmachmny.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Energy Efficient Magma BLDC Kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03070",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2025/08/magmachmny.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Energy Efficient Magma BLDC Kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03071",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2025/08/magmachmny.webp",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Energy Efficient Magma BLDC Kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03072",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03073",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03074",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03075",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Discover High-performance Sapphire Kitchen Chimney | SUJATA"
+ },
+ {
+  "product_id": "NE-03076",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_a199dfe2-b552-4faf-bc0e-e5787484e2df.png?v=1759655414",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Sujata Sapphire, 75 cm 1350 m3/hr Stainless Steel Kitchen Chimney with BLDC Motor"
+ },
+ {
+  "product_id": "NE-03077",
+  "keep": false,
+  "image_url": "https://www.gdsons.co.in/public/images/product/large/GD-sons-kitchen-Varanasi-Sujata-Chimney-Sapphire-2ft60cm-1400-m3hr-1773906099696.webp",
+  "confidence": "high",
+  "source_domain": "www.gdsons.co.in",
+  "matched_title": "Sujata Chimney Sapphire 2ft/60cm 1400 M3/hr"
+ },
+ {
+  "product_id": "NE-03078",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Turquoise.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Turquoise BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03079",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Turquoise.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Turquoise BLDC - House of Sujata"
+ },
+ {
+  "product_id": "NE-03080",
+  "keep": false,
+  "image_url": "https://houseofsujata.com/wp-content/uploads/2026/03/Turquoise.png",
+  "confidence": "high",
+  "source_domain": "houseofsujata.com",
+  "matched_title": "Turquoise BLDC - House of Sujata"
  }
 ]
