@@ -226,10 +226,10 @@
   {
     "product_id": "NE-07770",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/501044435/NZ/CC/AV/19328590/usha-rho-black-red-ceiling-fan.png",
-    "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "1200 mm Usha RHO Black Red Ceiling Fan, 3 Blades at \u20b9 9000/piece in Kolkata  | ID: 2855839367312"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07771",
@@ -266,10 +266,10 @@
   {
     "product_id": "NE-07776",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51rrAm1xaSL.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200MM Ultra High Speed 400RPM Ceiling Fan (Rich Brown)  Pack of 1 Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07777",
@@ -290,34 +290,34 @@
   {
     "product_id": "NE-07779",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://img-prd-pim.poorvika.com/product/Usha-Racer-Chrome-1200-mm-Ceiling-Fan-Rich-White-Bronze-03.png",
+    "confidence": "high",
+    "source_domain": "img-prd-pim.poorvika.com",
+    "matched_title": "Shop Usha Racer Chrome 1200mm Ceiling Fan, Rich White Bronze"
   },
   {
     "product_id": "NE-07780",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61eSJ346KvL.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200MM Ultra High Speed 400RPM Ceiling Fan (Rich  White Bronze) Pack of 1 Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07781",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/41ynY7B8A5L.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07782",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07783",
@@ -330,18 +330,18 @@
   {
     "product_id": "NE-07784",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51j+qb8RCvL.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  ..."
   },
   {
     "product_id": "NE-07785",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51rrAm1xaSL.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200MM Ultra High Speed 400RPM Ceiling Fan (Rich Brown)  Pack of 1 Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07786",
@@ -354,10 +354,10 @@
   {
     "product_id": "NE-12202",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/41WZNvs5ppL.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Rich White Bronze) Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07788",
@@ -370,10 +370,10 @@
   {
     "product_id": "NE-07789",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/311970_5_iECWia-z9.png?updatedAt=1766491045302",
+    "confidence": "high",
+    "source_domain": "media.tatacroma.com",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 3 Blade Ultra High Speed Ceiling Fan (Low  Voltage, Smoke Brown) Online - Croma"
   },
   {
     "product_id": "NE-07790",
@@ -386,10 +386,10 @@
   {
     "product_id": "NE-07791",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/JE/MB/ES/10429723/usha-racer-chrome-smoke-brown-ceiling-fan.png",
+    "image_url": "https://m.media-amazon.com/images/I/51j+qb8RCvL.jpg",
     "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "Usha Racer Chrome Smoke Brown Ceiling Fan, 400 RPM at \u20b9 2735/piece in  Ghaziabad"
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Racer Chrome 1200mm 50 Watt Energy Efficient 1 Star Rated Power  Saving High Speed Decorative Ceiling Fan (Smoke Brown) Pack of 1 Online at  ..."
   },
   {
     "product_id": "NE-07792",
@@ -730,10 +730,10 @@
   {
     "product_id": "NE-07834",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61XdPEhDGFL.jpg",
+    "image_url": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75,format=auto/product/usha-striker-mill-r-1200-mm-ceiling-fan-dark-brown-specs-05.png",
     "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Dark Brown| Online  ..."
+    "source_domain": "img-prd-pim.poorvika.com",
+    "matched_title": "Get Usha Striker Mill R 1200 mm Ceiling Fan | Dark Brown"
   },
   {
     "product_id": "NE-07835",
@@ -746,18 +746,18 @@
   {
     "product_id": "NE-07836",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61y3hqbCwNL.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan (Pearl White) Online at Low Prices in  India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07837",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61y3hqbCwNL.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan (Pearl White) Online at Low Prices in  India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07838",
@@ -858,10 +858,10 @@
   {
     "product_id": "NE-07850",
     "keep": false,
-    "image_url": "https://rukminim3.flixcart.com/image/480/640/k8ho0i80/fan/2/w/c/striker-platinum-metallic-brown-set-of-2-80-ceiling-fan-1200-original-imafqhxsydfmrfyg.jpeg?q=20",
-    "confidence": "high",
-    "source_domain": "rukminim3.flixcart.com",
-    "matched_title": "USHA Striker Platinum (Metallic Brown) set of 2 with 24 Months Warranty 1200  mm Ceiling Fan Price in India - Buy USHA Striker Platinum (Metallic Brown)  set of 2 with 24 Months"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07851",
@@ -874,42 +874,42 @@
   {
     "product_id": "NE-07852",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/521387227/IT/ZQ/XV/160862748/usha-striker-platinum-dove-grey-ceiling-fan.jpg",
-    "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "1200 mm Usha Striker Platinum Dove Grey Ceiling Fan, 385 RPM, 3 Blades at \u20b9  5200/piece in Pondicherry"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07853",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61cLiLl2Z8L.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust Resistant Decorative Ceiling Fan |1star| ISI Certified ||Pearl White||Lavender"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07854",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |New Carbon Grey|  Online at Low Prices in India - Amazon.in"
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07855",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/521387227/IT/ZQ/XV/160862748/usha-striker-platinum-dove-grey-ceiling-fan.jpg",
-    "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "1200 mm Usha Striker Platinum Dove Grey Ceiling Fan, 385 RPM, 3 Blades at \u20b9  5200/piece in Pondicherry"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07856",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51YWbiFLI4L.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy Usha Striker Platinum 1200mm 80-Watt Goodbye Dust Ceiling Fan with Anti  Dust Feature (Pearl White Chrome) Online at Low Prices in India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07857",
@@ -922,10 +922,10 @@
   {
     "product_id": "NE-07858",
     "keep": false,
-    "image_url": "https://rukminim3.flixcart.com/image/480/640/k8ho0i80/fan/2/w/c/striker-platinum-metallic-brown-set-of-2-80-ceiling-fan-1200-original-imafqhxsydfmrfyg.jpeg?q=20",
-    "confidence": "high",
-    "source_domain": "rukminim3.flixcart.com",
-    "matched_title": "USHA Striker Platinum (Metallic Brown) set of 2 with 24 Months Warranty 1200  mm Ceiling Fan Price in India - Buy USHA Striker Platinum (Metallic Brown)  set of 2 with 24 Months"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07859",
@@ -938,10 +938,10 @@
   {
     "product_id": "NE-07860",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61xt+CVNzhL.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Dark Brown| Online  ..."
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07861",
@@ -954,10 +954,10 @@
   {
     "product_id": "NE-07862",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61HAyfzkjpL.jpg",
+    "image_url": "https://img-prd-pim.poorvika.com/cdn-cgi/image/width=1600,height=1600,quality=75,format=auto/product/usha-striker-mill-r-1200-mm-ceiling-fan-dark-brown-specs-02.png",
     "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Millennium 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Fariar Grey| Online  at Low Prices in India - Amazon.in"
+    "source_domain": "img-prd-pim.poorvika.com",
+    "matched_title": "Get Usha Striker Mill R 1200 mm Ceiling Fan | Dark Brown"
   },
   {
     "product_id": "NE-07863",
@@ -970,10 +970,10 @@
   {
     "product_id": "NE-07864",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61cLiLl2Z8L.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust Resistant Decorative Ceiling Fan |1star| ISI Certified ||Pearl White||Lavender"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07865",
@@ -1001,11 +1001,11 @@
   },
   {
     "product_id": "NE-07868",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |New Carbon Grey|  Online at Low Prices in India - Amazon.in"
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07869",
@@ -1034,10 +1034,10 @@
   {
     "product_id": "NE-07872",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51YWbiFLI4L.jpg",
-    "confidence": "high",
-    "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy Usha Striker Platinum 1200mm 80-Watt Goodbye Dust Ceiling Fan with Anti  Dust Feature (Pearl White Chrome) Online at Low Prices in India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07873",
@@ -1146,50 +1146,50 @@
   {
     "product_id": "NE-07886",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/ECOM/Default/2023/3/293937398/MA/UP/PK/21569105/byv6qey3f6q2k-xxlarge-500x500.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
     "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "Usha Striker 600 70W Matte Brown 4 Blades Ceiling Fan, Sweep: 600 mm, Usha  Fan, Usha Swift Ceiling Fan, Usha Electric Ceiling Fan, \u0909\u0937\u093e \u0938\u0940\u0932\u093f\u0902\u0917 \u092b\u0948\u0928\u094d\u0938,  \u0909\u0937\u093e \u0915\u093e \u091b\u0924 \u0915\u093e \u092a\u0902\u0916\u093e -"
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07887",
     "keep": false,
-    "image_url": "https://rathnacools.com/wp-content/uploads/2024/12/usha-48-striker-1-star-ceiling-fan-rich-brown.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
     "confidence": "high",
-    "source_domain": "rathnacools.com",
-    "matched_title": "USHA 48 Inch, STRIKER 1 STAR, CEILING FAN, RICH BROWN -"
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07888",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51C64rgeUhL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/31.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "usha striker 600mm ceiling fan white usha price online Price O | Shop The  World"
+    "matched_title": "Buy USHA Striker 1200mm Ceiling Fan (Rich White) | High Speed | High Air  Delivery with 100% Copper Motor | for Home & Office | 24 Months Warranty  Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07889",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/6148c1BF08L.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/31.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy Usha Striker High Speed 400mm Pedestal Fan (White) Online at Low Prices  in India - Amazon.in"
+    "matched_title": "Buy USHA Striker 1200mm Ceiling Fan (Rich White) | High Speed | High Air  Delivery with 100% Copper Motor | for Home & Office | 24 Months Warranty  Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07890",
-    "keep": false,
-    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41KC9x0N5eL.jpg",
+    "keep": true,
+    "image_url": null,
     "confidence": "high",
-    "source_domain": "images-eu.ssl-images-amazon.com",
-    "matched_title": "Buy Usha 900MM Striker W/O REG BR CF 900 mm 3 Blade Ceiling Fan (Brown,  Pack of 4) Online at Low Prices in India - Amazon.in"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Striker 1200mm Ceiling Fan Without Regulator (Matt Brown) : Amazon.in:  Home & Kitchen"
   },
   {
     "product_id": "NE-07891",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41B8agtbvaL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51ypZMfVFbL.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Hi Speed 400mm Table Fan (White) Online at Low Prices in  India - Amazon.in"
+    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Pearl White| Online  at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07892",
@@ -1218,10 +1218,10 @@
   {
     "product_id": "NE-07896",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/21654oyfJzL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/41QXLcXOSAL.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Usha Striker Hi-Speed 400 mm 3 Blades Wall Fan (White): Buy Online at Best  Price in UAE - Amazon.ae"
+    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Pearl White| Online  at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07897",
@@ -1242,34 +1242,34 @@
   {
     "product_id": "NE-07899",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/ECOM/Default/2023/3/293937398/MA/UP/PK/21569105/byv6qey3f6q2k-xxlarge-500x500.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
     "confidence": "high",
-    "source_domain": "5.imimg.com",
-    "matched_title": "Usha Striker 600 70W Matte Brown 4 Blades Ceiling Fan, Sweep: 600 mm, Usha  Fan, Usha Swift Ceiling Fan, Usha Electric Ceiling Fan, \u0909\u0937\u093e \u0938\u0940\u0932\u093f\u0902\u0917 \u092b\u0948\u0928\u094d\u0938,  \u0909\u0937\u093e \u0915\u093e \u091b\u0924 \u0915\u093e \u092a\u0902\u0916\u093e -"
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07900",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/6148c1BF08L.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/31.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy Usha Striker High Speed 400mm Pedestal Fan (White) Online at Low Prices  in India - Amazon.in"
+    "matched_title": "Buy USHA Striker 1200mm Ceiling Fan (Rich White) | High Speed | High Air  Delivery with 100% Copper Motor | for Home & Office | 24 Months Warranty  Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07901",
     "keep": false,
-    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41KC9x0N5eL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
     "confidence": "high",
-    "source_domain": "images-eu.ssl-images-amazon.com",
-    "matched_title": "Buy Usha 900MM Striker W/O REG BR CF 900 mm 3 Blade Ceiling Fan (Brown,  Pack of 4) Online at Low Prices in India - Amazon.in"
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07902",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41B8agtbvaL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51ypZMfVFbL.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Hi Speed 400mm Table Fan (White) Online at Low Prices in  India - Amazon.in"
+    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Pearl White| Online  at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07903",
@@ -1282,10 +1282,10 @@
   {
     "product_id": "NE-07904",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41B8agtbvaL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/31.jpg",
     "confidence": "high",
     "source_domain": "m.media-amazon.com",
-    "matched_title": "Buy USHA Striker Hi Speed 400mm Table Fan (White) Online at Low Prices in  India - Amazon.in"
+    "matched_title": "Buy USHA Striker 1200mm Ceiling Fan (Rich White) | High Speed | High Air  Delivery with 100% Copper Motor | for Home & Office | 24 Months Warranty  Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07905",
@@ -1298,10 +1298,10 @@
   {
     "product_id": "NE-07906",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07907",
@@ -1346,10 +1346,10 @@
   {
     "product_id": "NE-12207",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51TtJunR8ML.jpg",
+    "confidence": "high",
+    "source_domain": "m.media-amazon.com",
+    "matched_title": "Buy USHA Striker Millennium Ceiling Fan 48\" , Coffee Brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-12208",
