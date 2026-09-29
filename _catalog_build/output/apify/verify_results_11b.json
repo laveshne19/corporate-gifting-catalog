@@ -1278,5 +1278,141 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "Oppo F31 Pro 5G (Space Grey, 8GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10887",
+  "keep": false,
+  "image_url": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/o/p/oppo_f31-gemstone_blue-2_1.png",
+  "confidence": "high",
+  "source_domain": "www.bigcmobiles.com",
+  "matched_title": "Oppo F31 Pro Plus 5G (12GB/256GB | Gemstone Blue)"
+ },
+ {
+  "product_id": "NE-10888",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61PkorSXDwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F33 5G Smartphone (6GB RAM, 128GB Storage, Forest Green)"
+ },
+ {
+  "product_id": "NE-10889",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792827/0/sme08AxZrj-z-Q-pl6Ul-OPPO-F33-5G-MP-494792827-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 5G Pearl White 128GB 8GB"
+ },
+ {
+  "product_id": "NE-10890",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792826/0/mV60_MtcxN-b7l48Rjm0-OPPO-F33-5G-MP-494792826-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 5G Pearl White 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10891",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F33 Pro 5G Smartphone (8GB RAM, 128GB Storage, Passion Red)"
+ },
+ {
+  "product_id": "NE-10892",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792835/0/Vnr1aZ3a87-Isd_YbdaK-OPPO-F33-Pro-5G-MP-494792835-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 Pro 5G Misty Forest 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10893",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41ZHA6VZTpL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14 5G Smartphone, ICY Blue, 6GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10894",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/oppo/494743533/0/JUDhr0Umgr-F5n-R7N3s-OPPO-K14-5G-MP-494743533-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO K14 5G Prism Violet 256GB 6GB"
+ },
+ {
+  "product_id": "NE-10895",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/oppo/494793669/0/ixK-DK2qaT-GbeJUO9r4-01.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO K14 5G 256 GB, 8 GB RAM, Prism Violet, Mobile Phone"
+ },
+ {
+  "product_id": "NE-10896",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61wEl1TXntL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G (ICY Blue, 4GB RAM, 64GB)"
+ },
+ {
+  "product_id": "NE-10897",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G Smartphone, Prism Violet, 4GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10898",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41oBBR5Kw6L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G Icy Blue 128GB 6GB"
+ },
+ {
+  "product_id": "NE-10899",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/316431_7_DU7o-HDzTz.png?updatedAt=1758555893736",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo Reno 14 5G (8GB RAM, 256GB, Forest Green)"
+ },
+ {
+  "product_id": "NE-10900",
+  "keep": false,
+  "image_url": "https://miamicenters.com/wp-content/uploads/2026/01/oppo-reno-15-1.webp",
+  "confidence": "high",
+  "source_domain": "miamicenters.com",
+  "matched_title": "Oppo Reno 15 256/12GB 5G Aurora White"
+ },
+ {
+  "product_id": "NE-10901",
+  "keep": false,
+  "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/j/8/4/-original-imahjgt2gbtgheym.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Oppo Reno15 5G Twilight Blue 512GB 12GB"
+ },
+ {
+  "product_id": "NE-10902",
+  "keep": false,
+  "image_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/specs/reno15/blue-darkblue-white.png",
+  "confidence": "high",
+  "source_domain": "www.oppo.com",
+  "matched_title": "OPPO Reno15 5G Specs | OPPO Global"
+ },
+ {
+  "product_id": "NE-10903",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71VWcXhbWAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo Reno15Pro 5G (Sunset Gold 12GB RAM, 256GB Storage)"
  }
 ]
