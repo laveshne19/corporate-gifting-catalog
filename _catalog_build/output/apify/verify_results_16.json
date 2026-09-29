@@ -34,8 +34,8 @@
  {
   "product_id": "NE-11332",
   "keep": false,
-  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/2/587467713/GS/CI/SB/24324119/screenshot-2026-02-27-142646.jpg",
-  "confidence": "high",
+  "image_url": null,
+  "confidence": null,
   "source_domain": "www.indiamart.com",
   "matched_title": "Silicon PORTRONICS POR 2719 SILKLINK, 1 m"
  },
@@ -82,8 +82,8 @@
  {
   "product_id": "NE-11355",
   "keep": false,
-  "image_url": "https://newmarketkart-images.s3.ap-south-1.amazonaws.com/product/images/KlX23bQly6EMWwvfomPuwyLY1fa7W0gMJTbJcaCW.webp",
-  "confidence": "high",
+  "image_url": null,
+  "confidence": null,
   "source_domain": "newmarketkart.com",
   "matched_title": "Portronics Konnect View 27W Lightning Fast charging Cable POR 2052"
  },

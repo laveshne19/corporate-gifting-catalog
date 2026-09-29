@@ -766,5 +766,261 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "realme 16 5G Smartphone 8+128GB White"
+ },
+ {
+  "product_id": "NE-10823",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61rcHXhcbwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 8GB+256GB Black"
+ },
+ {
+  "product_id": "NE-10824",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71GU3g-JciL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 12+256GB Air White"
+ },
+ {
+  "product_id": "NE-10825",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717ybYoXm0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G Smartphone 8GB+128GB Gold"
+ },
+ {
+  "product_id": "NE-10826",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61Ba1I478vL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G ( Pebble Grey, 8GB-256GB )"
+ },
+ {
+  "product_id": "NE-10827",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/610hm1pYIJL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G Smartphone 12GB+256GB Grey"
+ },
+ {
+  "product_id": "NE-10828",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/418Wo9+hZYL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4 Lite Smartphone, 4GB RAM, 64GB Storage, Sea Blue"
+ },
+ {
+  "product_id": "NE-10829",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494792761/0/YOXKg_y1db-XhhCxffqn-realme-P4-Lite-5G494792761-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme P4 Lite 5G ( Mosaic Blue, 4GB-128GB )"
+ },
+ {
+  "product_id": "NE-10830",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/realme/494792764/0/Z_uWklP5TJ-DdRYbQisS-realme-P4-Lite-5G494792764-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Buy Realme P4 Lite 5G 128 GB, 6 GB RAM, Mosaic Green"
+ },
+ {
+  "product_id": "NE-10831",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/416oZEFwwlL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4R 5G Smartphone Titanium Glare 4 GB RAM 128 GB"
+ },
+ {
+  "product_id": "NE-10832",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/realme/494832433/0/OvXqd5ad3j-Wm7nGpL7Y-RealmeP4R5G-494832433-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme P4R 5G (6GB RAM, 128GB, Silver Glare)"
+ },
+ {
+  "product_id": "NE-10833",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31MLy1I5XkL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4R 5G Smartphone, Silver Glare, 256 GB, 6 GB RAM"
+ },
+ {
+  "product_id": "NE-10834",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71whuLrNYML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4 Power 5G Smartphone, Trans Silver, 8GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10835",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320980_0_HjMYUdmTI.png?updatedAt=1770191121920",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "realme P4 Power 5G (8GB RAM, 256GB, Trans Orange)"
+ },
+ {
+  "product_id": "NE-10836",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494832843/0/lDki0t1BQj-Qm8_M30XV-Realme-P4-Power-5G-494832843-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "realme P4 Power 5G (12GB RAM, 256GB, Trans Orange)"
+ },
+ {
+  "product_id": "NE-10837",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Shark 2 (Aurora Gold, 4 GB RAM, 64 GB Storage)"
+ },
+ {
+  "product_id": "NE-10838",
+  "keep": false,
+  "image_url": "https://hotfixapi.lavamobiles.com/storage/media/images/product-gallery/image_path/smart-4-img-1-1785229115.webp",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Smart 4"
+ },
+ {
+  "product_id": "NE-10839",
+  "keep": false,
+  "image_url": "https://www.lavamobiles.com/smartphones/star-3/img/star-3-color-indus-black.jpg",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Star 3"
+ },
+ {
+  "product_id": "NE-10840",
+  "keep": false,
+  "image_url": "https://hotfixapi.lavamobiles.com/storage/media/images/product-gallery/image_path/smart-4-plus-img-1-1782575418.webp",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Smart 4 Plus"
+ },
+ {
+  "product_id": "NE-10841",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/3/934771_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Yuva Smart 3 64 GB Storage Kolar Gold (3 GB RAM)"
+ },
+ {
+  "product_id": "NE-10842",
+  "keep": false,
+  "image_url": "https://www.lavamobiles.com/smartphones/shark-2-5g/img/shark-2-5g-color1.jpg",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Shark 2 5G"
+ },
+ {
+  "product_id": "NE-10843",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Lava-shark-2-5g-sonar-gold-4gb-64gb-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "poorvika.com",
+  "matched_title": "Explore Shark 2 5G Sonar Gold 4GB/64GB"
+ },
+ {
+  "product_id": "NE-10844",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/mobile/d/u/o/duo-2-lxx518-lava-original-imahkvmq2m2tqb5g.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA DUO 2 (256 GB Storage, 8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10845",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/5180s4x0XXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Blaze Duo 3 5G (Moonlight Black, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10846",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/0/802561_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Blaze Dragon 5G 128 GB Storage Midnight Mist (4 GB RAM)"
+ },
+ {
+  "product_id": "NE-10847",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/1500/1500/xif0q/mobile/b/e/q/blaze-dragon-5g-blaze-dragon-5g-lava-resized-original-imahg3gejghxhwjx.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze Dragon 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10848",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/mobile/s/i/9/amoled-amoled-lava-original-imahbkhggwfnnzch.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze Amoled (128 GB Storage, 4 GB RAM)"
+ },
+ {
+  "product_id": "NE-10849",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/9/498937_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Blaze Amoled 5G 128 GB Storage Sapphire Blue (6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10850",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/mobile/u/q/h/play-ultra-5g-play-ultra-5g-lava-resized-original-imahgeztc3ehbg9q.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Play Ultra 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10851",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/p/l/play-ultra-5g_arctic_frost_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Play Ultra 128GB Storage Arctic Frost (8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10852",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/1500/1500/xif0q/mobile/b/v/8/blaze-amoled-2-5g-lxx523-lava-resized-original-imahhg8h5necwwg6.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze AMOLED 2 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10853",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Play Max 5G (Deccan Black, 6+6*GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10854",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61jPa4mC6eL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Play Max 5G (Deccan Black, 8+8*GB RAM, 128GB Storage)"
  }
 ]
