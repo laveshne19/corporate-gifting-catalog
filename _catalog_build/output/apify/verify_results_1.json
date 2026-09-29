@@ -1226,34 +1226,34 @@
  {
   "product_id": "NE-00248",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/w/1/5/2024-shield-series-aerono-iwh-1l-3kw-3000-bajaj-1-original-imah7ghfxhfrhggz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Shield Series Aerono IWH 1L 3KW 1 L Instant Water Geyser"
  },
  {
   "product_id": "NE-00009",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/h/v/3/2024-shield-series-aerono-iwh-1l-4-5kw-4500-bajaj-1-original-imah7ggyhdhpasxs.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Shield Series Aerono IWH 1L 4.5KW 1 L Instant Water Geyser"
  },
  {
   "product_id": "NE-00010",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/bajaj/494426479/5/V5t0UyoAl_-LU2cYHgaih-1st-PDP.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Bajaj Shield Series Aerono Iwh 3l 3kw 3 L Instant Water Geyser"
  },
  {
   "product_id": "NE-00011",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/81ke+OVOQuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Shield Series Aerono 3L 4.5KW Instant Water Heater Geyser"
  },
  {
   "product_id": "NE-00252",

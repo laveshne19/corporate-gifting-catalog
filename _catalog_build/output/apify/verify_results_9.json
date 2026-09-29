@@ -1129,11 +1129,11 @@
  },
  {
   "product_id": "NE-02335",
-  "keep": true,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": "neverowned.in",
-  "matched_title": "Haier 8.5KG 5 Star HWM85-H326BK:NOIDA Black Fully Automatic Top Load Washing Machine (same file 321495_0_53R0sO40t)"
+  "keep": false,
+  "image_url": "https://vasanthandco.in/UploadedFiles/productimages/20260910061055-321495_0_53R0sO40t-copy.png",
+  "confidence": "high",
+  "source_domain": "vasanthandco.in",
+  "matched_title": "Buy Haier 8.5KG 5 Star HWM85-H326BK NOIDA Black Fully Automatic Top Load Washing Machine"
  },
  {
   "product_id": "NE-02338",
@@ -1305,57 +1305,51 @@
  },
  {
   "product_id": "NE-02374",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier 8.5 kg Semi Automatic Top Load Washing Machine (htw85-186bbk)"
  },
  {
   "product_id": "NE-02375",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier HTW85-186 Washing Machine"
  },
  {
   "product_id": "NE-02376",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier 8 kg Semi Automatic Top Load Washing Machine White (htw80-178, same image id imahg4gfsfpcpxsd)"
  },
  {
   "product_id": "NE-02377",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://bercomall.com/productpic/32681.jpg",
+  "confidence": "high",
+  "source_domain": "bercomall.com",
+  "matched_title": "HAIER W/M (HTW80-196BR)"
  },
  {
   "product_id": "NE-02378",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/71LjZhODDWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 8 kg 5 Star Vortex pulsator Semi Automatic Top Load Washing Machine (HTW80-186, Burgundy)"
  },
  {
   "product_id": "NE-02388",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://m.media-amazon.com/images/I/71LW8o49GWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 7 Kg 5 Star Semi Automatic Top Load Washing Machine (HTW70-1187BTN, Burgundy)"
  },
  {
   "product_id": "NE-02389",

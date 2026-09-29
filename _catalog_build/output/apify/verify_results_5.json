@@ -1310,5 +1310,37 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "OTEK NanoStrike 34-Inch Curved Gaming Monitor, 180Hz, WQHD"
+ },
+ {
+  "product_id": "NE-01066",
+  "keep": false,
+  "image_url": "https://rukminim2.flixcart.com/image/832/832/xif0q/water-geyser/t/p/8/-original-imahj26ubpj9htyj.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Symphony Swish 3L Instant Water Geyser (White)"
+ },
+ {
+  "product_id": "NE-01069",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/8/q/u/-original-imahgypbpegpfd9z.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Symphony Sypher 15 L Storage Water Geyser 5 Star BEE Energy Rating - Flipkart"
+ },
+ {
+  "product_id": "NE-00086",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Castle Welspun Linen Cotton Double Flat 105 TC Printed 1 Bedsheet with 2 Pillow Covers"
+ },
+ {
+  "product_id": "NE-00087",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "WELSPUN ULTIMA Cotton, Cotton Blend Double Flat 190 TC Printed 1 Bedsheet with 2 Pillow Covers"
  }
 ]

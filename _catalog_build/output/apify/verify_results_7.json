@@ -1449,11 +1449,11 @@
  },
  {
   "product_id": "NE-01459",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Delta 900 PU Insulated Water Bottle 705 ml Blue"
  },
  {
   "product_id": "NE-01589",
@@ -1474,10 +1474,10 @@
  {
   "product_id": "NE-01591",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/41BKlzoXotL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Puro Steel-X Felix 600 Inner Steel Insulated Water Bottle 490ml, Pestal Grey"
  },
  {
   "product_id": "NE-01460",

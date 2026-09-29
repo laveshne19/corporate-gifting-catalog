@@ -1465,50 +1465,50 @@
  },
  {
   "product_id": "NE-00056",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "psref.lenovo.com",
+  "matched_title": "Product - Lenovo PSREF (Tab_K12_CT1_02.png)"
  },
  {
   "product_id": "NE-00879",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/125989/3eef06f2-91ef-4fe1-a99e-c60210ddfcb3_size1920x1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Dinner Plate, 27 cm, Black, P0786"
  },
  {
   "product_id": "NE-00881",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/125984/0fc292c3-1338-465f-9932-3849472d8349_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Bowl, 12 cm, Black, P0861"
  },
  {
   "product_id": "NE-00882",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/125997/ed06eb8a-8387-46dc-b4ff-052a3af18d3b_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Black Bowl, 21 cm, P0790"
  },
  {
   "product_id": "NE-00883",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/10/37165/8c41dc53-a496-4a4e-b58a-b0e8583d8305_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Dinner Plate, Granite, 27 cm, P0705"
  },
  {
   "product_id": "NE-00885",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/125899/4160b19d-2be1-4bb9-8e4e-6232d0928052.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Multi Purpose Bowl, 12 cm, Granit, P9204"
  }
 ]
