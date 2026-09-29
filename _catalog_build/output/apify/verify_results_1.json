@@ -1322,42 +1322,42 @@
  {
   "product_id": "NE-00260",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.moglix.com/p/hp7rwtz9vX4Rn-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Bajaj Maestro 2000W 25 Litre Storage Water Heater, 150899"
  },
  {
   "product_id": "NE-00261",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Astor 10L"
  },
  {
   "product_id": "NE-00262",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/b/x/2/2023-astor-2000-bajaj-15-original-imagvyymx7zby7fz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Bajaj Astor 15L"
  },
  {
   "product_id": "NE-00263",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "http://electronicparadise.in/cdn/shop/files/BAJAJ_25_L_Storage_Water_Geyser_Astor_25_ltr_White.jpg?crop=center&height=1200&v=1728454332&width=1200",
+  "confidence": "high",
+  "source_domain": "electronicparadise.in",
+  "matched_title": "BAJAJ 25 L Storage Water Geyser (Astor 25 ltr, White)"
  },
  {
   "product_id": "NE-00264",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Shield Series Immorto - 6L"
  },
  {
   "product_id": "NE-00012",

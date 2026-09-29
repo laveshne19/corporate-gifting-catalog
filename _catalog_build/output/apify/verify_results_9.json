@@ -1410,20 +1410,18 @@
  {
   "product_id": "NE-02397",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://www.valueplusretail.com/cdn/shop/files/EI3V-C1_I_-P1.jpg?v=1730465249",
+  "confidence": "high",
+  "source_domain": "www.valueplusretail.com",
+  "matched_title": "Haier 3.0 L EI3V-C1(I)-P (3ltr) Instant Water Geyser (Ivory)"
  },
  {
   "product_id": "NE-02398",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/b/3/f/-original-imahr27ezqqqwahz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier EI3V-BLACKVOLT 3kW 3 L Instant Water Geyser"
  },
  {
   "product_id": "NE-02401",
@@ -1431,8 +1429,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02402",
@@ -1440,8 +1437,7 @@
   "image_url": null,
   "confidence": null,
   "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "matched_title": null
  },
  {
   "product_id": "NE-02403",
