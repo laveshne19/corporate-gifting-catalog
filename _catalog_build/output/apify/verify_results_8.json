@@ -158,5 +158,37 @@
   "confidence": "high",
   "source_domain": "www.indiamart.com",
   "matched_title": "Cello Purosteel Royce 600 Water Bottle"
+ },
+ {
+  "product_id": "NE-01487",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71eKbpaPu+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Royce 900 Inner Steel Bottle 650ml, Mint Green"
+ },
+ {
+  "product_id": "NE-01488",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Rover 600 Insulated Water Bottle 480 ml, Red"
+ },
+ {
+  "product_id": "NE-01489",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Rover 900 Insulated Water Bottle 720 ml, Blue"
+ },
+ {
+  "product_id": "NE-01495",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/611NmhuIK5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel X Spike 600 Water Bottle"
  }
 ]
