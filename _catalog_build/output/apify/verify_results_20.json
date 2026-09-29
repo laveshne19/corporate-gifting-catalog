@@ -510,5 +510,165 @@
   "confidence": "high",
   "source_domain": "skylineappliances.com",
   "matched_title": "Skyline Toaster Oven - 1200W, 18L (VTL-7065.jpg)"
+ },
+ {
+  "product_id": "NE-02750",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 28L Oven Toaster Griller with Rotisserie - 1500W"
+ },
+ {
+  "product_id": "NE-02752",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Pop%20Up%20Toaster/VTL-7000%20blak.jpg?updatedAt=1758094230556",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 750W 2-Slice Pop-Up Toaster with 7 Browning Levels (VTL-7000)"
+ },
+ {
+  "product_id": "NE-02753",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 4-Slice Pop-Up Toaster (VTL-5024)"
+ },
+ {
+  "product_id": "NE-02754",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/NSDMERP/Default/2025/11/557726094/AB/FN/TL/242950706/242950706-product-1762412368657.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL-5088 Sandwich Grill Toaster"
+ },
+ {
+  "product_id": "NE-02755",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 2-Slice 2-in-1 Toaster - Sandwich & Grill Toaster"
+ },
+ {
+  "product_id": "NE-02756",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41BOk1TnaOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline 750W 2-Slice Sandwich & Grill Toaster VTL-2020 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02757",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/VTL-5023.webp?v=1757507765",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Griller Jumbo 180 Grill VTL-5023"
+ },
+ {
+  "product_id": "NE-02758",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/VTL-111SS.webp?v=1757509162",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Griller Super Jumbo 180 Grill VTL-111-SS"
+ },
+ {
+  "product_id": "NE-02759",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 1200W Mini Griller with Non-Stick Plates (VTL-5020)"
+ },
+ {
+  "product_id": "NE-02760",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/j7td5e80/waffle-maker/e/n/7/vtl-5099-skyline-original-imaexy3yyhmnvmjz.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "SKYLINE VTL 5099 Waffle Maker"
+ },
+ {
+  "product_id": "NE-02761",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/I/D/D/d/MINIDDUMIB730-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy Skyline VTL 6161 Black & Silver Egg Boiler - Moglix"
+ },
+ {
+  "product_id": "NE-02762",
+  "keep": false,
+  "image_url": "https://swagilo.com/wp-content/uploads/2023/10/VTL-6262.jpg",
+  "confidence": "high",
+  "source_domain": "swagilo.com",
+  "matched_title": "Skyline Egg Boiler (8 Eggs Capacity) VTL-6262"
+ },
+ {
+  "product_id": "NE-02763",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Momos%20Maker,%20Steamer%20&%20Egg%20Boiler/VTL-2050.png?updatedAt=1728547161692",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Momos & Multimaker VTL-2050"
+ },
+ {
+  "product_id": "NE-02764",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Momos%20Maker,%20Steamer%20&%20Egg%20Boiler/VTL-7063.png?updatedAt=1728547161696",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Food Steamer VTL-7063"
+ },
+ {
+  "product_id": "NE-02765",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/electric-pan/u/s/h/220-vtl-2030-skyline-original-imahpw7skgzdnphc.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Skyline VTL 2030 Rectangle Electric Pan"
+ },
+ {
+  "product_id": "NE-02766",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/5/508181598/WG/OH/CA/213701893/skyline-vtl-1999-electric-pizza-pan.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline VTL-1999 Pizza Maker"
+ },
+ {
+  "product_id": "NE-02767",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Breakfast%20Maker%20&%20Electric%20Frypans/VTL-2060%20Green.jpg?updatedAt=1757932090542",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Multifunction Electric Pan 600-1500W with Steamer Attachment"
+ },
+ {
+  "product_id": "NE-02769",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Deep Fryer with Triple Basket | Silver-Black : Amazon.in"
+ },
+ {
+  "product_id": "NE-02770",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Deep Fryer 2000-Watt VTL-5424 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02771",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Deep%20Fryer/VTL-5525.jpg?updatedAt=1728632046365",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline 2000W Deep Fryer with Timer | 3L Capacity (VTL-5525)"
  }
 ]
