@@ -1022,5 +1022,493 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-11146",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81GZMEhGqPL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 Kindsuit Phone Case ... EF-VF956PJEGUS, Gray"
+ },
+ {
+  "product_id": "NE-11147",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11148",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61XgRPCHLxL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Fold6 Anti-Reflecting Film, Phone Screen Protector"
+ },
+ {
+  "product_id": "NE-11149",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/614SnFubqgL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Fold7 Carbon Shield Case, Black"
+ },
+ {
+  "product_id": "NE-11150",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61iEboRJZKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Fold7 Silicone Case, Black"
+ },
+ {
+  "product_id": "NE-11526",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-mf966-ef-mf966cnegus-547749400?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Silicone Case Blue Mobile Accessories - EF-MF966CNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11527",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11528",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11154",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-qf966-ef-qf966ctegus-547749434?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Clear Grip Case Transparent Mobile Accessories - EF-QF966CTEGUSS | Samsung US"
+ },
+ {
+  "product_id": "NE-11155",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11156",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-z-fold7-uf966-ef-uf966ctegin-547355724?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Anti-reflecting Film Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11157",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11158",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/f2507/gallery/uk-galaxy-z-fold7-capella-gp-fpf966pgbtw-547542181?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Spigen Capella Pro Case with Magnet for Galaxy Z Fold7 | Samsung Business UK"
+ },
+ {
+  "product_id": "NE-11529",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-z-fold7-thin-fit-gp-fpf966pgabw-547367531?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Z Fold7 Thin Fit | GP-FPF966PGABW | Samsung Australia"
+ },
+ {
+  "product_id": "NE-11159",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11160",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11161",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11162",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11163",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11164",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/au/ej-pp610bwegww/gallery/au-galaxy-tab-s10-lite-s-pen-ej-pp610bwegww-548833464?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 Lite S Pen | EJ-PP610BWEGWW | Samsung Australia"
+ },
+ {
+  "product_id": "NE-11165",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11530",
+  "keep": false,
+  "image_url": "https://www.mobiparts.ro/img/t/433x325/products/191385/smart-view-wallet-case-3-1728390990.png",
+  "confidence": "high",
+  "source_domain": "www.mobiparts.ro",
+  "matched_title": "Smart View Wallet Case for Samsung Galaxy S24 FE S721, White EF-ZS721CWEGWW"
+ },
+ {
+  "product_id": "NE-11531",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11532",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-zs721clegin/gallery/in-galaxy-s24-fe-wallet-case-zs721-ef-zs721clegin-543782143?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Smart View Wallet Case Blue | Samsung India"
+ },
+ {
+  "product_id": "NE-11169",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11534",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11535",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ps721cyegus/gallery/us-galaxy-s24-fe-silicone-case-ps721-ef-ps721cyegus-551352246?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Silicone Case, Yellow | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11536",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11537",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11174",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-gs721cnegus/gallery/us-galaxy-s24-fe-standing-grip-case-gs721-ef-gs721cnegus-551338981?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Standing Grip Case, Blue Black Mobile Accessories - EF-GS721CNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11538",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11539",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11177",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11540",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11179",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-us721ctegus/gallery/us-galaxy-s24-fe-anti-reflecting-film-us721-ef-us721ctegus-551351486?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE A/R Screen Protector, Transparent | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11180",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11181",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11541",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11182",
+  "keep": false,
+  "image_url": "https://www.dressyourtech.co.za/cdn/shop/files/SAM-GP-FPS938PG_800x.jpg?v=1737968073",
+  "confidence": "high",
+  "source_domain": "www.dressyourtech.co.za",
+  "matched_title": "Samsung Capella Case - Samsung Galaxy S25 Ultra - Frost Black (SAM-GP-FPS938PG)"
+ },
+ {
+  "product_id": "NE-11542",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11183",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61NzLIMU53L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Standing Grip Case, Black"
+ },
+ {
+  "product_id": "NE-11543",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11544",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41NnMmr5nuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 (Small) Standing Grip Phone Case ... EF-GS931CWEGWW (White)"
+ },
+ {
+  "product_id": "NE-11186",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-ps931-ef-ps931cbegin-544547982?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Silicone Case Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11545",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-ps931-ef-ps931cnegin-544547998?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Silicone Case Blue | Samsung India"
+ },
+ {
+  "product_id": "NE-11546",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41afIbiF8JL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Official Silicone Case for Galaxy S25, Light Blue"
+ },
+ {
+  "product_id": "NE-11547",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51S675srdML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Silicone Case, Mint"
+ },
+ {
+  "product_id": "NE-11548",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/617f-Q8BdwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Silicone Phone Case, Protective Cover ... Red"
+ },
+ {
+  "product_id": "NE-11191",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-vs931-530385-ef-vs931pbegin-544549536?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Kindsuit Case Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11549",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11550",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11551",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-vs931-ef-vs931pfegin-544441075?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Kindsuit Case Camel | Samsung India"
+ },
+ {
+  "product_id": "NE-11195",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-qs931-ef-qs931ctegin-544459315?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Clear Case Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11196",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51CVorleDwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Anti-reflecting Film | Clear | EF-US931CTEGJP"
+ },
+ {
+  "product_id": "NE-11197",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/616wr-LztlL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Flipsuit Case, White"
+ },
+ {
+  "product_id": "NE-11198",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-js931-ef-js931cbegin-544441061?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Flipsuit Case (Rugged) Black| Samsung India"
+ },
+ {
+  "product_id": "NE-11199",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-rs931-ef-rs931cbegin-544470666?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Rugged Case | Samsung Support India"
+ },
+ {
+  "product_id": "NE-11200",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11552",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11553",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61nW4jOFFCL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Back Cover For Galaxy S25 Edge Silicone Phone Case ... light Gray"
+ },
+ {
+  "product_id": "NE-11203",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]
