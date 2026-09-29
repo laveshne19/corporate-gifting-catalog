@@ -1406,5 +1406,37 @@
   "confidence": "high",
   "source_domain": "giftvision.in",
   "matched_title": "Welspun Crowning Touch Bed In A Bag 4 Piece Bedroom Set \u2013 Gift Vision"
+ },
+ {
+  "product_id": "NE-01101",
+  "keep": false,
+  "image_url": "https://amd.deodap.com/cdn/shop/files/1250_1024x1024.jpg?v=1755165122",
+  "confidence": "high",
+  "source_domain": "amd.deodap.com",
+  "matched_title": "Di0017 Welspun Essentials Classic Corner Single Bed Quilt - 1.52mtr x 2.28mtr"
+ },
+ {
+  "product_id": "NE-01102",
+  "keep": false,
+  "image_url": "https://media.antmascot.com/images/products/WEL_CQ.jpg",
+  "confidence": "high",
+  "source_domain": "www.antmascot.com",
+  "matched_title": "Welspun Classic Corner Quilt Double | Ant Mascot"
+ },
+ {
+  "product_id": "NE-00241",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "spaces.in",
+  "matched_title": "Rangana Combo Bed IN A Bag"
+ },
+ {
+  "product_id": "NE-00250",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Spaces 2.5 Kg Soft Scape Stripe Multicolor Blanket Mink for Double Bed - Amazon.in"
  }
 ]

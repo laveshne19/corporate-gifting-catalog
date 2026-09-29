@@ -1386,29 +1386,26 @@
  {
   "product_id": "NE-02393",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "image_url": "https://mymec.in/wp-content/uploads/2026/03/619nSkVIhL._SX679_-600x600.jpg",
+  "confidence": "high",
+  "source_domain": "mymec.in",
+  "matched_title": "Haier Pret Ivory 3L Instant Water Geyser EI3V-PRET"
  },
  {
   "product_id": "NE-02394",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier EI3V-PRET 3.0KW (W) 3 L Instant Water Geyser"
  },
  {
   "product_id": "NE-02395",
-  "keep": false,
+  "keep": true,
   "image_url": null,
   "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier 3L EI3V-C1(W)-P White Instant Water Heater"
  },
  {
   "product_id": "NE-02397",
