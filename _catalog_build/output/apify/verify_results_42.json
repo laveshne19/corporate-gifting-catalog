@@ -465,9 +465,9 @@
   },
   {
     "product_id": "NE-07025",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -529,9 +529,9 @@
   },
   {
     "product_id": "NE-07036",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -545,9 +545,9 @@
   },
   {
     "product_id": "NE-07038",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -850,26 +850,26 @@
   {
     "product_id": "NE-07079",
     "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/719ZmxqHfwL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Electronics India's First Extension Board with Retractable Type C  Cable | 2 AC Power Socke"
+  },
+  {
+    "product_id": "NE-07080",
+    "keep": false,
     "image_url": null,
     "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
-    "product_id": "NE-07080",
-    "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/71yqejLgloL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Lifelong Electronics Lightbeam X Smart Projector | Android, 1080P & 4K  Ultra HD Support, 2X 3500 Lu"
-  },
-  {
     "product_id": "NE-07081",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/81caajoh9ML.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/81LbU+dvvBL.jpg",
     "confidence": "high",
     "source_domain": "www.amazon.in",
-    "matched_title": "Lifelong Projector, 4K Ultra HD, Android OS, Smart Features, Dual Mics for Great Sound"
+    "matched_title": "Lifelong Electronics ROAR Projector with 2 Mics | Booming 20W Speakers |  Cricket Commentary, Karaok"
   },
   {
     "product_id": "NE-07082",
@@ -1074,10 +1074,10 @@
   {
     "product_id": "NE-07108",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61Ky2dsPCLL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Electronics 10A WiFi Smart Power Plug for Home Automation | With  App Control, Timer, Voice"
   },
   {
     "product_id": "NE-07109",
@@ -1089,9 +1089,9 @@
   },
   {
     "product_id": "NE-07110",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -1290,18 +1290,18 @@
   {
     "product_id": "NE-07136",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.lifelongindiaonline.com/cdn/shop/files/Artboard_1_copy_2_3880f3a7-3284-4521-bf40-fdc16b13db0b.jpg?v=1752565078&width=940",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "4-Way Foldable Cloth Drying Stand \u2013 Lifelong Online"
   },
   {
     "product_id": "NE-07137",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/81UmItUlE3L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Clothes Stand for Drying - Foldable Hanging Stand - Wooden Finish  & Height Adjustable Wing"
   },
   {
     "product_id": "NE-07138",
@@ -1322,26 +1322,26 @@
   {
     "product_id": "NE-07140",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.lifelongindiaonline.com/cdn/shop/files/1__25_db1b5b83-3804-42f9-bd5f-effebfce7e7c.jpg?v=1752566013&width=940",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "Lifelong Shoe Rack for Home | 4-Tier Multipurpose Storage Stainless-Steel Stand"
   },
   {
     "product_id": "NE-07141",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.lifelongindiaonline.com/cdn/shop/files/LLCDR03_11000x1000_e28d39b1-1238-4c5a-a56c-1313b67f8b8e.jpg?v=1752829303&width=940",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "Lifelong Foldable Clothes Drying Stand | Vertical Metal Laundry Rack for Indoor & Balcony Use"
   },
   {
     "product_id": "NE-07142",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/81IabkAENaL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Foldable Cloth Drying Stand | Rack for More Drying Space"
   },
   {
     "product_id": "NE-07143",
@@ -1354,34 +1354,34 @@
   {
     "product_id": "NE-07146",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/615wMmSVo+L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Stainless Steel Butterfly Cloth Dryer Stand | Foldable, Portable &  Rust-Resistant Clothes "
   },
   {
     "product_id": "NE-07147",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/71f5DokHS0L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Electric Mop for Floor Cleaning"
   },
   {
     "product_id": "NE-07148",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/81zaHfPheTL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Kitchen Storage Rack|3-Layer Baskets|Foldable & Rolling Storage  Cart|Trolley with Wheels|V"
   },
   {
     "product_id": "NE-07149",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.lifelongindiaonline.com/cdn/shop/files/Artboard_1_09a5ab9d-a1b8-43d3-9b91-d841701ea2e2.jpg?v=1752565996&width=940",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "Lifelong Clear Shoe Storage Box \u2013 Stackable, Foldable & Space-Saving Organizer"
   },
   {
     "product_id": "NE-07150",
@@ -1402,10 +1402,10 @@
   {
     "product_id": "NE-07152",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/41v5xAUKAJL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Retractable Heavy Duty Clothesline 27.5 ft Total (13.8 Each) |  40kg Capacity Wall Mounted "
   },
   {
     "product_id": "NE-07153",
@@ -1418,10 +1418,10 @@
   {
     "product_id": "NE-07154",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "http://www.lifelongindiaonline.com/cdn/shop/files/Artboard_1_973eb4a3-ae5c-40f3-8604-2f623256105f.jpg?v=1752144784",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "3-Tier Bamboo Storage Basket \u2013 Lifelong Online"
   },
   {
     "product_id": "NE-07155",
@@ -1442,18 +1442,18 @@
   {
     "product_id": "NE-07157",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/71XCrMPcg2L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong 6-Cabinet Shoe Rack Organizer with Flip Down Doors | Dustproof  Space Saving Shoe Storage C"
   },
   {
     "product_id": "NE-07158",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61LHVwUWXhL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Multipurpose Storage | 2-Drawer Fabric Closet | Drawer Organizer | Shelves Wooden Frame"
   },
   {
     "product_id": "NE-07159",
@@ -1466,10 +1466,10 @@
   {
     "product_id": "NE-07160",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "http://www.lifelongindiaonline.com/cdn/shop/files/810GrYe41hL._SX679.jpg?v=1758177629",
+    "confidence": "high",
+    "source_domain": "www.lifelongindiaonline.com",
+    "matched_title": "Lifelong Laundry Basket with Lid \u2013 2 Compartment Foldable Cloth & Toy Storage Bag, Space-Saving Desi"
   },
   {
     "product_id": "NE-07161",
@@ -1481,19 +1481,19 @@
   },
   {
     "product_id": "NE-07162",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07163",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/81zwXvuxPNL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Foldable Cloth Drying Stand | Compact Laundry Rack with Iron Frame  | Anti-Skid Legs | Dura"
   },
   {
     "product_id": "NE-07164",
@@ -1506,9 +1506,9 @@
   {
     "product_id": "NE-07165",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61mUaKn-h3L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Lifelong Retractable Heavy Duty Clothesline 13.8 ft with 20kg Capacity -  Single Line Adjustable Rop"
   }
 ]

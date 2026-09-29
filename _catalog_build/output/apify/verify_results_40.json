@@ -1177,11 +1177,11 @@
   },
   {
     "product_id": "NE-06702",
-    "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/71PH7H+ki1L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMzwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigyOSk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "keep": true,
+    "image_url": null,
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Lifelong Kids Safety Protective Guard | Riding Gear for Cycling & Skating |  Knee Pads for Kids, Elbow Guard, Wrist Support | Impact Protection | Blue :  Amazon.in: Baby Products"
+    "source_domain": "www.flipkart.com",
+    "matched_title": "Lifelong Kids Safety Protective Guard |Protection Guard Set for Cycling,  Skating Cycling Guard Combo - Buy Lifelong Kids Safety Protective Guard  |Protection Guard Set for Cycling, Skating Cycling Guard Combo Online at"
   },
   {
     "product_id": "NE-06703",
@@ -1449,11 +1449,11 @@
   },
   {
     "product_id": "NE-06738",
-    "keep": false,
-    "image_url": "https://www.lifelongindiaonline.com/cdn/shop/files/LLPBP02_PDP_03_930x.jpg?v=1753871029",
+    "keep": true,
+    "image_url": null,
     "confidence": "high",
-    "source_domain": "www.lifelongindiaonline.com",
-    "matched_title": "Carbon Fiber T700 Pickleball Paddle Set with Carry Bag \u2013 Lifelong Online"
+    "source_domain": "www.flipkart.com",
+    "matched_title": "Lifelong LLPBP03 Carbon Fiberglass Surface, 2 Pickleball Balls & Paddle  Cover Bag Pickleball Paddle"
   },
   {
     "product_id": "NE-06739",
