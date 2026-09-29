@@ -1474,26 +1474,26 @@
  {
   "product_id": "NE-00280",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://www.bajajelectricals.com/cdn/shop/files/1_de31e777-fe3d-4b30-83bf-ae7bc562d4b0.jpg?v=1749014599&width=1214",
+  "confidence": "high",
+  "source_domain": "www.bajajelectricals.com",
+  "matched_title": "Bajaj Arrmand 35L"
  },
  {
   "product_id": "NE-00281",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/61QYIiz+CzL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Arrmand 50L Storage Water Heater"
  },
  {
   "product_id": "NE-00282",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/0/g/t/2024-arrmand-70l-3000-bajaj-70-original-imah7sfqjhx8jd2g.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ Arrmand 70L 70 L Storage Water Geyser"
  },
  {
   "product_id": "NE-00283",
@@ -1506,9 +1506,9 @@
  {
   "product_id": "NE-00284",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn.moglix.com/p/kkC02iwU1ldg9.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Bajaj Spectrum 10 Litre 2000W 5 Star Storage Water Heater, 150964"
  }
 ]
