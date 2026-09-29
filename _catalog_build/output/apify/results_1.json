@@ -1,0 +1,919 @@
+[
+ {
+  "product_id": "NE-00004",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/7/w/8/dx2-grey-600w-440330-bajaj-original-imahjpzpzztzttvg.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ by Bajaj electrical DX2 GREY (600W) 440330 600 W Dry Iron"
+ },
+ {
+  "product_id": "NE-00026",
+  "image_url": "https://m.media-amazon.com/images/I/61VFBpGi-eL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Bajaj Armour Contempo 10L Storage Water Heater"
+ },
+ {
+  "product_id": "NE-00027",
+  "image_url": "https://m.media-amazon.com/images/I/51sVMurahGL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Armor Series Contempo 15l"
+ },
+ {
+  "product_id": "NE-00028",
+  "image_url": "https://m.media-amazon.com/images/I/614CE0vkxOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Bajaj Armour Contempo 25L Storage Water Heater"
+ },
+ {
+  "product_id": "NE-00033",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00034",
+  "image_url": "https://m.media-amazon.com/images/I/5107Jsgl-EL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Bajaj Majesty Pro Horizontal Geyser 25 L (Right pipe)"
+ },
+ {
+  "product_id": "NE-00035",
+  "image_url": "https://m.media-amazon.com/images/I/61MSwVd1K2L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Bajaj Majesty Pro Horizontal Geyser 25 L (Center pipe)"
+ },
+ {
+  "product_id": "NE-00556",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00573",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/air-cooler/n/j/s/200-200-elevate-72-72-bajaj-original-imahnutcsaxgkaeb.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BAJAJ 72 L Desert Air Cooler (Elevate 72)"
+ },
+ {
+  "product_id": "NE-00576",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00041",
+  "image_url": "https://www.boseindia.com/cdn/shop/files/UOEB24_Black_P_2000x2000px.png?v=1753359949",
+  "confidence": "high",
+  "source_domain": "www.boseindia.com",
+  "matched_title": "Bose Ultra Open Earbuds"
+ },
+ {
+  "product_id": "NE-00051",
+  "image_url": "https://www.boseindia.com/cdn/shop/files/imgi_6_LSUS-NueBlack_ThreeQuarter_Left.png?v=1778748878",
+  "confidence": "high",
+  "source_domain": "www.boseindia.com",
+  "matched_title": "Bose Lifestyle Ultra Speaker"
+ },
+ {
+  "product_id": "NE-00619",
+  "image_url": "https://oss.boyamic.com/uploads/images/20241220/20241220100215543.webp",
+  "confidence": "high",
+  "source_domain": "www.boyamic.com",
+  "matched_title": "BY-MM1 Universal Cardioid Microphone BOYA"
+ },
+ {
+  "product_id": "NE-00621",
+  "image_url": "https://boya-mic.in/cdn/shop/files/16824105743060934_991bdc55-cfb1-4c3f-b83d-234f27564700.jpg?v=1687954478",
+  "confidence": "high",
+  "source_domain": "boya-mic.in",
+  "matched_title": "BY-HM100 Omnidirectional Conference Handheld Mic"
+ },
+ {
+  "product_id": "NE-00633",
+  "image_url": "https://m.media-amazon.com/images/I/61B1Cl+v0-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "BOYAMINI Wireless Microphone for Andriod/Tablets/PC with USB C Interface"
+ },
+ {
+  "product_id": "NE-00634",
+  "image_url": "https://boya-mic.in/cdn/shop/files/BOYA_Mini_2_Wireless_Lavalier_Microphone_with_AI_Noise_Cancellation_-_boya_india_2_b585f3cc-10ee-4373-9921-e9b396637f68.jpg?v=1779257779&width=3840",
+  "confidence": "high",
+  "source_domain": "boya-mic.in",
+  "matched_title": "BOYA Mini 2 Dual Wireless Microphone - USB-C (Black)"
+ },
+ {
+  "product_id": "NE-00636",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/ksez24w0/microphone/n/v/k/by-wm8-pro-k2-dual-channel-wireless-microphone-system-with-one-original-imag5zzmga6ryj5n.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BOYA BY -WM8 Pro-K2 Camera Microphone"
+ },
+ {
+  "product_id": "NE-00643",
+  "image_url": "https://boya-mic.in/cdn/shop/files/boya_magic_main.png?v=1773992261",
+  "confidence": "high",
+  "source_domain": "boya-mic.in",
+  "matched_title": "BOYA Magic Type-C AI Wireless Microphone (4-in-1 Mini Mic)"
+ },
+ {
+  "product_id": "NE-00648",
+  "image_url": "https://m.media-amazon.com/images/I/51+CPgXf9xS._AC_UF894,1000_QL80_.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.eg",
+  "matched_title": "Boya by-bca7 connector microphone cable XLR to lightning"
+ },
+ {
+  "product_id": "NE-00676",
+  "image_url": "https://m.media-amazon.com/images/I/613CgibwkWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sennheiser Momentum Sport Earbuds with ANC, 24hr Battery, Black"
+ },
+ {
+  "product_id": "NE-00694",
+  "image_url": "https://m.media-amazon.com/images/I/51FvxcmOdAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sennheiser IE 900 Audiophile Wired In-ear Monitors"
+ },
+ {
+  "product_id": "NE-00695",
+  "image_url": "https://m.media-amazon.com/images/I/61Nbr34ivrL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sennheiser IE 600 Audiophile In Ear Earphones"
+ },
+ {
+  "product_id": "NE-00696",
+  "image_url": "https://m.media-amazon.com/images/I/61ASgJqJiuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sennheiser IE 300 Headset"
+ },
+ {
+  "product_id": "NE-00697",
+  "image_url": "https://m.media-amazon.com/images/I/61TSIkECcfL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Sennheiser IE 200 Wired Audiophile Stereo Earphones"
+ },
+ {
+  "product_id": "NE-00854",
+  "image_url": "https://www.mhcworld.co.za/cdn/shop/files/la-opala-dinner-set-la-opala-sovrana-12-piece-dinner-set-roman-blue-dlo10-1253683929.jpg?v=1788868156",
+  "confidence": "medium",
+  "source_domain": "www.mhcworld.co.za",
+  "matched_title": "La Opala Sovrana 12 Piece Dinner Set Roman Blue DLO10"
+ },
+ {
+  "product_id": "NE-00870",
+  "image_url": "https://m.media-amazon.com/images/I/51vj-FraMaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lenovo Idea Tab Pro TB373FU Tablet - 12.7\" 3K - Luna Gray"
+ },
+ {
+  "product_id": "NE-00871",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/tablet/t/e/s/zaf30003in-lenovo-original-imahh2gr9qsrbdfp.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Lenovo TB305XU 4 GB RAM 64 GB ROM 9 inch with 4G Tablet (Luna Grey) [ZAF30003IN]"
+ },
+ {
+  "product_id": "NE-00872",
+  "image_url": "https://cdn.moglix.com/p/JCX0qaIS5rNxT-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Lenovo Tab K9 TB305FU Luna Grey Tablet 4GB/64GB, ZAF20008IN"
+ },
+ {
+  "product_id": "NE-00873",
+  "image_url": "https://p3-ofp.static.pub//fes/cms/2025/09/11/hmugc86urbxaittyvbhjnwxhpua4li453250.png",
+  "confidence": "high",
+  "source_domain": "www.lenovo.com",
+  "matched_title": "Lenovo Tab K11 Gen 2 27.94 cms, Luna Grey - 256GB - 8GB RAM - ZAFS0384IN"
+ },
+ {
+  "product_id": "NE-00874",
+  "image_url": "https://p2-ofp.static.pub//fes/cms/2025/04/10/1h60qbtmvn26skt33vgo49ycuz28rr385951.png",
+  "confidence": "high",
+  "source_domain": "www.lenovo.com",
+  "matched_title": "Lenovo Tab K11 Gen 2 - Lenovo India"
+ },
+ {
+  "product_id": "NE-00056",
+  "image_url": "https://psrefstuff.lenovo.com/syspool/Sys/Image/Lenovo_Tablets/Tab_K12/Compressedimage/Tab_K12_CT1_02.png",
+  "confidence": "medium",
+  "source_domain": "psref.lenovo.com",
+  "matched_title": "Product - Lenovo PSREF (Tab_K12 image)"
+ },
+ {
+  "product_id": "NE-00876",
+  "image_url": "https://cdn.moglix.com/p/WLWsTKwjTkbMw-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Lenovo Yoga Tab Plus TB520FU Tidal Teal Tablet with Keyboard & Pen, ZAF90010IN"
+ },
+ {
+  "product_id": "NE-00877",
+  "image_url": "https://store.lenovo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/Z/A/ZAEJ0054IN-0_1.webp",
+  "confidence": "high",
+  "source_domain": "store.lenovo.com",
+  "matched_title": "TB311XU ACC 4G+64GBE-IN (ZAEJ0054IN)"
+ },
+ {
+  "product_id": "NE-00878",
+  "image_url": "https://m.media-amazon.com/images/I/810hC9yvAEL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lenovo Idea Tab Plus with Pen, Wifi + 5G, 12.1\" 2.5K Display, 12GB RAM + 256GB ROM"
+ },
+ {
+  "product_id": "NE-00880",
+  "image_url": "https://media.naheed.pk/catalog/product/cache/98a395cbc67ba32cd9551ac14bde368c/1/1/1189459-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.naheed.pk",
+  "matched_title": "Luminarc Diwali Noir Dessert Plate, 19cm, Black"
+ },
+ {
+  "product_id": "NE-00884",
+  "image_url": "https://m.media-amazon.com/images/I/91llrD+FV4L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.com.be",
+  "matched_title": "Luminarc Diwali Colours Dessert Plate 19 cm Granite"
+ },
+ {
+  "product_id": "NE-00886",
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/19/37208/3cc4a973-091e-4c9f-b290-dfee93f887e5_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Granit Bowl P0872 21cm"
+ },
+ {
+  "product_id": "NE-00890",
+  "image_url": "https://img.ep-cdn.com/i/500/500/as/asmpgbutwfzdqvehcxoy/luminarc-luminarc-diwali-light-blue-cinija-21cm-p2614--cene.jpg",
+  "confidence": "high",
+  "source_domain": "www.eponuda.com",
+  "matched_title": "Luminarc Diwali light blue cinija 21cm ( P2614 )"
+ },
+ {
+  "product_id": "NE-00891",
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/07/37231/66261017-a931-4c1b-b076-dc8fdedd4df2_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Dinner Plate, 27 cm, Light Turquoise, P2013"
+ },
+ {
+  "product_id": "NE-00892",
+  "image_url": "https://www.ufoelektronika.com/image/cache/catalog/NEW/615369a7-bfc2-418f-817f-093f0e4f4513-1000x1000.png",
+  "confidence": "high",
+  "source_domain": "www.ufoelektronika.com",
+  "matched_title": "Luminarc Diwali Light Turquise Dessert Plate 19 P2613"
+ },
+ {
+  "product_id": "NE-00057",
+  "image_url": "https://www.brandylb.com/cdn/shop/files/48cfb958bdaa4f52b7bcb743c75dd2ea-Original_829849dd-3539-4418-a66b-a056c125d422.png?v=1750688125",
+  "confidence": "high",
+  "source_domain": "www.brandylb.com",
+  "matched_title": "Luminarc Diwali Salad Bowl 21 cm Light Turquoise P2615"
+ },
+ {
+  "product_id": "NE-00058",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00059",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00060",
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/12/09/181419/2cad8504-4ca7-4f54-bac9-9fa2100a3a60_size1920x1920_cropCenter.jpg",
+  "confidence": "medium",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Ingmar Blue Dinnerware Set, 46 pcs, V6605"
+ },
+ {
+  "product_id": "NE-00062",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00063",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00064",
+  "image_url": "https://modalyssa.store/132652-large_default/diwali-marble-white-dinner-plate-set-18pcs-luminarc.jpg",
+  "confidence": "medium",
+  "source_domain": "modalyssa.store",
+  "matched_title": "Diwali Marble White Dinner Plate Set 18pcs - Luminarc"
+ },
+ {
+  "product_id": "NE-00065",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00066",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00067",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00068",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00070",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00071",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00072",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00073",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00074",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00075",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01070",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01071",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01072",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00076",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00077",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00078",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00079",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00080",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00081",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00082",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00083",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00084",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00085",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00185",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00187",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00193",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00200",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00212",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00213",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00217",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00224",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00233",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00235",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00242",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00249",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00251",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00265",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00267",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00269",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00270",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00271",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00277",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00278",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00279",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00288",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00291",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00292",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00294",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00295",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00304",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00308",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00598",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00605",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00606",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00608",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00609",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00757",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00855",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00913",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00975",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00986",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01006",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01007",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01068",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01075",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01076",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01078",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01090",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01092",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01093",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01096",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01097",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01103",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01104",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01105",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01106",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01109",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01111",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01114",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01116",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01117",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01127",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01133",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01137",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]
