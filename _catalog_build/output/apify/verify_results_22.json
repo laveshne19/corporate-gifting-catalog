@@ -1022,5 +1022,493 @@
   "confidence": null,
   "source_domain": "swissmilitaryaudio.com",
   "matched_title": "Reverb Wired Earphone - HD Bass, Type-C | Swiss Military Audio"
+ },
+ {
+  "product_id": "NE-11701",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11702",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 80 cm (32 inches) E36RP Series HD Ready Smart QLED Google TV 32E36RP"
+ },
+ {
+  "product_id": "NE-11703",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 100 cm (40 Inches) HD Ready Smart LED TV 40V35RP (Black)"
+ },
+ {
+  "product_id": "NE-11704",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81N7pfzV1CL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 108 cm (43 inches) E36RP Series Full HD Smart QLED Google TV 43E36RP"
+ },
+ {
+  "product_id": "NE-11705",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 109.2 cm (43 Inch) 4K Ultra HD TV, 43C350RP"
+ },
+ {
+  "product_id": "NE-11706",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 109.2 cm (43 inch) 4K QLED Vidaa OS TV, 43M450RP, Black"
+ },
+ {
+  "product_id": "NE-11707",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 147.3 cm (58 inch) QLED 4K TV, 58M450RP"
+ },
+ {
+  "product_id": "NE-11708",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 139 cm (55 inch) Ultra HD 4K Mini QLED TV, 55Z670SP, Black"
+ },
+ {
+  "product_id": "NE-11709",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 165.1 cm (65 Inch) 4K Ultra HD TV, 65C350RP"
+ },
+ {
+  "product_id": "NE-11710",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 165.1 cm (65 inch) QLED 4k TV, 65M450RP"
+ },
+ {
+  "product_id": "NE-11711",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 165 cm (65 inch) Ultra HD 4K Mini QLED TV, 65Z670SP, Black"
+ },
+ {
+  "product_id": "NE-11712",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 189 cm (75 Inches) 4K Ultra HD Smart QLED TV M450RP"
+ },
+ {
+  "product_id": "NE-11713",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 190 cm (75 inch) Ultra HD 4K Mini QLED TV, 75Z670SP, Black"
+ },
+ {
+  "product_id": "NE-11714",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Toshiba 215 cm (85 inches) M450RP Series 4K Ultra HD Smart QLED TV 85M450RP"
+ },
+ {
+  "product_id": "NE-11715",
+  "keep": false,
+  "image_url": "https://cdn1.smartprix.com/rx-iXQHp56o5-w1200-h1200/XQHp56o5.webp",
+  "confidence": "high",
+  "source_domain": "cdn1.smartprix.com",
+  "matched_title": "Toshiba Z570SP 100 inch Ultra HD 4K Smart QLED TV (100Z570SP)"
+ },
+ {
+  "product_id": "NE-11716",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Toshiba 254 cm (100 inch) 4K MiniLED VIDAA TV, Black, 100Z670SP"
+ },
+ {
+  "product_id": "NE-11745",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "igeekjo.com",
+  "matched_title": "WIWU Wi-C062 27W Neolink Series Silicone Cable C-L 2m"
+ },
+ {
+  "product_id": "NE-11746",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.catchyjo.net",
+  "matched_title": "WiWU Wi-C062 Type-C To Lightning Neolink Series Silicone Cable (27W)"
+ },
+ {
+  "product_id": "NE-11747",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "igeekjo.com",
+  "matched_title": "WIWU 240W Essen Series Nylon Braided C-C"
+ },
+ {
+  "product_id": "NE-11748",
+  "keep": false,
+  "image_url": "https://wiwu.com.tr/cdn/shop/files/wi-c060-titanlink-3in1-type-c-to-lightning-orgulu-sarj-kablosu-60w-1-2m-61944.jpg?v=1753122241&width=1000",
+  "confidence": "high",
+  "source_domain": "wiwu.com.tr",
+  "matched_title": "Wi-C060 Titanlink 3in1 Type-C to Lightning Braided Charging Cable 60W 1.2m"
+ },
+ {
+  "product_id": "NE-11749",
+  "keep": false,
+  "image_url": "http://wiwu.com.tr/cdn/shop/files/wi-c059-titanlink-3in1-usb-a-to-lightning-type-c-orgulu-sarj-kablosu-66w-1-2m-61941_e1ea4fff-5ad7-4bd5-a402-e2afba7355f7.jpg?v=1788329650",
+  "confidence": "high",
+  "source_domain": "wiwu.com.tr",
+  "matched_title": "Wi-C059 Titanlink 3in1 USB-A to Lightning Type-C Charging Cable 66W"
+ },
+ {
+  "product_id": "NE-11750",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Classic Stand Wireless Power Bank Wi-P064"
+ },
+ {
+  "product_id": "NE-11751",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Power Mega Charger + Cable + Power Bank PM501"
+ },
+ {
+  "product_id": "NE-11752",
+  "keep": false,
+  "image_url": "https://otc.lk/wp-content/uploads/2025/07/Wiwu-WI-P057-35w-10000mAh-Knight-Series-Powerbank-Black-by-otc.lk-in-srilanka-111.jpg",
+  "confidence": "high",
+  "source_domain": "otc.lk",
+  "matched_title": "Wiwu WI-P057 35w 10000mAh Knight Series Powerbank Black"
+ },
+ {
+  "product_id": "NE-11753",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "smart-tabletjo.com",
+  "matched_title": "WiWU Elite Power Bank Wi-P056 10000mAh"
+ },
+ {
+  "product_id": "NE-11754",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.nalandaenterprises.com",
+  "matched_title": "Buy WiWU Wi-WM007 Lavalier Microphone"
+ },
+ {
+  "product_id": "NE-11755",
+  "keep": false,
+  "image_url": "https://www.dumyah.com/image/cache/data/PartnerPortal/integration/request/1009/6977703656602_10_1760166134-800x800.webp",
+  "confidence": "high",
+  "source_domain": "www.dumyah.com",
+  "matched_title": "WiWU Wi-CC026 200W Triple-Port Car Charger"
+ },
+ {
+  "product_id": "NE-11756",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.nalandaenterprises.com",
+  "matched_title": "WiWU Wi-W040 8-in-1 GaN Desktop Power Station - 65W"
+ },
+ {
+  "product_id": "NE-11757",
+  "keep": false,
+  "image_url": "https://www.wiwu.com/cdn/shop/files/36911c0904db1d481a24384dac5a57ea_57ffdd33-2373-4698-9b20-0f874d0f1940.jpg?v=1782902460",
+  "confidence": "high",
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Nano Series 30W Fast Car Charger Wi-QC029 USB-C+USB-C"
+ },
+ {
+  "product_id": "NE-11758",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Foldable Wireless keyboard FMK-05"
+ },
+ {
+  "product_id": "NE-11759",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "wiwupk.com",
+  "matched_title": "Wiwu Pencil Max - WiWU Pakistan"
+ },
+ {
+  "product_id": "NE-11760",
+  "keep": false,
+  "image_url": "https://www.wiwu.com/cdn/shop/files/8_9cafbf57-5e4c-49d3-99ea-44b593b299a9.jpg?v=1773818029",
+  "confidence": "high",
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Pencil S-04"
+ },
+ {
+  "product_id": "NE-11761",
+  "keep": false,
+  "image_url": "https://www.nalandaenterprises.com/cdn/shop/files/Dah8cyzZYF.webp?v=1779362372&width=1200",
+  "confidence": "high",
+  "source_domain": "www.nalandaenterprises.com",
+  "matched_title": "WiWU Wi-W037 Coins 3 in 1 Wireless Charger - White"
+ },
+ {
+  "product_id": "NE-11762",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Wi-QC031 Bluetooth 5.3 Car FM Transmitter with RGB Lights & 38W"
+ },
+ {
+  "product_id": "NE-11763",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Hurricane King High-Speed Fan Wi-FS015"
+ },
+ {
+  "product_id": "NE-11764",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11765",
+  "keep": false,
+  "image_url": "https://ishopgh.com/wp-content/uploads/2025/11/WIWU-WI-M23-Magnetic-Apple-watch-charger-2.webp",
+  "confidence": "high",
+  "source_domain": "ishopgh.com",
+  "matched_title": "WIWU WI-M23 Magnetic Apple Watch Charger"
+ },
+ {
+  "product_id": "NE-11766",
+  "keep": false,
+  "image_url": "https://www.wiwu.com/cdn/shop/files/3_bfa3dc8e-5dad-45dd-a8db-153376082ae5.jpg?v=1782903241",
+  "confidence": "high",
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU CarPlay Adapter Wi-CP003"
+ },
+ {
+  "product_id": "NE-11767",
+  "keep": false,
+  "image_url": "https://www.wiwu.com/cdn/shop/files/2_36d6d3e1-8c5b-4039-ab43-d807593b120b.jpg?v=1788860267",
+  "confidence": "high",
+  "source_domain": "www.wiwu.com",
+  "matched_title": "WiWU Wi-WM006 AI Powered Noise Cancelling Lavalier Microphone with 30H"
+ },
+ {
+  "product_id": "NE-11768",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "WIWU 3-in-1 Wireless Charging Station for iPhone, Apple Watch and Airpods"
+ },
+ {
+  "product_id": "NE-11769",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "WiWU Wi-W038 3-in-1 Magnetic Wireless Charger, 23W Foldable Stand"
+ },
+ {
+  "product_id": "NE-11770",
+  "keep": false,
+  "image_url": "https://www.nalandaenterprises.com/cdn/shop/files/41dISElmefL.jpg?v=1777711329&width=1946",
+  "confidence": "high",
+  "source_domain": "www.nalandaenterprises.com",
+  "matched_title": "WiWU Warriors Pro Max Backpack 30L - Black"
+ },
+ {
+  "product_id": "NE-11771",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy WIWU Master Fingerprint Lock Leather Backpack, Black at Amazon.in"
+ },
+ {
+  "product_id": "NE-11772",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.gadstyle.com",
+  "matched_title": "WiWU Warriors Laptop Sleeve 14 inch Waterproof - GadStyle BD"
+ },
+ {
+  "product_id": "NE-11773",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "WiWU Ora Tota Lady Laptop Handbag with multiple Pockets 16 inch laptop"
+ },
+ {
+  "product_id": "NE-11774",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "lablaab.com",
+  "matched_title": "WiWU Cozy Classic Case 14 inch laptop bag"
+ },
+ {
+  "product_id": "NE-11775",
+  "keep": false,
+  "image_url": "https://www.xmart.jo/cdn/shop/files/6_379aee14-2f0a-46e5-8526-a4f2e4417948.webp?v=1750719844",
+  "confidence": "high",
+  "source_domain": "www.xmart.jo",
+  "matched_title": "WIWU Cozy Classic 16 inch Laptop Sleeve - Waterproof & Shockproof"
+ },
+ {
+  "product_id": "NE-11776",
+  "keep": false,
+  "image_url": "https://www.sparesonly.in/cdn/shop/files/WIWU-Hali-Vertical-Layer-Bag-14-Inch-Laptop-Handbag-Shoulder-Bag-2.jpg?v=1762789928",
+  "confidence": "high",
+  "source_domain": "www.sparesonly.in",
+  "matched_title": "WIWU Hali Vertical Layer Bag 14-Inch Laptop Handbag Shoulder Bag"
+ },
+ {
+  "product_id": "NE-11777",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "WIWU Alpha Slim Sleeve Bag For 15.6 inch Laptop, Black"
+ },
+ {
+  "product_id": "NE-11778",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.xmart.jo",
+  "matched_title": "WIWU Cosmo Slim Case 13.3 inch"
+ },
+ {
+  "product_id": "NE-11779",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41N-r8ZOcSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "WIWU Alpha Double Layer Sleeve Bag For 15.6 inch Laptop"
+ },
+ {
+  "product_id": "NE-03225",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71yIS8HWM5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin 3-Socket Extension Board with Surge Protector 5Ft (1.5-Meter) Cable, Grey"
+ },
+ {
+  "product_id": "NE-03226",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41NqJAKnH6L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin 4-Socket Extension Board with Surge Protector 5Ft (1.5-Meter) Cable, Grey"
+ },
+ {
+  "product_id": "NE-03227",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/surge-protector/y/d/p/2-f9e600zb2m-gry-no-belkin-original-imahndx8jq3qzta6.jpeg",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BELKIN 6-Socket Surge Protector Extension Board | 2m Cable"
+ },
+ {
+  "product_id": "NE-03228",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/surge-protector/e/w/s/2-f9e800zb2m-gry-no-belkin-original-imahndx3cjynej4h.jpeg",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "BELKIN 8-Socket Surge Protector Extension Board | 2m Cable"
+ },
+ {
+  "product_id": "NE-03229",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11782",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/236177_0_nq_VtVpGvz.png",
+  "confidence": "high",
+  "source_domain": "media.tatacroma.com",
+  "matched_title": "belkin Boost Charge 15 Watts Wireless Charging Pad (Qi-Certified, WIA002BT, White)"
+ },
+ {
+  "product_id": "NE-03231",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03232",
+  "keep": false,
+  "image_url": "https://vlebazaar.in/image/cache/catalog/Belkin-Magnetic-USB-Type-C-Wireless-ChargerPower-Supply-Not-Included-Com/Belkin-Magnetic-USB-Type-C-Wireless-ChargerPower-Supply-Not-Included-Compatible--0-1200x1200.jpg",
+  "confidence": "high",
+  "source_domain": "vlebazaar.in",
+  "matched_title": "Belkin Boost Charge Magnetic Wireless Charging Pad (Black) WIA005btBK"
+ },
+ {
+  "product_id": "NE-03233",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03234",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71vksjczXtL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin Magnetic Wireless Car Charger, 10W with Magsafe Compatible Devices, Black"
  }
 ]

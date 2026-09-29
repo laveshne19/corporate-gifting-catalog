@@ -510,5 +510,261 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-03300",
+  "keep": false,
+  "image_url": "https://computerspace.in/cdn/shop/products/NewProject-2021-05-21T162409.110.jpg",
+  "confidence": "high",
+  "source_domain": "computerspace.in",
+  "matched_title": "Belkin AC Anywhere USB port 200W F5L071ak200W \u2013 Computerspace"
+ },
+ {
+  "product_id": "NE-03301",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03302",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwda796e5e/images/hi-res/NaN/e7b3ea56170112c0_CCB005btBK_Dual_USB-C_Port%20CarCharger(MCP239)NPI_gallery.1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 42W Dual Car Charger, USB-C and USB-A | Belkin"
+ },
+ {
+  "product_id": "NE-03303",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw7779e42c/images/hi-res/9/9f4a23ac587be1c_MMA006-BLK-Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "iPhone Mount with MagSafe for Mac Notebooks | Belkin"
+ },
+ {
+  "product_id": "NE-11808",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03305",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw11515add/images/hi-res/3/3f8dedc1779cc95b_CAA001BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_05_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 1m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11809",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw5c96c626/images/hi-res/4/4c25aa1ee73fe49_CAA001BT0M-WHT_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03307",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw252aa163/images/hi-res/6/550c8a8ed9e48af3_CAA001BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11810",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03309",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0dd8c73f/images/hi-res/5/583301fd54fa5999_CAA002BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_05_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided Lightning to USB-A Cable, 1m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03311",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11812",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03313",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw68dcfc7b/images/hi-res/1/1fa9e533892cc5fe_CAA003BT0M-WHT_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge USB-C to Lightning Cable MFi-Certified | Belkin (CAA003BT0M-WHT)"
+ },
+ {
+  "product_id": "NE-11813",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03315",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwef1537dc/images/hi-res/7/39eea0cba791badf_CAA004BT0M-BLK_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 1m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11814",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa7c4d65b/images/hi-res/6/6c865fc9dd286a99_CAA004BT0M-WHT_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 1m, MFi, White | Belkin"
+ },
+ {
+  "product_id": "NE-03317",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwef1537dc/images/hi-res/7/39eea0cba791badf_CAA004BT0M-BLK_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 2m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11815",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03319",
+  "keep": false,
+  "image_url": "https://exitocol.vtexassets.com/arquivos/ids/35159297/Cab-USB-a-Micro-USB-1m-Negro-BELKIN-CAB005bt1MBK-3041130_e.jpg",
+  "confidence": "high",
+  "source_domain": "www.exito.com",
+  "matched_title": "Cab USB a Micro USB 1m Negro BELKIN CAB005bt1MBK"
+ },
+ {
+  "product_id": "NE-03320",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/416440835/MN/EP/GN/60067075/belkin-usb-a-to-micro-usb-charging-cable-cab005bt1mwh-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "White Belkin USB-A to Micro USB Charging Cable CAB005BT1MWH"
+ },
+ {
+  "product_id": "NE-03321",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03322",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwdd1b41a6/images/hi-res/1/1bca193feabd630_CAB001BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_04_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable (1m / 3.3ft, Black) | Belkin"
+ },
+ {
+  "product_id": "NE-03323",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw9b6d7572/images/hi-res/2/2a800d29d0e55f24_CAB001BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03324",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw4aaad295/images/hi-res/e/718f39c67721834e_CAB001BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03325",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw293381fc/images/hi-res/1/30570305ab37e57a_CAB001BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_05_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03326",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11816",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw07179b5e/images/hi-res/6/7286950d3497463c_CAB002BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-11817",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd635f1a5/images/hi-res/7/7c7a91cb42f34231_CAB002BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable (2m / 6.6ft, Black)"
+ },
+ {
+  "product_id": "NE-11818",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw07179b5e/images/hi-res/6/7286950d3497463c_CAB002BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03330",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd28aa6ab/images/hi-res/d/28445da04551b148_CAB003BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (1m / 3.3ft, Black) | Belkin"
+ },
+ {
+  "product_id": "NE-03331",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw654869f7/images/hi-res/5/5d439f7f1750952d_CAB003BT0M-WHT_BoostCharge_USB-C_to_USB-C_Gallery_Shot_03_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (1m / 3.3ft, White) | Belkin"
+ },
+ {
+  "product_id": "NE-03332",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd28aa6ab/images/hi-res/d/28445da04551b148_CAB003BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (2m / 6.6ft, Black) | Belkin TW"
  }
 ]
