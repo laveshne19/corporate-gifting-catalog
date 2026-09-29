@@ -127,6 +127,24 @@ def main():
         if queue:
             print(name, stats)
 
+    # Photos extracted from brand PDFs/PPTs, checked visually against the product
+    # name: anything not a confirmed "match" is removed (owner's rule).
+    lpath = os.path.join(APIFY_DIR, "local_verify_results.json")
+    if os.path.exists(lpath):
+        stats = {"kept": 0, "cleared": 0}
+        for v in json.load(open(lpath)):
+            rec = by_id.get(v["product_id"])
+            if rec is None or not rec.get("image_file") or rec["image_file"].startswith("http"):
+                continue
+            if v.get("verdict") == "match":
+                stats["kept"] += 1
+            else:
+                rec["image_file"] = ""
+                rec["image_source"] = f"Image on request (catalogue photo {v.get('verdict')}: {v.get('note', '')})"[:200]
+                rec["date_last_updated"] = today
+                stats["cleared"] += 1
+        print("local", stats)
+
     with open(os.path.join(OUT_DIR, "master_consolidated.json"), "w") as fh:
         json.dump(recs, fh, indent=1, ensure_ascii=False)
 
