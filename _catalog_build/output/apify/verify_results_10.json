@@ -1478,5 +1478,37 @@
   "confidence": "high",
   "source_domain": "www.autocarindia.com",
   "matched_title": "Honda NX200 (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-03222",
+  "keep": false,
+  "image_url": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/154781/sp160-right-side-view-11.png?isig=0",
+  "confidence": "high",
+  "source_domain": "www.bikewale.com",
+  "matched_title": "Honda SP160 Price - Mileage, Images, Colours | BikeWale"
+ },
+ {
+  "product_id": "NE-03223",
+  "keep": false,
+  "image_url": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/1/versions/--disc-20251735194316753.jpg",
+  "confidence": "high",
+  "source_domain": "www.bikewale.com",
+  "matched_title": "Honda Unicorn Price - Mileage, Images, Colours | BikeWale"
+ },
+ {
+  "product_id": "NE-03224",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260604_101017_ee9153fd.webp",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda CB125 Hornet (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-05523",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:134beb11-368c-453b-a1fa-5fe5a4196e0b/as/8903287034015-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB TL701AG1ID 7 kg Top Load Washing Machine Online"
  }
 ]

@@ -1426,26 +1426,26 @@
  {
   "product_id": "NE-01456",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://m.media-amazon.com/images/I/41MonYxGxML.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO PURO Steel Chill X 600 Water Bottle 500ml Military Green"
  },
  {
   "product_id": "NE-01457",
   "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2025/JULY/23/VkgXJZME_b35055fe7def4e1399b00432a4b86306.jpg",
+  "confidence": "high",
+  "source_domain": "assets.myntassets.com",
+  "matched_title": "Cello Puro Steel-X Chill 900 Blue & white Inner Steel PU Insulated water bottle- 650ml"
  },
  {
   "product_id": "NE-01458",
-  "keep": false,
+  "keep": true,
   "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Delta 600 PU Insulated Water Bottle 550 ml Yellow"
  },
  {
   "product_id": "NE-01459",
