@@ -766,5 +766,261 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "boAt 35W GaN Wall Charger (Monarch Red)"
+ },
+ {
+  "product_id": "NE-04278",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/boat-storm-infinity-plus-smart-watch-cherry-blossom-Specs-06.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Boat Storm Infinity Plus ( Cherry Blossom ) Smart Watch"
+ },
+ {
+  "product_id": "NE-04279",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04280",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11904",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Lunar Pro LTE (LunarProLTE-FI_Black01)"
+ },
+ {
+  "product_id": "NE-04282",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Bassheads 105 Wired in Ear Earphones with Mic (Black)"
+ },
+ {
+  "product_id": "NE-04283",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71ep9KYzuhL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Stone 180 5W Bluetooth Speaker (Black)"
+ },
+ {
+  "product_id": "NE-04284",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/S190PRO_FI_Blue_05_a031e5fa-1271-42fe-ab85-2274f263aa7f_1024x.jpg?v=1718688932",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt Stone 190 Pro Bluetooth Speaker 5W RMS - Tropical Blue"
+ },
+ {
+  "product_id": "NE-04285",
+  "keep": false,
+  "image_url": "https://www.bbassets.com/media/uploads/p/l/40325720_2-boat-type-c-charging-cable-a750-rebellious-black-15-mtr.jpg",
+  "confidence": "high",
+  "source_domain": "www.bigbasket.com",
+  "matched_title": "boAt Type A to Type C A750 6.5A Superfast Charging Cable 1.5 m, Rebellious Black"
+ },
+ {
+  "product_id": "NE-04286",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/products/bassheads-110-red_1024x.png?v=1613457275",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "Bassheads 110 Wired Earphones (bassheads-110-red)"
+ },
+ {
+  "product_id": "NE-04287",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Wave Beat | Best Fitness Tracker Smartwatch"
+ },
+ {
+  "product_id": "NE-04288",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Rockerz 650 (rockerz-650-black)"
+ },
+ {
+  "product_id": "NE-04289",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/e87eb7b9-5fa3-4a54-9f39-54edead76bd6/boAt-Stone-352-Bluetooth-Speaker-w-10W-RMS-Stereo-Sound-IPX7-Water-Resistance-Vibing-Blue.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Stone 352 Bluetooth Speaker w/ 10W RMS (Vibing Blue)"
+ },
+ {
+  "product_id": "NE-04290",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Yp+Qwv97L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Airdopes 131 with 60 Hrs Playback (Midnight Blue)"
+ },
+ {
+  "product_id": "NE-04291",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04292",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Nirvana Ivy | Wireless Earbuds Quartz Cyan"
+ },
+ {
+  "product_id": "NE-04293",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt FlexCharge 360 | 3-in-1 Foldable Wireless Charger"
+ },
+ {
+  "product_id": "NE-04294",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Type C A325/A320 Cable"
+ },
+ {
+  "product_id": "NE-04295",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/7a861d6f-6cd9-4a46-839e-a6362df698e4/boAt-Airdopes-91-TWS-Earbuds-with-mic-45HRS-Battery-50ms-Low-Latency-ENx-Tech-Fast-Charge-IPX4-IWP-Tech-v5-3-Bluetooth-Earbuds-Starry-Blue.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Airdopes 91 TWS Earbuds - Starry Blue"
+ },
+ {
+  "product_id": "NE-04296",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Stone UNO - Portable Bluetooth Speaker (01_2 image)"
+ },
+ {
+  "product_id": "NE-11905",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71e1SSUhZeL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Bassheads 100 in Ear Wired Earphones with Mic(White)"
+ },
+ {
+  "product_id": "NE-11906",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04299",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71gm7XzK2LL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Wave Call 2 Smart Watch (Cool Blue)"
+ },
+ {
+  "product_id": "NE-04300",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/99307ddc-6fb5-4eaf-bc1c-ff8ce35989ab/boAt-Airdopes-161-TWS-Earbuds-w-40H-Playtime-ASAP-Charge-13Mm-Drivers-ENx-Tech-Green-Fury.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Airdopes 161 TWS Earbuds (Green Fury)"
+ },
+ {
+  "product_id": "NE-04301",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/ik-seo/cms/product_variant/f860a02f-2533-41cf-8160-9b9e3e7cebe8/boAt-Airdopes-301-TWS-Earbuds-W-75H-Playtime-Quad-Mics-Enx-Tech-Beast-Mode-For-Gaming-Sunset-Blush.jpeg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt Airdopes 301 TWS Earbuds Sunset Blush"
+ },
+ {
+  "product_id": "NE-11907",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Boat Type-C Cable C300 Black (file name spells model+colour)"
+ },
+ {
+  "product_id": "NE-04303",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61xXgvroQrL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Bassheads 100 in Ear Wired Earphones with Mic(Furious Red)"
+ },
+ {
+  "product_id": "NE-04304",
+  "keep": false,
+  "image_url": "https://www.bbassets.com/media/uploads/p/l/40322231_2-boat-stone-135-bluetooth-speaker-soldier-green.jpg",
+  "confidence": "high",
+  "source_domain": "www.bigbasket.com",
+  "matched_title": "boAt Stone 135 Bluetooth Speaker - Soldier Green"
+ },
+ {
+  "product_id": "NE-04305",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-04306",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/5127mBKh8DL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Stone Vibe(Black)"
+ },
+ {
+  "product_id": "NE-04307",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/273014_5_srbeoh.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "boAt Airdopes Crude TWS Earbuds (Cool Emerald)"
+ },
+ {
+  "product_id": "NE-04308",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81jf9NTIWJL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Wave Call 2 Plus Smart Watch (Metal Black)"
+ },
+ {
+  "product_id": "NE-04309",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Rockerz 103 Pro Blue (Untblueitled-1.png)"
  }
 ]
