@@ -510,5 +510,261 @@
   "confidence": "high",
   "source_domain": "www.samsung.com",
   "matched_title": "Galaxy Book6 Ultra, 40.62cm 32GB/1TB Laptop - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10791",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51vcO2R4XnL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a (8GB 128GB Black)"
+ },
+ {
+  "product_id": "NE-10792",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/516Urbs3RSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a 5G (8GB RAM, 256GB, White)"
+ },
+ {
+  "product_id": "NE-10793",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/513qQNCslNL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4a) 5G (Black, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10794",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/416+58CFmaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a Pro 5G (8GB RAM, 128GB, Silver)"
+ },
+ {
+  "product_id": "NE-10795",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51ySi75ZOwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4a) Pro 5G ( Silver, 8GB-256GB )"
+ },
+ {
+  "product_id": "NE-10796",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61S6KnloSvL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4b), Blue (8GB, 128GB)"
+ },
+ {
+  "product_id": "NE-10797",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51gtdr2AaoL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4b), White (8GB, 256GB)"
+ },
+ {
+  "product_id": "NE-10798",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717z2bNF6DL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3), Black (12GB, 256GB)"
+ },
+ {
+  "product_id": "NE-10799",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71k2mnrt8dL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3), White (16GB, 512GB)"
+ },
+ {
+  "product_id": "NE-10800",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/nothing/494743618/0/GWkdscPc2a-897BD_Gg5-NothingPhone4aPro-494743618-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Nothing Phone 4a Pro 5G (12GB RAM, 256GB, Silver)"
+ },
+ {
+  "product_id": "NE-10801",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71dZBla7wUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 3a Lite | Black | 128GB | 8GB RAM"
+ },
+ {
+  "product_id": "NE-10802",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81iPJsqxMoL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3a) Lite (Blue, 256 GB) (8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10803",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C100X Smartphone 4GB RAM 64GB ROM Golden Coast"
+ },
+ {
+  "product_id": "NE-10804",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61haWHLhxSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C100i 4G Smartphone (Silver, 64 GB, 4 GB)"
+ },
+ {
+  "product_id": "NE-10805",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61g+R8Jz7oL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C83 5G Smartphone 4+64GB Green"
+ },
+ {
+  "product_id": "NE-10806",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy Realme C83 5G (4GB RAM, 128GB, Blooming Purple) Online - Croma"
+ },
+ {
+  "product_id": "NE-10807",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71nUAJWvwXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Realme C83 5G (6GB RAM, 128GB, Blooming Purple)"
+ },
+ {
+  "product_id": "NE-10808",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494742292/0/9XxdqgLOop-zj5WbSbiV-RealmeC855G-MB-494742292-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme C85 5G ( Parrot Purple, 4GB-128GB )"
+ },
+ {
+  "product_id": "NE-10809",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C85 5G Smartphone 6+128GB Green"
+ },
+ {
+  "product_id": "NE-10810",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71DwKrlwrcL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15X 5G Smartphone 6+128GB Red"
+ },
+ {
+  "product_id": "NE-10811",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Kmy3FL6LL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15X 5G Smartphone 8+128GB Blue"
+ },
+ {
+  "product_id": "NE-10812",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321985_0_GCQudu7SSu.png?updatedAt=1773315488454",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 15x 5G (8GB RAM, 256GB, Maroon Red)"
+ },
+ {
+  "product_id": "NE-10813",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61S1CJora+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15T 5G Smartphone 8GB+128GB Black"
+ },
+ {
+  "product_id": "NE-10814",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61SUKo0D8IL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15T 5G Smartphone 8+256GB Blue"
+ },
+ {
+  "product_id": "NE-10815",
+  "keep": false,
+  "image_url": "https://www.cellpoint.biz/uploads/media/2025/713rlnjqQzL__AC_UF894,1000_QL80_.jpg",
+  "confidence": "high",
+  "source_domain": "www.cellpoint.biz",
+  "matched_title": "Realme 15T 5G (12+256)GB in Realme | Cell Point"
+ },
+ {
+  "product_id": "NE-10816",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61WCtMZO0bL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16X 5G Smartphone 4GB RAM 128GB ROM White"
+ },
+ {
+  "product_id": "NE-10817",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494832440/0/gmQ0mrWpcG-Fim1bkw8K-Realme-16X-5G-MP-494832440-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme 16x 5G ( Endurance Brown, 6GB-128GB )"
+ },
+ {
+  "product_id": "NE-10818",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61xt-EepHKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16x 5G Smartphone 6+256GB White"
+ },
+ {
+  "product_id": "NE-10819",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323159_0_Rw7jW_UfC.png?updatedAt=1779447414313",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 16T 5G (6GB RAM, 128GB, Aurora Green)"
+ },
+ {
+  "product_id": "NE-10820",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16T 5G Smartphone 8GB RAM 128GB ROM"
+ },
+ {
+  "product_id": "NE-10821",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323164_0_T0m38CKpx.png?updatedAt=1779447381736",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 16T 5G (8GB RAM, 256GB, Starlight Black)"
+ },
+ {
+  "product_id": "NE-10822",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61y72-07p7L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 8+128GB White"
  }
 ]

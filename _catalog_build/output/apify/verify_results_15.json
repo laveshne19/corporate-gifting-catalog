@@ -1022,5 +1022,261 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-11178",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Clean_One_Best_Screen_Cleaner_and_All-in-One_Gadget_Cleaning_Kit.jpg?v=1762168036",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Clean One New 16-in-1 Multi-Gadget Cleaning Kit"
+ },
+ {
+  "product_id": "NE-02379",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_instapod_160_best_portable_tripod_for_mobile.jpg?v=1788853854",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Instapod 160 Adjustable Portable Tripod Stand"
+ },
+ {
+  "product_id": "NE-02381",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/image_1_531bfa51-68a2-447b-a4cb-23c7ef95ea28.jpg?v=1744372809",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Lumistick - Smart Selfie Stick"
+ },
+ {
+  "product_id": "NE-11185",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Lumistick_2_best_Selfie_Stick_with_tripod_and_wireless_remote_control.jpg?v=1733124202",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Lumistick 2 - Smart Selfie Stick"
+ },
+ {
+  "product_id": "NE-11187",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11188",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Lumistick_Air_Foldable_Selfie_Stick.jpg?v=1754556556",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Lumistick Air"
+ },
+ {
+  "product_id": "NE-11189",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11190",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11192",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11193",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_8b036f30-5938-4ae4-8ce5-39fd23dccd34.jpg?v=1733482879",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics SlideMate 2 wireless presenter"
+ },
+ {
+  "product_id": "NE-11194",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_945f8e90-afb4-4771-83ed-b697291c2ae6.jpg?v=1647508886",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Talk One 360 Voice Coverage Portable Conference Speaker"
+ },
+ {
+  "product_id": "NE-11201",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51qtxqNKPML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Amazon.in: Buy Portronics Glide Stylus Pencil for iPads Only, Angle Tilt Sensitivity, Palm Rejection"
+ },
+ {
+  "product_id": "NE-11202",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11204",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/1_6_10ae3c26-76fd-403f-b248-9c5b12fa81c7.jpg?v=1726569589",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Swipe 3 Screen Cleaner Kit Online at Discount"
+ },
+ {
+  "product_id": "NE-11205",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_ThermoSip_Mini_electric_kettle_for_travel.png?v=1734688834",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Thermosip"
+ },
+ {
+  "product_id": "NE-11209",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Anymeal_Portable_Electric_Kettle.png?v=1739526043",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "AnyMeal"
+ },
+ {
+  "product_id": "NE-11210",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02396",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11211",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Eco_Glow_2_LED_Flashlight_online.jpg?v=1758172220",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Eco Glow 2 Rechargeable Torch Light"
+ },
+ {
+  "product_id": "NE-11224",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02399",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/image_5_cfce9bb3-f30b-400e-9d2f-d34e98356d04.jpg?v=1744270978",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Xlife Smart Wireless Ear Otoscope Cleaner with 6 LED Lights, FHD 1080 Camera(Black)"
+ },
+ {
+  "product_id": "NE-02400",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Cleansify1500x1500-5.jpg?v=1758172555",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Cleansify"
+ },
+ {
+  "product_id": "NE-11225",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_5_7c21d448-77e2-420f-91f6-5b673635a3a8.jpg?v=1738155424",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Tixie Rotational Countdown Timer With 12 Timing Gear & Magnetic Attachments"
+ },
+ {
+  "product_id": "NE-11227",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1-5_befd3580-407e-427a-9506-ab6e53a16d25.png?v=1738824230",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics POR-2975 Bit Box, 24-in-1 Screwdriver Kit"
+ },
+ {
+  "product_id": "NE-11228",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_BitBox_2_screwdriver_tool_kit_at_affordable_price.png?v=1751271379",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics POR 3097 Bit Box 2, 128-in-1 Screwdriver Kit"
+ },
+ {
+  "product_id": "NE-11229",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11230",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_bluefi_bluetooth_usb_adapter_for_wireless_computer_accessories.png?v=1783497553",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics BlueFi Nano Wi-Fi & Bluetooth USB Dongle"
+ },
+ {
+  "product_id": "NE-11232",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11233",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11234",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Wallet_X_Slim_magnetic_wallet_for_iPhone_with_trifold_mobile_stand.jpg?v=1747636984",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics New Wallet X Premium Magnetic Wallet Card Holder Brown"
+ },
+ {
+  "product_id": "NE-11241",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11243",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]

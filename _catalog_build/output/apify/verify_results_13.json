@@ -510,5 +510,261 @@
   "confidence": null,
   "source_domain": "www.portronics.com",
   "matched_title": "Muffs M5 ANC Bluetooth Headphones | 50H Playtime, Quad Mic"
+ },
+ {
+  "product_id": "NE-06383",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Muffs_M6_Wireless_Bluetooth_Headphones_with_latest_5.4.jpg?v=1765451431",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Muffs M6"
+ },
+ {
+  "product_id": "NE-06385",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Muffs M7"
+ },
+ {
+  "product_id": "NE-06388",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Muffs M8"
+ },
+ {
+  "product_id": "NE-06389",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Muffs A3 ENC Wireless Headphone with Mic"
+ },
+ {
+  "product_id": "NE-06390",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Ravn Premium Wired Gaming Headphone with Mic"
+ },
+ {
+  "product_id": "NE-06391",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Twins One"
+ },
+ {
+  "product_id": "NE-06392",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_twins_one_plus_wireless_earbuds_with_with_rich_bass_and_clear_vocals.jpg?v=1769838408",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Twins One Plus"
+ },
+ {
+  "product_id": "NE-06394",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Harmonics Twins S20 Wireless Earbuds Online"
+ },
+ {
+  "product_id": "NE-06395",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Harmonics Twins 28 Bluetooth Earphones With ANC"
+ },
+ {
+  "product_id": "NE-01971",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71CxxWSJAcL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Twins 29 ANC in-ear TWS Wireless Bluetooth Earbuds With Digital Display"
+ },
+ {
+  "product_id": "NE-06402",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Harmonics Twins 32 Smart Earbuds | 30H Playtime & HD Mic"
+ },
+ {
+  "product_id": "NE-06403",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Twins 33 ANC TWS Earbuds White"
+ },
+ {
+  "product_id": "NE-06404",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Twins S3 Smart TWS Bluetooth 5.2 Earbuds (Black)"
+ },
+ {
+  "product_id": "NE-06405",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Twins S6"
+ },
+ {
+  "product_id": "NE-06406",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Twins S7"
+ },
+ {
+  "product_id": "NE-06408",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Twins S9"
+ },
+ {
+  "product_id": "NE-06409",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Harmonics Twins S13 Bluetooth Earbuds"
+ },
+ {
+  "product_id": "NE-06410",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics S16 Bluetooth TWS Earbuds with ANC"
+ },
+ {
+  "product_id": "NE-06418",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard_1_5283fe49-9621-4900-8c77-d25dc72659f2.jpg?v=1724140512",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Harmonics Twins S18"
+ },
+ {
+  "product_id": "NE-06420",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Twins_S18_Pro_True_Wireless_Earbuds.jpg?v=1767695472",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Twins S18 Pro"
+ },
+ {
+  "product_id": "NE-06429",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Harmonics Twins S19 Bluetooth Earbuds Online"
+ },
+ {
+  "product_id": "NE-06430",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1_31613938-eaae-4634-9695-eb696f84788d.jpg?v=1725098951",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Harmonics Twins 31 Smart Wireless Earbuds with HD Mic & Open-Ear Design"
+ },
+ {
+  "product_id": "NE-06477",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Conch_One_wired_earphone_with_type_C.jpg?v=1756903361",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch One"
+ },
+ {
+  "product_id": "NE-01985",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch Theta A"
+ },
+ {
+  "product_id": "NE-01986",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1400x1800_1_aac18541-2fab-45d1-abfe-d7574da1ef44.jpg?v=1767600238",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch Theta C"
+ },
+ {
+  "product_id": "NE-06487",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Conch Theta L 8 Pin Wired Earphone with in Line HD Mic"
+ },
+ {
+  "product_id": "NE-06499",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/8_4ea37b33-3b32-4deb-8dce-3b1293bd7df2.jpg?v=1752126839",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch Tune C"
+ },
+ {
+  "product_id": "NE-06502",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Type_C_Earphone_with_Mic_Conch_Sigma_by_Portronics.jpg?v=1738914625",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Conch Sigma Type C Wired Earphones with Mic"
+ },
+ {
+  "product_id": "NE-06533",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Conch_Sigma_A_wired_earphone_with_mic.jpg?v=1741424967",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Conch Sigma A in Ear Wired Earphones with Mic"
+ },
+ {
+  "product_id": "NE-01991",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch Gamma"
+ },
+ {
+  "product_id": "NE-01992",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Wired_earphones_Type_C_Portronics_Conch_Gamma_C.jpg?v=1746426388",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Conch Gamma C"
+ },
+ {
+  "product_id": "NE-06544",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Conch Kappa 3.5mm Wired Earphones with Mic"
  }
 ]
