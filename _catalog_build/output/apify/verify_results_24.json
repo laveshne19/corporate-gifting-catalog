@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-11837",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Secure AirTag Holder with Strap Blue Belkin"
+ },
+ {
+  "product_id": "NE-11838",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Belkin Secure Holder with Strap for AirTag,Pink,F8W974btPNK"
+ },
+ {
+  "product_id": "NE-11839",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw65a3581c/images/hi-res/5/5bdb944f4376a65b_belkin-F8W974btWHT-airtag-secure-holder-dotcom-wgg5-v01-r01-1000x1000-us__lz__en_US.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Secure AirTag Holder with Strap for Luggage, White | Belkin"
+ },
+ {
+  "product_id": "NE-03429",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw97498623/images/hi-res/b/5383147d7ff5d4bb_AUC012btBK_SoundForm_Rhythm_Hero_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "SoundForm Rhythm True Wireless Earbuds AUC012btBK | Belkin"
+ },
+ {
+  "product_id": "NE-11840",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "SoundForm Rhythm True Wireless Earbuds AUC012btWH | Belkin"
+ },
+ {
+  "product_id": "NE-03431",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Belkin SoundForm Adapt Wireless Over-Ear Headset"
+ },
+ {
+  "product_id": "NE-03432",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0ca8facc/images/hi-res/4/4d81ada2db9c870f_MSA025-iPhone16-ClearPhoneCase-web-01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "SheerForce Magnetic iPhone Case for iPhone 16 (MSA025) | Belkin"
+ },
+ {
+  "product_id": "NE-03433",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3435867b/images/hi-res/2/2b67a4ba317a0b5a_MSA027-iPhone16pro-ClearPhoneCase-web-01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "SheerForce Magnetic iPhone Case for iPhone 16 Pro (MSA027) | Belkin"
+ },
+ {
+  "product_id": "NE-03434",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw52d057cd/images/hi-res/2/50e46f2d88e4d148_MSA028-iPhone16promax-ClearPhoneCase-web-01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "SheerForce Magnetic iPhone Case for iPhone 16 Pro Max (MSA028) | Belkin"
+ },
+ {
+  "product_id": "NE-03435",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/SilentproBlossomsmart_Denimblue_1_angle_1.png?v=1776751786",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Silent Pro Blossom Smart Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03436",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41Tl5Vo9GIL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton SilentPro Blossom 1200 mm ActivBLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03437",
+  "keep": false,
+  "image_url": "https://www.bestofelectricals.com/images/thumbs/0027681_crompton-silentpro-enso-49-chestnut-wood-finish-bldc-ceiling-fans_600.png",
+  "confidence": "high",
+  "source_domain": "www.bestofelectricals.com",
+  "matched_title": "Crompton SilentPro Enso 49 Chestnut Wood Finish BLDC Ceiling Fans"
+ },
+ {
+  "product_id": "NE-03438",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/515wnYqY8XL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton SilentPro Enso 1225 mm ActivBLDC with Anti-Dust Technology"
+ },
+ {
+  "product_id": "NE-03439",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Silentproensosmart_Allwhite__4angle_1.png?v=1776751796&width=1920",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton SilentPro Enso Smart BLDC Ceiling Fans"
+ },
+ {
+  "product_id": "NE-03440",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/SilentProEnso_Silkwhite__1stAngle.png?v=1770373815",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton SilentPro Enso BLDC Ceiling Fans"
+ },
+ {
+  "product_id": "NE-03441",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/TransprentPng_58b9b11e-6c1b-4873-8900-410c544a01e7.png?v=1773406087&width=1920",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton SilentPro Fluido Wave BLDC 1200mm"
+ },
+ {
+  "product_id": "NE-03442",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/CinnamonBlush_bb86491c-7d57-4293-a3c1-de3705fadcff.png?v=1772789699&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Silent Pro Fluido Wave 1200mm"
+ },
+ {
+  "product_id": "NE-03443",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Uranus 1235 mm Decorative Underlight Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03444",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Untitled-1_f819978f-ddd3-4cb6-b518-68154f39136c.png?v=1772789755&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Premion Aura 2 | 4 Blade Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03445",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03446",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61zMAvHXI6L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Premion AURA2 Designer 3D LOTUS Design ANTIDUST 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03447",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Gf9ZQ44yL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "CROMPTON PREMION AURA2 DESIGNER 2D ANTIDUST 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03448",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Premion Aura2 Prime Antidust 1200 mm"
+ },
+ {
+  "product_id": "NE-03449",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/conch-crm.png?v=1772789746",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Premion Avancer Swirl | Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03450",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41s1OEJzdHL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Premion Avancer Prime Antidust 1200 mm Ceiling Fan (Conch Cream)"
+ },
+ {
+  "product_id": "NE-03451",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41ohG7H3g2L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton New Aura Prime 1200 mm High Speed Anti Dust Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03452",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Ivory_1angle_1740d988-43c6-486c-8723-ecc7d407db5d.png?v=1772789694",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion Nucleoid BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03453",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03454",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03455",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Untitled-1_97065d67-d52a-4513-909c-454baab6fe97.png?v=1776751790",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion Roverr Underlight BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03456",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/fan/d/a/0/energion-roverr-non-ul-iot-37-1-bldc-ceiling-fan-1200-crompton-original-imahgkmt6h7fag8z.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton Energion Roverr Non UL BLDC Ceiling Fan 1200 mm"
+ },
+ {
+  "product_id": "NE-03457",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Energioncookie_Brown__1angle_31c17669-2cf8-4125-82e1-3d2b6279019d.png?v=1772789713",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion Cookie BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03458",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/NITEOPL1_e6ee8696-279e-4dfe-adde-3cfe8d024743.jpg?v=1772789686&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion NITEO BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03459",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41rWjf3aVEL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Premion Aura2 BLDC 1200mm Designer Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03460",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/energion-groove-pl-1_77f2f357-a5ed-4e4c-90d5-052f70c3d136.jpg?v=1772789726&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion Groove Regmote BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03461",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03462",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Energion Groove 1200mm Ceiling Fan (Light Pine Wood)"
+ },
+ {
+  "product_id": "NE-03463",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03464",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/EnergionRivieraPl1.jpg?v=1772789649&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Energion Riviera Regulator BLDC Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03465",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03466",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03467",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41M9QVA8vML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton High Speed Gianna 1200mm (48 inch) Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03468",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31R2fP5kwQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Aura 48-inch High Speed Decorative Ceiling Fan (Ivory)"
+ },
+ {
+  "product_id": "NE-03469",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Highspeed Toro Antidust 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03470",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31TNHSyfP1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Jura Prime 1200 mm Decorative Ceiling Fan Anti-Dust"
+ },
+ {
+  "product_id": "NE-03471",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/dark-cherry.png?v=1772789751",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton HS Jura | Designer Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03472",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51WpxVBLxYL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Senorita 1200 mm High Speed Decorative Ceiling Fan (Opal White)"
+ },
+ {
+  "product_id": "NE-03473",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Seno Prime 1200 mm High Speed Decorative Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03474",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03475",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Transprent_11820df9-23df-4e60-9c8e-bf91730bce0e.png?v=1777978085",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton High Speed Rapidus Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03476",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03477",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03478",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03479",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41V7VHSe0LL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton HS Plus 1200mm 1-Star Ceiling Fan (Brown)"
+ },
+ {
+  "product_id": "NE-03480",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03481",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61A8OHk-enL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Riviera High Speed Ceiling Fan - 1200 mm (Brown)"
+ },
+ {
+  "product_id": "NE-03482",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03483",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/12/569635852/JP/KI/YO/235548790/imgi-106-300165-10-vsukw7.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Crompton High Speed HS RUSHWIND, 900 mm"
+ },
+ {
+  "product_id": "NE-03484",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/4174fjldhOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton DASHER425 1200 mm Ceiling Fan (Brown)"
+ },
+ {
+  "product_id": "NE-03485",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03486",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/410vqeQVHmL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Montania 1200mm Ceiling Fan (Smoked Brown)"
+ },
+ {
+  "product_id": "NE-03487",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41paCB1owCL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Surebreeze Lerone 1200 mm Ceiling Fan (Smoked Brown)"
+ },
+ {
+  "product_id": "NE-03488",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41iVIGNsMWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton High Speed Diego 1200mm Ceiling Fan (Smoked Brown)"
+ },
+ {
+  "product_id": "NE-03489",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51AzJWzv+7L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Highspeed Super Briz Royal 600 mm Designer Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03490",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71KT4MGK9yL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton ARIYABRIZ Prime 0.6M Coral Gold 4 Blades Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03491",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/419DqLGp36L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Surebreeze Optimus 1200 Mm Ceiling Fan (Shimmer Carbon)"
+ },
+ {
+  "product_id": "NE-03492",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03493",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Ariyabriz 600 mm High Speed 4-Blade Ceiling Fan (Dark Raisin)"
+ },
+ {
+  "product_id": "NE-03494",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41b651vIArL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Cool Breeze 900 mm Ceiling Fan (Brown)"
+ },
+ {
+  "product_id": "NE-03495",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/510a8jzRUVL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Highspeed JetWind 600 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03496",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03497",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Sea Breeze Ceiling Fan - 1200 mm (Lustre Brown)"
+ },
+ {
+  "product_id": "NE-03498",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61Pt0aXujLL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Sea Wind 1200 mm High Speed Ceiling Fan (Lustre Brown)"
+ },
+ {
+  "product_id": "NE-03499",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Surebreeze Sea Bliss | Star Rated Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03500",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/PLBanner2_37177102-2dd1-4008-b210-91d218ef1983.jpg?v=1772789770&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Surebreeze Star Drift 1200 MM | Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03501",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51mCuRjKVDL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton High Speed StarSpin 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03502",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/pl2_9ccf74b6-010c-4ca6-be49-c1b25dc1ba6f.png?v=1772789762&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Surebreeze Starbriz | Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03503",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/z/g/y/verno-72-1-ceiling-fan-1200-crompton-original-imaghfs65sv3gsah.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton Verno with 1 Year Warranty 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03504",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Winzer 48-inch High Speed Decorative Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03505",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/8/338790091/LT/AV/CE/38976128/crompton-pavan-fan.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Crompton Pavan Fan, 400 RPM, 3 Blades"
+ },
+ {
+  "product_id": "NE-03506",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/10/GQ/XD/MJ/68219908/star-220.jpeg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "1200 MM Crompton Ceiling Fans STAR 220"
+ },
+ {
+  "product_id": "NE-03507",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton High Speed Nidus 1200 mm Ceiling Fan"
+ },
+ {
+  "product_id": "NE-03508",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03509",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03510",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/r/p/torpedo-black-pack-of-1-125-1-ceiling-fan-400-crompton-original-imah2nvkzqzyg6ez.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton HS Torpedo 400 mm Table Fan"
+ },
+ {
+  "product_id": "NE-03511",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/ks4yz680/fan/v/m/0/high-flo-wave-plus-table-fan-crompton-original-imag5rpyj7mdhcfx.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton High Flo Wave Plus 400 mm Table Fan"
+ },
+ {
+  "product_id": "NE-03512",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03513",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03514",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/8/u/c/storm-2-450mm-60-1-pedestal-fan-0-crompton-resized-original-imahahhm4pgkmh5w.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton Storm 2, 450MM Pedestal Fan"
+ },
+ {
+  "product_id": "NE-03515",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Brizstar-farrata-PrL4_1.jpg?v=1695100660&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Brizstar Farrata"
+ },
+ {
+  "product_id": "NE-03516",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03517",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/2_ddebf2e0-1475-4bc6-b75e-a0e09b8c1460.png?v=1701690528&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Torpedo HS PF Pedestal Fan"
+ },
+ {
+  "product_id": "NE-03518",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/WavePlusPL1_4_1.jpg?v=1713252602&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Hiflo Wave Plus Pedestal Fan"
+ },
+ {
+  "product_id": "NE-03519",
+  "keep": false,
+  "image_url": "https://storage.googleapis.com/shy-pub/386933/Fans1-1775569536773.jpeg",
+  "confidence": "high",
+  "source_domain": "www.shopatkjn.com",
+  "matched_title": "Crompton Hi Flo Neo Pedestial Fan"
+ },
+ {
+  "product_id": "NE-03520",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/507048818/PV/AH/TP/244717527/crompton-high-flo-wavestar-neo-pedestal-fan.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Crompton High Flo Wavestar Neo Pedestal Fan"
+ },
+ {
+  "product_id": "NE-03521",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/o/g/g/brivis-180-1-induction-tower-fan-435-crompton-original-imahe3cttbzeytjh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton Brivis Tower Fan 435 mm"
+ },
+ {
+  "product_id": "NE-03522",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03523",
+  "keep": false,
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/Fan/WallFan/IT00073567-550x550.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Crompton Storm 2 450 mm Wall Fan ( Silver Black )"
+ },
+ {
+  "product_id": "NE-03524",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Highspeed Torpedo Wall Mounted Fan 400mm"
+ },
+ {
+  "product_id": "NE-03525",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/5/513744061/XG/JW/FY/113690660/crompton-wall-mount-fan.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Crompton Wall Mount Fan WM HS Torpedo 12\""
+ },
+ {
+  "product_id": "NE-03526",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Wave-Plus-choco-brownPL2-_1_1.jpg?v=1713252848&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Hiflo Wave Plus Wall Mounted Fan"
+ },
+ {
+  "product_id": "NE-03527",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/r/c/1/wmhifloneo16kdwt-58-1-wall-fan-400-crompton-original-imah4uysgz4n34x2.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton WMHIFLONEO16KDWT 400 mm Wall Fan"
+ },
+ {
+  "product_id": "NE-03528",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03529",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03530",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03531",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03532",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/r/y/x/trans-air-12-70-1-induction-exhaust-fan-300-crompton-original-imahaqaz4ya2pkwh.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Crompton Trans Air 12\" | Exhaust Fan | 300 mm"
+ },
+ {
+  "product_id": "NE-03533",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Metal Trans Air Reversible 9-Inch Exhaust Fan (Grey)"
+ },
+ {
+  "product_id": "NE-03534",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61h0Sct4eQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton 9\" TRANSAIR WITH GUARD"
+ },
+ {
+  "product_id": "NE-03535",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41Dz2Ba283S.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Transair 6 inch Anti-Rust Metal Body Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03536",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Drift Air Plus AntiDust 300 mm Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03537",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61Su29FFKRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Drift Air Plus 9 inch Metal Body Exhaust Fan | Anti-Dust"
+ },
+ {
+  "product_id": "NE-03538",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03539",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51w23ESGcBL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Greaves Drift Air Plus Exhaust Fan - 300 mm (Silver)"
+ },
+ {
+  "product_id": "NE-03540",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61K7PNzACxL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Drift Air Plus 6 inch Metal Body Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03541",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61HUBrMj9bL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Drift Air Plus 9 inch Metal Body Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03542",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51MHKUqj8yL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Flux Air 225 MET BLD & PL. GUARD"
+ },
+ {
+  "product_id": "NE-03543",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03544",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03545",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51DdmSQM6wL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Ventilus 35W Plastic Exhaust Fan (10 Inch, White)"
+ },
+ {
+  "product_id": "NE-03546",
+  "keep": false,
+  "image_url": "https://www.crompton.co.in/cdn/shop/files/Ventilus200mm_White__1angle.png?v=1694084811&width=1946",
+  "confidence": "high",
+  "source_domain": "www.crompton.co.in",
+  "matched_title": "Crompton Ventilus Exhaust Fan 200mm White"
+ },
+ {
+  "product_id": "NE-03547",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/products/1000076337_1024x1024.jpg?v=1631677937",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton Ventilus 6 Inch Ventilation Fan 150mm"
+ },
+ {
+  "product_id": "NE-03548",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Ventilus HS 150 mm (6 inch) Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03549",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61+Ing2ogSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Ventilus HS 200 mm (8 inch) Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03550",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Mount Air New 6 inch ABS Body Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03551",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton MOUNTAIR NEW 6\" WOODEN EXHAUST FAN"
+ },
+ {
+  "product_id": "NE-03552",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03553",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03554",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51exsaOx6PL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Brisk Air Neo 250 mm (10 inch) Exhaust Fan (White)"
+ },
+ {
+  "product_id": "NE-03555",
+  "keep": false,
+  "image_url": "https://indobazzar.in/wp-content/uploads/2023/01/Brisk-Air-Neo-8-200-MM-WHITE-1.jpg",
+  "confidence": "high",
+  "source_domain": "indobazzar.in",
+  "matched_title": "Crompton Brisk Air Neo 8 200 MM WHITE Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03556",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/415kYSj38oL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Brisk Air Neo Exhaust/Ventilation Fan, 150mm, White"
+ },
+ {
+  "product_id": "NE-03557",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/81BbJS8iZ82v9-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Crompton Brisk Air Plus 8 inch 30W Plastic White Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03558",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51n188i2TzL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Brisk Air Plus 6 inch Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03559",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41zUSPKlKIL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Axial Air High-Speed Plastic Exhaust Fan (150 mm/6 Inches, White)"
+ },
+ {
+  "product_id": "NE-03560",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton Axial Air 200 mm (8 inch) Exhaust Fan White"
+ },
+ {
+  "product_id": "NE-03561",
+  "keep": false,
+  "image_url": "https://indobazzar.in/wp-content/uploads/2023/01/AXIAL-AIR-4-100MM-WHITE-1.jpg",
+  "confidence": "high",
+  "source_domain": "indobazzar.in",
+  "matched_title": "Crompton Axial Air 4'' 100MM-White Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03562",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51OgAlAJJsL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Crompton Brisk Air cm Ceiling 110 mm Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03563",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03564",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/1QHZ6EAehcYDN-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Crompton EXHD300-4-1 (ISI) Heavy Duty Exhaust Fan 300 mm"
+ },
+ {
+  "product_id": "NE-03565",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/JlizFBVyLTkg0-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Crompton EXHD300-6-1 300 mm Heavy Duty Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03566",
+  "keep": false,
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/EXHD380-4-1-380-HD.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "EXHD380-4-1 380mm Heavy Duty Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03567",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03568",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000076347_dafed41f-9fd8-495a-a653-6229f20faefc_large.jpg?v=1789625893",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton EXHD380-4-3 Heavy Duty Exhaust Fan 380mm"
+ },
+ {
+  "product_id": "NE-03569",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03570",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "Crompton EXHD450-4-1 450 MM 1400 RPM Heavy Duty Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03571",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/4/303341890/US/WK/PU/148434823/51ooplufspl-sl1000--500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "CROMPTON EXHD450-4-1-NEO HEAVY DUTY EXHAUST FAN 450MM"
+ },
+ {
+  "product_id": "NE-03572",
+  "keep": false,
+  "image_url": "http://www.bestomart.com/cdn/shop/files/1000076352_012ebf55-ddf2-4ea7-b5c9-8001cf2cf40e_grande.jpg?v=1789626401",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton EXHD450-4-3 Heavy Duty Exhaust Fan 450mm"
+ },
+ {
+  "product_id": "NE-03573",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03574",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/wkgxdbJiBUkvT-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Crompton EXHD600-6-1 600 mm Heavy Duty Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03575",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/GRWrTBitrUIkV-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Crompton EXHD600-6-3 600 mm Heavy Duty Exhaust Fan"
+ },
+ {
+  "product_id": "NE-03576",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000076356_26a69cdf-dcf2-41e9-a005-e7eeb093ed1d_large.jpg?v=1789627620",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton EXHD900-8-3 Heavy Duty Exhaust Fan 900mm"
+ },
+ {
+  "product_id": "NE-03577",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03578",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/products/1000101997_1024x1024.jpg?v=1650974113",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton Vortex Series Air Circulator Wall Mounting Fan 450mm ACVORTEX18WM"
+ },
+ {
+  "product_id": "NE-03579",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03580",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/638683275/ZB/WP/YL/6109839/24-inch-crompton-acvortex24wm-vortex-wall-mounting-fan.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "24 Inch Crompton ACVORTEX24WM Vortex Wall Mounting Fan"
+ },
+ {
+  "product_id": "NE-03581",
+  "keep": false,
+  "image_url": "https://lntsufin.com/storage/mediafiles/catalog/live/17656-1495/original/17656-1495_image_0.jpeg",
+  "confidence": "high",
+  "source_domain": "lntsufin.com",
+  "matched_title": "Crompton ACVORTEX24PF 600 mm Pedestal Fan"
+ },
+ {
+  "product_id": "NE-03582",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/products/1000102001_large.jpg?v=1650974120",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Crompton Vortex Series Air Circulator Wall Mounting Fan 750mm ACVORTEX30WM"
+ },
+ {
+  "product_id": "NE-03583",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03584",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03585",
+  "keep": false,
+  "image_url": "https://theelectriconline.com/cdn/shop/files/Crompton_Brasso_cabin_fan_39204929-55c4-4870-897b-ef77a8e2a6e1.jpg?v=1780921433&width=1214",
+  "confidence": "high",
+  "source_domain": "theelectriconline.com",
+  "matched_title": "Crompton Brasso 300mm Cabin Fan (White)"
+ },
+ {
+  "product_id": "NE-03586",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Boat-party-pal-450-with-dual-mic-wireless-party-speaker-premium-black-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Boat Party Pal 450 With Dual Mic Wireless Party Speaker ( Premium Black )"
+ },
+ {
+  "product_id": "NE-03587",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt PartyPal 700 | 300W Bluetooth Party Speaker"
+ },
+ {
+  "product_id": "NE-03588",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/B0F7XX996G.PT01_1024x.png?v=1750674029",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt Aavante Prime 5.1 5000DA 500W Soundbar with Remote (Dolby Atmos, 5.1 Channel, Black)"
+ },
+ {
+  "product_id": "NE-03589",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Rockerz Summit | Wireless Bluetooth Neckband Earphone"
+ },
+ {
+  "product_id": "NE-03590",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/boat/494581922/4/AORQFt6lG5-nccYA8AUO6-boAt-EnergyShroom-MagnaCharge-Power-Bank-Black-494581922-i-5-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "boAt EnergyShroom PB331 MagnaCharge 10000 mAh Power Bank Ash Black"
+ },
+ {
+  "product_id": "NE-03591",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/boat/494623791/0/GF949PkS34-z2Ni1GR2OX-boAt-Airdopes-494623791-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "boAt Airdopes 148 Gen 2 TWS Earbuds (Active Black)"
+ },
+ {
+  "product_id": "NE-03592",
+  "keep": false,
+  "image_url": "http://selectmobiles.in/cdn/shop/files/49-7-wave-astra-3-android-ios-boat-yes-original-imah6zqpt6azw7nv.webp?v=1761391891",
+  "confidence": "high",
+  "source_domain": "selectmobiles.in",
+  "matched_title": "boAt Wave Astra 3 Smartwatch ( Active Black )"
+ },
+ {
+  "product_id": "NE-03593",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante 1550 Plus | 160W 2.1 Soundbar with HDMI ARC"
+ },
+ {
+  "product_id": "NE-03594",
+  "keep": false,
+  "image_url": "https://api.thechennaimobiles.com/1765415333862.jpg",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "BOAT AIRDOPES 213 TWS (SHADOW BLACK)"
+ },
+ {
+  "product_id": "NE-03595",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Rockerz 200 - Wireless Bluetooth Earphone with Large Playback"
+ },
+ {
+  "product_id": "NE-03596",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "EnergyShroom PB300 Lite | Powerbank 10000mAh"
+ },
+ {
+  "product_id": "NE-03597",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard6_60e5cbf0-827b-49ca-86da-726ff5624770_1500x.png?v=1752213646",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt Airdopes 101v2 | TWS Earbuds with 35H Playback Pitch Black"
+ },
+ {
+  "product_id": "NE-03598",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard5_87b972d0-171d-451f-afcc-04e3e86d58c7_600x.jpg?v=1698222938",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt Aavante Bar 3600 | 500W Bluetooth Soundbar, 5.1 Surround Sound System"
+ },
+ {
+  "product_id": "NE-03599",
+  "keep": false,
+  "image_url": "https://www.myg.in/images/detailed/124/-original-imah5heywzuqwfzf.webp",
+  "confidence": "high",
+  "source_domain": "www.myg.in",
+  "matched_title": "Boat Rockerz 430 Wireless Headphone | On the Ear | Iris Black"
+ },
+ {
+  "product_id": "NE-03600",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante Aura Plus | 160W 2.1 Channel Soundbar"
+ },
+ {
+  "product_id": "NE-03601",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Lunar Orbit 2 | Smartwatch with 1.39\" HD Display"
+ },
+ {
+  "product_id": "NE-03602",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante Bar 3500 | Bluetooth Soundbar with 500W RMS"
+ },
+ {
+  "product_id": "NE-03603",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61AfNadegiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt Airdopes 212, 50H Battery (Noir Black)"
+ },
+ {
+  "product_id": "NE-03604",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "BoAt Rockerz Strive | Wireless Neckband | Onyx Black"
+ },
+ {
+  "product_id": "NE-03605",
+  "keep": false,
+  "image_url": "https://cdn.zeptonow.com/production/tr:w-640,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/614913bf-b4cc-4298-a3f8-83822d795a27.jpg",
+  "confidence": "high",
+  "source_domain": "www.zepto.com",
+  "matched_title": "boAt (PB400) 20000 mAh wired Power Bank - Carbon Black"
+ },
+ {
+  "product_id": "NE-03606",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante Quake Plus | 200W 2.1 Channel Soundbar"
+ },
+ {
+  "product_id": "NE-03607",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Wave Astra 4 - HD Smartwatch with Bluetooth Calling"
+ },
+ {
+  "product_id": "NE-03608",
+  "keep": false,
+  "image_url": "http://www.mobilezoneindia.com/cdn/shop/files/8_f5b79af7-da58-4ed6-a7e3-b684b50fc71a.jpg?v=1768888920",
+  "confidence": "high",
+  "source_domain": "www.mobilezoneindia.com",
+  "matched_title": "boAt Airdopes 161 ANC Elite (Black, True Wireless)"
+ },
+ {
+  "product_id": "NE-03609",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Boat-rockerz-zen-anc-bluetooth-headset-onyx-black-Playtime.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Boat Rockerz Zen ANC Bluetooth Headset ( Onyx Black )"
+ },
+ {
+  "product_id": "NE-11841",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61z0YKs4J8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "boAt EnergyShroom PB331 (Magsafe) 10000mAh Magnetic Wireless Powerbank (Purple)"
+ },
+ {
+  "product_id": "NE-03611",
+  "keep": false,
+  "image_url": "https://api.thechennaimobiles.com/1765502089164.png",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "boAt Aavante Pulse 120W 2.1 Channel Soundbar (Premium Black)"
+ },
+ {
+  "product_id": "NE-03612",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": "boAt Aavante Prime Beat 500W 5.1 Channel Soundbar"
+ },
+ {
+  "product_id": "NE-03613",
+  "keep": false,
+  "image_url": "https://www.myg.in/images/detailed/113/71SwsA2wFtL._SL1500_.jpg",
+  "confidence": "high",
+  "source_domain": "www.myg.in",
+  "matched_title": "boAt Nirvana Iris EarBuds | upto 32 dB ANC | Crystal Black"
+ },
+ {
+  "product_id": "NE-03614",
+  "keep": false,
+  "image_url": "https://www.boat-lifestyle.com/cdn/shop/files/Frame1_1500x.png?v=1766138680",
+  "confidence": "high",
+  "source_domain": "www.boat-lifestyle.com",
+  "matched_title": "boAt Nirvana Crown Earbuds Gunmetal Grey"
+ }
+]
