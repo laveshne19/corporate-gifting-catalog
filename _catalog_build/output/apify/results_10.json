@@ -222,5 +222,47 @@
   "confidence": "high",
   "source_domain": "www.flipkart.com",
   "matched_title": "Whirlpool 215 L Direct Cool Single Door 5 Star Refrigerator [slug: 73673-215-impro-prm-5s-inv-wine-silk-y]"
+ },
+ {
+  "product_id": "NE-09830",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09831",
+  "image_url": "https://backend.paiinternational.in/media/images/1_XNWEMlG.webp",
+  "confidence": "high",
+  "source_domain": "www.paiinternational.in",
+  "matched_title": "Whirlpool 192 Litres 3 Star Direct Cool Single Door Refrigerator With Micro Block technology (215 IMPRO ROY 3S SAPPHIRE INFINITY-Y)"
+ },
+ {
+  "product_id": "NE-09832",
+  "image_url": "http://aaravelectronics.com/cdn/shop/files/215_IMPRO_ROY_3S_WINE_INFINITY-Y_73678.png?v=1785586698",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Whirlpool 192L 3 Star 215 IMPRO ROY Wine Infinity-Y Single-Door Refrigerator"
+ },
+ {
+  "product_id": "NE-09833",
+  "image_url": "http://aaravelectronics.com/cdn/shop/files/215_IMPRO_ROY_3S_SAPPHIRE_SILK-Y.png?v=1785589583",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Icemagic Pro 192L 3 Star Single Door Refrigerator with Base Drawer (file: 215_IMPRO_ROY_3S_SAPPHIRE_SILK-Y)"
+ },
+ {
+  "product_id": "NE-09834",
+  "image_url": "https://bc-storage.sfo2.cdn.digitaloceanspaces.com/girias/product/51XhvBD1W%2BL._SL1100__20260306130832871.jpg",
+  "confidence": "high",
+  "source_domain": "www.giriasindia.com",
+  "matched_title": "215 IMPRO ROY 3S WINE SILK-Y-(192LTR)(3 STAR)(DRAWER)(73680)-REF-DC-WHIRLPOOL | Girias"
+ },
+ {
+  "product_id": "NE-09835",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]
