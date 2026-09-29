@@ -766,5 +766,517 @@
   "confidence": "high",
   "source_domain": "www.belkin.com",
   "matched_title": "USB-C to USB-C Cable (2m / 6.6ft, Black) | Belkin TW"
+ },
+ {
+  "product_id": "NE-03333",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf4709dbc/images/hi-res/b/3003f8c559712629_CAB003BT0M-WHT_BoostCharge_USB-C_to_USB-C_Gallery_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03334",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3b2be774/images/hi-res/6/6e81fbb07dda0115_CAB004BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_03_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Fast Charger Cable | Belkin (CAB004BT0M-BLK)"
+ },
+ {
+  "product_id": "NE-11819",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11820",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11821",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03338",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw6ce25d8f/images/hi-res/4/68c12c8ed699dd9b_CAB004bt0MWH_CAB004bt2MWH_Gallery2.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Cable 60W, 2m, White, 2-Pack | Belkin"
+ },
+ {
+  "product_id": "NE-03339",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw9746572c/images/hi-res/1/1ace0762ddb0d9a8_CAB014-BLK_100W%20Braided%20C-C%20Cables_MCB320_02_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge USB-C to USB-C Cable, 100W, 2m | Belkin"
+ },
+ {
+  "product_id": "NE-11822",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11823",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11824",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03343",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc4e4f20e/images/hi-res/e/62c8e19e71a13bf3_CAB015-BLK_100W_USB-CtoUSB-C-Braided_Hero-1m_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Power Supply Cable 240W | Belkin CA"
+ },
+ {
+  "product_id": "NE-11825",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11826",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11827",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03347",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb45f2500/images/hi-res/6/550e9b84cb232eed_CAC001_Universal3in1Cable_shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal 3-in-1 Cable, USB-C, Lightning, Micro-USB | Belkin"
+ },
+ {
+  "product_id": "NE-03348",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw21b8d2e8/images/hi-res/1/1db1738e24bf4034_cac003fq-hp1-5bk-pro-2-in-1-cable-usb-c-lightning-connector--gallery-hero-01-fq-hq.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 USB-C and Lightning Cable, 1.5m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11828",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03350",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa68c0b56/images/hi-res/6/22e0654588a6da69_INZ002_Thunderbolt4_Angled_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 4 Cable - 100W Charging, 8K Video | Belkin"
+ },
+ {
+  "product_id": "NE-03351",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw721e655e/images/hi-res/f/30015c979445ec0a_INZ004bt2MBK_USB4_Cable_FrontOrtho_withCable_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Connect USB4 Cable, 240W + 20Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03352",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw18aea054/img/PDP/INZ004/INZ004tt1.2MBK-icon/belkin-inz004-usbc4-240w-20gbps-digital-1.2m-icon-banner-mobile-768x500.jpg?sfrm=jpg&q=95",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB4 Cable, 240W Charging and 20Gbps, 4 ft | Belkin"
+ },
+ {
+  "product_id": "NE-03353",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbcbdba64/images/hi-res/3/51fb2fdce3c7d071_INZ005-fq-hq-qc-1mbk-usbc-cable-240w-20gbps-webgallery-hero-shot-12.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 5 Cable, 1m, 240W and 80Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03354",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31F18ERdF9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y117BT2M Portable Audio Cable, 2 M - Black"
+ },
+ {
+  "product_id": "NE-03355",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/ylVDlba6KfNsA-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy Belkin 3.5mm Black & Gold Stereo to RCA Portable Audio Cable, F3Y116bt2M"
+ },
+ {
+  "product_id": "NE-03356",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71PwR377AaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y093BT2M - Television Digital Optical Audio Cable, Black"
+ },
+ {
+  "product_id": "NE-03357",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41nVoELTlhL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y021bt1m High Speed HDMI Cable with Ethernet - 1 Meter, Black & Gold"
+ },
+ {
+  "product_id": "NE-03358",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03359",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/12/569148252/LT/HC/XZ/18878158/belkin-f3y021bt5m-high-speed-hdmi-cable-with-ethernet-5-meter.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin F3Y021bt5M High Speed HDMI Cable with Ethernet - 5 meter"
+ },
+ {
+  "product_id": "NE-11829",
+  "keep": false,
+  "image_url": "https://vlebazaar.in/image/cache/catalog//B01NCKAR6H/Belkin-1-Meter-33-Feet-High-Speed-Nickel-Plated-HDMI-Cable-Supports-3D-4K-1080p--1000x525h.jpg",
+  "confidence": "high",
+  "source_domain": "vlebazaar.in",
+  "matched_title": "Belkin 1 Meter (3.3 Feet) High-Speed Nickel-Plated HDMI Cable, Black"
+ },
+ {
+  "product_id": "NE-11830",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11831",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41R23dFrlvL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin 5 Meter (16.5 Feet) High-Speed Nickel-Plated HDMI Cable - Black"
+ },
+ {
+  "product_id": "NE-03363",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc2f20757/images/hi-res/4/68f1d5b2b1f571f1_AV10175_1_Flat_1800px.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "8K Ultra High Speed HDMI 2.1 Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03364",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw13031b06/images/hi-res/NaN/db04e96b4cdb5dcf_AVC012bt2MBK-usb-c-to-hdmi-2-1-cable-webgg1-6000%C3%976000-us.jpg?sw=700&sh=700&sm=fit&sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB C to HDMI 2.1 Cable (8K 60Hz) | Belkin"
+ },
+ {
+  "product_id": "NE-03365",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfb30e10d/images/hi-res/a/2874bac3b7811c39_AVC014bt2MBK_Belkin_ConnectUsbCtoDP1.4Cable_03_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to DisplayPort 1.4 Cable, 8K, 2m | Belkin"
+ },
+ {
+  "product_id": "NE-03366",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/3/292661140/PD/CS/FY/35721131/belkin-lightning-audio-charge-rockstar-f8j198btwht.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin Lightning Audio + Charge Rockstar F8J198Btwht, White"
+ },
+ {
+  "product_id": "NE-03367",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/131129/fc73b41b-2224-4863-b02f-a33f29af0ecd.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Belkin 3.5 mm Audio & Charge Rockstar iPhone Adapter, F8J212btWHT"
+ },
+ {
+  "product_id": "NE-03368",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa2e254ac/images/hi-res/NaN/c8a47957339ca82_F2CU036btBLK_C-A_PkF_1.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB 3.0 USB-C to USB-A Adapter, 5Gbps, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03369",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51rJ4DdBEOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin Mini Display Port to HDMI Adapter"
+ },
+ {
+  "product_id": "NE-03370",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwaa80e764/images/hi-res/4/570404ce9e20e4e9_AVI211_BelkinDPtoHDMIActiveAdapter_Front_Qtr_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Active DisplayPort to HDMI Adapter, 4K 60Hz HDR | Belkin"
+ },
+ {
+  "product_id": "NE-03371",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31o1x9H3aiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin USB-C to VGA Adapter + Charge (60W Pass-Through Power), Black"
+ },
+ {
+  "product_id": "NE-03372",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwea24a6a7/images/hi-res/2/57410d0f7cbd3157_AVC002btBK_1_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to HDMI Adapter + Charge | Belkin"
+ },
+ {
+  "product_id": "NE-03373",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1d20aafd/images/hi-res/NaN/fdd357f57c478d09_AVC013btBK-usb-c-to-hdmi-2-1-adapter-webgg1-6000%C3%976000-us.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB C to HDMI 2.1 Adapter (8K 60Hz) | Belkin"
+ },
+ {
+  "product_id": "NE-03374",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf7cb9d5d/images/hi-res/NaN/d9d142a572ea68c_INC001btBK_1_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to Ethernet Adapter + 60W Charge | Belkin"
+ },
+ {
+  "product_id": "NE-11832",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03376",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03377",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51qXKqyAcuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.co.za",
+  "matched_title": "Belkin INC012btBK USB Type C to 2.5 Gb Ethernet Adapter"
+ },
+ {
+  "product_id": "NE-03378",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbebc50fd/images/hi-res/4/52b6b6c906ce7f26_bel-amazon-INC004_USB-C%2011-in-1%20MultiportDock_Amazon_1000x1000_1__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C 11-in-1 Multiport Dock for Mac and PC, Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03379",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbbac670c/images/hi-res/5/21ae899995acba4_AVC003btBK_FPK_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Video Adapter (HDMI, DisplayPort, DVI, VGA) | Belkin"
+ },
+ {
+  "product_id": "NE-03380",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03381",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw436fcd28/images/hi-res/8/24ab26877cf66a7a_AVI207-UsbC5in1Adapter-Front-Ortho-Webgg01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "5-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03382",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03383",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw69916033/images/hi-res/4/4a3ba7de06bc0f76_AVC009qcMVV2-DY-spiderman-usb-c-5n1-hub-webgg-apea.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "7-in-1 Multiport USB-C Hub Spider-Man Limited Edition, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03384",
+  "keep": false,
+  "image_url": "https://hnsgsfp.imgix.net/9/images/detailed/114/Belkin_Connect_Marvel_Ironman_USB-C_7-in-1_Multiport_Hub_Adapter_-_Red_(AVC009qcBG-DY)_05.JPG?fit=fill&bg=0FFF&w=1536&h=901&auto=format,compress",
+  "confidence": "high",
+  "source_domain": "www.harveynorman.com.my",
+  "matched_title": "Belkin Connect Marvel Ironman USB-C 7-in-1 Multiport Hub Adapter - Red (AVC009qcBG-DY) | Harvey Norman Malaysia"
+ },
+ {
+  "product_id": "NE-03385",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbf448201/images/hi-res/c/491548b187fd9ed_avc007fqSGY-v2-5-in-1-multiport-hub-gallery-hero-shot-01-rgb.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "5-in-1 Multiport USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03386",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc7df9d17/images/hi-res/a/74954ad6704d0c6f_AVC008xxSGY-v2-6-in-1-multiport-hub-gallery-shot-01.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "6-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03387",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfc6843c4/images/hi-res/4/4b0aa17099f033c3_AVC009xxSGY-v2-7-in-1-multiport-hub-gallery-shot-01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "7-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03388",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa3619006/images/hi-res/NaN/c48e31e3cd60911_F4U092%20_Multimedia_Hub_digitalassetsjpgbelkin-amazon-F4U092-mutlimedia-hub-desktop-v01-r01-1000x1000-us__lz__en_US.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Multimedia Hub with Power, Space Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03389",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw41615ed6/images/hi-res/4/68d13743803afc64_INC009btSGY_USB-C_MultimediaHub_Shot04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C 7-in-1 Multiport Adapter, Gen 2, Space Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03390",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw95d2d595/images/hi-res/9/9bd2073035187_INC002_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Docking Station: HD Dual Display | Belkin"
+ },
+ {
+  "product_id": "NE-03391",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw4a4be776/images/hi-res/d/29f391d03bc8f7bf_INC007_DisplayLinkDock_NPI_Ortho_BPK_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal USB-C Triple Display Docking Station | Belkin"
+ },
+ {
+  "product_id": "NE-03392",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw04a3a828/images/hi-res/1/49d098aeddfec1f2_F4U097_TILT_CABLE_JY_FIN.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 3 Dock Pro for Mac & PC | Belkin"
+ },
+ {
+  "product_id": "NE-03393",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03394",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw73820566/images/hi-res/2/18e339a0e5444370_INC006_Thunderbolt4DockPro_3-4View_WEB_1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Pro Thunderbolt 4 Dock, 40Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03395",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw943447d4/images/hi-res/NaN/ac63d04823f4ae98_INC013.3.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 4 5-in-1 Core Hub | Belkin"
+ },
+ {
+  "product_id": "NE-03396",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw59a75ec5/images/hi-res/5/5f21aaccb6db911c_belkin-inc014btsgy-connect-universal-11-in-1-pro-dock-amazon-gg2-v01-r01-2000x2000-us__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal USB-C 11-in-1 Pro Dock, 3 Monitors, 100W | Belkin"
  }
 ]
