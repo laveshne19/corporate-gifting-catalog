@@ -1,0 +1,1772 @@
+[
+ {
+  "product_id": "NE-05573",
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX15",
+  "model_code": "8903287040474",
+  "category": "Home Appliances",
+  "sub_category": "Dishwasher",
+  "current": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:e5e719a3-05c9-433a-b20b-1cfb6e7b2589/as/8903287040474-.webp?quality=60",
+  "query": "IFB NEPTUNE VX15 8903287040474 Dishwasher"
+ },
+ {
+  "product_id": "NE-05574",
+  "brand": "IFB",
+  "product_name": "NEPTUNE VX14",
+  "model_code": "8903287040450",
+  "category": "Home Appliances",
+  "sub_category": "Dishwasher",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Dishwashers/Images/308083_6_xqpmrk.png",
+  "query": "IFB NEPTUNE VX14 8903287040450 Dishwasher"
+ },
+ {
+  "product_id": "NE-05562",
+  "brand": "IFB",
+  "product_name": "MICRO WAVE OVEN 20BC4",
+  "model_code": "8903287005367",
+  "category": "Home Appliances",
+  "sub_category": "Microwave Oven",
+  "current": "https://www.myg.in/images/thumbnails/300/300/detailed/93/20BC4-3-removebg-preview.png.png",
+  "query": "IFB MICRO WAVE OVEN 20BC4 8903287005367 Microwave Oven"
+ },
+ {
+  "product_id": "NE-01797",
+  "brand": "Qubo",
+  "product_name": "Smart Door Lock Ultra",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://www.quboworld.com/cdn/shop/files/ultra-wi-fi-smart-door-lock_listing_02_2ad5c1a3-1f29-4c22-9ce4-c844520961d3.jpg?v=1775722264&width=3840",
+  "query": "Qubo Smart Door Lock Ultra"
+ },
+ {
+  "product_id": "NE-01798",
+  "brand": "Qubo",
+  "product_name": "Smart Door Lock Nova",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_03_a56e3bd7-8af0-4576-b6d3-f59e125d00f6.jpg?v=1776242357&width=3840",
+  "query": "Qubo Smart Door Lock Nova"
+ },
+ {
+  "product_id": "NE-01799",
+  "brand": "Qubo",
+  "product_name": "Smart Door Lock Alpha",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_04_9f0527d0-8a68-4cd8-b4c1-8132d8afb40f.jpg?v=1776242357&width=3840",
+  "query": "Qubo Smart Door Lock Alpha"
+ },
+ {
+  "product_id": "NE-01800",
+  "brand": "Qubo",
+  "product_name": "Smart Door Lock Optima",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_03_a56e3bd7-8af0-4576-b6d3-f59e125d00f6.jpg?v=1776242357&width=3840",
+  "query": "Qubo Smart Door Lock Optima"
+ },
+ {
+  "product_id": "NE-01801",
+  "brand": "Qubo",
+  "product_name": "Video Doorbell Pro",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Home%20Safety%20Security/Images/244826_6_ljgulz.png",
+  "query": "Qubo Video Doorbell Pro"
+ },
+ {
+  "product_id": "NE-01802",
+  "brand": "Qubo",
+  "product_name": "InstaView",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://m.media-amazon.com/images/I/610qStwyAoL.jpg",
+  "query": "Qubo InstaView"
+ },
+ {
+  "product_id": "NE-01803",
+  "brand": "Qubo",
+  "product_name": "Smart Cam 360 3MP",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "http://www.quboworld.com/cdn/shop/files/LI_01.jpg?v=1779694763",
+  "query": "Qubo Smart Cam 360 3MP"
+ },
+ {
+  "product_id": "NE-01804",
+  "brand": "Qubo",
+  "product_name": "Smart Cam 360 2K Prime",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "http://www.quboworld.com/cdn/shop/files/3603MP_Packof2_1ce61dd0-6cb8-4a37-847d-5216ba6e09b6.png?v=1788258791",
+  "query": "Qubo Smart Cam 360 2K Prime"
+ },
+ {
+  "product_id": "NE-01805",
+  "brand": "Qubo",
+  "product_name": "Smart Cam 360 4MP",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "http://www.quboworld.com/cdn/shop/files/B0H4TZN7WW.Main_e8b7f17a-82df-4fa3-92b0-2a51424bc34e.jpg?v=1785238026",
+  "query": "Qubo Smart Cam 360 4MP"
+ },
+ {
+  "product_id": "NE-01806",
+  "brand": "Qubo",
+  "product_name": "Smart Bullet Camera",
+  "model_code": "",
+  "category": "Smart Home Devices",
+  "sub_category": "",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Home%20Safety%20Security/Images/272176_olauyr.png",
+  "query": "Qubo Smart Bullet Camera"
+ },
+ {
+  "product_id": "NE-10739",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book4 (NP754XGK-LS2IN)",
+  "model_code": "NP754XGK-LS2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book4",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/315740_0_pGzDvccLf.png?updatedAt=1785844550809",
+  "query": "Samsung Galaxy Book4 (NP754XGK-LS2IN)"
+ },
+ {
+  "product_id": "NE-10740",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP750XHD-KD1IN)",
+  "model_code": "NP750XHD-KD1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/t/v/e/-original-imahzcf3mspbzxgk.jpeg?q=70",
+  "query": "Samsung Galaxy Book5 (NP750XHD-KD1IN)"
+ },
+ {
+  "product_id": "NE-10741",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book4 (NP754XGK-LS3IN)",
+  "model_code": "NP754XGK-LS3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book4",
+  "current": "https://m.media-amazon.com/images/I/71mw6zZP2KL.jpg",
+  "query": "Samsung Galaxy Book4 (NP754XGK-LS3IN)"
+ },
+ {
+  "product_id": "NE-10742",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK5 PRO (NP960XHA-LG1IN)",
+  "model_code": "NP960XHA-LG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK5 PRO",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494494323/0/rS5pMxtxeI-q-bM4g1UpX-Samsung-Galaxy-Book5-Pro-Laptop-494494323-i-1-1200Wx1200H.jpeg",
+  "query": "Samsung GALAXY BOOK5 PRO (NP960XHA-LG1IN)"
+ },
+ {
+  "product_id": "NE-10743",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 360 (NP750QHA-LG4IN)",
+  "model_code": "NP750QHA-LG4IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5 360",
+  "current": "https://m.media-amazon.com/images/I/6128Oby-bBL.jpg",
+  "query": "Samsung Galaxy Book5 360 (NP750QHA-LG4IN)"
+ },
+ {
+  "product_id": "NE-10744",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK5 PRO (NP960XHA-LG3IN)",
+  "model_code": "NP960XHA-LG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK5 PRO",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494494323/1/JanF0LyeyQ-RXvC8gd9Mf-Samsung-Galaxy-Book5-Pro-Laptop-494494323-i-2-1200Wx1200H.jpeg",
+  "query": "Samsung GALAXY BOOK5 PRO (NP960XHA-LG3IN)"
+ },
+ {
+  "product_id": "NE-10745",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP750XHD-KD2IN)",
+  "model_code": "NP750XHD-KD2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582577/0/wA_PKTtqn--2KxkQV5Kn-Samsung-NP750XHD-KD2IN-Laptop-494582577-i-1-1200Wx1200H.jpeg",
+  "query": "Samsung Galaxy Book5 (NP750XHD-KD2IN)"
+ },
+ {
+  "product_id": "NE-10746",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP764BJG-KG1IN)",
+  "model_code": "NP764BJG-KG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/1/O2ZILv7IuW-Q1t47X6Ir-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP764BJG-KG1IN)"
+ },
+ {
+  "product_id": "NE-10747",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP760VJG-LG1IN)",
+  "model_code": "NP760VJG-LG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792773/1/czFrW8ZG4E-QNYp-wOchZ-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung Galaxy Book6 (NP760VJG-LG1IN)"
+ },
+ {
+  "product_id": "NE-10748",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 (NP764BJG-KA1IN)",
+  "model_code": "NP764BJG-KA1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6",
+  "current": "https://images.samsung.com/is/image/samsung/p6pim/ca/np764bjg-kg1ca/gallery/ca-galaxy-book6-enterprise-edition-16-inch-np764bjtf-np764bjg-kg1ca-553075858?$624_624_PNG$",
+  "query": "Samsung GALAXY BOOK6 (NP764BJG-KA1IN)"
+ },
+ {
+  "product_id": "NE-10749",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK5 PRO (NP940XHA-LG1IN)",
+  "model_code": "NP940XHA-LG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK5 PRO",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494494318/0/2rwPGjGa6V-03ztfFcra3-Samsung-Laptop-494494318-i-1-1200Wx1200H.jpeg",
+  "query": "Samsung GALAXY BOOK5 PRO (NP940XHA-LG1IN)"
+ },
+ {
+  "product_id": "NE-10750",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP754XHD-KD1IN)",
+  "model_code": "NP754XHD-KD1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582576/2/vOLkfToU2u-sVTirkQFtY-Samsung-NP750XHD-KD1IN-Laptop-494582576-i-3-1200Wx1200H.jpeg",
+  "query": "Samsung Galaxy Book5 (NP754XHD-KD1IN)"
+ },
+ {
+  "product_id": "NE-10751",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 (NP740VJG-LG3IN)",
+  "model_code": "NP740VJG-LG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494793869/7/iJq9hLUs0n-FM2A77c2l2-Sam-Galaxy-B6-GR-8.jpg",
+  "query": "Samsung GALAXY BOOK6 (NP740VJG-LG3IN)"
+ },
+ {
+  "product_id": "NE-10752",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 Pro 360 (NP960QHA-KG3IN)",
+  "model_code": "NP960QHA-KG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5 Pro 360",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/314772_1_fpalbv.png",
+  "query": "Samsung Galaxy Book5 Pro 360 (NP960QHA-KG3IN)"
+ },
+ {
+  "product_id": "NE-10753",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP760VJG-LG2IN)",
+  "model_code": "NP760VJG-LG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792774/2/zjpFJpgwmb-4-cP6yP_d-Sam-Galaxy-B6-GR-2.jpg",
+  "query": "Samsung Galaxy Book6 (NP760VJG-LG2IN)"
+ },
+ {
+  "product_id": "NE-10754",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP764BJT-AA1IN)",
+  "model_code": "NP764BJT-AA1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/1/O2ZILv7IuW-Q1t47X6Ir-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP764BJT-AA1IN)"
+ },
+ {
+  "product_id": "NE-10755",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-LG2IN)",
+  "model_code": "NP740VJG-LG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/e/0/a/-original-imahhvjrqkqgrxz2.jpeg?q=70",
+  "query": "Samsung Galaxy Book6 (NP740VJG-LG2IN)"
+ },
+ {
+  "product_id": "NE-10756",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP764BJT-AG1IN)",
+  "model_code": "NP764BJT-AG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/1/O2ZILv7IuW-Q1t47X6Ir-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP764BJT-AG1IN)"
+ },
+ {
+  "product_id": "NE-10757",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP744BJT-AA1IN)",
+  "model_code": "NP744BJT-AA1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/0/zqvJWt2ISv-N4tfSToPc-Sam-Galaxy-B6-GR-main.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP744BJT-AA1IN)"
+ },
+ {
+  "product_id": "NE-10758",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP744BJT-AG1IN)",
+  "model_code": "NP744BJT-AG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/1/O2ZILv7IuW-Q1t47X6Ir-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP744BJT-AG1IN)"
+ },
+ {
+  "product_id": "NE-10759",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP754XHW-AB1IN)",
+  "model_code": "NP754XHW-AB1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582576/2/vOLkfToU2u-sVTirkQFtY-Samsung-NP750XHD-KD1IN-Laptop-494582576-i-3-1200Wx1200H.jpeg",
+  "query": "Samsung Galaxy Book5 (NP754XHW-AB1IN)"
+ },
+ {
+  "product_id": "NE-10760",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP754XHW-AB2IN)",
+  "model_code": "NP754XHW-AB2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582576/2/vOLkfToU2u-sVTirkQFtY-Samsung-NP750XHD-KD1IN-Laptop-494582576-i-3-1200Wx1200H.jpeg",
+  "query": "Samsung Galaxy Book5 (NP754XHW-AB2IN)"
+ },
+ {
+  "product_id": "NE-10761",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK4 (NP940XGK-LG8IN)",
+  "model_code": "NP940XGK-LG8IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK4",
+  "current": "https://m.media-amazon.com/images/I/61iBY7OynjL.jpg",
+  "query": "Samsung GALAXY BOOK4 (NP940XGK-LG8IN)"
+ },
+ {
+  "product_id": "NE-10762",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK6 EE (NP944XJG-KA1IN)",
+  "model_code": "NP944XJG-KA1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK6 EE",
+  "current": "https://m.media-amazon.com/images/I/71efDx+EJBL.jpg",
+  "query": "Samsung GALAXY BOOK6 EE (NP944XJG-KA1IN)"
+ },
+ {
+  "product_id": "NE-10763",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP940XJG-KG3IN)",
+  "model_code": "NP940XJG-KG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792779/0/6CRYRKMXnK-iY1dnJGzT-Sam-Galaxy-B6-GR-main.jpg",
+  "query": "Samsung Galaxy Book6 Pro (NP940XJG-KG3IN)"
+ },
+ {
+  "product_id": "NE-10764",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK4 PRO 360 (NP960QGK-LGOIN)",
+  "model_code": "NP960QGK-LGOIN",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK4 PRO 360",
+  "current": "https://m.media-amazon.com/images/I/7145inz-9wL.jpg",
+  "query": "Samsung GALAXY BOOK4 PRO 360 (NP960QGK-LGOIN)"
+ },
+ {
+  "product_id": "NE-10765",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 6 (NP744BJG-KA1IN)",
+  "model_code": "NP744BJG-KA1IN (14\" INCH)",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK 6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792768/0/mM-lCoevUW-Dqc0_Hezd-Sam-Galaxy-B6-GR-main.jpg",
+  "query": "Samsung GALAXY BOOK 6 (NP744BJG-KA1IN) NP744BJG-KA1IN (14\" INCH)"
+ },
+ {
+  "product_id": "NE-10766",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 360 (NP750QHA-LG2IN)",
+  "model_code": "NP750QHA-LG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5 360",
+  "current": "https://images.samsung.com/is/image/samsung/p6pim/in/np750qha-lg1in/gallery/in-galaxy-book5-360-15-inch-np750-np750qha-lg1in-550452303?$624_624_PNG$",
+  "query": "Samsung Galaxy Book5 360 (NP750QHA-LG2IN)"
+ },
+ {
+  "product_id": "NE-10767",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 6 (NP740VJG-LG1IN)",
+  "model_code": "NP740VJG-LG1IN (14\" INCH)",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK 6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494793869/1/YPmnG-lFe2-92fRmvjKE-Sam-Galaxy-B6-GR-2.jpg",
+  "query": "Samsung GALAXY BOOK 6 (NP740VJG-LG1IN) NP740VJG-LG1IN (14\" INCH)"
+ },
+ {
+  "product_id": "NE-10768",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 5 PRO (14 Inch) (NP940XHA-LG3IN)",
+  "model_code": "NP940XHA-LG3IN (14\" INCH)",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK 5 PRO (14 Inch)",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/314781_1_liwpla.png",
+  "query": "Samsung GALAXY BOOK 5 PRO (14 Inch) (NP940XHA-LG3IN) NP940XHA-LG3IN (14\" INCH)"
+ },
+ {
+  "product_id": "NE-10770",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 360 (NP750QHA-LG1IN)",
+  "model_code": "NP750QHA-LG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5 360",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494494314/0/IG60qO-6UI-XKvHkvkDNO-Samsung-Laptop-494494314-i-1-1200Wx1200H.jpeg",
+  "query": "Samsung Galaxy Book5 360 (NP750QHA-LG1IN)"
+ },
+ {
+  "product_id": "NE-10771",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 6 (NP760XJG-LG1IN)",
+  "model_code": "NP760XJG-LG1IN (16\" INCH)",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK 6",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322266_11_W_H3hscQW.png?updatedAt=1774857302572",
+  "query": "Samsung GALAXY BOOK 6 (NP760XJG-LG1IN) NP760XJG-LG1IN (16\" INCH)"
+ },
+ {
+  "product_id": "NE-10772",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 Pro 360 (NP960QHA-KG1IN)",
+  "model_code": "NP960QHA-KG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5 Pro 360",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/314770_7_NgHe_2rB-.png?updatedAt=1784545227681",
+  "query": "Samsung Galaxy Book5 Pro 360 (NP960QHA-KG1IN)"
+ },
+ {
+  "product_id": "NE-10773",
+  "brand": "Samsung",
+  "product_name": "GALAXY BOOK 4 PRO (14 Inch) (NP940XGK-LS1IN)",
+  "model_code": "NP940XGK-LS1IN (14\" INCH)",
+  "category": "Laptops & Computing",
+  "sub_category": "GALAXY BOOK 4 PRO (14 Inch)",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/307421_1_jngvhy.png",
+  "query": "Samsung GALAXY BOOK 4 PRO (14 Inch) (NP940XGK-LS1IN) NP940XGK-LS1IN (14\" INCH)"
+ },
+ {
+  "product_id": "NE-10774",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP754XHD-KD5IN)",
+  "model_code": "NP754XHD-KD5IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://m.media-amazon.com/images/I/51An1Qd7+mL.jpg",
+  "query": "Samsung Galaxy Book5 (NP754XHD-KD5IN)"
+ },
+ {
+  "product_id": "NE-10775",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book5 (NP750XHD-KD4IN)",
+  "model_code": "NP750XHD-KD4IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book5",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/317311_2_4siUYI9gP.png?updatedAt=1762627747739",
+  "query": "Samsung Galaxy Book5 (NP750XHD-KD4IN)"
+ },
+ {
+  "product_id": "NE-10776",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-LS1IN)",
+  "model_code": "NP740VJG-LS1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792770/1/O2ZILv7IuW-Q1t47X6Ir-Sam-Galaxy-B6-GR-7.jpg",
+  "query": "Samsung Galaxy Book6 (NP740VJG-LS1IN)"
+ },
+ {
+  "product_id": "NE-10777",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-KS1IN)",
+  "model_code": "NP740VJG-KS1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322261_11_2gzQ06Mzn.png?updatedAt=1774857408131",
+  "query": "Samsung Galaxy Book6 (NP740VJG-KS1IN)"
+ },
+ {
+  "product_id": "NE-10778",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-KG2IN)",
+  "model_code": "NP740VJG-KG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/e/0/a/-original-imahhvjrqkqgrxz2.jpeg?q=70",
+  "query": "Samsung Galaxy Book6 (NP740VJG-KG2IN)"
+ },
+ {
+  "product_id": "NE-10779",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-LS2IN)",
+  "model_code": "NP740VJG-LS2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322262_0_ZFyTrwcKr.png?updatedAt=1774857386017",
+  "query": "Samsung Galaxy Book6 (NP740VJG-LS2IN)"
+ },
+ {
+  "product_id": "NE-10780",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP740VJG-KS2IN)",
+  "model_code": "NP740VJG-KS2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322262_0_ZFyTrwcKr.png?updatedAt=1774857386017",
+  "query": "Samsung Galaxy Book6 (NP740VJG-KS2IN)"
+ },
+ {
+  "product_id": "NE-10781",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP760VJG-KG1IN)",
+  "model_code": "NP760VJG-KG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322263_7_xEYVrv1Muu.png?updatedAt=1774857379923",
+  "query": "Samsung Galaxy Book6 (NP760VJG-KG1IN)"
+ },
+ {
+  "product_id": "NE-10782",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP760VJG-KG2IN)",
+  "model_code": "NP760VJG-KG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322264_0_elUjORrMz.png?updatedAt=1774857362003",
+  "query": "Samsung Galaxy Book6 (NP760VJG-KG2IN)"
+ },
+ {
+  "product_id": "NE-10783",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 (NP760XJG-KG3IN)",
+  "model_code": "NP760XJG-KG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322268_11_KAY61lZ_a.png?updatedAt=1783326392004",
+  "query": "Samsung Galaxy Book6 (NP760XJG-KG3IN)"
+ },
+ {
+  "product_id": "NE-10784",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP940XJG-KG1IN)",
+  "model_code": "NP940XJG-KG1IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/v/c/u/-original-imahhvjr6ugnzx8f.jpeg?q=70",
+  "query": "Samsung Galaxy Book6 Pro (NP940XJG-KG1IN)"
+ },
+ {
+  "product_id": "NE-10785",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP940XJG-KG5IN)",
+  "model_code": "NP940XJG-KG5IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494792781/0/RZFyObkt_C-6E8L_gU0c-Sam-Galaxy-B6-GR-main.jpg",
+  "query": "Samsung Galaxy Book6 Pro (NP940XJG-KG5IN)"
+ },
+ {
+  "product_id": "NE-10786",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP940XJG-KG6IN)",
+  "model_code": "NP940XJG-KG6IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/computer/r/a/y/-original-imahhvjrscrm4vgp.jpeg?q=70",
+  "query": "Samsung Galaxy Book6 Pro (NP940XJG-KG6IN)"
+ },
+ {
+  "product_id": "NE-10787",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP960XJG-KG3IN)",
+  "model_code": "NP960XJG-KG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://m.media-amazon.com/images/I/71k3Dm9qo2L._AC_UF1000,1000_QL80_.jpg",
+  "query": "Samsung Galaxy Book6 Pro (NP960XJG-KG3IN)"
+ },
+ {
+  "product_id": "NE-10788",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Pro (NP960XJG-KG4IN)",
+  "model_code": "NP960XJG-KG4IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Pro",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/322281_1_n_qNi6byN.png?updatedAt=1787047573687",
+  "query": "Samsung Galaxy Book6 Pro (NP960XJG-KG4IN)"
+ },
+ {
+  "product_id": "NE-10789",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Ultra (NP960UJG-KG2IN)",
+  "model_code": "NP960UJG-KG2IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Ultra",
+  "current": "https://m.media-amazon.com/images/I/71LnQPFbI5L.jpg",
+  "query": "Samsung Galaxy Book6 Ultra (NP960UJG-KG2IN)"
+ },
+ {
+  "product_id": "NE-10790",
+  "brand": "Samsung",
+  "product_name": "Galaxy Book6 Ultra (NP960UJH-XG3IN)",
+  "model_code": "NP960UJH-XG3IN",
+  "category": "Laptops & Computing",
+  "sub_category": "Galaxy Book6 Ultra",
+  "current": "https://m.media-amazon.com/images/I/71yM0xvfkHL.jpg",
+  "query": "Samsung Galaxy Book6 Ultra (NP960UJH-XG3IN)"
+ },
+ {
+  "product_id": "NE-10791",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) (8GB+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-White.png?v=1772251228",
+  "query": "Nothing Phone (4a) (8GB+128GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10792",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) (8GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-White.png?v=1772251228",
+  "query": "Nothing Phone (4a) (8GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10793",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) (12GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-White.png?v=1772251228",
+  "query": "Nothing Phone (4a) (12GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10794",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) Pro (8GB+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-Black.png?v=1772251228",
+  "query": "Nothing Phone (4a) Pro (8GB+128GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10795",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) Pro (8GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-Black.png?v=1772251228",
+  "query": "Nothing Phone (4a) Pro (8GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10796",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4b) (8GB+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/product-thumbnail-white.webp?v=1783318425",
+  "query": "Nothing Phone (4b) (8GB+128GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10797",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4b) (8GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/product-thumbnail-white.webp?v=1783318425",
+  "query": "Nothing Phone (4b) (8GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10798",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (3) (12GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/316739_0_azriyg.png",
+  "query": "Nothing Phone (3) (12GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10799",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (3) (16GB+512GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/316739_0_azriyg.png",
+  "query": "Nothing Phone (3) (16GB+512GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10800",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (4a) Pro (12GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.shopify.com/s/files/1/0586/3270/0077/files/Phone-4a-Pro-Black.png?v=1772251228",
+  "query": "Nothing Phone (4a) Pro (12GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10801",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (3a) Lite (8GB+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/319638_16_5pCw3igS3.png?updatedAt=1764331588303",
+  "query": "Nothing Phone (3a) Lite (8GB+128GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10802",
+  "brand": "Nothing",
+  "product_name": "Nothing Phone (3a) Lite (8GB+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/319638_16_5pCw3igS3.png?updatedAt=1764331588303",
+  "query": "Nothing Phone (3a) Lite (8GB+256GB) Smartphone"
+ },
+ {
+  "product_id": "NE-10803",
+  "brand": "Realme",
+  "product_name": "Realme C100x (4G) (4+64)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/61G0XWAp+OL.jpg",
+  "query": "Realme C100x (4G) (4+64) Smartphone"
+ },
+ {
+  "product_id": "NE-10804",
+  "brand": "Realme",
+  "product_name": "Realme C100i (4G) (4+64)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://static2.realme.net/images/realme-c100i/1775617851298f5ed154c261d44998d6430dc21808a2b.webp",
+  "query": "Realme C100i (4G) (4+64) Smartphone"
+ },
+ {
+  "product_id": "NE-10805",
+  "brand": "Realme",
+  "product_name": "Realme C83 (4+64)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321202_3_G0P1kGJnj.png?updatedAt=1773239606662",
+  "query": "Realme C83 (4+64) Smartphone"
+ },
+ {
+  "product_id": "NE-10806",
+  "brand": "Realme",
+  "product_name": "Realme C83 (4+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321202_3_G0P1kGJnj.png?updatedAt=1773239606662",
+  "query": "Realme C83 (4+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10807",
+  "brand": "Realme",
+  "product_name": "Realme C83 (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321202_3_G0P1kGJnj.png?updatedAt=1773239606662",
+  "query": "Realme C83 (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10808",
+  "brand": "Realme",
+  "product_name": "Realme C85 (4+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71c0yaZ4wrL.jpg",
+  "query": "Realme C85 (4+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10809",
+  "brand": "Realme",
+  "product_name": "Realme C85 (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71c0yaZ4wrL.jpg",
+  "query": "Realme C85 (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10810",
+  "brand": "Realme",
+  "product_name": "Realme 15X (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/319030_0_GDniymlLm.png?updatedAt=1759146197302",
+  "query": "Realme 15X (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10811",
+  "brand": "Realme",
+  "product_name": "Realme 15X (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/319030_0_GDniymlLm.png?updatedAt=1759146197302",
+  "query": "Realme 15X (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10812",
+  "brand": "Realme",
+  "product_name": "Realme 15X (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/319030_0_GDniymlLm.png?updatedAt=1759146197302",
+  "query": "Realme 15X (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10813",
+  "brand": "Realme",
+  "product_name": "Realme 15T (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318373_1_WRx4bmcSoG.png?updatedAt=1757065942831",
+  "query": "Realme 15T (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10814",
+  "brand": "Realme",
+  "product_name": "Realme 15T (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318373_1_WRx4bmcSoG.png?updatedAt=1757065942831",
+  "query": "Realme 15T (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10815",
+  "brand": "Realme",
+  "product_name": "Realme 15T (12+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/318373_1_WRx4bmcSoG.png?updatedAt=1757065942831",
+  "query": "Realme 15T (12+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10816",
+  "brand": "Realme",
+  "product_name": "Realme 16X (4+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://static2.realme.net/images/realme-16x-5g/1781576776027d06106c0b0c84c59a1f86a2da45da25d.webp",
+  "query": "Realme 16X (4+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10817",
+  "brand": "Realme",
+  "product_name": "Realme 16X (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://static2.realme.net/images/realme-16x-5g/1781576776027d06106c0b0c84c59a1f86a2da45da25d.webp",
+  "query": "Realme 16X (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10818",
+  "brand": "Realme",
+  "product_name": "Realme 16X (6+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://static2.realme.net/images/realme-16x-5g/1781576776027d06106c0b0c84c59a1f86a2da45da25d.webp",
+  "query": "Realme 16X (6+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10819",
+  "brand": "Realme",
+  "product_name": "Realme 16T (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71a5acefzBL.jpg",
+  "query": "Realme 16T (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10820",
+  "brand": "Realme",
+  "product_name": "Realme 16T (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71a5acefzBL.jpg",
+  "query": "Realme 16T (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10821",
+  "brand": "Realme",
+  "product_name": "Realme 16T (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71a5acefzBL.jpg",
+  "query": "Realme 16T (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10822",
+  "brand": "Realme",
+  "product_name": "Realme 16 (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71+rSwd7EiL.jpg",
+  "query": "Realme 16 (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10823",
+  "brand": "Realme",
+  "product_name": "Realme 16 (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71+rSwd7EiL.jpg",
+  "query": "Realme 16 (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10824",
+  "brand": "Realme",
+  "product_name": "Realme 16 (12+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://m.media-amazon.com/images/I/71+rSwd7EiL.jpg",
+  "query": "Realme 16 (12+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10825",
+  "brand": "Realme",
+  "product_name": "Realme 16 Pro (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/320084_0_7etThS0PH.png?updatedAt=1767694669821",
+  "query": "Realme 16 Pro (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10826",
+  "brand": "Realme",
+  "product_name": "Realme 16 Pro (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/320084_0_7etThS0PH.png?updatedAt=1767694669821",
+  "query": "Realme 16 Pro (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10827",
+  "brand": "Realme",
+  "product_name": "Realme 16 Pro (12+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/320084_0_7etThS0PH.png?updatedAt=1767694669821",
+  "query": "Realme 16 Pro (12+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10828",
+  "brand": "Realme",
+  "product_name": "Realme P4 Lite (4+64)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494792761/1/G5Fht8pQRX-Twp25iCrU-realme-P4-Lite-5G494792761-i-2.jpg",
+  "query": "Realme P4 Lite (4+64) Smartphone"
+ },
+ {
+  "product_id": "NE-10829",
+  "brand": "Realme",
+  "product_name": "Realme P4 Lite (4+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494792761/1/G5Fht8pQRX-Twp25iCrU-realme-P4-Lite-5G494792761-i-2.jpg",
+  "query": "Realme P4 Lite (4+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10830",
+  "brand": "Realme",
+  "product_name": "Realme P4 Lite (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494792761/1/G5Fht8pQRX-Twp25iCrU-realme-P4-Lite-5G494792761-i-2.jpg",
+  "query": "Realme P4 Lite (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10831",
+  "brand": "Realme",
+  "product_name": "Realme P4 R (4+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/323737_0_A9SbzaAs5.png?updatedAt=1781603290635",
+  "query": "Realme P4 R (4+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10832",
+  "brand": "Realme",
+  "product_name": "Realme P4 R (6+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/323737_0_A9SbzaAs5.png?updatedAt=1781603290635",
+  "query": "Realme P4 R (6+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10833",
+  "brand": "Realme",
+  "product_name": "Realme P4 R (6+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/323737_0_A9SbzaAs5.png?updatedAt=1781603290635",
+  "query": "Realme P4 R (6+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10834",
+  "brand": "Realme",
+  "product_name": "Realme P4 Power (8+128)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://image01.realme.net/general/20260202/17700009905356446cedf248c4b14b9e8992827d8d737.png",
+  "query": "Realme P4 Power (8+128) Smartphone"
+ },
+ {
+  "product_id": "NE-10835",
+  "brand": "Realme",
+  "product_name": "Realme P4 Power (8+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://image01.realme.net/general/20260202/17700009905356446cedf248c4b14b9e8992827d8d737.png",
+  "query": "Realme P4 Power (8+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10836",
+  "brand": "Realme",
+  "product_name": "Realme P4 Power (12+256)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Smartphone",
+  "current": "https://image01.realme.net/general/20260202/17700009905356446cedf248c4b14b9e8992827d8d737.png",
+  "query": "Realme P4 Power (12+256) Smartphone"
+ },
+ {
+  "product_id": "NE-10837",
+  "brand": "Lava",
+  "product_name": "Lava Shark 2 (4/64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "4G Smart",
+  "current": "https://m.media-amazon.com/images/I/511iVINkSFL.jpg",
+  "query": "Lava Shark 2 (4/64GB) 4G Smart"
+ },
+ {
+  "product_id": "NE-10838",
+  "brand": "Lava",
+  "product_name": "Lava Smart 4 (3/32GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "4G Smart",
+  "current": "https://www.lavamobiles.com/smartphones/smart-4/img/m-smart-4-color.jpg",
+  "query": "Lava Smart 4 (3/32GB) 4G Smart"
+ },
+ {
+  "product_id": "NE-10839",
+  "brand": "Lava",
+  "product_name": "Lava Star 3 (4/64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "4G Smart",
+  "current": "https://m.media-amazon.com/images/I/61+hfB+DcvL.jpg",
+  "query": "Lava Star 3 (4/64GB) 4G Smart"
+ },
+ {
+  "product_id": "NE-10840",
+  "brand": "Lava",
+  "product_name": "Lava Smart 4 Plus (4/64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "4G Smart",
+  "current": "https://www.lavamobiles.com/smartphones/smart-4/img/m-banner.jpg",
+  "query": "Lava Smart 4 Plus (4/64GB) 4G Smart"
+ },
+ {
+  "product_id": "NE-10841",
+  "brand": "Lava",
+  "product_name": "Lava Smart 3 (3/64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "4G Smart",
+  "current": "https://m.media-amazon.com/images/I/51p11RATU-L.jpg",
+  "query": "Lava Smart 3 (3/64GB) 4G Smart"
+ },
+ {
+  "product_id": "NE-10842",
+  "brand": "Lava",
+  "product_name": "Lava Shark 2 5G (4/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/51tZGJGAc-L.jpg",
+  "query": "Lava Shark 2 5G (4/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10843",
+  "brand": "Lava",
+  "product_name": "Lava Shark 2 5G (4/64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/51tZGJGAc-L.jpg",
+  "query": "Lava Shark 2 5G (4/64GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10844",
+  "brand": "Lava",
+  "product_name": "Lava Blaze Duo2 5G (8/256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/517m9hBYihL.jpg",
+  "query": "Lava Blaze Duo2 5G (8/256GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10845",
+  "brand": "Lava",
+  "product_name": "Lava Blaze Duo 3 5G (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/51FHi44MNIL.jpg",
+  "query": "Lava Blaze Duo 3 5G (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10846",
+  "brand": "Lava",
+  "product_name": "Lava Dragon 5G (4/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://www.lavamobiles.com/smartphones/blaze-dragon/img/m-blaze-dragon-golden-mist.jpg",
+  "query": "Lava Dragon 5G (4/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10847",
+  "brand": "Lava",
+  "product_name": "Lava Dragon 5G (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://www.lavamobiles.com/smartphones/blaze-dragon/img/m-blaze-dragon-golden-mist.jpg",
+  "query": "Lava Dragon 5G (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10848",
+  "brand": "Lava",
+  "product_name": "Lava Blaze Amoled 5G (4/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/61QrADCsn8L.jpg",
+  "query": "Lava Blaze Amoled 5G (4/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10849",
+  "brand": "Lava",
+  "product_name": "Lava Blaze Amoled 5G (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/61QrADCsn8L.jpg",
+  "query": "Lava Blaze Amoled 5G (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10850",
+  "brand": "Lava",
+  "product_name": "Lava Play Ultra (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/617bBVBJb6L.jpg",
+  "query": "Lava Play Ultra (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10851",
+  "brand": "Lava",
+  "product_name": "Lava Play Ultra (8/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/617bBVBJb6L.jpg",
+  "query": "Lava Play Ultra (8/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10852",
+  "brand": "Lava",
+  "product_name": "Lava Blaze Amoled2 5G (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/l/d/m/blaze-amoled-2-5g-blaze-amoled-2-5g-lava-original-imahfmp8abssxrfg.jpeg?q=70",
+  "query": "Lava Blaze Amoled2 5G (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10853",
+  "brand": "Lava",
+  "product_name": "Lava Play Max (6/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/61Uek4l8-hL.jpg",
+  "query": "Lava Play Max (6/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10854",
+  "brand": "Lava",
+  "product_name": "Lava Play Max (8/128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "5G Smart",
+  "current": "https://m.media-amazon.com/images/I/61Uek4l8-hL.jpg",
+  "query": "Lava Play Max (8/128GB) 5G Smart"
+ },
+ {
+  "product_id": "NE-10855",
+  "brand": "Lava",
+  "product_name": "Lava Hero Shakti 2026",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/71wJDtdhqrL.jpg",
+  "query": "Lava Hero Shakti 2026 Feature"
+ },
+ {
+  "product_id": "NE-10856",
+  "brand": "Lava",
+  "product_name": "Lava A1 Josh",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/e/e/h/a1-josh-lf1011-lava-original-imahhsx3cbjckt4r.jpeg?q=70",
+  "query": "Lava A1 Josh Feature"
+ },
+ {
+  "product_id": "NE-10857",
+  "brand": "Lava",
+  "product_name": "Lava A1 Josh Bol 2026",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/81bLVAuwO5L.jpg",
+  "query": "Lava A1 Josh Bol 2026 Feature"
+ },
+ {
+  "product_id": "NE-10858",
+  "brand": "Lava",
+  "product_name": "Lava A1 Tejas",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/618iFEejXHL.jpg",
+  "query": "Lava A1 Tejas Feature"
+ },
+ {
+  "product_id": "NE-10859",
+  "brand": "Lava",
+  "product_name": "Lava A1 Music",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/x/z/9/a1-music-bluetooth-support-smart-ai-battery-military-grade-original-imahh4yksdsvgxpe.jpeg?q=70",
+  "query": "Lava A1 Music Feature"
+ },
+ {
+  "product_id": "NE-10860",
+  "brand": "Lava",
+  "product_name": "Lava A2 Smart",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/81NPUpz+uCL.jpg",
+  "query": "Lava A2 Smart Feature"
+ },
+ {
+  "product_id": "NE-10861",
+  "brand": "Lava",
+  "product_name": "Lava A3 Torch",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/61xYmFAoY3L.jpg",
+  "query": "Lava A3 Torch Feature"
+ },
+ {
+  "product_id": "NE-10862",
+  "brand": "Lava",
+  "product_name": "Lava A3 King",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/71yxO+Te-TL.jpg",
+  "query": "Lava A3 King Feature"
+ },
+ {
+  "product_id": "NE-10863",
+  "brand": "Lava",
+  "product_name": "Lava A7 Torch 2026",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/81YZlgpTHML.jpg",
+  "query": "Lava A7 Torch 2026 Feature"
+ },
+ {
+  "product_id": "NE-10864",
+  "brand": "Lava",
+  "product_name": "Lava Action 4G",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/4/q/n/action-4g-action-4g-lava-original-imahhnakr6bmtcfj.jpeg?q=70",
+  "query": "Lava Action 4G Feature"
+ },
+ {
+  "product_id": "NE-10865",
+  "brand": "Lava",
+  "product_name": "Lava Gem 2025",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Feature",
+  "current": "https://m.media-amazon.com/images/I/91uWUj7Mi1L.jpg",
+  "query": "Lava Gem 2025 Feature"
+ },
+ {
+  "product_id": "NE-10866",
+  "brand": "Lava",
+  "product_name": "Lava Moto 300 2026",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Moto Feature",
+  "current": "https://m.media-amazon.com/images/I/61Dbu-jw8uL.jpg",
+  "query": "Lava Moto 300 2026 Moto Feature"
+ },
+ {
+  "product_id": "NE-10867",
+  "brand": "Lava",
+  "product_name": "Lava Moto A100",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Moto Feature",
+  "current": "https://m.media-amazon.com/images/I/61ByM2yuyEL.jpg",
+  "query": "Lava Moto A100 Moto Feature"
+ },
+ {
+  "product_id": "NE-10868",
+  "brand": "Lava",
+  "product_name": "Lava Moto A300",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Moto Feature",
+  "current": "https://m.media-amazon.com/images/I/71fR4R2T3JL.jpg",
+  "query": "Lava Moto A300 Moto Feature"
+ },
+ {
+  "product_id": "NE-10869",
+  "brand": "Lava",
+  "product_name": "Lava Moto A10E",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Moto Feature",
+  "current": "https://m.media-amazon.com/images/I/61f3yqolQQL.jpg",
+  "query": "Lava Moto A10E Moto Feature"
+ },
+ {
+  "product_id": "NE-10870",
+  "brand": "OPPO",
+  "product_name": "OPPO A6C 4G (4+64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71l+dbLgrJL.jpg",
+  "query": "OPPO A6C 4G (4+64GB) A Series"
+ },
+ {
+  "product_id": "NE-10871",
+  "brand": "OPPO",
+  "product_name": "OPPO A6 5G (4+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71+1UuL7O2L.jpg",
+  "query": "OPPO A6 5G (4+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10872",
+  "brand": "OPPO",
+  "product_name": "OPPO A6 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71+1UuL7O2L.jpg",
+  "query": "OPPO A6 5G (6+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10873",
+  "brand": "OPPO",
+  "product_name": "OPPO A6 5G (6+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71+1UuL7O2L.jpg",
+  "query": "OPPO A6 5G (6+256GB) A Series"
+ },
+ {
+  "product_id": "NE-10874",
+  "brand": "OPPO",
+  "product_name": "OPPO A6 Pro 5G (8+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/320100_0_SiYenTu3_.png?updatedAt=1767794223913",
+  "query": "OPPO A6 Pro 5G (8+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10875",
+  "brand": "OPPO",
+  "product_name": "OPPO A6 Pro 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/320100_0_SiYenTu3_.png?updatedAt=1767794223913",
+  "query": "OPPO A6 Pro 5G (8+256GB) A Series"
+ },
+ {
+  "product_id": "NE-10876",
+  "brand": "OPPO",
+  "product_name": "OPPO A6S 5G (4+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71QNx2lPwhL.jpg",
+  "query": "OPPO A6S 5G (4+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10877",
+  "brand": "OPPO",
+  "product_name": "OPPO A6S 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71QNx2lPwhL.jpg",
+  "query": "OPPO A6S 5G (6+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10878",
+  "brand": "OPPO",
+  "product_name": "OPPO A6X 4G (4+64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://m.media-amazon.com/images/I/71X5ugQq8sL.jpg",
+  "query": "OPPO A6X 4G (4+64GB) A Series"
+ },
+ {
+  "product_id": "NE-10879",
+  "brand": "OPPO",
+  "product_name": "OPPO A6X 5G (4+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/319725_2_w-jpNYUdQ.png?updatedAt=1765987923330",
+  "query": "OPPO A6X 5G (4+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10880",
+  "brand": "OPPO",
+  "product_name": "OPPO A6X 5G (4+64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/319725_2_w-jpNYUdQ.png?updatedAt=1765987923330",
+  "query": "OPPO A6X 5G (4+64GB) A Series"
+ },
+ {
+  "product_id": "NE-10881",
+  "brand": "OPPO",
+  "product_name": "OPPO A6X 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "A Series",
+  "current": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/319725_2_w-jpNYUdQ.png?updatedAt=1765987923330",
+  "query": "OPPO A6X 5G (6+128GB) A Series"
+ },
+ {
+  "product_id": "NE-10882",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 5G (8+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318584_0_ABvgG8i007.png?updatedAt=1756806135837",
+  "query": "OPPO F31 5G (8+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10883",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318584_0_ABvgG8i007.png?updatedAt=1756806135837",
+  "query": "OPPO F31 5G (8+256GB) F Series"
+ },
+ {
+  "product_id": "NE-10884",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 Pro 5G (12+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318586_0_EZPaNBaDO.png?updatedAt=1765534926426",
+  "query": "OPPO F31 Pro 5G (12+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10885",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 Pro 5G (8+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318586_0_EZPaNBaDO.png?updatedAt=1765534926426",
+  "query": "OPPO F31 Pro 5G (8+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10886",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 Pro 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318586_0_EZPaNBaDO.png?updatedAt=1765534926426",
+  "query": "OPPO F31 Pro 5G (8+256GB) F Series"
+ },
+ {
+  "product_id": "NE-10887",
+  "brand": "OPPO",
+  "product_name": "OPPO F31 Pro+ 5G (12+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/71nAb6iFAfL.jpg",
+  "query": "OPPO F31 Pro+ 5G (12+256GB) F Series"
+ },
+ {
+  "product_id": "NE-10888",
+  "brand": "OPPO",
+  "product_name": "OPPO F33 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/61ibrTrkjqL.jpg",
+  "query": "OPPO F33 5G (6+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10889",
+  "brand": "OPPO",
+  "product_name": "OPPO F33 5G (8+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/61ibrTrkjqL.jpg",
+  "query": "OPPO F33 5G (8+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10890",
+  "brand": "OPPO",
+  "product_name": "OPPO F33 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/61ibrTrkjqL.jpg",
+  "query": "OPPO F33 5G (8+256GB) F Series"
+ },
+ {
+  "product_id": "NE-10891",
+  "brand": "OPPO",
+  "product_name": "OPPO F33 Pro 5G (8+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/61ibrTrkjqL.jpg",
+  "query": "OPPO F33 Pro 5G (8+128GB) F Series"
+ },
+ {
+  "product_id": "NE-10892",
+  "brand": "OPPO",
+  "product_name": "OPPO F33 Pro 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "F Series",
+  "current": "https://m.media-amazon.com/images/I/61ibrTrkjqL.jpg",
+  "query": "OPPO F33 Pro 5G (8+256GB) F Series"
+ },
+ {
+  "product_id": "NE-10893",
+  "brand": "OPPO",
+  "product_name": "OPPO K14 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/321888_0_MgxfzU-jG.png?updatedAt=1774274235516",
+  "query": "OPPO K14 5G (6+128GB) K Series"
+ },
+ {
+  "product_id": "NE-10894",
+  "brand": "OPPO",
+  "product_name": "OPPO K14 5G (6+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/321888_0_MgxfzU-jG.png?updatedAt=1774274235516",
+  "query": "OPPO K14 5G (6+256GB) K Series"
+ },
+ {
+  "product_id": "NE-10895",
+  "brand": "OPPO",
+  "product_name": "OPPO K14 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/321888_0_MgxfzU-jG.png?updatedAt=1774274235516",
+  "query": "OPPO K14 5G (8+256GB) K Series"
+ },
+ {
+  "product_id": "NE-10896",
+  "brand": "OPPO",
+  "product_name": "OPPO K14x 5G (4+64GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://m.media-amazon.com/images/I/41PqArxdhOL._AC_UF1000,1000_QL80_.jpg",
+  "query": "OPPO K14x 5G (4+64GB) K Series"
+ },
+ {
+  "product_id": "NE-10897",
+  "brand": "OPPO",
+  "product_name": "OPPO K14x 5G (4+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://m.media-amazon.com/images/I/41PqArxdhOL._AC_UF1000,1000_QL80_.jpg",
+  "query": "OPPO K14x 5G (4+128GB) K Series"
+ },
+ {
+  "product_id": "NE-10898",
+  "brand": "OPPO",
+  "product_name": "OPPO K14x 5G (6+128GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "K Series",
+  "current": "https://m.media-amazon.com/images/I/41PqArxdhOL._AC_UF1000,1000_QL80_.jpg",
+  "query": "OPPO K14x 5G (6+128GB) K Series"
+ },
+ {
+  "product_id": "NE-10899",
+  "brand": "OPPO",
+  "product_name": "OPPO Reno 14 5G (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Reno Series",
+  "current": "https://m.media-amazon.com/images/I/71qZESVTslL.jpg",
+  "query": "OPPO Reno 14 5G (8+256GB) Reno Series"
+ },
+ {
+  "product_id": "NE-10900",
+  "brand": "OPPO",
+  "product_name": "OPPO Reno 15 (12+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Reno Series",
+  "current": "https://m.media-amazon.com/images/I/71VWcXhbWAL.jpg",
+  "query": "OPPO Reno 15 (12+256GB) Reno Series"
+ },
+ {
+  "product_id": "NE-10901",
+  "brand": "OPPO",
+  "product_name": "OPPO Reno 15 (12+512GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Reno Series",
+  "current": "https://m.media-amazon.com/images/I/71VWcXhbWAL.jpg",
+  "query": "OPPO Reno 15 (12+512GB) Reno Series"
+ },
+ {
+  "product_id": "NE-10902",
+  "brand": "OPPO",
+  "product_name": "OPPO Reno 15 (8+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Reno Series",
+  "current": "https://m.media-amazon.com/images/I/71VWcXhbWAL.jpg",
+  "query": "OPPO Reno 15 (8+256GB) Reno Series"
+ },
+ {
+  "product_id": "NE-10903",
+  "brand": "OPPO",
+  "product_name": "OPPO Reno 15 Pro (12+256GB)",
+  "model_code": "",
+  "category": "Mobiles & Tablets",
+  "sub_category": "Reno Series",
+  "current": "https://m.media-amazon.com/images/I/71laq82iYEL.jpg",
+  "query": "OPPO Reno 15 Pro (12+256GB) Reno Series"
+ }
+]

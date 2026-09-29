@@ -773,7 +773,7 @@
   "image_url": "https://www.bajajelectricals.com/cdn/shop/files/350016_1.jpg?v=1740416726&width=1214",
   "confidence": "high",
   "source_domain": "www.bajajelectricals.com",
-  "matched_title": "DuoPresso 2-in-1 Coffee Maker – Bajaj Electricals India"
+  "matched_title": "DuoPresso 2-in-1 Coffee Maker \u2013 Bajaj Electricals India"
  },
  {
   "product_id": "NE-00388",
@@ -1021,7 +1021,7 @@
   "image_url": null,
   "confidence": "high",
   "source_domain": "www.bajajelectricals.com",
-  "matched_title": "AirCrisp 25L Air Fryer OTG – Bajaj Electricals India"
+  "matched_title": "AirCrisp 25L Air Fryer OTG \u2013 Bajaj Electricals India"
  },
  {
   "product_id": "NE-00419",
@@ -1229,7 +1229,7 @@
   "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Morphy_Richards_500084_Cordless_Steam_Ease_2200_W_Blue_and_Black_3.jpg?v=1789045114&width=1214",
   "confidence": "high",
   "source_domain": "www.cherahomejunction.com",
-  "matched_title": "Morphy Richards 500084 Cordless Steam Ease 2200 W – Blue and Black"
+  "matched_title": "Morphy Richards 500084 Cordless Steam Ease 2200 W \u2013 Blue and Black"
  },
  {
   "product_id": "NE-00445",
@@ -1352,14 +1352,6 @@
   "matched_title": "Nirlep IEKD2.5 Kadhai 24.5 cm diameter with Lid 2.5 L capacity"
  },
  {
-  "product_id": "NE-00460",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
- },
- {
   "product_id": "NE-00461",
   "keep": false,
   "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NH2MFP18.jpg?v=1726210551&width=1214",
@@ -1384,30 +1376,6 @@
   "matched_title": "NutriHealth Non Stick Aluminium Chef Expert Flat Griddle - 31 cm (NHCFG31)"
  },
  {
-  "product_id": "NE-00464",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
- },
- {
-  "product_id": "NE-00465",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
- },
- {
-  "product_id": "NE-00466",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
- },
- {
   "product_id": "NE-00467",
   "keep": false,
   "image_url": "https://www.bajajelectricals.com/cdn/shop/files/NHCIFP28.jpg?v=1726211418&width=1214",
@@ -1422,104 +1390,5 @@
   "confidence": "high",
   "source_domain": "www.bajajelectricals.com",
   "matched_title": "NutriHealth Chef Expert Fry Pan - 32 cm (file: NHCIFP32)"
- },
- {
-  "product_id": "NE-00469",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00470",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00471",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00472",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00473",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00474",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00475",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00476",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00477",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00478",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
- },
- {
-  "product_id": "NE-00479",
-  "keep": false,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null,
-  "_pending": true
  }
 ]
