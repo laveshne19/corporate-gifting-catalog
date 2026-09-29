@@ -1150,5 +1150,133 @@
   "confidence": null,
   "source_domain": "www.amazon.in",
   "matched_title": "Oppo A6c 4G (Stone Brown, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10871",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6 5G (Sapphire Blue, 4GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10872",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Oppo-a6-5g-sapphire-blue-6gb-128gb-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Buy Oppo A6 5G Sapphire Blue (6GB/128GB)"
+ },
+ {
+  "product_id": "NE-10873",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71V+AY+c8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6 5G (Ice White, 6GB RAM,256GB Storage)"
+ },
+ {
+  "product_id": "NE-10874",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo A6 Pro 5G (8GB RAM, 128GB, Cappuccino Brown)"
+ },
+ {
+  "product_id": "NE-10875",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Lc-CE7aUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO A6 Pro 5G Aurora Gold 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10876",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6s 5G (Plum Purple, 4GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10877",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6s 5G (Plum Purple, 6GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10878",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51EbhPNT1QL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 4G (Ice Blue, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10879",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71X5ugQq8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Ice Blue, 4GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10880",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71X5ugQq8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Ice Blue, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10881",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71CuZfYKtZL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Olive Green, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10882",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318599_0_pNvK1Toi9.png?updatedAt=1756806460926",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo F31 5G (8GB RAM, 128GB, Midnight Blue)"
+ },
+ {
+  "product_id": "NE-10883",
+  "keep": false,
+  "image_url": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/o/p/oppo_f31-midnight_blue-1.png",
+  "confidence": "high",
+  "source_domain": "www.bigcmobiles.com",
+  "matched_title": "Oppo F31 5G (8GB/256GB | Midnight Blue)"
+ },
+ {
+  "product_id": "NE-10884",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G"
+ },
+ {
+  "product_id": "NE-10885",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G (Space Grey, 8GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10886",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G (Space Grey, 8GB RAM, 256GB Storage)"
  }
 ]

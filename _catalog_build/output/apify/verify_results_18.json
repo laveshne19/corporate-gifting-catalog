@@ -766,5 +766,261 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-11115",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71edkOkrPqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Flip6 Flipsuit Case - Neon Card, Gray"
+ },
+ {
+  "product_id": "NE-11116",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11117",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11118",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tnegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tnegus-551340077?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Navy | Samsung Business"
+ },
+ {
+  "product_id": "NE-11119",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11120",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tyegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tyegus-551340094?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Yellow Mobile Accessories - EF-PF741TYEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11121",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tmegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tmegus-551340059?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Mint Mobile Accessories - EF-PF741TMEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11122",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-flip6-qf741-ef-qf741ctegin-542012597?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Clear Case Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11123",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-vf741pjegus/gallery/us-galaxy-z-flip6-vf741-ef-vf741pjegus-551371147?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Kindsuit Case, Gray Mobile Accessories - EF-VF741PJEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11124",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11125",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11126",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51gJBaxCjAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Anti-reflecting Film for Galaxy Z Flip7 FE, Z Flip6 - Transparent"
+ },
+ {
+  "product_id": "NE-11127",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11128",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11520",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11521",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-vf766-ef-vf766pjegus-547749618?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Kindsuit Case Taupe Mobile Accessories - EF-VF766PJEGUS | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11131",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11522",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-pf766-ef-pf766tnegus-547749695?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Silicone) Blue Mobile Accessories - EF-PF766TNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11523",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-z-flip7-pf766-ef-pf766tregin-547355735?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Silicone) Red | Samsung India"
+ },
+ {
+  "product_id": "NE-11524",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61V19tU5zTL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Silicone Case with Ring Folding Silicone Case with Ring for Galaxy Z Flip7, Mint"
+ },
+ {
+  "product_id": "NE-11135",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-qf766-ef-qf766ctegus-547749744?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Clear) Transparent Mobile Accessories - EF-QF766CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11136",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ICV9yVLdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Clear Case EF-AF766 for Galaxy Z Flip7, Transparent"
+ },
+ {
+  "product_id": "NE-11137",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51dxsAfeUWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Flip7 Anti-reflecting Film - Transparent"
+ },
+ {
+  "product_id": "NE-11138",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-clear-magnet-case-556936-gp-fff766ycatu-547974161?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Clear Magnet Case Transparent Mobile Accessories - GP-FFF766YCATU | Samsung US"
+ },
+ {
+  "product_id": "NE-11139",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11525",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-thin-fit-558779-gp-fpf766pgabu-547956885?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Thin Fit Case Black Mobile Accessories - GP-FPF766PGABU | Samsung US"
+ },
+ {
+  "product_id": "NE-11140",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61olGznELFL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 S Pen Phone Case ... EF-OF95PCJEGUS, Gray"
+ },
+ {
+  "product_id": "NE-11141",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11142",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/7100sNvuw+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 S Pen Phone Case ... EF-OF95PCPEGUS, Pink"
+ },
+ {
+  "product_id": "NE-11143",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11144",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-fold6-mf956-ef-mf956twegin-542013861?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold6 Silicone Case White | Samsung India"
+ },
+ {
+  "product_id": "NE-11145",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
  }
 ]
