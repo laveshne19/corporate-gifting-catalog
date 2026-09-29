@@ -353,11 +353,11 @@
  },
  {
   "product_id": "NE-02727",
-  "keep": true,
-  "image_url": null,
-  "confidence": null,
-  "source_domain": "skylineappliances.com",
-  "matched_title": "Skyline Electric Glass Kettle 1.7L VTL-4115 (official CDN, file name spells model code)"
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/vtl-4115-500x500.webp?v=1757481053",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Electric Glass Kettle (1.7 Ltr.) VTL-4115"
  },
  {
   "product_id": "NE-02728",
@@ -366,5 +366,149 @@
   "confidence": "high",
   "source_domain": "www.newvarietystore.in",
   "matched_title": "Skyline 1500 Watts, 1.7 Liter Electric Kettle and Noodle Maker - VTL-7070"
+ },
+ {
+  "product_id": "NE-02729",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Rn3afviJL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline 1.7L 1500W All-in-One Multipurpose Kettle VTL-7071 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02730",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51j8VE6K5YL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Multi-Purpose Electric Kettle with Steamer and Egg Boiler, 1.5L, VTL-9091 : Amazon.in"
+ },
+ {
+  "product_id": "NE-02732",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02733",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline VTL-7011 Drip Coffee Maker"
+ },
+ {
+  "product_id": "NE-02734",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/RZ/JT/SD/GLADMIN-30950573/skyline-6-cups-drip-coffee-maker-vtl-7014.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "550 Watt Skyline 6 Cups Drip Coffee Maker VTL-7014"
+ },
+ {
+  "product_id": "NE-02735",
+  "keep": false,
+  "image_url": "https://swagilo.com/wp-content/uploads/2023/10/VTL-7003.jpg",
+  "confidence": "high",
+  "source_domain": "swagilo.com",
+  "matched_title": "Skyline Espresso Coffee Maker (VTL-7003.jpg)"
+ },
+ {
+  "product_id": "NE-02736",
+  "keep": false,
+  "image_url": "https://skylineappliances.online/cdn/shop/files/BF-1202.png?v=1789117115&width=533",
+  "confidence": "high",
+  "source_domain": "skylineappliances.online",
+  "matched_title": "Skyline Appliances - Wireless Milk Frother BF-1202 (file name BF-1202)"
+ },
+ {
+  "product_id": "NE-02737",
+  "keep": false,
+  "image_url": "https://skylineappliances.online/cdn/shop/files/BC-1200.png?v=1789116913&width=533",
+  "confidence": "high",
+  "source_domain": "skylineappliances.online",
+  "matched_title": "Skyline Appliances - USB Mini Food Chopper BC-1200 (file name BC-1200)"
+ },
+ {
+  "product_id": "NE-02738",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51Z0wzDEDSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Skyline Blend Mate Portable Blender, 400ml, USB-C Charging : Amazon.in"
+ },
+ {
+  "product_id": "NE-02739",
+  "keep": false,
+  "image_url": "https://www.balajihomeessentials.com/cdn/shop/files/7debf87c-920c-4b45-9485-d87585368800_1024x.png?v=1790244914",
+  "confidence": "high",
+  "source_domain": "www.balajihomeessentials.com",
+  "matched_title": "Skyline CM-1206 Automatic Magnetic Coffee Mixer Mug 400ml"
+ },
+ {
+  "product_id": "NE-02740",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02741",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02742",
+  "keep": false,
+  "image_url": "https://www.balajihomeessentials.com/cdn/shop/files/IMG-9758_1024x.jpg?v=1785848472",
+  "confidence": "high",
+  "source_domain": "www.balajihomeessentials.com",
+  "matched_title": "Skyline VTL-5118 7L Digital Air Fryer with See-Through Glass Window"
+ },
+ {
+  "product_id": "NE-02743",
+  "keep": false,
+  "image_url": "https://www.newvarietystore.in/cdn/shop/files/1_e140afd3-c162-4289-a438-9d48263e0314.jpg?v=1743142836",
+  "confidence": "high",
+  "source_domain": "www.newvarietystore.in",
+  "matched_title": "Skyline 2000 Watts, 5.2 Liter Digital Air Fryer - VTL-5116"
+ },
+ {
+  "product_id": "NE-02745",
+  "keep": false,
+  "image_url": "https://scoffco.com/cdn/shop/files/VTL-5112.webp?v=1757915641",
+  "confidence": "high",
+  "source_domain": "scoffco.com",
+  "matched_title": "SKYLINE Manual Air Fryer 3.5 Ltr. VTL-5112"
+ },
+ {
+  "product_id": "NE-02747",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/610255149/AS/NZ/NW/3012253/vtl7061-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.skylineappliances.in",
+  "matched_title": "Skyline 10L Oven Toaster Compact OTG with 60-Minute Timer (vtl7061)"
+ },
+ {
+  "product_id": "NE-02748",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/XO/BV/QG/SELLER-30950573/skyline-12-l-toaster-oven-vtl-7064-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Skyline 12 L Toaster Oven VTL-7064"
+ },
+ {
+  "product_id": "NE-02749",
+  "keep": false,
+  "image_url": "https://ik.imagekit.io/l2ot4bhdb/Oven,%20Toaster%20&%20Tandoors/VTL-7065.jpg?updatedAt=1758015227519",
+  "confidence": "high",
+  "source_domain": "skylineappliances.com",
+  "matched_title": "Skyline Toaster Oven - 1200W, 18L (VTL-7065.jpg)"
  }
 ]

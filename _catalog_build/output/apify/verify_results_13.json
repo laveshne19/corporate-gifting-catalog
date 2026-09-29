@@ -1150,5 +1150,365 @@
   "confidence": null,
   "source_domain": "www.portronics.com",
   "matched_title": "Chyro 10000mAh MagSafe Wireless Power Bank"
+ },
+ {
+  "product_id": "NE-06760",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics 65W Halley 20K 20000mAh Fast Charging Powerbank"
+ },
+ {
+  "product_id": "NE-06782",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Luxcell Wireless Mini 20k 20000mAh 15W Magnetic Wireless Fast Charging Power Bank"
+ },
+ {
+  "product_id": "NE-06785",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Kinetics 8K Mini UPS & Power Bank For WiFi Router"
+ },
+ {
+  "product_id": "NE-06787",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Aero 10 10000mAh Mini Power Bank 20W PD Cable"
+ },
+ {
+  "product_id": "NE-06790",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Oria_LED_magnetic_mobile_stand_for_content_creation_and_video_calls.png?v=1773234442",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Oria Magnetic Adjustable Mobile Stand with LED Light"
+ },
+ {
+  "product_id": "NE-06793",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/ki6bgcw0-0/mobile-holder/l/x/9/por-122-modesk-universal-mobile-holder-black-portronics-original-imafyys25tytw9dd.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics POR-122 MODESK Universal (Black) Mobile Holder"
+ },
+ {
+  "product_id": "NE-06800",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Modesk 101 Wall Hanging Mobile Holder (White)"
+ },
+ {
+  "product_id": "NE-06801",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_1_66cd337e-eb8f-470c-abcd-05a00ff52a83.jpg?v=1729169976",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics MOBOT4 Mobile Holder with 360\u00b0 Rotation"
+ },
+ {
+  "product_id": "NE-06802",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Mobot III Multifunctional Universal Mobile Holder"
+ },
+ {
+  "product_id": "NE-06803",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics MoBot Clip 360\u00b0 Mobile Holder with Adjustable Angles"
+ },
+ {
+  "product_id": "NE-06807",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Hold Y"
+ },
+ {
+  "product_id": "NE-06811",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Bella 3-in-1 Fast Wireless Charger Stand"
+ },
+ {
+  "product_id": "NE-06821",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics HexaCharge 15W 6-in-1 Wireless Charging Station"
+ },
+ {
+  "product_id": "NE-06831",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "BELLA 2"
+ },
+ {
+  "product_id": "NE-06847",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Freedom 4A 15W Wireless Charger with Alarm Clock"
+ },
+ {
+  "product_id": "NE-06850",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Freedom 4E"
+ },
+ {
+  "product_id": "NE-06856",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Freedom 5 15W Wireless Charger with Photo Frame"
+ },
+ {
+  "product_id": "NE-06866",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Freedom Fold 15W Foldable Wireless Charger Stand"
+ },
+ {
+  "product_id": "NE-06867",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_freedom_fold_3_best_foldable_wireless_charger.jpg?v=1788782487",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Freedom Fold 3 15W MagSafe Wireless Charger"
+ },
+ {
+  "product_id": "NE-06868",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Freedom Trio 15w 3in1 Wireless Charger"
+ },
+ {
+  "product_id": "NE-02062",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/1200x1200_1.jpg?v=1698658986",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Freedom 15 plus"
+ },
+ {
+  "product_id": "NE-06876",
+  "keep": false,
+  "image_url": "https://media.jointlook.com/customPhotos/productImages/portronics-freedom-33-wireless-charger-03.jpg",
+  "confidence": "high",
+  "source_domain": "www.jointlook.com",
+  "matched_title": "portronics-freedom-33-15w-3-in-1-desktop"
+ },
+ {
+  "product_id": "NE-06877",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_freedom_6_5_in_1_wireless_charging_station.jpg?v=1788787400",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Freedom 6 15W 5-in-1 Wireless Charging Station"
+ },
+ {
+  "product_id": "NE-06886",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics VoltClock 15W Wireless Charger with Clock"
+ },
+ {
+  "product_id": "NE-06897",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_TriCharge_Wireless_Mobile_Charging_Pad_with_15W_fast_charging.jpg?v=1751701186",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics TriCharge 15W MagSafe Wireless Charger for iPhone"
+ },
+ {
+  "product_id": "NE-06914",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy TriCharge Ultra 3-in-1 Wireless Charger For Phone"
+ },
+ {
+  "product_id": "NE-06915",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_5_0f876fc5-1421-4a2a-a860-4ba5266b2627.jpg?v=1753161790",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics MOVO Qi2 15W Magnetic Wireless Charger"
+ },
+ {
+  "product_id": "NE-06916",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Movo_II_Portable_Bluetooth_Speaker_With_Mirror_Light_15W_Wireless_Mobile_Charging_Pad.jpg?v=1763206371",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics MOVO II: 3-in-1 Wireless Charger & Speaker Mirror"
+ },
+ {
+  "product_id": "NE-06917",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_ChargeMate_Trio_magnetic_3-in-1_wireless_charger_for_iPhone_15.jpg?v=1754893813",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy ChargeMate Trio Type C Cable Kit and Wireless Charger"
+ },
+ {
+  "product_id": "NE-06918",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard8_31f5a7fa-5d70-4f42-bdde-3bbf7cf74bfd.jpg?v=1790146447",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Hold X Prime Vacuum-Lock Magnetic Mobile Stand"
+ },
+ {
+  "product_id": "NE-06920",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard5_9ee1a697-8bef-412d-ab18-9fd68e913d80.jpg?v=1790145386",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Hold X Plus Vacuum-Lock Magnetic Mobile Stand"
+ },
+ {
+  "product_id": "NE-06960",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_clixo_phone_ring_holder_for_walking.jpg?v=1786692572",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Clixo"
+ },
+ {
+  "product_id": "NE-06962",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard4_b1ae6973-6b12-4a87-98be-8809c3c16c4b.jpg?v=1715930681",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Plate II POR-671, 5A Electrical Universal Sockets and 3 USB Ports (Black)"
+ },
+ {
+  "product_id": "NE-06964",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/products/1_0bd4145f-e346-4a34-a4d1-88fa212796a2.jpg?v=1650608622",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Plate 4 Extension Board with 4Sockets & USB"
+ },
+ {
+  "product_id": "NE-06965",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Plate 5 Power Converter with USB Charger - Black"
+ },
+ {
+  "product_id": "NE-06967",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Power_Plate_5_Pro_electric_extension_board_with_smart_overload_short_circuit_and_surge_protection.jpg?v=1779179535",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics POR-3483 Power Plate 5 Pro 6-in-1 Power Extension Board"
+ },
+ {
+  "product_id": "NE-06968",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/2_f261867e-471d-489e-862d-d40db31903a4.jpg?v=1783664166",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Plate 6 with 4 USB Port + 5 Power Sockets Extension Board"
+ },
+ {
+  "product_id": "NE-07021",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/6_e95b0716-0cba-4b2a-96f4-0a9155bef639.jpg?v=1783664862",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Plate 7 Power Board Online at Discount"
+ },
+ {
+  "product_id": "NE-07063",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Image3_64c7abe4-24ad-4b44-868c-ed3bad047dd7.jpg?v=1783666138",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Plate 9 with 3 USB Ports + 8 Power Sockets Blue"
+ },
+ {
+  "product_id": "NE-07068",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics POR 3274 Power Plate 9 Pro 2500W 7-in-1 Power Extender"
+ },
+ {
+  "product_id": "NE-07069",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/All_Pages-2_58359b77-26a1-41d6-9c28-fb909fd5e62b.jpg?v=1763556977",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Power Extension Board Plate 10 with 4 Sockets"
+ },
+ {
+  "product_id": "NE-07071",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_power_plate_10_pro_6-in-1_multi_port_power_extension_box.jpg?v=1777293751",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Power Plate 10 Pro 2500W Power Board"
+ },
+ {
+  "product_id": "NE-07195",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/1200X1200-6_b971d27a-deb4-4e46-bc77-190f6efb498b.jpg?v=1763558092",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Power Plate 11 Power Extension Board with 4 Sockets"
+ },
+ {
+  "product_id": "NE-07210",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/PowerPlate121200x12005.jpg?v=1686987011",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Plate 12"
+ },
+ {
+  "product_id": "NE-07223",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/PowerPlate131200x12003.jpg?v=1687002182",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Plate 13"
  }
 ]

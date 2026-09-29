@@ -1022,5 +1022,133 @@
   "confidence": "high",
   "source_domain": "www.amazon.in",
   "matched_title": "Lava Play Max 5G (Deccan Black, 8+8*GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10855",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61a+OZOIWOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Hero Shakti 2026 Dual Sim Keypad Mobile Phone (Mint Green)"
+ },
+ {
+  "product_id": "NE-10856",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Lava-a1-josh-blue-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Grab Lava A1 Josh feature phone in Blue Color @ Poorvika"
+ },
+ {
+  "product_id": "NE-10857",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61LBiJMhm2L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A1 Josh (with BOL Feature) Dual Sim Keypad Mobile Phone (Black)"
+ },
+ {
+  "product_id": "NE-10858",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61OXIykdm8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A1 Tejas Dual SIM Keypad Phone with 2 inch Big Display"
+ },
+ {
+  "product_id": "NE-10859",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/v/n/p/a1-music-bluetooth-support-smart-ai-battery-military-grade-original-imahh4ykkabyxsze.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA A1 Music (24 MB Storage, 4 MB RAM)"
+ },
+ {
+  "product_id": "NE-10860",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A2 Smart (2025) Dual SIM Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10861",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A3 Torch Dual Sim Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10862",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71V7lL7EXDL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A3 King Dual Sim Keypad Mobile Phone (Charcoal)"
+ },
+ {
+  "product_id": "NE-10863",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6147+a6ab-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A7 Torch 2026 Dual Sim Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10864",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/f/q/w/action-4g-action-4g-lava-resized-original-imahhnakvfqzvuah.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Action 4G"
+ },
+ {
+  "product_id": "NE-10865",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Gem 2025 Dual Sim Keypad Phone"
+ },
+ {
+  "product_id": "NE-10866",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.aravindhamobiles.com",
+  "matched_title": "MOTO A300"
+ },
+ {
+  "product_id": "NE-10867",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61oyi17Xf0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Motorola A100 Keypad Mobile Phone (Black)"
+ },
+ {
+  "product_id": "NE-10868",
+  "keep": false,
+  "image_url": "https://i0.wp.com/www.aravindhamobiles.com/wp-content/uploads/2026/08/61Dbu-jw8uL._SL1200_.jpg?fit=1200%2C1200&ssl=1",
+  "confidence": "high",
+  "source_domain": "www.aravindhamobiles.com",
+  "matched_title": "MOTO A300 - Aravindha Mobiles"
+ },
+ {
+  "product_id": "NE-10869",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Motorola All-New A10e Dual Sim keypad Phone (Dark Blue)"
+ },
+ {
+  "product_id": "NE-10870",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6c 4G (Stone Brown, 4GB RAM, 64GB Storage)"
  }
 ]
