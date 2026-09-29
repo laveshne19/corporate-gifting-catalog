@@ -1,0 +1,1312 @@
+[
+ {
+  "product_id": "NE-12259",
+  "brand": "Usha",
+  "product_name": "CF RACER CHROME 600MM SMOKE BR 1ST N ISI",
+  "model_code": "11RNASMB1DPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha CF RACER CHROME 600MM SMOKE BR 1ST N ISI 11RNASMB1DPWI4DAXI"
+ },
+ {
+  "product_id": "NE-12272",
+  "brand": "Usha",
+  "product_name": "CFSTRIKER GALAXY 1200MM MLD GRY 1STN ISI",
+  "model_code": "11GASMGR1BGWI2DAXI",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha CFSTRIKER GALAXY 1200MM MLD GRY 1STN ISI 11GASMGR1BGWI2DAXI"
+ },
+ {
+  "product_id": "NE-12279",
+  "brand": "Usha",
+  "product_name": "CF STRIKER 1400MM WHITE 1ST N ISI",
+  "model_code": "11STRJWH1CPWI3DAHI",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha CF STRIKER 1400MM WHITE 1ST N ISI 11STRJWH1CPWI3DAHI"
+ },
+ {
+  "product_id": "NE-12280",
+  "brand": "Usha",
+  "product_name": "CF STRIKER 1200MM GLOSSY BROWN 1ST N ISI",
+  "model_code": "11STRSGB1CPWI4DAHI",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha CF STRIKER 1200MM GLOSSY BROWN 1ST N ISI 11STRSGB1CPWI4DAHI"
+ },
+ {
+  "product_id": "NE-08498",
+  "brand": "Usha",
+  "product_name": "CF RACER 900MM RICH IVORY 1ST N ISI",
+  "model_code": "11RNBRIV1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://www.ushafans.com/sites/default/files/Racer_Rich-Ivory-Outer.png",
+  "query": "Usha CF RACER 900MM RICH IVORY 1ST N ISI 11RNBRIV1EPWI4DAXI"
+ },
+ {
+  "product_id": "NE-12284",
+  "brand": "Usha",
+  "product_name": "CF RACER 900MM RICH WHITE 1ST N ISI",
+  "model_code": "11RNBRWH1EPWI4DAXI",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha CF RACER 900MM RICH WHITE 1ST N ISI 11RNBRWH1EPWI4DAXI"
+ },
+ {
+  "product_id": "NE-08525",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 3060 ISI",
+  "model_code": "62030060S2T11GI",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/21iTXtPhwAL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SS 3060 ISI 62030060S2T11GI"
+ },
+ {
+  "product_id": "NE-08528",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SP 4080 ISI",
+  "model_code": "6204008005SPISI",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/618lSaeBuOL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SP 4080 ISI 6204008005SPISI"
+ },
+ {
+  "product_id": "NE-08530",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 4080 NC ISI",
+  "model_code": "62040080S2T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/41Z+PFCZfwL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SS 4080 NC ISI 62040080S2T11GN"
+ },
+ {
+  "product_id": "NE-08546",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 150150G ISI",
+  "model_code": "621501505GSSISI",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/31iUP9g++GL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SS 150150G ISI 621501505GSSISI"
+ },
+ {
+  "product_id": "NE-08549",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 150150 G NC ISI",
+  "model_code": "62150150S2T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/31iUP9g++GL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SS 150150 G NC ISI 62150150S2T11GN"
+ },
+ {
+  "product_id": "NE-08551",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SP 150300NC ISI",
+  "model_code": "62150300P4T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://www.ushawatersolutions.com/sites/default/files/2025-06/sp250300nc_0.png",
+  "query": "Usha WATER COOLER SP 150300NC ISI 62150300P4T11GN"
+ },
+ {
+  "product_id": "NE-08552",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 150300NC ISI",
+  "model_code": "62150300S4T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://www.ushawatersolutions.com/sites/default/files/inline-images/Bitmap1.jpg",
+  "query": "Usha WATER COOLER SS 150300NC ISI 62150300S4T11GN"
+ },
+ {
+  "product_id": "NE-08553",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SP 150400NC ISI",
+  "model_code": "62150400P4T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://www.ushawatersolutions.com/sites/default/files/2025-06/80120ss_0.png",
+  "query": "Usha WATER COOLER SP 150400NC ISI 62150400P4T11GN"
+ },
+ {
+  "product_id": "NE-08554",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SS 150400NC ISI",
+  "model_code": "62150400S4T11GN",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://www.ushawatersolutions.com/sites/default/files/2025-06/sp250300nc_0.png",
+  "query": "Usha WATER COOLER SS 150400NC ISI 62150400S4T11GN"
+ },
+ {
+  "product_id": "NE-08557",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SRA 60120G , SS 304",
+  "model_code": "6206012004UCG",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/31+nuI+u9KL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SRA 60120G , SS 304 6206012004UCG"
+ },
+ {
+  "product_id": "NE-08558",
+  "brand": "Usha",
+  "product_name": "WATER COOLER SRA 150150G , SS 304",
+  "model_code": "6215015004UCG",
+  "category": "Home Appliances & Fans",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/31iUP9g++GL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Usha WATER COOLER SRA 150150G , SS 304 6215015004UCG"
+ },
+ {
+  "product_id": "NE-12295",
+  "brand": "Usha",
+  "product_name": "JMG NUTRIMATIC 500 W SANGRIA 3JAR",
+  "model_code": "40NPJMG195N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha JMG NUTRIMATIC 500 W SANGRIA 3JAR 40NPJMG195N"
+ },
+ {
+  "product_id": "NE-12308",
+  "brand": "Usha",
+  "product_name": "RC18SS1 D RICE COOKER BLACK",
+  "model_code": "40RC18SS1D141N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha RC18SS1 D RICE COOKER BLACK 40RC18SS1D141N"
+ },
+ {
+  "product_id": "NE-12309",
+  "brand": "Usha",
+  "product_name": "RC18SS1 D RICE COOKER GOLD",
+  "model_code": "40RC18SS1D198N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha RC18SS1 D RICE COOKER GOLD 40RC18SS1D198N"
+ },
+ {
+  "product_id": "NE-12317",
+  "brand": "Usha",
+  "product_name": "HEAT CONVECTOR 443C NONTHERMO ISI MAROON",
+  "model_code": "46831443C32N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha HEAT CONVECTOR 443C NONTHERMO ISI MAROON 46831443C32N"
+ },
+ {
+  "product_id": "NE-12325",
+  "brand": "Usha",
+  "product_name": "AEROSTYLE DESERT ELECTRONIC 100ASD1E WHI",
+  "model_code": "46641100ASD1E93N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha AEROSTYLE DESERT ELECTRONIC 100ASD1E WHI 46641100ASD1E93N"
+ },
+ {
+  "product_id": "NE-12326",
+  "brand": "Usha",
+  "product_name": "AERO STYLE DESERT ELECTRONIC 85ASD1E WHIT",
+  "model_code": "4664185ASD1E26N",
+  "category": "Home Appliances & Fans",
+  "reason": "missing",
+  "current": "",
+  "query": "Usha AERO STYLE DESERT ELECTRONIC 85ASD1E WHIT 4664185ASD1E26N"
+ },
+ {
+  "product_id": "NE-08958",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 2S WINE LINNEA-Dist Exclusive",
+  "model_code": "72151",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://images-eu.ssl-images-amazon.com/images/I/61uo1F7RUWL._AC_UL495_SR435,495_.jpg",
+  "query": "Whirlpool 205 IMPC PRM 2S WINE LINNEA-Dist Exclusive 72151"
+ },
+ {
+  "product_id": "NE-08996",
+  "brand": "Whirlpool",
+  "product_name": "CFW 145 Chest Freezer",
+  "model_code": "54010",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://assets.khoshnawcompany.com/store/products/692d991daa3f6.webp",
+  "query": "Whirlpool CFW 145 Chest Freezer 54010"
+ },
+ {
+  "product_id": "NE-08997",
+  "brand": "Whirlpool",
+  "product_name": "CFW 200 Chest Freezer",
+  "model_code": "54011",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://assets.khoshnawcompany.com/store/products/692d99089cf04.webp",
+  "query": "Whirlpool CFW 200 Chest Freezer 54011"
+ },
+ {
+  "product_id": "NE-08998",
+  "brand": "Whirlpool",
+  "product_name": "CFW 316 Chest Freezer",
+  "model_code": "54012",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://assets.khoshnawcompany.com/store/products/692d99089cf04.webp",
+  "query": "Whirlpool CFW 316 Chest Freezer 54012"
+ },
+ {
+  "product_id": "NE-09009",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 2S WINE LINNEA (T)-SP Billing",
+  "model_code": "72937",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim3.flixcart.com/image/480/640/xif0q/refrigerator-new/v/u/d/205-impc-prm-2s-win-linnea-72151-1300-2-2020-33-whirlpool-615-original-imaggktkjcunph3h.jpeg?q=20",
+  "query": "Whirlpool 205 IMPC PRM 2S WINE LINNEA (T)-SP Billing 72937"
+ },
+ {
+  "product_id": "NE-09017",
+  "brand": "Whirlpool",
+  "product_name": "STAINWASH PRO H 7.5 KG VELVET ROSE 10YMW",
+  "model_code": "31557",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/t/x/tx511swo_base.jpeg",
+  "query": "Whirlpool STAINWASH PRO H 7.5 KG VELVET ROSE 10YMW 31557"
+ },
+ {
+  "product_id": "NE-12342",
+  "brand": "Whirlpool",
+  "product_name": "SW PRO PLUS H 7.5 KG SILVER MINT 10YMW",
+  "model_code": "31559",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool SW PRO PLUS H 7.5 KG SILVER MINT 10YMW 31559"
+ },
+ {
+  "product_id": "NE-09056",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 3S SAPPHIRE MULIA-Z",
+  "model_code": "72816",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/715j2BmGiwL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuOTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigzNik8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+  "query": "Whirlpool 215 IMPC PRM 3S SAPPHIRE MULIA-Z 72816"
+ },
+ {
+  "product_id": "NE-09061",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 3S PURPLE FLOWER RAIN-Z",
+  "model_code": "72537",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/51KTR0+bwUL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+  "query": "Whirlpool 215 IMPC PRM 3S PURPLE FLOWER RAIN-Z 72537"
+ },
+ {
+  "product_id": "NE-09069",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 3S WINE MULIA-Z",
+  "model_code": "72819",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/31xQ17OQ88L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuODwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig0NCk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+  "query": "Whirlpool 215 IMPRO PRM 3S WINE MULIA-Z 72819"
+ },
+ {
+  "product_id": "NE-09089",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 3S SAPPHIRE FLUME-Z",
+  "model_code": "72570",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/611kxySUrSL._AC_UF1000,1000_QL80_.jpg",
+  "query": "Whirlpool 215 IMPRO ROY 3S SAPPHIRE FLUME-Z 72570"
+ },
+ {
+  "product_id": "NE-12348",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 4S Inv SAPPHIRE FOREST-Z",
+  "model_code": "72588",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 215 IMPRO PRM 4S Inv SAPPHIRE FOREST-Z 72588"
+ },
+ {
+  "product_id": "NE-09115",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 2S SAPPHIRE BLOOM-Z",
+  "model_code": "72529",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/d/l/z/-original-imahmazs4pkxbg88.jpeg?q=70",
+  "query": "Whirlpool 215 IMPC PRM 2S SAPPHIRE BLOOM-Z 72529"
+ },
+ {
+  "product_id": "NE-09117",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC ROY 2S SAPPHIRE BLOOM-Z",
+  "model_code": "72532",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/2/323366_base.jpeg",
+  "query": "Whirlpool 215 IMPC ROY 2S SAPPHIRE BLOOM-Z 72532"
+ },
+ {
+  "product_id": "NE-09118",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 2S PURPLE-Z",
+  "model_code": "72876",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/2/323480_add4.jpeg",
+  "query": "Whirlpool 215 IMPC PRM 2S PURPLE-Z 72876"
+ },
+ {
+  "product_id": "NE-09121",
+  "brand": "Whirlpool",
+  "product_name": "205 MAGIC COOL PRM 4SInv BLUE RADIANCE-Z",
+  "model_code": "72700",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/0/205magiccoolroy4sinvblueradiance72331_add4.jpeg",
+  "query": "Whirlpool 205 MAGIC COOL PRM 4SInv BLUE RADIANCE-Z 72700"
+ },
+ {
+  "product_id": "NE-09122",
+  "brand": "Whirlpool",
+  "product_name": "205 MAGIC COOL ROY 4SInv WINE RADIANCE-Z",
+  "model_code": "72701",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/71ScfMoF5PL._AC_UF1000,1000_QL80_.jpg",
+  "query": "Whirlpool 205 MAGIC COOL ROY 4SInv WINE RADIANCE-Z 72701"
+ },
+ {
+  "product_id": "NE-09137",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 3S WINE PEONY-Z",
+  "model_code": "72951",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/230impro%28roy-inv%29%284s%29winepeony-z-%28207ltrs%29%284star%29%28drawer%29%2872998%29-ref-dc-whirlpool/61tAPMhem8L._SX679_%20%281%29.jpg",
+  "query": "Whirlpool 230 IMPRO ROY 3S WINE PEONY-Z 72951"
+ },
+ {
+  "product_id": "NE-09141",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S INV SAPPHIRE ABYSS-Z-MT",
+  "model_code": "72722",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/k9loccw0/refrigerator-new/j/j/x/230-impro-prm-5s-inv-sapphire-abyss-5-whirlpool-original-imafrczwczdfzxfe.jpeg?q=90",
+  "query": "Whirlpool 230 IMPRO ROY 4S INV SAPPHIRE ABYSS-Z-MT 72722"
+ },
+ {
+  "product_id": "NE-09146",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 5S INV PURPLE FLUME-Z",
+  "model_code": "72640",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/xif0q/refrigerator-new/l/q/z/230-impro-roy-3s-purple-mulia-z-1448-3-2024-40-whirlpool-655-542-original-imah8z3g6767bgrf.jpeg?q=90",
+  "query": "Whirlpool 230 IMPRO ROY 5S INV PURPLE FLUME-Z 72640"
+ },
+ {
+  "product_id": "NE-09157",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 5S INV SAPPHIRE MULIA-Z-E-comm",
+  "model_code": "72641",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://vasanthandco.in/UploadedFiles/productimages/20240730042342-Untitled-2.png",
+  "query": "Whirlpool 230 IMPRO ROY 5S INV SAPPHIRE MULIA-Z-E-comm 72641"
+ },
+ {
+  "product_id": "NE-09158",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 5S INV SAPPHIRE MULIA-Z",
+  "model_code": "72731",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230impro_354284_add02.jpeg",
+  "query": "Whirlpool 230 IMPRO PRM 5S INV SAPPHIRE MULIA-Z 72731"
+ },
+ {
+  "product_id": "NE-09159",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 5S INV PURPLE FLUME-Z",
+  "model_code": "72636",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://electronicparadise.in/cdn/shop/files/511FURCEobL._SL1100.jpg?v=1752307431&width=1406",
+  "query": "Whirlpool 230 IMPRO PRM 5S INV PURPLE FLUME-Z 72636"
+ },
+ {
+  "product_id": "NE-09160",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S WINE ABYSS-Z",
+  "model_code": "72725",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/61+aZSM6fGL.jpg",
+  "query": "Whirlpool 230 IMPRO PRM 4S WINE ABYSS-Z 72725"
+ },
+ {
+  "product_id": "NE-09161",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S SAPPHIRE ABYSS-Z",
+  "model_code": "72726",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://storage.googleapis.com/shy-pub/39552/1653806616902_71R2cGC6pKLSL1500.jpeg",
+  "query": "Whirlpool 230 IMPRO PRM 4S SAPPHIRE ABYSS-Z 72726"
+ },
+ {
+  "product_id": "NE-09162",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S WINE ABYSS-Z",
+  "model_code": "72720",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool215l4stardirectcoolsingledoorrefrigeratorwineflume230improroy4sinvwineflume_add2.jpeg",
+  "query": "Whirlpool 230 IMPRO ROY 4S WINE ABYSS-Z 72720"
+ },
+ {
+  "product_id": "NE-09163",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S SAPPHIRE ABYSS-Z",
+  "model_code": "72721",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/4/8/480120_add2.jpeg",
+  "query": "Whirlpool 230 IMPRO ROY 4S SAPPHIRE ABYSS-Z 72721"
+ },
+ {
+  "product_id": "NE-09165",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 3S SAPPHIRE MULIA-Z",
+  "model_code": "72834",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/l2nmnww0/refrigerator-new/2/o/v/260-impro-plus-roy-3s-sapphire-mulia-143-2-3-2020-47-5-whirlpool-original-imagdyembpapm5fd.jpeg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 3S SAPPHIRE MULIA-Z 72834"
+ },
+ {
+  "product_id": "NE-09166",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 3S WINE MULIA-Z",
+  "model_code": "72833",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/l2z26q80/refrigerator-new/d/k/n/260-impro-plus-prm-3s-wine-mulia-143-2-3-2021-47-5-whirlpool-71-original-image7hu5hbhe92z.jpeg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 3S WINE MULIA-Z 72833"
+ },
+ {
+  "product_id": "NE-09169",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 4SINV BLUE FLUME-Z",
+  "model_code": "72658",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421220_add6.jpeg",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 4SINV BLUE FLUME-Z 72658"
+ },
+ {
+  "product_id": "NE-09170",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 4S INV WINE FLUME-Z",
+  "model_code": "72657",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/480/kf2v3ww0/refrigerator-new/f/3/a/260-impro-plus-prm-4s-inv-wine-flume-4-whirlpool-original-imafvm57552xcgnq.jpeg",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 4S INV WINE FLUME-Z 72657"
+ },
+ {
+  "product_id": "NE-09175",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS PRM 4S INV ALPHA STEEL-Z",
+  "model_code": "72676",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/kfcv6vk0/refrigerator-new/s/3/h/305-impro-plus-prm-3s-alpha-steel-3-whirlpool-original-imafvtcdrjg36jee.jpeg",
+  "query": "Whirlpool 305 IMPRO PLUS PRM 4S INV ALPHA STEEL-Z 72676"
+ },
+ {
+  "product_id": "NE-09176",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS PRM 4S INV BLUE FLUME-Z",
+  "model_code": "72675",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://ankurelectricals.com/cdn/shop/files/2_76a97b9a-0904-455d-a1ec-4d55874e491e.png",
+  "query": "Whirlpool 305 IMPRO PLUS PRM 4S INV BLUE FLUME-Z 72675"
+ },
+ {
+  "product_id": "NE-09177",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS PRM 4S INV WINE FLUME-Z",
+  "model_code": "72674",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/2/323431_base.jpeg",
+  "query": "Whirlpool 305 IMPRO PLUS PRM 4S INV WINE FLUME-Z 72674"
+ },
+ {
+  "product_id": "NE-09182",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS ROY 3S WINE FLUME-Z",
+  "model_code": "72671",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/2/323431_base.jpeg",
+  "query": "Whirlpool 305 IMPRO PLUS ROY 3S WINE FLUME-Z 72671"
+ },
+ {
+  "product_id": "NE-09183",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS ROY 3S SAPPHIRE FLUME-Z",
+  "model_code": "72672",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://ankurelectricals.com/cdn/shop/files/4_c60dbb6a-8a05-4918-b544-6cd6db7dc654.png",
+  "query": "Whirlpool 305 IMPRO PLUS ROY 3S SAPPHIRE FLUME-Z 72672"
+ },
+ {
+  "product_id": "NE-09187",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 3S SAPPHIRE BELITA-Z",
+  "model_code": "72473",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2024/3/396720798/CS/FF/LH/128626592/whirlpool-205-impc-prm3s-belita-z-single-door-refrigerator.jpg",
+  "query": "Whirlpool 205 IMPC PRM 3S SAPPHIRE BELITA-Z 72473"
+ },
+ {
+  "product_id": "NE-09198",
+  "brand": "Whirlpool",
+  "product_name": "205 WDE ROY 4SInv SAPPHIRE FLOWER RAIN-Z",
+  "model_code": "72757",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/s/a/sapphireflowerrain_add01.jpeg",
+  "query": "Whirlpool 205 WDE ROY 4SInv SAPPHIRE FLOWER RAIN-Z 72757"
+ },
+ {
+  "product_id": "NE-09199",
+  "brand": "Whirlpool",
+  "product_name": "205 WDE PRM 3S SAPPHIRE FLOWER RAIN-Z",
+  "model_code": "72751",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/xif0q/refrigerator-new/u/f/z/205-wde-prm-3s-sapphire-flower-rain-z-1188-3-2023-33-4-whirlpool-original-imagnzjrfzc5rrhu.jpeg",
+  "query": "Whirlpool 205 WDE PRM 3S SAPPHIRE FLOWER RAIN-Z 72751"
+ },
+ {
+  "product_id": "NE-09201",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S Inv SAPPHIRE ANTELIA-Z",
+  "model_code": "72621",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/611kxySUrSL._AC_UF350,350_QL50_.jpg",
+  "query": "Whirlpool 230 IMPRO PRM 4S Inv SAPPHIRE ANTELIA-Z 72621"
+ },
+ {
+  "product_id": "NE-09202",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S Inv WINE ANTELIA-Z",
+  "model_code": "72620",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/61JBre9lJeL.jpg",
+  "query": "Whirlpool 230 IMPRO PRM 4S Inv WINE ANTELIA-Z 72620"
+ },
+ {
+  "product_id": "NE-09203",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S Inv SAPPHIRE ANTELIA-Z",
+  "model_code": "72628",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/7/2/72829ref_add4.jpeg",
+  "query": "Whirlpool 230 IMPRO ROY 4S Inv SAPPHIRE ANTELIA-Z 72628"
+ },
+ {
+  "product_id": "NE-09205",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 5S INV WINE ANTELIA-Z",
+  "model_code": "72825",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy5swineanteliaz73338_add3.jpeg",
+  "query": "Whirlpool 230 IMPRO PRM 5S INV WINE ANTELIA-Z 72825"
+ },
+ {
+  "product_id": "NE-09210",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS PRM 4S INV WINE PALM-Z",
+  "model_code": "72844",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-107849867,imgsize-500,width-800/107849867.jpg",
+  "query": "Whirlpool 305 IMPRO PLUS PRM 4S INV WINE PALM-Z 72844"
+ },
+ {
+  "product_id": "NE-09211",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS PRM 3S BLUE PALM-Z",
+  "model_code": "72845",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/2/323469_add3.jpeg",
+  "query": "Whirlpool 305 IMPRO PLUS PRM 3S BLUE PALM-Z 72845"
+ },
+ {
+  "product_id": "NE-09213",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS ROY 3S BLUE PALM-Z",
+  "model_code": "72847",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://electronicparadise.in/cdn/shop/files/main_8_grande.webp",
+  "query": "Whirlpool 305 IMPRO PLUS ROY 3S BLUE PALM-Z 72847"
+ },
+ {
+  "product_id": "NE-09214",
+  "brand": "Whirlpool",
+  "product_name": "305 IMPRO PLUS ROY 3S WINE PALM-Z",
+  "model_code": "72848",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-107849867,imgsize-500,width-800/107849867.jpg",
+  "query": "Whirlpool 305 IMPRO PLUS ROY 3S WINE PALM-Z 72848"
+ },
+ {
+  "product_id": "NE-09215",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 3S WINE ADORA-Z-Inst",
+  "model_code": "72514",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2021/11/YC/VA/LI/80296245/whirlpool-205-impc-prm-3s-wine-abyss-190l-71381-.png",
+  "query": "Whirlpool 205 IMPC PRM 3S WINE ADORA-Z-Inst 72514"
+ },
+ {
+  "product_id": "NE-09216",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 4S INV WINE FLOWER RAIN-Z",
+  "model_code": "72934",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/kfyasnk0/refrigerator-new/z/2/w/wde-205-prm-4s-inv-wine-radiance-4-whirlpool-original-imafwapzbbaz7fqq.jpeg",
+  "query": "Whirlpool 205 IMPC PRM 4S INV WINE FLOWER RAIN-Z 72934"
+ },
+ {
+  "product_id": "NE-09218",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S SAPPHIRE MULIA-Z",
+  "model_code": "72950",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230impro_354284_add02.jpeg",
+  "query": "Whirlpool 230 IMPRO PRM 4S SAPPHIRE MULIA-Z 72950"
+ },
+ {
+  "product_id": "NE-09219",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S SAPPHIRE MULIA-Z",
+  "model_code": "72954",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-215L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPROROY-Sapphire-Mulia.png",
+  "query": "Whirlpool 230 IMPRO ROY 4S SAPPHIRE MULIA-Z 72954"
+ },
+ {
+  "product_id": "NE-09220",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 3S LUMINA STEEL-Z",
+  "model_code": "72538",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://api.thechennaimobiles.com/1716385590590.webp",
+  "query": "Whirlpool 215 IMPC PRM 3S LUMINA STEEL-Z 72538"
+ },
+ {
+  "product_id": "NE-09221",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC ROY 3S LUMINA STEEL-Z",
+  "model_code": "72542",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2021/11/FM/LO/AR/80296245/whirlpool-205-impc-roy-3s-lumina-steel-71621--500x500.png",
+  "query": "Whirlpool 215 IMPC ROY 3S LUMINA STEEL-Z 72542"
+ },
+ {
+  "product_id": "NE-09223",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 2S WINE MULIA-Z",
+  "model_code": "72961",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcprm2swinemuliaz72961_add3.jpeg",
+  "query": "Whirlpool 215 IMPC PRM 2S WINE MULIA-Z 72961"
+ },
+ {
+  "product_id": "NE-09229",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 2S COSMIC GREY-Z",
+  "model_code": "72510",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-190-L-Direct-Cool-Single-Door-3-Star-Refrigerator-205-IMPC-PRM-2.png",
+  "query": "Whirlpool 205 IMPC PRM 2S COSMIC GREY-Z 72510"
+ },
+ {
+  "product_id": "NE-09236",
+  "brand": "Whirlpool",
+  "product_name": "IFPRO INV CNV 305 ILLUSIA STEEL(2S)-TL-MT",
+  "model_code": "21674",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/whirlpool-327-l-frost-free-double-door-2-star-refrigerator-ifpro-inv-cnv-illusia-steel-front-view.png",
+  "query": "Whirlpool IFPRO INV CNV 305 ILLUSIA STEEL(2S)-TL-MT 21674"
+ },
+ {
+  "product_id": "NE-09239",
+  "brand": "Whirlpool",
+  "product_name": "IFPRO INV CNV 355 ALPHA STEEL(2s)-TL-MT",
+  "model_code": "21808",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://m.media-amazon.com/images/I/71eD9xhKdLL.jpg",
+  "query": "Whirlpool IFPRO INV CNV 355 ALPHA STEEL(2s)-TL-MT 21808"
+ },
+ {
+  "product_id": "NE-09251",
+  "brand": "Whirlpool",
+  "product_name": "IF INV CNV PLATINA 515 STEEL Onyx(2S)-Z-VS Exclusive",
+  "model_code": "21862",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2025/7/523712141/BI/YM/OQ/37895958/whirlpool-if-inv-cnv-platina-515-steel-onyx-2s-z-double-door-refrigerator.jpg",
+  "query": "Whirlpool IF INV CNV PLATINA 515 STEEL Onyx(2S)-Z-VS Exclusive 21862"
+ },
+ {
+  "product_id": "NE-09261",
+  "brand": "Whirlpool",
+  "product_name": "IFPRO INV CNV 355 Omega Black(2s)-TL",
+  "model_code": "21814",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://naveenelectronics.com/storage/productimages/41bR0zigylL._SX679_.jpg",
+  "query": "Whirlpool IFPRO INV CNV 355 Omega Black(2s)-TL 21814"
+ },
+ {
+  "product_id": "NE-09269",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 4S Inv PURPLE FLUME-Z-",
+  "model_code": "72594",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukmini1.flixcart.com/image/1500/1500/kbs9k7k0/refrigerator-new/a/w/u/230-im-pro-4s-roy-inv-wine-flume-4-whirlpool-original-imaftfxdadcvmmh4.jpeg",
+  "query": "Whirlpool 215 IMPRO ROY 4S Inv PURPLE FLUME-Z- 72594"
+ },
+ {
+  "product_id": "NE-09271",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 4S Inv PURPLE FOREST-Z",
+  "model_code": "72956",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.arzooo.com/images/products/3c15e/4bcf4/3c15e4bcf4b6ec542e661000fdca3ad0769cf770fda67b1ab6b1f828d4e09f44_00.jpg",
+  "query": "Whirlpool 215 IMPRO PRM 4S Inv PURPLE FOREST-Z 72956"
+ },
+ {
+  "product_id": "NE-09278",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 3S PURPLE HIBISCUS-Z",
+  "model_code": "73037",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool215improprm3s72125purplehibiscus_base.jpeg",
+  "query": "Whirlpool 215 IMPRO PRM 3S PURPLE HIBISCUS-Z 73037"
+ },
+ {
+  "product_id": "NE-09280",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 5S INV STEEL ONYX-Z",
+  "model_code": "72591",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://rukminim2.flixcart.com/image/480/640/kdukgi80/refrigerator-new/g/n/8/230-impro-prm-5s-inv-5-whirlpool-original-imafunhgg6pfhrgy.jpeg",
+  "query": "Whirlpool 215 IMPRO PRM 5S INV STEEL ONYX-Z 72591"
+ },
+ {
+  "product_id": "NE-09285",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 3S PURPLE HIBISCUS-Z",
+  "model_code": "73038",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool215improroy3spurplehibiscuspurplemulia_base.jpeg",
+  "query": "Whirlpool 215 IMPRO ROY 3S PURPLE HIBISCUS-Z 73038"
+ },
+ {
+  "product_id": "NE-09294",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S Inv SAPPHIRE PEONY-Z",
+  "model_code": "72996",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2024/2/393852004/IQ/PM/AF/213854617/whirlpool-230-impro-prm-3s-sapphire-peony-z-refrigerator.jpeg",
+  "query": "Whirlpool 230 IMPRO PRM 4S Inv SAPPHIRE PEONY-Z 72996"
+ },
+ {
+  "product_id": "NE-12352",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S Inv WINE ANTELIA-Z1",
+  "model_code": "73008",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 230 IMPRO PRM 4S Inv WINE ANTELIA-Z1 73008"
+ },
+ {
+  "product_id": "NE-12353",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 4S Inv SAPPHIRE ANTELIA-Z1",
+  "model_code": "73009",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 230 IMPRO PRM 4S Inv SAPPHIRE ANTELIA-Z1 73009"
+ },
+ {
+  "product_id": "NE-09303",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S Inv WINE PEONY-Z",
+  "model_code": "72998",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy_354252_base.jpeg",
+  "query": "Whirlpool 230 IMPRO ROY 4S Inv WINE PEONY-Z 72998"
+ },
+ {
+  "product_id": "NE-09304",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S Inv SAPPHIRE PEONY-Z",
+  "model_code": "72999",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy_354252_base.jpeg",
+  "query": "Whirlpool 230 IMPRO ROY 4S Inv SAPPHIRE PEONY-Z 72999"
+ },
+ {
+  "product_id": "NE-12355",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S Inv WINE ANTELIA-Z1",
+  "model_code": "73014",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 230 IMPRO ROY 4S Inv WINE ANTELIA-Z1 73014"
+ },
+ {
+  "product_id": "NE-12356",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 4S Inv SAPPHIRE ANTELIA-Z1",
+  "model_code": "73015",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 230 IMPRO ROY 4S Inv SAPPHIRE ANTELIA-Z1 73015"
+ },
+ {
+  "product_id": "NE-09312",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 4S SAPPHIRE MULIA-Z",
+  "model_code": "73046",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-132907768,imgsize-500,width-800/132907768.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 4S SAPPHIRE MULIA-Z 73046"
+ },
+ {
+  "product_id": "NE-09313",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 4S WINE MULIA-Z",
+  "model_code": "73047",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://cdn1.smartprix.com/rx-iVqyh1eez-w1200-h1200/Vqyh1eez.webp",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 4S WINE MULIA-Z 73047"
+ },
+ {
+  "product_id": "NE-09314",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 5S INV BLUE FLUME-Z",
+  "model_code": "73033",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://cdn1.smartprix.com/rx-iVqyh1eez-w1200-h1200/Vqyh1eez.webp",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 5S INV BLUE FLUME-Z 73033"
+ },
+ {
+  "product_id": "NE-09315",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 5S INV WINE FLUME-Z",
+  "model_code": "73034",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-80336476,width-201/80336476.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 5S INV WINE FLUME-Z 73034"
+ },
+ {
+  "product_id": "NE-09316",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 4S SAPPHIRE MULIA-Z",
+  "model_code": "73048",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-80336476,width-201/80336476.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 4S SAPPHIRE MULIA-Z 73048"
+ },
+ {
+  "product_id": "NE-09317",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 4S WINE MULIA-Z",
+  "model_code": "73049",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-80336476,width-201/80336476.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 4S WINE MULIA-Z 73049"
+ },
+ {
+  "product_id": "NE-09318",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 5S INV BLUE FLUME-Z",
+  "model_code": "73031",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-80336476,width-201/80336476.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 5S INV BLUE FLUME-Z 73031"
+ },
+ {
+  "product_id": "NE-09319",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 5S INV WINE FLUME-Z",
+  "model_code": "73032",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-80336476,width-201/80336476.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 5S INV WINE FLUME-Z 73032"
+ },
+ {
+  "product_id": "NE-09321",
+  "brand": "Whirlpool",
+  "product_name": "IF INV CNV PLATINA 455 Steel Onyx(2S)-Z",
+  "model_code": "21858",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/3/7/379471_base.jpeg",
+  "query": "Whirlpool IF INV CNV PLATINA 455 Steel Onyx(2S)-Z 21858"
+ },
+ {
+  "product_id": "NE-09324",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 3S NEO DUTCH-Z",
+  "model_code": "73051",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/GLADMIN/Default/2021/11/ZZ/FD/KJ/80296245/whirlpool-215-impro-roy-3s-neo-dutch-71639--250x250.png",
+  "query": "Whirlpool 215 IMPRO ROY 3S NEO DUTCH-Z 73051"
+ },
+ {
+  "product_id": "NE-09325",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 3S WINE HIBISCUS-Z",
+  "model_code": "72976",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/2/VB/DK/DY/68442333/wpl-230-impro-prm-3s-wine-hibiscus-500x500.png",
+  "query": "Whirlpool 215 IMPRO PRM 3S WINE HIBISCUS-Z 72976"
+ },
+ {
+  "product_id": "NE-09342",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 5S INV WINE HIBISCUS-Z",
+  "model_code": "73079",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/2/VB/DK/DY/68442333/wpl-230-impro-prm-3s-wine-hibiscus-500x500.png",
+  "query": "Whirlpool 215 IMPRO PRM 5S INV WINE HIBISCUS-Z 73079"
+ },
+ {
+  "product_id": "NE-09343",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 5S INV SAPPHIRE HIBISCUS-Z",
+  "model_code": "73080",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/2/VB/DK/DY/68442333/wpl-230-impro-prm-3s-wine-hibiscus-500x500.png",
+  "query": "Whirlpool 215 IMPRO PRM 5S INV SAPPHIRE HIBISCUS-Z 73080"
+ },
+ {
+  "product_id": "NE-09348",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 5S INV WINE FLUME-Z",
+  "model_code": "73085",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/11/RF/FB/PN/39749341/whirlpool-single-door-refrigerator-200l-215-impro-prm-3s-wine-flume.png",
+  "query": "Whirlpool 215 IMPRO PRM 5S INV WINE FLUME-Z 73085"
+ },
+ {
+  "product_id": "NE-09350",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO PRM 5S INV PURPLE FLUME-Z",
+  "model_code": "73087",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://d1kivxjtmxnd4.cloudfront.net/filters:format(webp)/images/2_0R2Hdqm.jpg",
+  "query": "Whirlpool 215 IMPRO PRM 5S INV PURPLE FLUME-Z 73087"
+ },
+ {
+  "product_id": "NE-09351",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 5S INV WINE FLUME-Z",
+  "model_code": "73088",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://static.toiimg.com/thumb/resizemode-4,msid-77008283,width-160,imgv-1/77008283.jpg",
+  "query": "Whirlpool 215 IMPRO ROY 5S INV WINE FLUME-Z 73088"
+ },
+ {
+  "product_id": "NE-09353",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPRO ROY 5S INV PURPLE FLUME-Z",
+  "model_code": "73090",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://d1kivxjtmxnd4.cloudfront.net/filters:format(webp)/images/2_0R2Hdqm.jpg",
+  "query": "Whirlpool 215 IMPRO ROY 5S INV PURPLE FLUME-Z 73090"
+ },
+ {
+  "product_id": "NE-09358",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC ROY 3S WINE LINNEA-Z-Vijay Sales",
+  "model_code": "72519",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2024/11/466459785/XB/RL/JB/180794818/73216-whirlpool-ref-205-impc-prm-3s-wine-serena-z-500x500.png",
+  "query": "Whirlpool 205 IMPC ROY 3S WINE LINNEA-Z-Vijay Sales 72519"
+ },
+ {
+  "product_id": "NE-09366",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 3S WINE HARMONY-Z-Inst Exclusive",
+  "model_code": "73134",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2024/11/466459785/XB/RL/JB/180794818/73216-whirlpool-ref-205-impc-prm-3s-wine-serena-z-500x500.png",
+  "query": "Whirlpool 205 IMPC PRM 3S WINE HARMONY-Z-Inst Exclusive 73134"
+ },
+ {
+  "product_id": "NE-09373",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PRM 3S WINE MULIA-Z(DD+Dist)",
+  "model_code": "73117",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/11/RF/FB/PN/39749341/whirlpool-single-door-refrigerator-200l-215-impro-prm-3s-wine-flume.png",
+  "query": "Whirlpool 260 IMPRO PRM 3S WINE MULIA-Z(DD+Dist) 73117"
+ },
+ {
+  "product_id": "NE-09381",
+  "brand": "Whirlpool",
+  "product_name": "215 IMPC PRM 3S WINE ABYSS-Z-RRL",
+  "model_code": "72534",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2022/11/OT/HS/PC/39749341/whirlpool-single-door-refrigerator-200l-215-impc-roy-3s-sapphire-abyss.png",
+  "query": "Whirlpool 215 IMPC PRM 3S WINE ABYSS-Z-RRL 72534"
+ },
+ {
+  "product_id": "NE-09384",
+  "brand": "Whirlpool",
+  "product_name": "NEO 258LH CLS PLS Sapphire Peony(2S)-TL",
+  "model_code": "22077",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool260improplsprm3ssapphiremulia_additional1.jpeg",
+  "query": "Whirlpool NEO 258LH CLS PLS Sapphire Peony(2S)-TL 22077"
+ },
+ {
+  "product_id": "NE-09411",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 3S WINE ANTELIA-Z",
+  "model_code": "73208",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 230 IMPRO PRM 3S WINE ANTELIA-Z 73208"
+ },
+ {
+  "product_id": "NE-09412",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO PRM 3S SAPPHIRE ANTELIA-Z",
+  "model_code": "73209",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "query": "Whirlpool 230 IMPRO PRM 3S SAPPHIRE ANTELIA-Z 73209"
+ },
+ {
+  "product_id": "NE-09413",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 3S WINE ANTELIA-Z",
+  "model_code": "73210",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2025/6/519779001/JH/ZM/KM/37895958/whirlpool-230-impro-prm-5s-wine-antelia-z-single-door-refrigerator.jpg",
+  "query": "Whirlpool 230 IMPRO ROY 3S WINE ANTELIA-Z 73210"
+ },
+ {
+  "product_id": "NE-09414",
+  "brand": "Whirlpool",
+  "product_name": "230 IMPRO ROY 3S SAPPHIRE ANTELIA-Z",
+  "model_code": "73211",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "query": "Whirlpool 230 IMPRO ROY 3S SAPPHIRE ANTELIA-Z 73211"
+ },
+ {
+  "product_id": "NE-09423",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 3S SAPPHIRE SERENA-Z",
+  "model_code": "73217",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 205 IMPC PRM 3S SAPPHIRE SERENA-Z 73217"
+ },
+ {
+  "product_id": "NE-09424",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC ROY 3S SAPPHIRE SERENA-Z",
+  "model_code": "73218",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 205 IMPC ROY 3S SAPPHIRE SERENA-Z 73218"
+ },
+ {
+  "product_id": "NE-09427",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC PRM 2S TITAN STEEL-Z",
+  "model_code": "73191",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2025/6/518290144/MF/BI/QI/37895958/whirlpool-205-impc-prm-3s-lumina-steel-z-single-door-fridge-500x500.jpg",
+  "query": "Whirlpool 205 IMPC PRM 2S TITAN STEEL-Z 73191"
+ },
+ {
+  "product_id": "NE-09428",
+  "brand": "Whirlpool",
+  "product_name": "205 IMPC ROY 2S TITAN STEEL-Z",
+  "model_code": "73192",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://5.imimg.com/data5/SELLER/Default/2025/6/518290144/MF/BI/QI/37895958/whirlpool-205-impc-prm-3s-lumina-steel-z-single-door-fridge-500x500.jpg",
+  "query": "Whirlpool 205 IMPC ROY 2S TITAN STEEL-Z 73192"
+ },
+ {
+  "product_id": "NE-09429",
+  "brand": "Whirlpool",
+  "product_name": "205 WDE PRM 4S Inv TITAN STEEL-Z-E-Comm",
+  "model_code": "73196",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 205 WDE PRM 4S Inv TITAN STEEL-Z-E-Comm 73196"
+ },
+ {
+  "product_id": "NE-09430",
+  "brand": "Whirlpool",
+  "product_name": "205 WDE ROY 4S Inv TITAN STEEL-Z-E-Comm",
+  "model_code": "73197",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 205 WDE ROY 4S Inv TITAN STEEL-Z-E-Comm 73197"
+ },
+ {
+  "product_id": "NE-09431",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 4S SAPPHIRE BREEZE-Z",
+  "model_code": "73149",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 4S SAPPHIRE BREEZE-Z 73149"
+ },
+ {
+  "product_id": "NE-09433",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS PRM 5S INV BLUE BREEZE-Z",
+  "model_code": "73153",
+  "category": "Home Appliances",
+  "reason": "missing",
+  "current": "",
+  "query": "Whirlpool 260 IMPRO PLUS PRM 5S INV BLUE BREEZE-Z 73153"
+ },
+ {
+  "product_id": "NE-09435",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 4S SAPPHIRE BREEZE-Z",
+  "model_code": "73151",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://img-prd-pim.poorvika.com/product/Whirlpool-207-L-Direct-Cool-Single-Door-3-Star-Refrigerator-230-IMPRO-Roy-Sapphire-Mulia-99-min.png",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 4S SAPPHIRE BREEZE-Z 73151"
+ },
+ {
+  "product_id": "NE-09436",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 5S INV BLUE BREEZE-Z",
+  "model_code": "73155",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://mc.bajajfinserv.in/media/catalog/product/2/6/260improplusroy5sinvbluebreez_421226_bluebreeze_add3.jpeg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 5S INV BLUE BREEZE-Z 73155"
+ },
+ {
+  "product_id": "NE-09437",
+  "brand": "Whirlpool",
+  "product_name": "260 IMPRO PLUS ROY 5S INV WINE BREEZE-Z",
+  "model_code": "73154",
+  "category": "Home Appliances",
+  "reason": "low",
+  "current": "https://cdn.moglix.com/p/QMmsAv42sr12c-xxlarge.jpg",
+  "query": "Whirlpool 260 IMPRO PLUS ROY 5S INV WINE BREEZE-Z 73154"
+ }
+]

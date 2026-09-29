@@ -1,11 +1,25 @@
 # -*- coding: utf-8 -*-
-import json, os, html
+import json, os, html, re
 from datetime import date
 
 BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
 OUT_DIR = os.path.join(BASE, "_catalog_build", "output")
 SITE_DIR = os.path.join(BASE, "_catalog_build", "site")
 VERSION_TAG = date.today().strftime("%Y%m%d")
+
+def popular_searches_html():
+    """Crawlable links from the homepage into the /corporate-gifts/ keyword
+    landing pages (build_keyword_pages.py). Empty until keyword research exists."""
+    path = os.path.join(OUT_DIR, "keyword_research.json")
+    if not os.path.exists(path):
+        return ""
+    clusters = json.load(open(path))["clusters"]
+    slug = lambda s: re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
+    links = "".join(f'<a href="corporate-gifts/{slug(c["slug"])}/">{html.escape(c["h1"])}</a>' for c in clusters)
+    return ('<section class="popular-searches" id="popular-searches"><div class="wrap">'
+            '<h2>Popular corporate gifting searches</h2>'
+            '<p>Bulk, wholesale, employee, client and festive gifting guides — <a href="corporate-gifts/">see all gifting ideas</a>.</p>'
+            f'<div class="ps-links">{links}</div></div></section>')
 
 def main():
     recs = json.load(open(os.path.join(OUT_DIR, "master_consolidated.json")))
@@ -147,6 +161,7 @@ def main():
         template = fh.read()
 
     html_out = (template
+        .replace("__POPULAR_SEARCHES__", popular_searches_html())
         .replace("__DATA_JSON__", data_json)
         .replace("__BRANDS_JSON__", brands_json)
         .replace("__CATEGORIES_JSON__", categories_json)

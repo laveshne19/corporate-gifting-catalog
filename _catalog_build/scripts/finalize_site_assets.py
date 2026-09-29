@@ -50,12 +50,16 @@ def write_sitemap():
     product_urls = _load("product_page_urls.json")
     budget_urls = _load("budget_page_urls.json")
     blog_urls = _load("blog_page_urls.json")
+    keyword_urls = _load("keyword_page_urls.json")
 
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>")
     for path in seo_urls:
         priority = "0.8" if path.startswith("/brands/") else "0.7"
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
+    for path in keyword_urls:
+        priority = "0.8" if path == "/corporate-gifts/" else "0.75"
         sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
     for path in budget_urls:
         sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>0.75</priority></url>")
@@ -75,8 +79,29 @@ def write_sitemap():
     ]
     with open(os.path.join(SITE_DIR, "robots.txt"), "w") as fh:
         fh.write("\n".join(robots) + "\n")
-    total_urls = 1 + len(seo_urls) + len(budget_urls) + len(blog_urls) + len(product_urls)
+    total_urls = 1 + len(seo_urls) + len(keyword_urls) + len(budget_urls) + len(blog_urls) + len(product_urls)
     print(f"Wrote sitemap.xml ({total_urls} URLs) and robots.txt")
+
+def keyword_llms_lines():
+    """One line per /corporate-gifts/ landing page (build_keyword_pages.py),
+    with the search terms it answers, so AI answer engines can route a
+    query like "bulk earbuds for employees" to the right page."""
+    path = os.path.join(OUT_DIR, "keyword_research.json")
+    if not os.path.exists(path):
+        return []
+    research = json.load(open(path))
+    kws = {}
+    for k in research["keywords"]:
+        kws.setdefault(k["cluster"], []).append(k["keyword"])
+    lines = ["## Corporate gifting guides (bulk, employee, client, festive, city)",
+             f"- [All corporate gifting ideas]({PRIMARY_DOMAIN}/corporate-gifts/): hub of every guide below "
+             f"plus {len(research['keywords'])} popular search terms"]
+    for c in research["clusters"]:
+        slug = re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", c["slug"].lower())).strip("-")
+        lines.append(f"- [{c['h1']}]({PRIMARY_DOMAIN}/corporate-gifts/{slug}/): "
+                     + "; ".join(kws.get(c["slug"], [])[:6]))
+    return lines + [""]
+
 
 def write_llms_txt():
     """GEO: a plain-text index for AI assistants/answer engines (ChatGPT,
@@ -124,6 +149,7 @@ def write_llms_txt():
         f"- [Corporate gifting blog]({PRIMARY_DOMAIN}/blog/): budget guides, Diwali gifting, industry-specific "
         "gifting advice (pharma/FMCG field force), brand comparisons — written for HR/procurement buyers",
         "",
+    ] + keyword_llms_lines() + [
         "## Shop by budget",
         f"- [Under Rs.500]({PRIMARY_DOMAIN}/budget/under-500/)",
         f"- [Rs.500-Rs.1,000]({PRIMARY_DOMAIN}/budget/500-1000/)",
