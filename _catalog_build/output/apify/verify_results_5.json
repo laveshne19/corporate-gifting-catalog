@@ -1,0 +1,66 @@
+[
+ {
+  "product_id": "NE-00887",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/19/37198/99c949c4-7d30-47ec-a95c-fc1ef0731b58_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Dinner Plate, 27 cm, Light Blue, P2015"
+ },
+ {
+  "product_id": "NE-00888",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/06/37219/d3351972-a909-4018-ba99-2bed7f132026_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Dessert Plate, 19 cm, Light Blue, P2612"
+ },
+ {
+  "product_id": "NE-00889",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/10/37075/b40fb4e2-c0ec-461c-bb13-c4913652e8aa_size1920_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Multi Purpose Bowl, 12 cm, Blue, P9203"
+ },
+ {
+  "product_id": "NE-00893",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/19/37078/4c17c046-0285-4f0f-8a16-765bb331e144.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali Multi Purpose Bowl, 12 cm, Light Turquoise, P9201"
+ },
+ {
+  "product_id": "NE-00895",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Luminarc Opalware Diwali Dinner Plate, 27 cm, White, 6 Piece - Amazon.in"
+ },
+ {
+  "product_id": "NE-00896",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-00897",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2026/06/04/371045/175da4a4-3bba-4c0e-920c-1637cefde5d6_size3840_cropCenter.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Luminarc Diwali 21 cm Plain Opal Salad Bowl, P6029"
+ },
+ {
+  "product_id": "NE-00898",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

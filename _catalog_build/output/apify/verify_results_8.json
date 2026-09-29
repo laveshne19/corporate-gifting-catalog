@@ -1,0 +1,162 @@
+[
+ {
+  "product_id": "NE-01465",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Genx 900 680ml Bright/Parrot Green"
+ },
+ {
+  "product_id": "NE-01599",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Hydra Kid 400 Inner Steel Insulated Water Bottle 400ml Blue Spiderman"
+ },
+ {
+  "product_id": "NE-01600",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Hydra Kid 600 Water Bottle 520ml Orange"
+ },
+ {
+  "product_id": "NE-01601",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61LXBFqXpAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel X Hydra Star Water Bottle 400ml, Blue"
+ },
+ {
+  "product_id": "NE-01602",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01603",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bottle/x/n/k/400-puro-steel-x-kids-zee-water-bottle-1-ite-94642-red-cello-original-imaghakmh5davywt.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "cello Puro Steel-X Kids Zee Water Bottle 400 ml"
+ },
+ {
+  "product_id": "NE-01604",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Rf3iNDJuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Kids Zee 600 Insulated Stainless Steel Water Bottle 540ml, Red"
+ },
+ {
+  "product_id": "NE-01605",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61GWZ5ckaFL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Kids Zee 900 Water Bottle 700 ml, Red"
+ },
+ {
+  "product_id": "NE-01606",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61BpEGWOr+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Cello Puro Steel-X Lexus Insulated Bottles, 900ml, Orange"
+ },
+ {
+  "product_id": "NE-01472",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Legend 600 Insulated Water Bottle 600 ml Red"
+ },
+ {
+  "product_id": "NE-01473",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Legend 900 Insulated Water Bottle 900 ml, Black"
+ },
+ {
+  "product_id": "NE-01474",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01475",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01477",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "cello Puro steel-x polo 600 ml Steel Bottle"
+ },
+ {
+  "product_id": "NE-01478",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "cello Puro steel-x polo 900 ml Steel Bottle"
+ },
+ {
+  "product_id": "NE-01479",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Power Sip Insulated Sipper Water Bottle 560ml Blue"
+ },
+ {
+  "product_id": "NE-01481",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01483",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Race Insulated Water Bottle 600 ml Black"
+ },
+ {
+  "product_id": "NE-01484",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "CELLO Puro Steel-X Race Insulated Water Bottle 900 ml Black"
+ },
+ {
+  "product_id": "NE-01486",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/7/433082652/FN/GO/RJ/81421712/whatsapp-image-2024-07-03-at-10-32-24-am-1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Cello Purosteel Royce 600 Water Bottle"
+ }
+]
