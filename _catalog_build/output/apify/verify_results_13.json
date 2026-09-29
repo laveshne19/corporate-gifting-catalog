@@ -1022,5 +1022,133 @@
   "confidence": "high",
   "source_domain": "www.portronics.com",
   "matched_title": "Revvo 10000mAh Magsafe Power Bank With Stand"
+ },
+ {
+  "product_id": "NE-06718",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Luxcell_UNO_10K_Durable_Power_Bank.jpg?v=1763535913",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Luxcell UNO 10K"
+ },
+ {
+  "product_id": "NE-06720",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indianhobbycenter.com",
+  "matched_title": "Portronics POR-2814 Luxcell Stride 10 10000mAH Power Bank with Type-C"
+ },
+ {
+  "product_id": "NE-06721",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_2_3bea40d5-86a4-42a6-a42f-0ca2ada36c4a.jpg?v=1715162002",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "POWER PLUS"
+ },
+ {
+  "product_id": "NE-06726",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/PowerPlusII-1500x1500_4.jpg?v=1756733719",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power plus II"
+ },
+ {
+  "product_id": "NE-06727",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Pebble_best_powerbank_for_mobile_with_foldable_Type_C_pin.jpg?v=1758095172",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Pebble 5000mAh Mini Capsule Power Bank"
+ },
+ {
+  "product_id": "NE-06729",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Zapcell 10K 10000mAh Smallest Power Bank with 22.5W Max Output"
+ },
+ {
+  "product_id": "NE-06732",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics 5000 mAh 20 W Wired & Wireless Compact Pocket Size Power Bank (boosty-5k POR 2259)"
+ },
+ {
+  "product_id": "NE-06741",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics 10000 mAh Power Bank (boosty-10k POR 2258)"
+ },
+ {
+  "product_id": "NE-06742",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Power_Shutter_best_10000mah_Power_bank.jpg?v=1730270755",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Shutter 10000mAh Wireless Power Bank (22.5W)"
+ },
+ {
+  "product_id": "NE-06748",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Shutter Pro Best PowerBank for iPhone"
+ },
+ {
+  "product_id": "NE-06753",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Power Shutter 20K 20000mAh Wireless Powerbank Online"
+ },
+ {
+  "product_id": "NE-06754",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_power_shutter_air_20k_fast_charging_power_bank.jpg?v=1786433171",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Shutter Air 20K"
+ },
+ {
+  "product_id": "NE-06756",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Shutter Home 3x10000mAh Charging Station"
+ },
+ {
+  "product_id": "NE-06757",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/610H2z2HpuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Power Shutter Air 5k 5000mAh 15W Wireless Magnetic Fast Charging Slim Powerbank"
+ },
+ {
+  "product_id": "NE-06759",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Power Shutter Air 10K"
+ },
+ {
+  "product_id": "NE-02041",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.portronics.com",
+  "matched_title": "Chyro 10000mAh MagSafe Wireless Power Bank"
  }
 ]

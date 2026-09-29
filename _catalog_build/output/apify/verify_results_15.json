@@ -1098,10 +1098,10 @@
  {
   "product_id": "NE-11193",
   "keep": false,
-  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_8b036f30-5938-4ae4-8ce5-39fd23dccd34.jpg?v=1733482879",
-  "confidence": "high",
+  "image_url": null,
+  "confidence": null,
   "source_domain": "www.portronics.com",
-  "matched_title": "Portronics SlideMate 2 wireless presenter"
+  "matched_title": "Portronics SlideMate 2 wireless presenter [rejected: different model]"
  },
  {
   "product_id": "NE-11194",
@@ -1234,10 +1234,10 @@
  {
   "product_id": "NE-11230",
   "keep": false,
-  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_bluefi_bluetooth_usb_adapter_for_wireless_computer_accessories.png?v=1783497553",
-  "confidence": "high",
+  "image_url": null,
+  "confidence": null,
   "source_domain": "www.portronics.com",
-  "matched_title": "Portronics BlueFi Nano Wi-Fi & Bluetooth USB Dongle"
+  "matched_title": "Portronics BlueFi Nano Wi-Fi & Bluetooth USB Dongle [rejected: different model]"
  },
  {
   "product_id": "NE-11232",
@@ -1278,5 +1278,237 @@
   "confidence": null,
   "source_domain": null,
   "matched_title": null
+ },
+ {
+  "product_id": "NE-11244",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11245",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Compact_Portronics_Magma_Go_humidifier_for_room_Type-C_power_input.jpg?v=1772541281",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Magma Go Portable Ultrasonic Aroma Diffuser"
+ },
+ {
+  "product_id": "NE-11246",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11247",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11251",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/All-in-one_Rechargeable_Mini_Massager_and_Massage_Gun_by_Portronics.jpg?v=1756386914",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics New Zeno Go Massage Gun "
+ },
+ {
+  "product_id": "NE-11252",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11253",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11257",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11258",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11259",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11263",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11264",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Loca_Smart_Location_Tracker_online_at_best.png?v=1764676839",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Loca Item Finder "
+ },
+ {
+  "product_id": "NE-11265",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/World_Tag_for_item_finder_and_location_tracker_device.png?v=1733401833",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "World Tag"
+ },
+ {
+  "product_id": "NE-11266",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_lint_x_rechargeable_lint_remover.jpg?v=1770711723",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Lint X Rechargeable Fabric & Cloth Lint Remover"
+ },
+ {
+  "product_id": "NE-11267",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_lint_x_pro_buy_6_stainless_steel_blade_lint_remover.jpg?v=1788865607",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Lint X Pro Rechargeable Lint Remover For Fabric"
+ },
+ {
+  "product_id": "NE-11270",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_lint_x_lite_7200_rpm_lint_remover.jpg?v=1788863165",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Lint X Lite USB Lint Remover For Clothes"
+ },
+ {
+  "product_id": "NE-11282",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard3_cd540a16-90ea-4c83-8496-886f7745542e.jpg?v=1777025387",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Meteo Indoor Weather Station Display"
+ },
+ {
+  "product_id": "NE-11289",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_glowtime_rechargeable_digital_clock_for_table.jpg?v=1781010059",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics GlowTime Smart Alarm Clock & Digital Desk Clock"
+ },
+ {
+  "product_id": "NE-02428",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_pulse_line_3-in-1_smart_wearable_cable.jpg?v=1774879006",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Pulse Line 3-in-1 Neckband Neck Massager"
+ },
+ {
+  "product_id": "NE-11293",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_air_x_best_air_purifier_for_home_at_best_price.jpg?v=1774875803",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Air X Portable HEPA Air Purifier for Home"
+ },
+ {
+  "product_id": "NE-11294",
+  "keep": false,
+  "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/rc-upload-1774698462081-11.png",
+  "confidence": "high",
+  "source_domain": "blinkit.com",
+  "matched_title": "Portronics MagicBin Smart Sensor Dustbin (White, 15 ltrs)"
+ },
+ {
+  "product_id": "NE-11295",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_torque_x_pressure_washer_gun.jpg?v=1775284990",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Torque X Cordless Car & Bike Pressure Washer Gun"
+ },
+ {
+  "product_id": "NE-11298",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_keylink_c_usb_keychain_cable.jpg?v=1788332400",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics KeyLink C USB Keychain 60W Type-C to C Cable"
+ },
+ {
+  "product_id": "NE-11300",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Griplet_Cable_Organiser_Reusable_Smart_Cable_Holder.jpg?v=1762155642",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Griplet 3 Smart Cable Organizer For Desk"
+ },
+ {
+  "product_id": "NE-11304",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/712uFod7JEL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Procharge 4 60W 4-In-1 Fast Charging Cable"
+ },
+ {
+  "product_id": "NE-02436",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_konnect_y_usb_cable_to_type_c_fast_charging_cable_for_mobile_phones_tablets_and_accessories.jpg?v=1769500496",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Konnect Y 6A USB to Type-C Fast Charge Cable"
+ },
+ {
+  "product_id": "NE-11308",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11310",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11316",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Image1_3e31a0b3-94c7-44b8-88bd-f671e9c4a5ca.jpg?v=1701521287",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Konnect Sync 1.5M Cord Length HDMI Cable - Black"
  }
 ]

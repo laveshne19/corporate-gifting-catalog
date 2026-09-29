@@ -43,6 +43,9 @@ run) and retry. Transient 502s: retry.
      model code) names the same brand AND the exact model / name / capacity / size, AND the
      product type is the same (earbuds ≠ smartwatch ≠ speaker; AC ≠ fridge; scooter ≠ watch).
      Colour variants: must match when the product name states a colour.
+     A title naming a different generation or sub-model is NOT a match (e.g. "SlideMate 2" for
+     "SlideMate", "BlueFi Nano" for "Bluefi", "Pro"/"Lite"/"Max" suffixes that the product lacks).
+     Only write rows after you have actually decided them — never pre-fill placeholder rows.
    - **keep = true** if the `current` URL is the same image as a result whose title matches —
      compare by URL, or by the same image ID/file name on the same host (e.g. Amazon
      `/images/I/<ID>` ignoring size suffixes, Flipkart path ignoring the `/image/<w>/<h>/` size,
