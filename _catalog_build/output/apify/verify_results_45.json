@@ -2,7 +2,7 @@
   {
     "product_id": "NE-07553",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-Metallic-Black-2_0_0.png",
+    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-Metallic-Luxon-Gold-Black-2_0_0.png",
     "confidence": "high",
     "source_domain": "www.ushafans.com",
     "matched_title": "Buy AiroStrong Angle High RPM Ceiling Fan | Usha Fans"
@@ -10,7 +10,7 @@
   {
     "product_id": "NE-12190",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-Metallic-Black-2_0_0.png",
+    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-Metallic-White-2_0_0.png",
     "confidence": "high",
     "source_domain": "www.ushafans.com",
     "matched_title": "Buy AiroStrong Angle High RPM Ceiling Fan | Usha Fans"
@@ -18,7 +18,7 @@
   {
     "product_id": "NE-07555",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-curve-1_0.png",
+    "image_url": "https://www.ushafans.com/sites/default/files/Airostrong-Curve-Metallic-White-3_0.png",
     "confidence": "high",
     "source_domain": "www.ushafans.com",
     "matched_title": "Buy AiroStrong Curve Copper Motor Ceiling Fan | Usha Fans"
@@ -41,59 +41,59 @@
   },
   {
     "product_id": "NE-07558",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07559",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07560",
     "keep": false,
-    "image_url": "https://www.ushastrikerfans.com/wp-content/uploads/2023/05/7.png",
-    "confidence": "high",
-    "source_domain": "www.ushastrikerfans.com",
-    "matched_title": "Super Striker Ceiling Fan \u2013 USHA STRIKER \u2013 SERIES"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07561",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07562",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41BHzuRboVL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Super Striker 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Suva Grey| Online  at Low Prices in India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07563",
     "keep": false,
-    "image_url": "https://caryoshopbucket.s3.ap-south-1.amazonaws.com/cayroshop//product/686518bd5a64cf4119511451/1751456130768_51j5VlwDlkL._SX679.webp",
-    "confidence": "high",
-    "source_domain": "www.cayroshop.com",
-    "matched_title": "Usha Super Striker 1200mm Ceiling Fan White | Cayroshop"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07564",
     "keep": false,
-    "image_url": "https://caryoshopbucket.s3.ap-south-1.amazonaws.com/cayroshop//product/686518bd5a64cf4119511451/1751456130767_51_EWXaApTL._SX679.webp",
+    "image_url": "https://cdn.moglix.com/p/J/H/7/d/MINJH7J5IGS84.jpg",
     "confidence": "high",
-    "source_domain": "www.cayroshop.com",
-    "matched_title": "Usha Super Striker 1200mm Ceiling Fan White | Cayroshop"
+    "source_domain": "www.moglix.com",
+    "matched_title": "Usha Super Striker White Ceiling Fan, Sweep: 1200 mm"
   },
   {
     "product_id": "NE-07565",
@@ -114,10 +114,10 @@
   {
     "product_id": "NE-07567",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51oow8Fu8gL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker NEO 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Cocoa Bean| Online  at Low Prices in India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07568",
@@ -138,16 +138,16 @@
   {
     "product_id": "NE-12192",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41w83XJDUaL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker Galaxy 1200mm Energy Efficient 1 Star Rated Power Saving  High Speed Oil & Dust Resistant Ceiling Fan|1star| ISI Certified |New  Bright Gold| Online at Low Prices in India -"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07571",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
@@ -169,11 +169,11 @@
   },
   {
     "product_id": "NE-07574",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/513ErAJPWeL.jpg",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Striker Galaxy 1200mm 56-watt Goodbye Dust Ceiling Fan with Anti Dust  Feature (Pearl White Chrome) : Amazon.in: Health & Personal Care"
   },
   {
     "product_id": "NE-07575",
@@ -210,10 +210,10 @@
   {
     "product_id": "NE-07579",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Ruby-Flicker-C.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Millennium Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07580",
@@ -226,18 +226,18 @@
   {
     "product_id": "NE-07581",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Matte-Brown-C.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Millennium Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07582",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/OC/VK/GW/SELLER-29937196/striker-millennium-pearl-ivory-1200-fan.png",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "www.indiamart.com",
+    "matched_title": "White Usha Striker Millennium Pearl Ivory 1200 Fan at best price in Patna"
   },
   {
     "product_id": "NE-07583",
@@ -250,98 +250,98 @@
   {
     "product_id": "NE-07584",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Ultra-Marine-Bule-C.png",
+    "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/cf-striker-millennium-1200-um-blue.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Millennium Ceiling Fan, 1200mm | Usha Fans"
+    "source_domain": "mykit.in",
+    "matched_title": "Usha Striker Millennium Metallic 1200mm Ultra Marine Blue ceiling Fan |  mykit | Buy online | Buy Usha, Ceiling Fans online"
   },
   {
     "product_id": "NE-07585",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://cdn.moglix.com/p/vlVsVTP6r3pCj-xxlarge.jpg",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "www.moglix.com",
+    "matched_title": "Usha Striker Platinum Deep Metallic Brown 3 Blades Ceiling Fan, Sweep: 600  mm"
   },
   {
     "product_id": "NE-07586",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-StrikerPlatinum-1400-01_2.png",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/330662793/KD/PL/MI/135628425/s1-500x500.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1400mm | Usha Fans"
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Metallic Brown Striker Platinum 900mm Ceiling Fan, 420 RPM, 3 Blades  at \u20b9 3410/piece in Varanasi"
   },
   {
     "product_id": "NE-07587",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07588",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07589",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-StrikerPlatinum-1400-01_2.png",
+    "image_url": "https://m.media-amazon.com/images/I/51qUEHbBKQL.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust Resistant Decorative Ceiling Fan |1star| ISI Certified ||Pearl White||Lavender"
   },
   {
     "product_id": "NE-07590",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-Metalic%20Brown-1400-01_2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07591",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-Metalic%20Brown-1400-01_2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07592",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-StrikerPlatinum-1400-01_2.png",
+    "image_url": "https://m.media-amazon.com/images/I/41QXLcXOSAL.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Striker Platinum 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Pearl White| Online  at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07593",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Technix-Plus--brown-B.png",
+    "image_url": "https://www.ushafans.com/sites/default/files/TECHNIX%20WHITE%20PSD.png",
     "confidence": "high",
     "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Technix Plus 5-Star White Ceiling Fan | Usha Fans"
+    "matched_title": "Buy Energy Saving 5-Star Ceiling Fans | Usha Fans"
   },
   {
     "product_id": "NE-07594",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/7/628907148/XT/CN/AS/117587186/usha-1400mm-apollo-ceiling-fan-500x500.webp",
-    "confidence": "high",
-    "source_domain": "www.indiamart.com",
-    "matched_title": "3 1400 Mm Usha Apollo Ceiling Fan, Induction at \u20b9 1680/piece in Noida | ID:  2859607776133"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07595",
     "keep": false,
-    "image_url": "https://rukminim3.flixcart.com/image/480/480/ksj9dow0/fan/z/5/b/apollo-lx-76-1-1200-ceiling-fan-usha-original-imag62qwu2bczh2g.jpeg?q=80",
-    "confidence": "high",
-    "source_domain": "www.flipkart.com",
-    "matched_title": "USHA APOLLO LX with 1 Year Warranty Silent Operation 1200 mm Ceiling Fan  Price in India - Buy USHA APOLLO LX with 1 Year Warranty Silent Operation 1200  mm Ceiling Fan online at Flipkart.com"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07596",
@@ -354,10 +354,10 @@
   {
     "product_id": "NE-07597",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/ENERGIA-ISI-W-O-REG-WH-CF-A.png",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/6/KZ/KN/CU/71865646/usha-energia-isi-ceiling-fan-500x500.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Energia ISI Ceiling Fan, 1400mm | Usha Fans"
+    "source_domain": "www.indiamart.com",
+    "matched_title": "White Usha Energia ISI Ceiling Fan, Sweep Size: 1400mm, Power: 50 W at \u20b9  1240/piece in Jabalpur"
   },
   {
     "product_id": "NE-07598",
@@ -378,18 +378,18 @@
   {
     "product_id": "NE-07600",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/514PtfA3n7L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Bloom Daffodil 1 Star 1250mm 3 Blade Electroplated Finish Ceiling Fan (Dust Resistant, Golden & Brown)"
   },
   {
     "product_id": "NE-07601",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51NDJH7kSaL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Bloom Daffodil GoodBye Dust 1250 MM smoke brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07602",
@@ -410,34 +410,34 @@
   {
     "product_id": "NE-07604",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51SvHxe5ZML.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Daffodil Goodbye Dust Ceiling Fan 1250mm, Sparkle Red and  Black Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07605",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61hhX76hqmL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Daffodil Goodbye Dust Ceiling Fan 1250mm, Sparkle White  Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07606",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/FDS_S1_LightBrown_D-Upload.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Daffodil Ceiling Fan - Electroplated | Usha Fans"
-  },
-  {
-    "product_id": "NE-07607",
-    "keep": false,
     "image_url": null,
     "confidence": null,
     "source_domain": null,
     "matched_title": null
+  },
+  {
+    "product_id": "NE-07607",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51NDJH7kSaL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Bloom Daffodil GoodBye Dust 1250 MM smoke brown Online at Low  Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07608",
@@ -450,18 +450,18 @@
   {
     "product_id": "NE-07609",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/51MBbsm1yAL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Daffodil Goodbye Dust Ceiling Fan 1250mm, Sparkle Grey and  Black Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07610",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/FDS_S1_GreyRed_B-Upload.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Bloom Daffodil Ceiling Fan - Electroplated | Usha Fans"
   },
   {
     "product_id": "NE-12193",
@@ -474,16 +474,16 @@
   {
     "product_id": "NE-07612",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Magnolias_Sparkle-Grey%26Blue_0.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Bloom Magnolia Modern Ceiling Fan | Usha Fans"
   },
   {
     "product_id": "NE-07613",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -506,34 +506,34 @@
   {
     "product_id": "NE-07616",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://m.media-amazon.com/images/I/61f-STiEn2L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Bloom Magnolia 1250mm 85-Watt Goodbye Dust Ceiling Fan with Anti  Dust Feature(Sparkle White)|100% Copper Motor| Online at Low Prices in  India - Amazon.in"
   },
   {
     "product_id": "NE-07617",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07618",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07619",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/FDS_S2_White_D_Upload.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Bloom Primrose Dual-Color Ceiling Fan | Usha Fans"
   },
   {
     "product_id": "NE-07620",
@@ -545,43 +545,43 @@
   },
   {
     "product_id": "NE-07621",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07622",
     "keep": false,
+    "image_url": "https://www.ushafans.com/sites/default/files/FDS_S2_White_D_Upload.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Bloom Primrose Dual-Color Ceiling Fan | Usha Fans"
+  },
+  {
+    "product_id": "NE-07623",
+    "keep": false,
     "image_url": null,
     "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
-    "product_id": "NE-07623",
-    "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Energia-Nidac-BLDC-fan-A.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Energia 32 BLDC Ceiling Fan with Remote | Usha Fans"
-  },
-  {
     "product_id": "NE-07624",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Energia-Nidac-BLDC-fan-A.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Energia 32 BLDC Ceiling Fan with Remote | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07625",
     "keep": false,
-    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/v/z/7/-original-imagzcnn8rzg7rur.jpeg?q=70",
-    "confidence": "high",
-    "source_domain": "www.flipkart.com",
-    "matched_title": "USHA Energia 32 with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling  Fan Price in India - Buy USHA Energia 32 with 2 Year Warranty BLDC Motor  with Remote 1200"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07626",
@@ -618,10 +618,10 @@
   {
     "product_id": "NE-07630",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-StrikerPlatinum-1400-01_2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07631",
@@ -634,42 +634,42 @@
   {
     "product_id": "NE-07632",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerPlatinum-PFrostyGrey1400-02_2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Platinum Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07633",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61JPNPB1-KL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker NEO 1200mm Energy Saving High Speed Scratch & Dust  Resistant Decorative Ceiling Fan |1star| ISI Certified |Shuttle Grey |  Online at Low Prices in India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07634",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/striker-1200_3_0.jpg",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Galaxy Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07635",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61HOGeXUVNL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Striker Galaxy 1200mm Energy Efficient 1 Star Rated Power Saving  High Speed Oil & Dust Resistant Ceiling Fan|1star| ISI Certified |New  Bright Gold| Online at Low Prices in India -"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07636",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/StrikerGalaxy1400-Bright-Gold-02_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Striker Galaxy Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07637",
@@ -682,10 +682,10 @@
   {
     "product_id": "NE-07638",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/DG/MI/MY-17438245/technix-plus-rich-white-1200-mm-ceiling-fan.png",
+    "image_url": "https://images-eu.ssl-images-amazon.com/images/I/514aW9RK56L.jpg",
     "confidence": "high",
-    "source_domain": "www.indiamart.com",
-    "matched_title": "Usha White Technix Plus Rich 1200 Mm Ceiling Fan, Warranty: 2 Year at \u20b9  2400/piece in Bagaha"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA TECHNIX 1200mm BLDC Energy saving Ceiling fan | 3 Blade high speed  350 RPM | 5-star rated | ISI Certified |White| Online at Low Prices in  India - Amazon.in"
   },
   {
     "product_id": "NE-07639",
@@ -698,24 +698,24 @@
   {
     "product_id": "NE-07640",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20-%20Matt%20Pink_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy AeroEdge BLDC Ceiling Fan with Remote | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07641",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/AeroEdge%20Plus-White-Front.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy AeroEdge Plus BLDC Ceiling Fan, Silent | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07642",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
@@ -730,10 +730,10 @@
   {
     "product_id": "NE-07644",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/619tiUVVPUL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "USHA AeroEdge Plus 1200mm BLDC Ceiling Fan With IR Remote | LED Indicator | BEE 5 Star Rated Energy Efficient | 100% Copper Motor | High Air Delivery"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07645",
@@ -746,82 +746,82 @@
   {
     "product_id": "NE-07646",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61o8XIKnEUL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "USHA AeroEdge 1200mm BLDC Ceiling Fan with RF Remote | BEE 5 Star Rated  Energy Efficient | 100% Copper Motor | High Air Delivery 220CMM | 3-Year  Motor ..."
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07647",
     "keep": false,
-    "image_url": "https://vsctimes.com/wp-content/uploads/2025/02/Usha-Bloom-Ceiling-fan-1024x576.webp",
-    "confidence": "high",
-    "source_domain": "vsctimes.com",
-    "matched_title": "Usha Bloom Ceiling Fan Review"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07648",
     "keep": false,
-    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/c/r/0/phi-38-1-ceiling-fan-1200-usha-original-imagqher7tfcxstf.jpeg?q=70",
-    "confidence": "high",
-    "source_domain": "www.flipkart.com",
-    "matched_title": "USHA PHI with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan  Price in India - Buy USHA PHI with 2 Year Warranty BLDC Motor with Remote 1200  mm Ceiling"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07649",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07650",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/heleniumyellow_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Helenium BLDC Ceiling Fan Online | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07651",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/heleniumyellow_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Helenium BLDC Ceiling Fan Online | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07652",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/heleniumyellow_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Helenium BLDC Ceiling Fan Online | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07653",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lillynovayellow.png",
+    "image_url": "https://m.media-amazon.com/images/I/31oEgtlwPOL.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Nova Ceiling Fan, 1200mm | Usha Fans"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Bloom Lily Glow BLDC Ceiling Fan with 3-Mode Underlight |RF Remote  | 100% Copper Motor |Whisper-Quiet |Dust-Resistant |BEE 5 Star Rated  |3-Year Motor & 2-Year PCB Warranty |White & Saffron"
   },
   {
     "product_id": "NE-07654",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lillynovayellow.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Nova Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07655",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lillynovayellow.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Nova Ceiling Fan, 1200mm | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07656",
@@ -834,98 +834,98 @@
   {
     "product_id": "NE-07657",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lilyglowgreen2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Glow LED Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07658",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lilyglowrose2.png",
+    "image_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/322525_0_WIvh48fSY.png?updatedAt=1783512830011&tr=w-600",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Glow LED Ceiling Fan | Usha Fans"
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy Usha Bloom Lily Glow 5 Star 1200mm 3 Blade BLDC Motor Technology  Ceiling Fan with Remote (LED Underlight, White & Yellow) Online - Croma"
   },
   {
     "product_id": "NE-07659",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/bloomdahliaactual1_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Dahlia 4 Blade Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07660",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/plumeriagreen1.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Plumeria Designer Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07661",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/bloomdahliaactual1_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Dahlia 4 Blade Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07662",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07663",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lilyglowrose2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Glow LED Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07664",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/116SKbGkMXL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "USHA AeroEdge 1200mm BLDC Ceiling Fan with RF Remote | BEE 5 Star Rated  Energy Efficient | 100% Copper Motor | High Air Delivery 220CMM | 3-Year  Motor ..."
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07665",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/bloomdahliaactual1_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Dahlia 4 Blade Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07666",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/bloomdahliagreen1_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Dahlia 4 Blade Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07667",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/bloomdahliaactual1_0.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Dahlia 4 Blade Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07668",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lilyglowrose2.png",
+    "image_url": "https://m.media-amazon.com/images/I/21DIbbqe5eL.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Glow LED Ceiling Fan | Usha Fans"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Bloom Lily Glow BLDC Ceiling Fan with 3-Mode Underlight |RF Remote  | 100% Copper Motor |Whisper-Quiet |Dust-Resistant |BEE 5 Star Rated  |3-Year Motor & 2-Year PCB Warranty |White & Saffron Yellow Online at Low  Prices in India - Amazon ..."
   },
   {
     "product_id": "NE-07669",
@@ -938,34 +938,34 @@
   {
     "product_id": "NE-07670",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/lilyglowgreen2.png",
-    "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy Bloom Lily Glow LED Ceiling Fan | Usha Fans"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07671",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/EX-9-White.png",
+    "image_url": "https://m.media-amazon.com/images/I/71Aaje58IEL.jpg",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy EX9 Ceiling Fan - Automotive Design | Usha Fans"
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Ex9 1200Mm High Speed Dust Resistant 5 Star Premium Ceiling Fan  (Moonlight Black) Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07672",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41IuBfo5STL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/61CiYm7KNPL.jpg",
     "confidence": "high",
     "source_domain": "www.amazon.in",
-    "matched_title": "USHA EX9 BLDC 1200mm High Speed Dust Resistant 5 Star 100% Copper Motor Premium Ceiling Fan (Midnight Black)"
+    "matched_title": "Buy USHA Ex9 1200Mm High Speed Dust Resistant 5 Star Premium Ceiling Fan (Moonlight  Black) Online at Low Prices in India - Amazon.in"
   },
   {
     "product_id": "NE-07673",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://www.ushafans.com/sites/default/files/Ex9-Glow-Brown-smA_0.png",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy EX9 Glo BLDC Ceiling Fan - 5 Star | Usha Fans"
   },
   {
     "product_id": "NE-07674",
@@ -986,7 +986,7 @@
   {
     "product_id": "NE-07676",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/500x635.png",
+    "image_url": "https://www.ushafans.com/sites/default/files/EX-9-White.png",
     "confidence": "high",
     "source_domain": "www.ushafans.com",
     "matched_title": "Buy EX9 Ceiling Fan - Automotive Design | Usha Fans"
@@ -1009,9 +1009,9 @@
   },
   {
     "product_id": "NE-07679",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
@@ -1050,26 +1050,26 @@
   {
     "product_id": "NE-07684",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41+sEniKrbL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/21Z5rLsvgaL.jpg",
     "confidence": "high",
     "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA EX9 BLDC 1200mm High Speed Dust Resistant 5 Star 100% Copper Motor  Premium Ceiling Fan (Moon Light) Online at Low Prices in India - Amazon.in"
+    "matched_title": "USHA EX9 BLDC 1200mm High Speed Dust Resistant 5 Star 100% Copper Motor Premium Ceiling Fan (Midnight Black)"
   },
   {
     "product_id": "NE-07685",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/500x635.png",
+    "image_url": "https://static1.industrybuying.com/products/electrical/electrical-appliances/ceiling-fans/ELE.CEI.49600228_1684904926536.webp",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy EX9 Ceiling Fan - Automotive Design | Usha Fans"
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Usha Ex9 \u200eSparkle Brown 1200 mm Ceiling Fan \u200e11104GLC8W"
   },
   {
     "product_id": "NE-07686",
     "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/EX-9-White.png",
+    "image_url": "https://static1.industrybuying.com/products/electrical/electrical-appliances/ceiling-fans/ELE.CEI.99603740_1684905051012.webp",
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy EX9 Ceiling Fan - Automotive Design | Usha Fans"
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Usha Ex9 \u200eSea Salt Blue 1200 mm Ceiling Fan \u200e11104GLAIW"
   },
   {
     "product_id": "NE-07687",
@@ -1105,11 +1105,11 @@
   },
   {
     "product_id": "NE-07691",
-    "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Ex9-Glow-WhiteNew_0.png",
+    "keep": true,
+    "image_url": null,
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy EX9 Glo BLDC Ceiling Fan - 5 Star | Usha Fans"
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07692",
@@ -1129,91 +1129,91 @@
   },
   {
     "product_id": "NE-07694",
-    "keep": false,
-    "image_url": "https://www.ushafans.com/sites/default/files/Ex9-Glow-WhiteNew_0.png",
+    "keep": true,
+    "image_url": null,
     "confidence": "high",
-    "source_domain": "www.ushafans.com",
-    "matched_title": "Buy EX9 Glo BLDC Ceiling Fan - 5 Star | Usha Fans"
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07695",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Fontana-Lotus-Black-Crome.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Fontana Lotus Ceiling Fan with Remote | Usha Fans"
   },
   {
     "product_id": "NE-07696",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Fontana-Lotus-Gold-Ivory-light.jpg",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Fontana Lotus Ceiling Fan with Remote | Usha Fans"
   },
   {
     "product_id": "NE-07697",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/FONTANA-LOTUS-steel-B.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Fontana Lotus Chandelier Ceiling Fan | Usha Fans"
   },
   {
     "product_id": "NE-07698",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Fontana-Maple-Antique-Brass.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Fontana Maple 5 Blade Ceiling Fan | Usha Fans"
   },
   {
     "product_id": "NE-07699",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07700",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Fontana%20One%20Gold%20Ivory%20New.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Usha Fontana One Ceiling Fans Online at Best Prices in India |  Ushafans.com"
   },
   {
     "product_id": "NE-07701",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07702",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://cdn.moglix.com/p/cMM40gnQzp7wj-xxlarge.jpg",
+    "confidence": "high",
+    "source_domain": "www.moglix.com",
+    "matched_title": "Usha Grandiose 43W 1 Star Blue Ceiling Fan, Sweep: 1200 mm"
   },
   {
     "product_id": "NE-07703",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://cdn.moglix.com/p/cO9wmNDCF0mAF-xxlarge.jpg",
+    "confidence": "high",
+    "source_domain": "www.moglix.com",
+    "matched_title": "Buy Usha Grandiose 43W 1 Star Brown Ceiling Fan, Sweep: 1200 mm Online At  Best Price On Moglix"
   },
   {
     "product_id": "NE-07704",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/10/459646603/RN/GA/LB/76504417/usha-grandiose-ceiling-fans.png",
+    "image_url": "https://cdn.moglix.com/p/Bi48VyNk9oTR0-medium.jpg",
     "confidence": "high",
-    "source_domain": "www.indiamart.com",
-    "matched_title": "1200 mm Usha Grandiose Ceiling Fans, 350 RPM, 3 Blades at \u20b9 6000/piece in  Pune"
+    "source_domain": "www.moglix.com",
+    "matched_title": "Buy Usha Grandiose 43W 1 Star Gold Ceiling Fan, Sweep: 1200 mm Online At  Best Price On Moglix"
   },
   {
     "product_id": "NE-07705",
@@ -1226,10 +1226,10 @@
   {
     "product_id": "NE-07706",
     "keep": false,
-    "image_url": "https://s.alicdn.com/@sc04/kf/Sbcf5f184516e48928bd43980fd2317a0P.png",
-    "confidence": "high",
-    "source_domain": "www.alibaba.com",
-    "matched_title": "Usha Ceiling Fan Grandiose 1200 Mm Pearl White - Efficient Cooling"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07707",
@@ -1242,10 +1242,10 @@
   {
     "product_id": "NE-12195",
     "keep": false,
-    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/522417086/RL/YR/PJ/43897455/usha-grandiose-ceiling-fan-500x500.png",
+    "image_url": "https://cdn.moglix.com/p/tjOBnwG5zXocq-xxlarge.jpg",
     "confidence": "high",
-    "source_domain": "www.indiamart.com",
-    "matched_title": "1200 mm Usha Grandiose Ceiling Fan, 350 RPM, 3 Blades at \u20b9 8508/piece in  Nashik"
+    "source_domain": "www.moglix.com",
+    "matched_title": "Buy Usha Grandiose 43W 1 Star Gold Ceiling Fan, Sweep: 1200 mm Online At  Best Price On Moglix"
   },
   {
     "product_id": "NE-12196",
@@ -1298,32 +1298,32 @@
   {
     "product_id": "NE-07715",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Sparkle-Black-2_0.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Heleous BLDC Ceiling Fan - RF Remote | Usha Fans"
   },
   {
     "product_id": "NE-07716",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/Golden-yellow-2_0.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Heleous BLDC Ceiling Fan - RF Remote | Usha Fans"
   },
   {
     "product_id": "NE-07717",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
   {
     "product_id": "NE-07718",
-    "keep": false,
+    "keep": true,
     "image_url": null,
-    "confidence": null,
+    "confidence": "high",
     "source_domain": null,
     "matched_title": null
   },
@@ -1338,10 +1338,10 @@
   {
     "product_id": "NE-07720",
     "keep": false,
-    "image_url": null,
-    "confidence": null,
-    "source_domain": null,
-    "matched_title": null
+    "image_url": "https://www.ushafans.com/sites/default/files/sparkle-white-2_0.png",
+    "confidence": "high",
+    "source_domain": "www.ushafans.com",
+    "matched_title": "Buy Heleous BLDC Ceiling Fan - RF Remote | Usha Fans"
   },
   {
     "product_id": "NE-07721",
@@ -1362,10 +1362,10 @@
   {
     "product_id": "NE-07723",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61JEfXNlWIL.jpg",
+    "image_url": "https://cdn.cayroshop.com/cayroshop//product/6864cfb761a67afe19b26b4c/1751437517102_51lEW-mCU8L._SX679.webp",
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Onio Kappa Beta 1200MM BLDC 5 Star Energy Efflicient, Dust & Oil  Resistant Ceiling Fan (White)|100% Copper Motor| Online at Low Prices in ..."
+    "source_domain": "www.cayroshop.com",
+    "matched_title": "Usha Kappa Beta 5 Star Ceiling Fan Grey | Cayroshop"
   },
   {
     "product_id": "NE-07724",
@@ -1377,19 +1377,19 @@
   },
   {
     "product_id": "NE-07725",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.421717237_1695722959089.webp",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Buy Usha Kappa Graphite Grey 1200 mm Ceiling Fan Online at Best Prices -  Industrybuying."
   },
   {
     "product_id": "NE-07726",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/51OVFnrjgoL.jpg",
+    "image_url": "https://static1.industrybuying.com/products/electrical/air-coolers-and-fans/ceiling-fans/ELE.CEI.224303335_1704799334671.webp",
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy USHA Onio Kappa Beta 1200MM BLDC 5 Star Energy Efflicient, Dust & Oil  Resistant Ceiling Fan (White)|100% Copper Motor| Online at Low Prices in ..."
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Usha Kappa Plus Terra Brown 1200 mm Ceiling Fan"
   },
   {
     "product_id": "NE-07727",
@@ -1402,26 +1402,26 @@
   {
     "product_id": "NE-07728",
     "keep": false,
-    "image_url": "https://www.ushaonio.com/wp-content/uploads/2023/05/Kappa-Plus-Beige-Left-_0-1.png",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/502545915/HX/AC/PW/19328590/usha-kappa-plus-ceiling-fan.png",
     "confidence": "high",
-    "source_domain": "www.ushaonio.com",
-    "matched_title": "Kappa Plus Ceiling Fan \u2013 USHA ONIO"
+    "source_domain": "www.indiamart.com",
+    "matched_title": "1200 mm Usha Kappa Plus Biege Ceiling Fan, 3 Blades at \u20b9 9000/piece in  Kolkata"
   },
   {
     "product_id": "NE-07729",
     "keep": false,
-    "image_url": "https://www.ushaonio.com/wp-content/uploads/2023/05/Kappa-Plus-Beige-Left-_0-1.png",
+    "image_url": "https://cdn.cayroshop.com/cayroshop/master_images/6864d0c29edc4deaea53db75_0b6fb601.png?w=340&h=340&fit=contain&fmt=auto&bg=white&q=80&sharpen=true",
     "confidence": "high",
-    "source_domain": "www.ushaonio.com",
-    "matched_title": "Kappa Plus Ceiling Fan \u2013 USHA ONIO"
+    "source_domain": "www.cayroshop.com",
+    "matched_title": "Usha Kappa Plus 1200mm Ceiling Fan Terra Brown | Cayroshop"
   },
   {
     "product_id": "NE-07730",
-    "keep": true,
-    "image_url": null,
+    "keep": false,
+    "image_url": "https://rathnacools.com/wp-content/uploads/2024/12/usha-48-kappa-plus-5-star-bldc-ceiling-fan-white.png",
     "confidence": "high",
-    "source_domain": null,
-    "matched_title": null
+    "source_domain": "rathnacools.com",
+    "matched_title": "USHA 48 Inch, KAPPA PLUS 5 STAR BLDC, CEILING FAN, WHITE -"
   },
   {
     "product_id": "NE-07731",
@@ -1433,9 +1433,9 @@
   },
   {
     "product_id": "NE-07732",
-    "keep": true,
+    "keep": false,
     "image_url": null,
-    "confidence": "high",
+    "confidence": null,
     "source_domain": null,
     "matched_title": null
   },
@@ -1450,26 +1450,26 @@
   {
     "product_id": "NE-07734",
     "keep": false,
-    "image_url": "https://media-ik.croma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271419_0_hr49yi.png?tr=w-600",
-    "confidence": "high",
-    "source_domain": "www.croma.com",
-    "matched_title": "Buy USHA Lambda 5 Star 1200mm 3 Blade BLDC Motor Ceiling Fan with Remote  (Dust & Oil Resistant, Beige) Online - Croma"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07735",
     "keep": false,
-    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/m/b/8/rho-35-1-ceiling-fan-1200-usha-original-imagqgctyvxpcyhu.jpeg?q=70",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/3/492676871/FC/HI/YB/19328590/usha-onio-lambda-beta-ceiling-fan.jpg",
     "confidence": "high",
-    "source_domain": "www.flipkart.com",
-    "matched_title": "USHA Lambda with 3 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan"
+    "source_domain": "www.indiamart.com",
+    "matched_title": "1200 mm Usha Lambda Beta White Ceiling Fan, 315 RPM at \u20b9 3000/piece in  Kolkata"
   },
   {
     "product_id": "NE-07736",
     "keep": false,
-    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fan/q/9/x/lambda-beta-38-1-ceiling-fan-1200-usha-original-imagzjfz4uzgn5tm.jpeg?q=70",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/3/492676816/UW/PM/NY/19328590/usha-onio-lambda-beta-ceiling-fan.jpg",
     "confidence": "high",
-    "source_domain": "www.flipkart.com",
-    "matched_title": "USHA Lambda Beta with 2 Year Warranty 1200 mm Ceiling Fan"
+    "source_domain": "www.indiamart.com",
+    "matched_title": "1200 mm Usha Lambda Beta White Ceiling Fan, 315 RPM at \u20b9 3000/piece in  Kolkata"
   },
   {
     "product_id": "NE-07737",
@@ -1490,25 +1490,25 @@
   {
     "product_id": "NE-07739",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/61ApYUtDw7L.jpg",
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fans/Images/271420_0_gsdgpe.png",
     "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy Usha Onio Lambda 1200MM BLDC 5 Star Energy Efflicient, Dust & Oil  Resistant Ceiling Fan with Remote (Terra Brown) Online at Low Prices in  India - Amazon.in"
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Lambda 5 Star 1200mm 3 Blade BLDC Motor Ceiling Fan with Remote (Dust  & Oil Resistant, White)"
   },
   {
     "product_id": "NE-07740",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/516V7hQThnL.jpg",
-    "confidence": "high",
-    "source_domain": "www.amazon.in",
-    "matched_title": "Buy Usha Onio Lambda 1200MM BLDC 5 Star Energy Efflicient, Dust & Oil  Resistant Ceiling Fan with Remote (Terra Brown) Online at Low Prices in  India - Amazon.in"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   },
   {
     "product_id": "NE-07741",
     "keep": false,
-    "image_url": "https://m.media-amazon.com/images/I/41NA9ATGd6L.jpg",
-    "confidence": "high",
-    "source_domain": "burkinafaso.desertcart.com",
-    "matched_title": "Usha Onio Lambda 1200mm Bldc 5 Star Energy Efflicient Dust | Desertcart  Burkina Faso"
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
   }
 ]
