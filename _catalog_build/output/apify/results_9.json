@@ -1,5 +1,845 @@
 [
  {
+  "product_id": "NE-09438",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09439",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421229_add1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 236 L 4 Star Single Door Refrigerator Wine Breeze (260 IMPRO PRM 3S WINE BREEZE-Z 73156)"
+ },
+ {
+  "product_id": "NE-09440",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09441",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421231_add1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 236 L Single Door Refrigerator Wine Breeze (260 IMPRO ROY 3S WINE BREEZE-Z 73158)"
+ },
+ {
+  "product_id": "NE-09442",
+  "image_url": "https://ramtvcenter.com/wp-content/uploads/2024/05/Whirlpool-Refrigerator-73159-260-IMPRO-ROY3S-SAPPHIRE-BREEZE-Z.jpg",
+  "confidence": "high",
+  "source_domain": "ramtvcenter.com",
+  "matched_title": "Whirlpool Refrigerator 73159 260 IMPRO ROY 3S SAPPHIRE BREEZE-Z"
+ },
+ {
+  "product_id": "NE-09444",
+  "image_url": "https://ch.alienfox.in/wp-content/uploads/2026/07/15wfa.webp",
+  "confidence": "medium",
+  "source_domain": "ch.alienfox.in",
+  "matched_title": "WHIRLPOOL 205 IMPC PRM 3S WINE ROSELY-Z (73255) - Chozha d2h (small dealer site)"
+ },
+ {
+  "product_id": "NE-09446",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/11/466462593/QL/ZJ/TR/180794818/73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Sapphire Silk Whirlpool 215 IMPRO ROY 5S Single Door Refrigerator (73163-whirlpool-ref-215-impro-roy-5s-inv-sapphire-silk-z)"
+ },
+ {
+  "product_id": "NE-09447",
+  "image_url": "https://www.vvhomelinks.in/storage/whirlpool-ref-73161-wpl-dc-215-impro-prm-5s-inv-sapphire-silk-z-vv2337.webp",
+  "confidence": "high",
+  "source_domain": "www.vvhomelinks.in",
+  "matched_title": "WHIRLPOOL REF 73161 WPL DC 215 IMPRO PRM 5S INV SAPPHIRE SILK-Z"
+ },
+ {
+  "product_id": "NE-09452",
+  "image_url": "https://doiqgxrhp4iii.cloudfront.net/TL10SIBS.jpg",
+  "confidence": "high",
+  "source_domain": "www.toptenelectronics.in",
+  "matched_title": "Whirlpool 8.5 Kg Top Load Washing Machine (Stainwash Pro Plus Silver Mint 10ymw With In-Built Heater (31640))"
+ },
+ {
+  "product_id": "NE-09457",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/2/421959_add1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 235 L 2 Star Frost Free Double Door Refrigerator Wine Peony (NEO SP278 PRM WINE PEONY(2S)-TL 22131)"
+ },
+ {
+  "product_id": "NE-09458",
+  "image_url": "https://ramtvcenter.com/wp-content/uploads/2024/05/Whirlphool-fridge-22132-NEO-SP278.jpg",
+  "confidence": "high",
+  "source_domain": "ramtvcenter.com",
+  "matched_title": "Whirlphool - fridge 22132 NEO SP278 PRM SAPPHIRE PEONY"
+ },
+ {
+  "product_id": "NE-09480",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/3/435777_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 3 Star Single Door Refrigerator Silvia (215 IMPRO GD PRM 3S SILVIA 73221)"
+ },
+ {
+  "product_id": "NE-09481",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/3/435776_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 3 Star Single Door Refrigerator Night Bloom (215 IMPRO GD PRM 3S NIGHT BLOOM 73220) - PRM variant of ROY"
+ },
+ {
+  "product_id": "NE-09482",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09484",
+  "image_url": "https://ch.alienfox.in/wp-content/uploads/2026/07/64-3.png",
+  "confidence": "medium",
+  "source_domain": "ch.alienfox.in",
+  "matched_title": "WHIRLPOOL REFRIGERATOR 192L 3 STAR DIRECT COOL SINGLE DOOR (215 IMPRO GD ROY 3S CRYSTAL BLACK) 73305 - small dealer site"
+ },
+ {
+  "product_id": "NE-09485",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215improgdprm4sinvsilvia73228_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 215 L 4 Star Single Door Refrigerator Silvia (215 IMPRO GD PRM 4S INV SILVIA) 73228"
+ },
+ {
+  "product_id": "NE-09486",
+  "image_url": "https://m.media-amazon.com/images/I/71BOeNayRaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 192 L 4 Star Icemagic Pro Inverter Single Door Refrigerator (215 IMPRO GD ROY 4S INV SILVIA, Base Stand with Drawer)"
+ },
+ {
+  "product_id": "NE-09492",
+  "image_url": "https://m.media-amazon.com/images/I/61t3xch+Q4L.jpg",
+  "confidence": "medium",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 207 L 5 Star Icemagic Pro Glass Door Refrigerator (230 IMPRO GD ROY 5S Inv CRYSTAL BLACK, Base Stand with Drawer) - star rating differs"
+ },
+ {
+  "product_id": "NE-09493",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/8/483318_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool Single Door Refrigerator (230 IMPRO GD PRM 3S NIGHT BLOOM 73233) - star rating differs"
+ },
+ {
+  "product_id": "NE-09494",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/8/483318_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool Single Door Refrigerator (230 IMPRO GD PRM 3S NIGHT BLOOM 73233) - PRM/3S variant of ROY 4S"
+ },
+ {
+  "product_id": "NE-09495",
+  "image_url": "https://m.media-amazon.com/images/I/718q+GkEKVL.jpg",
+  "confidence": "medium",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 207 L 5 Star Glassdoor Icemagic Pro Single Door Refrigerator (230 IMPRO GD PRM 5S Inv Silvia) - star rating differs"
+ },
+ {
+  "product_id": "NE-09496",
+  "image_url": "https://m.media-amazon.com/images/I/71BOeNayRaL.jpg",
+  "confidence": "medium",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 207 L 5 Star Icemagic Pro Glass Door Refrigerator (230 IMPRO GD ROY 5S Inv Silvia, Base Stand with Drawer) - star rating differs"
+ },
+ {
+  "product_id": "NE-09498",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/3/435767_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 207 L 5 Star Single Door Refrigerator Wine Antelia (230 IMPRO PRM 5S WINE ANTELIA-Z 73334)"
+ },
+ {
+  "product_id": "NE-09499",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09500",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/3/230improroy5swineanteliaz73338_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 207 L 5 Star Single Door Refrigerator Wine Antelia (230 IMPRO ROY 5S WINE ANTELIA-Z 73338)"
+ },
+ {
+  "product_id": "NE-09501",
+  "image_url": "https://static.arzooo.com/images/products/662ce/07666/662ce0766648fc57bb7df29f02b42b6d9ca7996aae680fbab8ce95b1bba0fd11_00.jpg",
+  "confidence": "high",
+  "source_domain": "gostor.com",
+  "matched_title": "Whirlpool 207 L 5 Star Single Door Refrigerator 230 IMPRO ROY 5S INV SAPPHIRE ANTELIA-Z (72829)"
+ },
+ {
+  "product_id": "NE-09514",
+  "image_url": "https://m.media-amazon.com/images/I/61JbkzuoIUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 192 L 5 Star Inverter Single Door Refrigerator (215 IMPRO ROY 5S INV SAPPHIRE MULIA-Z, 2023)"
+ },
+ {
+  "product_id": "NE-09519",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09520",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09521",
+  "image_url": "https://cdn.moglix.com/p/rr3fY2ebaHECh.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Whirlpool 207 Litre 5 Star Wine Peony Single Door Refrigerator with Base Drawer, 230 IMPRO ROY 5S INV WINE PEONY-Z1"
+ },
+ {
+  "product_id": "NE-09522",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09527",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/3/w/j/215-impc-prm-5s-inv-wine-enchant-y-73629-136-5-2026-38-4-original-imahhdjuk8gheea5.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator (215-impc-prm-5s-inv-wine-enchant-y) - same line/colour, different print"
+ },
+ {
+  "product_id": "NE-09528",
+  "image_url": "https://cdn1.smartprix.com/rx-iYBpm3uKh-w1200-h1200/YBpm3uKh.webp",
+  "confidence": "medium",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool 215 IMPC PRM INV Sapphire Enchant-Y 192 L 5 Star Single Door Refrigerator - same line/colour, different print"
+ },
+ {
+  "product_id": "NE-09529",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcroy_add1.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator Wine Enchant (215 IMPC ROY 5S Inv wine Enchant-Z 73382) - same line/colour, different print"
+ },
+ {
+  "product_id": "NE-09530",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcroy5sinvblue_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator (215 IMPC ROY 5S INV SAPPHIRE ENCHANT-Z) - same line/colour, different print"
+ },
+ {
+  "product_id": "NE-09537",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09538",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09541",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/d/l/g/icemagic-pro-215-impro-gd-prm-5s-inv-night-bloom-73411-1243-5-original-imahayhjsjvwcjnn.jpeg?q=90",
+  "confidence": "medium",
+  "source_domain": "pricehistory.app (flipkart image)",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator (icemagic-pro-215-impro-gd-prm-5s-inv-night-bloom-73411) - PRM variant of ROY"
+ },
+ {
+  "product_id": "NE-09542",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/8/483318_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool Single Door Refrigerator (230 IMPRO GD PRM 3S NIGHT BLOOM 73233) - PRM variant of ROY"
+ },
+ {
+  "product_id": "NE-09549",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09550",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09567",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09572",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcprm3swine_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 3 Star Direct Cool Single Door Refrigerator (215 IMPC PRM 3S WINE ENCHANT-Z)"
+ },
+ {
+  "product_id": "NE-09573",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09574",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09575",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09576",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/3/w/j/215-impc-prm-5s-inv-wine-enchant-y-73629-136-5-2026-38-4-original-imahhdjuk8gheea5.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator (215-impc-prm-5s-inv-wine-enchant-y) - Enchant-Y (newer suffix of Enchant-Z)"
+ },
+ {
+  "product_id": "NE-09577",
+  "image_url": "https://cdn1.smartprix.com/rx-iYBpm3uKh-w1200-h1200/YBpm3uKh.webp",
+  "confidence": "high",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool 215 IMPC PRM INV Sapphire Enchant-Y 192 L 5 Star Single Door Refrigerator (Enchant-Y suffix)"
+ },
+ {
+  "product_id": "NE-09578",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcroy_add1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 5 Star Single Door Refrigerator Wine Enchant (215 IMPC ROY 5S Inv wine Enchant-Z 73382)"
+ },
+ {
+  "product_id": "NE-09579",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/2/1/215impcroy5sinvblue_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 5 Star Direct Cool Single Door Refrigerator (215 IMPC ROY 5S INV SAPPHIRE ENCHANT-Z)"
+ },
+ {
+  "product_id": "NE-09580",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09581",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09582",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09583",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09584",
+  "image_url": "https://media-assets.hyperinvento.com/companies/4eb88cf2-7f89-4c4d-8867-e1af885e4e80/products/505fb8ec-c414-4710-910f-d64738f0c25f/featureds/images/09d8567de8f4462cb92aa967fc46c7e0-product-featured-lg.jpg",
+  "confidence": "medium",
+  "source_domain": "dynamicdistributors.in",
+  "matched_title": "Whirlpool 192L 5 Star Direct Cool Single Door Refrigerator with Inverter Compressor - Crystal Black"
+ },
+ {
+  "product_id": "NE-09587",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Whirlpool-292-l-frost-free-double-door-2-star-refrigerator-neo-df305-prm-illusia-steel-Front-View.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Whirlpool Frost Free Double Door 2 Star Refrigerator, NEO DF305 PRM (Illusia Steel)"
+ },
+ {
+  "product_id": "NE-09599",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09600",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09606",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09607",
+  "image_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Whirlpool 184 Litre 3 Star Sapphire Mulia Single Door Direct Cool Refrigerator, 205 IMPC PRM 3S"
+ },
+ {
+  "product_id": "NE-09608",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09609",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09610",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/9/497057_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 4 Star Refrigerator WINE SILK (215 VMPRO ROY 4S INV WINE SILK-Z 73460)"
+ },
+ {
+  "product_id": "NE-09611",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/7/1/718762_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 192 L 4 Star Single Door Refrigerator SAPPHIRE SILK (215 VMPRO ROY 4S Inv SAPPHIRE SILK-Z 73486)"
+ },
+ {
+  "product_id": "NE-09624",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09628",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09629",
+  "image_url": "https://m.media-amazon.com/images/I/71KeTG+8N5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Whirlpool 192 L 4 Star Vitamagic PRO Frost Free Direct-Cool Single Door Refrigerator (215 VITAMAGIC PRO ROY 4S Aura Steel-Z)"
+ },
+ {
+  "product_id": "NE-09630",
+  "image_url": "https://cdn1.smartprix.com/rx-iAz0npqAz-w1200-h1200/Az0npqAz.webp",
+  "confidence": "high",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool 215 IMPRO GD PRM 3S Ruby Swarna 192 L 3 Star Single Door Refrigerator"
+ },
+ {
+  "product_id": "NE-09633",
+  "image_url": "https://cdn.moglix.com/p/yNnPCmoZOEVSV-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Whirlpool 3 Star Rubi Swarna Glass Single Door Direct Cool Refrigerator, 215 ROY GD 3S"
+ },
+ {
+  "product_id": "NE-09635",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/4/e/p/215-impro-gd-prm-3s-karigari-73474-1243-3-2025-38-9-whirlpool-original-imaheebwu37mybny.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 192 L 3 Star Single Door Refrigerator (215-impro-gd-prm-3s-karigari-73474) - PRM variant of ROY"
+ },
+ {
+  "product_id": "NE-09636",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09637",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/4/e/p/215-impro-gd-prm-3s-karigari-73474-1243-3-2025-38-9-whirlpool-original-imaheebwu37mybny.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 192 L Single Door Refrigerator (215-impro-gd-prm-3s-karigari-73474) - 3S variant of 5S INV"
+ },
+ {
+  "product_id": "NE-09638",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09639",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/4/e/p/215-impro-gd-prm-3s-karigari-73474-1243-3-2025-38-9-whirlpool-original-imaheebwu37mybny.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 192 L Single Door Refrigerator (215-impro-gd-prm-3s-karigari-73474) - PRM 3S variant of ROY 5S"
+ },
+ {
+  "product_id": "NE-09640",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/7/2/721349_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 207 L 3 Star Single Door Refrigerator Ruby Swarna (230 IMPRO GD PRM 3S RUBY SWARNA 73482)"
+ },
+ {
+  "product_id": "NE-09641",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09646",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09647",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09648",
+  "image_url": "https://cdn1.smartprix.com/rx-iQSXqIVsS-w420-h420/whirlpool-ifpro-inv.webp",
+  "confidence": "medium",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool IFPRO INV CNV 355GD 308 L Double Door Refrigerator (finish unverified)"
+ },
+ {
+  "product_id": "NE-09649",
+  "image_url": "https://cdn1.smartprix.com/rx-iQSXqIVsS-w420-h420/whirlpool-ifpro-inv.webp",
+  "confidence": "medium",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool IFPRO INV CNV 355GD 308 L 3 Star Double Door Refrigerator (finish unverified)"
+ },
+ {
+  "product_id": "NE-09650",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09651",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/5/0/502491_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 327 L 2 Star Frost Free Double Door Refrigerator Cavestone (IFPRO INV CNV 375GD Cavestone (2S)-TL)"
+ },
+ {
+  "product_id": "NE-09652",
+  "image_url": "https://vasanthandco.in/UploadedFiles/productimages/20260708104536-Untitled-39.png",
+  "confidence": "high",
+  "source_domain": "vasanthandco.in",
+  "matched_title": "Buy Whirlpool 327L 2 Star 375GD Intellifresh Pro Jade Marble Frost Free Double-Door Refrigerator"
+ },
+ {
+  "product_id": "NE-09653",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09654",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09660",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09661",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09664",
+  "image_url": "https://static.wixstatic.com/media/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg/v1/fill/w_440,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg",
+  "confidence": "high",
+  "source_domain": "www.valliz.in",
+  "matched_title": "Whirlpool 184L 2 Star Direct Cool Refrigerator 205 IMPC ROY-Sapphire Spring"
+ },
+ {
+  "product_id": "NE-09666",
+  "image_url": "https://static.wixstatic.com/media/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg/v1/fill/w_440,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg",
+  "confidence": "medium",
+  "source_domain": "www.valliz.in",
+  "matched_title": "Whirlpool 184L 2 Star Direct Cool Refrigerator 205 IMPC ROY-Sapphire Spring - ROY variant of PRM"
+ },
+ {
+  "product_id": "NE-09667",
+  "image_url": "https://cdn1.smartprix.com/rx-iHT1Uaksi-w420-h420/whirlpool-205-impc-p.webp",
+  "confidence": "medium",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool 205 IMPC PRM Wine Spring-Y 184 L 1 Star Single Door Refrigerator - star rating/suffix differ"
+ },
+ {
+  "product_id": "NE-09668",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool260improplusroy3ssapphireflume_additional2.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 245 L 3 Star Single Door Refrigerator Sapphire Flume (260 IMPRO PLUS ROY 3S) - PLUS variant"
+ },
+ {
+  "product_id": "NE-09669",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool245l3stardirectcoolsingledoorrefrigeratorwineflume260improplusroy3swineflume_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 245 L 3 Star Single Door Refrigerator Wine Flume (260 IMPRO PLUS ROY 3S WINE FLUME) - PLUS variant"
+ },
+ {
+  "product_id": "NE-09670",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool245l3stardirectcoolsingledoorrefrigeratorwineflume260improplusroy3swineflume_base.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 245 L 3 Star Single Door Refrigerator Wine Flume (260 IMPRO PLUS ROY 3S WINE FLUME) - ROY/PLUS variant of PRM"
+ },
+ {
+  "product_id": "NE-09671",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/w/h/whirlpool260improplusroy3ssapphireflume_additional2.jpeg",
+  "confidence": "medium",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Whirlpool 245 L 3 Star Single Door Refrigerator Sapphire Flume (260 IMPRO PLUS ROY 3S) - ROY/PLUS variant of PRM"
+ },
+ {
+  "product_id": "NE-09678",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09679",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09680",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09686",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09687",
+  "image_url": "https://cdn.moglix.com/p/5cl2o8KfQVOKY-xxlarge.jpeg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Whirlpool 184 Litre 3 Star Sapphire Mulia Single Door Direct Cool Refrigerator, 205 IMPC PRM 3S"
+ },
+ {
+  "product_id": "NE-09688",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09689",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09691",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09692",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09693",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09695",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09699",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/j/a/q/neo-258lh-cls-pls-wine-peony-2s-tl-1493-2-2023-45-6-whirlpool-original-imahe8tazw7z7zm6.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool Frost Free Double Door 2 Star Refrigerator (neo-258lh-cls-pls-wine-peony-2s-tl) - same model/colour, different print"
+ },
+ {
+  "product_id": "NE-09700",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/refrigerator-new/x/8/y/neo-258lh-cls-plus-sapphire-viola-2s-n-21546-149-2-2020-46-original-imaghxhsf2ukmcr2.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Whirlpool 258 L Frost Free Double Door 2 Star Refrigerator (neo-258lh-cls-plus-sapphire-viola) - same model/colour, different print"
+ },
+ {
+  "product_id": "NE-09701",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/518290130/OX/LR/QW/37895958/whirlpool-205-impc-prm-3s-lumina-steel-z-single-door-fridge.jpg",
+  "confidence": "medium",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Whirlpool 205 IMPC PRM 3S Lumina Steel-Z Single Door Refrigerator - star rating differs"
+ },
+ {
+  "product_id": "NE-09703",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09705",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09706",
+  "image_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/167858/8.5_kg_1.jpg?v=638415189394100000",
+  "confidence": "medium",
+  "source_domain": "india.whirlpool.in",
+  "matched_title": "Stainwash Pro Plus 8.5kg 5 Star Top Load Washing Machine with In-Built Heater - Whirlpool India (Pro Plus vs Pro H)"
+ },
+ {
+  "product_id": "NE-09711",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09712",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09714",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09715",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09716",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09719",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-09720",
+  "image_url": "https://s3b.cashify.in/gpro/uploads/2026/04/25094942/whirlpool-pronxt-df285-3d-prm-athena-steel-237-ltr-2-star-triple-door-front.webp",
+  "confidence": "medium",
+  "source_domain": "www.cashify.in",
+  "matched_title": "Whirlpool PRONXT DF285 3D PRM Athena Steel 237 Ltr 2 Star Triple Door - 2S non-INV variant of INV 4S"
+ },
+ {
+  "product_id": "NE-09722",
+  "image_url": "https://aaravelectronics.com/cdn/shop/files/PRONXT_INV_DF285_3D_PRM_ALPHA_STL_4S_-Y_22359.png?v=1786441125",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Protton 237L 4Star Frost Free Three-Door Refrigerator - Alpha Steel (PRONXT_INV_DF285_3D_PRM_ALPHA_STL_4S_-Y_22359)"
+ },
+ {
+  "product_id": "NE-09724",
+  "image_url": "https://cdn.shopify.com/s/files/1/0989/9012/9440/files/174095-1200-auto.webp?v=1778587670",
+  "confidence": "high",
+  "source_domain": "whitemart.in",
+  "matched_title": "WHIRLPOOL Refrigerator Frost Free 250LTR PRONXT DF300 3D ROY ALPHA STEEL(2S)-Y 22367"
+ },
+ {
   "product_id": "NE-09725",
   "image_url": "https://whirlpoolindia.vtexassets.com/arquivos/ids/173633/285-3D-PRM-GRAVITY-BLACK-2S---235L-_OPS.jpg?v=639092405638130000",
   "confidence": "high",
@@ -64,16 +904,16 @@
  },
  {
   "product_id": "NE-09763",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://static.wixstatic.com/media/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg/v1/fill/w_440,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/845991_9ddffd4a00ec4ebc9b45849cf08cfdbb~mv2.jpg",
+  "confidence": "medium",
+  "source_domain": "www.valliz.in",
+  "matched_title": "Whirlpool 184L 2 Star Direct Cool Refrigerator 205 IMPC ROY-Sapphire Spring - ROY variant of PRM"
  },
  {
   "product_id": "NE-09764",
-  "image_url": null,
-  "confidence": null,
-  "source_domain": null,
-  "matched_title": null
+  "image_url": "https://cdn1.smartprix.com/rx-iHT1Uaksi-w420-h420/whirlpool-205-impc-p.webp",
+  "confidence": "medium",
+  "source_domain": "www.smartprix.com",
+  "matched_title": "Whirlpool 205 IMPC PRM Wine Spring-Y 184 L 1 Star Single Door Refrigerator - star rating differs"
  }
 ]

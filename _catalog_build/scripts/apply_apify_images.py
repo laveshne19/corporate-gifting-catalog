@@ -21,8 +21,21 @@ BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
 OUT_DIR = os.path.join(BASE, "_catalog_build", "output")
 APIFY_DIR = os.path.join(OUT_DIR, "apify")
 
-BAD_HOST = re.compile(r"(encrypted-tbn\d*\.gstatic\.com|lookaside\.|fbsbx|instagram|pinimg|pinterest|ytimg|twimg|x\.com/)", re.I)
+BAD_HOST = re.compile(r"(encrypted-tbn\d*\.gstatic\.com|lookaside\.|fbsbx|instagram|pinimg|pinterest|ytimg|twimg|x\.com/"
+                      r"|corporategiftingindia\.|alienfox\.)", re.I)  # own site = circular; alienfox = placeholders
+# Exact-model but small (~200-400px) images: good enough to fill a blank, not to replace an existing image.
+LOW_RES_HOST = re.compile(r"(bajajfinserv|greateasternretail)", re.I)
 IMG_EXT = re.compile(r"\.(jpe?g|png|webp)(\?|$)|/image/|/images/|cdn|media", re.I)
+
+
+# Picks the search agents themselves flagged as wrong variant / unreliable source.
+EXCLUDE = {
+    "NE-00060",  # Luminarc Ingmar Blue: image is set V6605, not the listed set
+    "NE-00295",  # Welspun Chair Towel: second-hand marketplace (freeup.app) photo
+    # Whirlpool fridges where the image page title names a different print than the file name
+    "NE-09796", "NE-09833", "NE-09870", "NE-09934",
+    "NE-09725",  # Whirlpool: Shopify image id shared by two different models
+}
 
 
 def clean_url(u):
@@ -54,13 +67,13 @@ def main():
         if not q:
             continue
         p = picks.get(rec["product_id"])
-        if not p or not p.get("image_url"):
+        if not p or not p.get("image_url") or rec["product_id"] in EXCLUDE:
             stats["no_result"] += 1
             continue
         conf = (p.get("confidence") or "").lower()
         url = clean_url(p["image_url"])
         ok_conf = conf in ("high", "medium") if q["reason"] == "missing" else conf == "high"
-        if not ok_conf or not usable(url):
+        if not ok_conf or not usable(url) or (q["reason"] == "low" and LOW_RES_HOST.search(url)):
             stats["rejected"] += 1
             continue
         # Guard: only touch records still in the state we queued them in.

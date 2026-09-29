@@ -9,7 +9,7 @@ corporate gifting", "diwali gifts for employees", "corporate gifts in
 mumbai", "wholesale power bank", "gifts for doctors" — and the site only had
 brand / category / budget pages. keyword_research.json (≈1,000 researched
 Google search terms) groups those intents into clusters; each cluster gets
-one page with unique copy (keyword_content.json), real matching catalog
+one page with unique copy (keyword_content_*.json), real matching catalog
 products linking into /products/, an FAQ (FAQPage schema), and cross-links
 to sibling clusters. The hub lists every page plus the full searched-term
 list so crawlers and AI answer engines (GEO) can map each query to a page.
@@ -18,7 +18,7 @@ Run AFTER build_product_pages.py (uses the same product slug scheme) and
 BEFORE finalize_site_assets.py (sitemap / llms.txt pick up
 keyword_page_urls.json).
 """
-import json, os, re, html
+import glob, json, os, random, re, html
 from collections import defaultdict
 
 BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
@@ -47,6 +47,11 @@ TYPE_LABEL = {
     "brand-bulk": "Brands in bulk", "budget": "By budget", "general": "Corporate gifting",
     "city": "Cities we deliver to", "gift-cards": "Gift cards",
 }
+# Pages with no product hints (cities, "corporate gifting company") draw from
+# the categories that make up the bulk of real corporate gifting orders.
+DEFAULT_GIFT_CATS = ["Personal Audio", "Audio", "Wearables", "Electronics Accessories", "Mobile Accessories",
+                     "Kitchen & Dining", "Dinnerware", "Luggage & Bags", "Small Home Appliances",
+                     "Corporate Gifting Accessories", "Smart Gadgets", "Accessories"]
 TYPE_ORDER = ["general", "audience", "occasion", "product-bulk", "brand-bulk", "budget", "gift-cards", "city"]
 
 # Search-term -> catalog vocabulary. Catalog categories are vendor-supplied and
@@ -57,7 +62,7 @@ SYNONYMS = {
     "headphones": ["headphone", "wireless hp", "rockerz", "over-ear", "on-ear"],
     "neckband": ["neckband", "wireless ep"],
     "speaker": ["speaker", "bt speaker", "stone", "soundbar", "sound bar"],
-    "smartwatch": ["smartwatch", "smart watch", "wearables", "watch"],
+    "smartwatch": ["smartwatch", "smart watch", "watch"],
     "power bank": ["power bank", "powerbank", "mah"],
     "charger": ["charger", "wall charger", "adapter", "gan"],
     "cable": ["cable", "cables"],
@@ -125,20 +130,24 @@ def expand_terms(terms):
             continue
         out.add(t)
         for key, syns in SYNONYMS.items():
-            if t == key or t in syns or key in t:
+            # Expand a term only by its own group ("earbuds" -> "tws", "airdopes");
+            # a member like "mixer" must not pull in the whole kitchen group.
+            if t == key or key in t:
                 out.update(syns)
                 out.add(key)
     return sorted(out)
 
 
-def match_products(recs, pm, has_page):
+def match_products(recs, pm, has_page, seed=None):
     """Return catalog products for a cluster's product_match hints, brand-diverse."""
-    pm = pm or {}
+    pm = dict(pm or {})
     cats = [c.lower() for c in pm.get("categories") or []]
     brands = {b.lower() for b in pm.get("brands") or []}
     terms = expand_terms(pm.get("keywords_in_product_name"))
     max_price = pm.get("max_price")
     min_price = pm.get("min_price")
+    # Whole-word matching so "tab" doesn't hit "portable" or "mat" hit "matte".
+    term_re = re.compile(r"\b(" + "|".join(re.escape(t.strip()) for t in terms) + r")s?\b") if terms else None
     out = []
     for r in recs:
         if r["product_id"] not in has_page:
@@ -148,11 +157,14 @@ def match_products(recs, pm, has_page):
         hs = haystack(r)
         if brands and r["brand"].lower() not in brands:
             continue
-        hit = False
-        if terms and any(t in hs for t in terms):
+        hit = not (terms or cats or brands)  # no hints (city / budget / general) -> whole catalog
+        if terms and term_re.search(hs):
             hit = True
-        if cats and any(c in (r.get("category") or "").lower() or c in (r.get("sub_category") or "").lower()
-                        for c in cats):
+        # Category is only a fallback: when a cluster names product terms, a
+        # broad category like "Audio" alone must not pull speakers onto an
+        # earbuds page.
+        if cats and not terms and any(c in (r.get("category") or "").lower() or c in (r.get("sub_category") or "").lower()
+                                      for c in cats):
             hit = True
         if not terms and not cats and brands:
             hit = True
@@ -165,7 +177,20 @@ def match_products(recs, pm, has_page):
             continue
         out.append(r)
     # Prefer products with images and prices; round-robin across brands for variety.
-    out.sort(key=lambda r: (not r.get("image_file"), not r.get("mrp"), -(r.get("mrp") or 0)))
+    # Lead with typical corporate-gifting price points (Rs.500-15,000), then the rest.
+    # Lead with typical corporate-gifting price points (Rs.500-15,000) and
+    # readable names (raw SKU codes like "200 IMPC PRM 2S" sort last), then the rest.
+    out.sort(key=lambda r: (not r.get("image_file"), not r.get("mrp"),
+                            not (500 <= (r.get("mrp") or 0) <= 15000),
+                            not re.search(r"[a-z]", r["product_name"]) or "#N/A" in r["product_name"],
+                            -(r.get("mrp") or 0)))
+    if seed and not terms and not brands and len(out) > 400:
+        # Broad pages (cities, general intents, festivals) would otherwise all show
+        # the same 48 products; a per-page deterministic shuffle of the best
+        # 1,500 keeps each page's grid distinct and the build reproducible.
+        head_pool = out[:1500]
+        random.Random(seed).shuffle(head_pool)
+        out = head_pool + out[1500:]
     by_brand = defaultdict(list)
     order = []
     for r in out:
@@ -336,8 +361,9 @@ def org_ld():
 
 def build():
     research = json.load(open(os.path.join(OUT_DIR, "keyword_research.json")))
-    content_path = os.path.join(OUT_DIR, "keyword_content.json")
-    content = json.load(open(content_path)) if os.path.exists(content_path) else {}
+    content = {}
+    for path in sorted(glob.glob(os.path.join(OUT_DIR, "keyword_content_*.json"))):
+        content.update(json.load(open(path)))
     recs = json.load(open(os.path.join(OUT_DIR, "master_consolidated.json")))
     has_page = {u.rstrip("/").rsplit("-", 2)[-2].upper() + "-" + u.rstrip("/").rsplit("-", 1)[-1]
                 for u in json.load(open(os.path.join(OUT_DIR, "product_page_urls.json")))}
@@ -360,7 +386,14 @@ def build():
         slug = slugify(c["slug"])
         cc = content.get(c["slug"], {})
         kws = [k["keyword"] for k in kw_by_cluster.get(c["slug"], [])]
-        products, match_count = match_products(recs, c.get("product_match"), has_page)
+        pm = dict(c.get("product_match") or {})
+        if not (pm.get("categories") or pm.get("keywords_in_product_name") or pm.get("brands")) \
+                and c.get("type") != "budget":
+            pm["categories"] = DEFAULT_GIFT_CATS
+        m = re.match(r"corporate-gifts-(under|above)-(\d+)$", c["slug"])
+        if m:  # budget clusters: price band from the slug
+            pm["max_price" if m.group(1) == "under" else "min_price"] = int(m.group(2))
+        products, match_count = match_products(recs, pm, has_page, seed=c["slug"])
         brands_here = sorted({r["brand"] for r in products})
         canonical = f"{PRIMARY_DOMAIN}/{SECTION}/{slug}/"
         title = c.get("title") or c["h1"]
