@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-03235",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw2804ffa5/images/hi-res/7/4391bd98ffd488a6_WIA004BK_BackQuarter_WEB_1.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "MagSafe Charger Pad | Magnetic Portable Charging Pad | Belkin"
+ },
+ {
+  "product_id": "NE-03237",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41aCIBKePRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin BoostCharge Pro 2-in-1 Wireless Charging Dock with MagSafe 15W - Charcoal WIZ020BTH36"
+ },
+ {
+  "product_id": "NE-11784",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03239",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfe21712a/images/hi-res/e/46b35efa2a31357e_WIZ019-BLK_MagSafe_BoostChargePro_2in1WirelessChargeDock_FrontView_Tilt-NoProduct_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Wireless Charging Pad with MagSafe (15W) | Belkin"
+ },
+ {
+  "product_id": "NE-03240",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw23ddbb4d/images/hi-res/NaN/ef6a3c07f5ce7b4_WIA008_BK_BoostChargePro_Magnetic_Qi2%20NPI_GTM_HERO-Phone_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Convertible Magnetic Wireless Charging Stand with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03241",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw784b55c7/images/hi-res/6/152404694_WIZ021ttBK_FPK_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11785",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03243",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw87b61cd5/images/hi-res/b/27bbb09790a8ee60_WIZ022ttWH_BoostCharger_3in1Pad_Hero1_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11786",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbbebaeae/images/hi-res/3/3cdab412a0984f09_WIZ022qcBK_BoostCharger_3in1Pad_Hero_withPSU_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Wireless Charging Pad with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03245",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd1189dca/images/hi-res/2/2c860def73daa7c7_WIZ022xxBK-B1_PortableUSB-C_AppleWatchCharger_PluggedIn_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Portable USB-C Apple Watch Charger | Belkin"
+ },
+ {
+  "product_id": "NE-11787",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03247",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw83520787/images/hi-res/1/33f75aaa4a5a0448_WIZ023dqBK-BoostCharge-Pro-3in1Stand-webgg-hero-01__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Charging Stand, Qi2 15W, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03248",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03249",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw10b71764/images/hi-res/c/44df4516af38de8e_WIZ026ttBK-boostcharge-pro-2in1-travelpad-webgg-hero-01__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Magnetic Charging Travel Pad with Qi2 15W"
+ },
+ {
+  "product_id": "NE-03250",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0bb39cc5/images/hi-res/NaN/dfb0a20500699ae4_belkin-wiz028ttbk-2in1-magnetic-foldable-wireless-charger-qi2-15W-web-gallery-02-us.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 Foldable Qi2 Wireless Charging Station, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-03251",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1478e27a/images/hi-res/4/2660f8df9e8c03ab_belkin-WIZ029zbWH-Magnetic-Foldable-Charger-webgallery-PSU06-v01-in.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "3-in-1 Magnetic Foldable Wireless Charger with Qi2, MagSafe-compatible | Belkin"
+ },
+ {
+  "product_id": "NE-11788",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03253",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03254",
+  "keep": false,
+  "image_url": "https://s3.belkin.com/resources/img/overview/f7u096/F7U096_WHT_ZB_3_JY_FIN.jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "18W USB-C Charger - Fast Charge Power Delivery | Belkin"
+ },
+ {
+  "product_id": "NE-03255",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc640cf5f/images/hi-res/NaN/d11316997688d69_WCB006_DQ_DualUsbcPdWallCharger_Front_Angle_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Dual USB-C Power Delivery 3.0 Wall Charger 40W | Belkin CA"
+ },
+ {
+  "product_id": "NE-03256",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw82da2756/images/hi-res/b/235a76debbad1f60_WCA005ZB_Shot2_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Wall Charger - Dynamic, Fast, Compact Design | Belkin"
+ },
+ {
+  "product_id": "NE-03257",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw75c246db/images/hi-res/9/9c95295693eb96d_WCB009zbWH_%E2%80%8B42W_Wall_Charger_PKG01.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Dual Wall Charger 42W with USB-C + USB-A ports | Belkin"
+ },
+ {
+  "product_id": "NE-03258",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw2f0a4e32/images/hi-res/f/47db5e0c9b545eb1_WCB010_B7-ZB.1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Wall Charger with PPS 60W + 4-Port USB Power Extender | Belkin"
+ },
+ {
+  "product_id": "NE-03259",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbf699e28/images/hi-res/b/267da3a4d99060a9_WCH013_Belkin_65W%20Dual%20USB-C%20Wall%20Charger_ZB%2065W%2034%20WHITE_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Pro 65W Dual Port USB-C GaN Wall Charger | Belkin"
+ },
+ {
+  "product_id": "NE-03260",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03261",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Chargers%20and%20Batteries/Images/271261_0_eotlnt.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Belkin BoostCharge Pro 108W Type A and Type C 4 Port GaN Charger (White) - Croma"
+ },
+ {
+  "product_id": "NE-03262",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03263",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03264",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd6fb667c/images/hi-res/8/43496e1cd0f99e19_BUZ001-WHT_3quarters_Shot_02_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "4-Port USB Powered Extension Cable | Belkin"
+ },
+ {
+  "product_id": "NE-11789",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf0d48ee4/images/hi-res/d/3981cf3f5d1ec0e3_BUZ001-BLK_Hero_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "4-Port USB Powered Extension Cable | Belkin"
+ },
+ {
+  "product_id": "NE-03266",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/415364109/DO/JP/UG/60067075/belkin-dual-usb-c-gan-wall-charger-with-pps-65w-wch013zbwh-dy-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin Dual USB-C GaN Wall Charger with PPS 65W (WCH013ZBWH-DY)"
+ },
+ {
+  "product_id": "NE-03267",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/6/424853927/CI/JL/RX/200235177/belkin-x-marvel-ironman-edition-65w-gan-dual-usb-c-pd-3-0-fast-charger.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin X Marvel, Ironman Edition, 65W GaN Dual USB-C PD 3.0 Fast Charger"
+ },
+ {
+  "product_id": "NE-03268",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03269",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31tRGsOn1VL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin Travel Adapter Plug Kit for (25 W Hybrid USB Charger + 5K Power Bank), 4 Power Plugs (US, UK, EU, AU)"
+ },
+ {
+  "product_id": "NE-03270",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw6e509ce8/images/hi-res/0/31136e14f727a17c_BPB011_BLK_BOOSTCHARGE_PowerBank10K_Angle_Upright_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 10K Power Bank, USB-A to USB-C Cable | Belkin"
+ },
+ {
+  "product_id": "NE-03271",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb1e7adb8/images/hi-res/3/51283fe0c3c3fca3_BPB011_BLU_BOOSTCHARGE_PowerBank10K_Angle_Upright_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Power Bank 10K (Blue) | Belkin"
+ },
+ {
+  "product_id": "NE-11790",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11791",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1a35588c/images/hi-res/f/655e275285054ae8_BPB011_PEA_BOOSTCHARGE_Powerbank%2010K_TOP_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 10K Power Bank, 15W USB-C, White | Belkin"
+ },
+ {
+  "product_id": "NE-11792",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11793",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11794",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03277",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw5b459f4a/images/hi-res/3/3fbc0dcb9357d790_BPB012bt_PowerBank20k15W_MPP263_BPB012btBK_Vertical_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 20K Power Bank with USB-C Cable, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11795",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11796",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11797",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11798",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb4dfdbae/images/hi-res/4/4dd36f6afe681642_BPB012btSL_Boostcharge%20Powerbank20K_ANGLE_UPRIGHT_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 20K Power Bank with USB-C Cable, Silver | Belkin"
+ },
+ {
+  "product_id": "NE-11799",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw8cedab5e/images/hi-res/NaN/f7fa7a69c061c30_BPB012btGY_Powerbank%2020K_angle.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Power Bank 10K, 20K with USB-A to USB-C cable | Belkin (BPB012btGY)"
+ },
+ {
+  "product_id": "NE-11800",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03284",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03285",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11801",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03287",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03288",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw41619600/images/hi-res/d/3322557b18cc29f4_BPD002btBK_NPI_Boostcharge_MagneticWirelessPowerBank_Hero_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Magnetic Wireless Charger | MagSafe Power Bank | Belkin"
+ },
+ {
+  "product_id": "NE-11802",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw69255ceb/images/hi-res/6/6b3a50d9099b8a03_BPD002btWHT_NPI_Boostcharge_MagneticWirelessPowerBank_RightAngleWPhone_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Magnetic Wireless Charger | MagSafe Power Bank | Belkin (BPD002btWHT)"
+ },
+ {
+  "product_id": "NE-03290",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf56e3a3e/images/hi-res/8/456dd6f767a9c588_BPD004btBK(WH)_MPP242_MagneticWirelessPowerBank5K+Stand_FPK_BLK_Shot1_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 5K Magnetic Wireless Power Bank, Stand | Belkin"
+ },
+ {
+  "product_id": "NE-11803",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwe0bd20f4/images/hi-res/NaN/a962f0f445d3b7c_BPD004btBK(WH)_MPP242_MagneticWirelessPowerBank5K+Stand_FPK_WH_Shot1_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Magnetic Wireless Power Bank 5K + Stand | Belkin"
+ },
+ {
+  "product_id": "NE-11804",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11805",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03294",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61yDl9OVORL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin X Disney 5000 mAh Magsafe Wireless Power Bank ... Elsa Edition, White"
+ },
+ {
+  "product_id": "NE-11806",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31PuTNF67IL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin X Disney 100 Mickey | 5000 mAH Magsafe Wireless Power Bank"
+ },
+ {
+  "product_id": "NE-03296",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1375bfc3/images/hi-res/4/3316b9125bc6a579_BPD004qcBG-DY_1.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Magnetic Wireless Power Bank 5K + Stand (Disney Collection / Marvel Collection) | Belkin"
+ },
+ {
+  "product_id": "NE-03297",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03298",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3e64a883/images/hi-res/2/514fc36c617f2ca8_BPD008btBK_MagneticQi2PowerBanks_Hero_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Pro 10K Magnetic Power Bank, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11807",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03300",
+  "keep": false,
+  "image_url": "https://computerspace.in/cdn/shop/products/NewProject-2021-05-21T162409.110.jpg",
+  "confidence": "high",
+  "source_domain": "computerspace.in",
+  "matched_title": "Belkin AC Anywhere USB port 200W F5L071ak200W \u2013 Computerspace"
+ },
+ {
+  "product_id": "NE-03301",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03302",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwda796e5e/images/hi-res/NaN/e7b3ea56170112c0_CCB005btBK_Dual_USB-C_Port%20CarCharger(MCP239)NPI_gallery.1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge 42W Dual Car Charger, USB-C and USB-A | Belkin"
+ },
+ {
+  "product_id": "NE-03303",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw7779e42c/images/hi-res/9/9f4a23ac587be1c_MMA006-BLK-Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "iPhone Mount with MagSafe for Mac Notebooks | Belkin"
+ },
+ {
+  "product_id": "NE-11808",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03305",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw11515add/images/hi-res/3/3f8dedc1779cc95b_CAA001BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_05_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 1m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11809",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw5c96c626/images/hi-res/4/4c25aa1ee73fe49_CAA001BT0M-WHT_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03307",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw252aa163/images/hi-res/6/550c8a8ed9e48af3_CAA001BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge Lightning to USB-A Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11810",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03309",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0dd8c73f/images/hi-res/5/583301fd54fa5999_CAA002BT0M-BLK_BoostCharge_USB-A_to_LtgCable_Gallery_Shot_05_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided Lightning to USB-A Cable, 1m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03311",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11812",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03313",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw68dcfc7b/images/hi-res/1/1fa9e533892cc5fe_CAA003BT0M-WHT_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge USB-C to Lightning Cable MFi-Certified | Belkin (CAA003BT0M-WHT)"
+ },
+ {
+  "product_id": "NE-11813",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03315",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwef1537dc/images/hi-res/7/39eea0cba791badf_CAA004BT0M-BLK_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 1m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11814",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa7c4d65b/images/hi-res/6/6c865fc9dd286a99_CAA004BT0M-WHT_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 1m, MFi, White | Belkin"
+ },
+ {
+  "product_id": "NE-03317",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwef1537dc/images/hi-res/7/39eea0cba791badf_CAA004BT0M-BLK_BoostCharge_USB-C_to_LtgCable_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to Lightning Cable, 2m, MFi, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11815",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03319",
+  "keep": false,
+  "image_url": "https://exitocol.vtexassets.com/arquivos/ids/35159297/Cab-USB-a-Micro-USB-1m-Negro-BELKIN-CAB005bt1MBK-3041130_e.jpg",
+  "confidence": "high",
+  "source_domain": "www.exito.com",
+  "matched_title": "Cab USB a Micro USB 1m Negro BELKIN CAB005bt1MBK"
+ },
+ {
+  "product_id": "NE-03320",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/416440835/MN/EP/GN/60067075/belkin-usb-a-to-micro-usb-charging-cable-cab005bt1mwh-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "White Belkin USB-A to Micro USB Charging Cable CAB005BT1MWH"
+ },
+ {
+  "product_id": "NE-03321",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03322",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwdd1b41a6/images/hi-res/1/1bca193feabd630_CAB001BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_04_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable (1m / 3.3ft, Black) | Belkin"
+ },
+ {
+  "product_id": "NE-03323",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw9b6d7572/images/hi-res/2/2a800d29d0e55f24_CAB001BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03324",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw4aaad295/images/hi-res/e/718f39c67721834e_CAB001BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03325",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw293381fc/images/hi-res/1/30570305ab37e57a_CAB001BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_05_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-A Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03326",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11816",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw07179b5e/images/hi-res/6/7286950d3497463c_CAB002BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable, 1m, White | Belkin"
+ },
+ {
+  "product_id": "NE-11817",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd635f1a5/images/hi-res/7/7c7a91cb42f34231_CAB002BT0M-BLK_BoostCharge_USB-A_to_USB-C_Gallery_Shot_03_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable (2m / 6.6ft, Black)"
+ },
+ {
+  "product_id": "NE-11818",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw07179b5e/images/hi-res/6/7286950d3497463c_CAB002BT0M-WHT_BoostCharge_USB-A_to_USB-C_Gallery_Shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-A Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03330",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd28aa6ab/images/hi-res/d/28445da04551b148_CAB003BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (1m / 3.3ft, Black) | Belkin"
+ },
+ {
+  "product_id": "NE-03331",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw654869f7/images/hi-res/5/5d439f7f1750952d_CAB003BT0M-WHT_BoostCharge_USB-C_to_USB-C_Gallery_Shot_03_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (1m / 3.3ft, White) | Belkin"
+ },
+ {
+  "product_id": "NE-03332",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwd28aa6ab/images/hi-res/d/28445da04551b148_CAB003BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable (2m / 6.6ft, Black) | Belkin TW"
+ },
+ {
+  "product_id": "NE-03333",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf4709dbc/images/hi-res/b/3003f8c559712629_CAB003BT0M-WHT_BoostCharge_USB-C_to_USB-C_Gallery_Shot_01_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to USB-C Cable, 2m, White | Belkin"
+ },
+ {
+  "product_id": "NE-03334",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3b2be774/images/hi-res/6/6e81fbb07dda0115_CAB004BT0M-BLK_BoostCharge_USB-C_to_USB-C_Gallery_Shot_03_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Fast Charger Cable | Belkin (CAB004BT0M-BLK)"
+ },
+ {
+  "product_id": "NE-11819",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11820",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11821",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03338",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw6ce25d8f/images/hi-res/4/68c12c8ed699dd9b_CAB004bt0MWH_CAB004bt2MWH_Gallery2.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Cable 60W, 2m, White, 2-Pack | Belkin"
+ },
+ {
+  "product_id": "NE-03339",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw9746572c/images/hi-res/1/1ace0762ddb0d9a8_CAB014-BLK_100W%20Braided%20C-C%20Cables_MCB320_02_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "BoostCharge USB-C to USB-C Cable, 100W, 2m | Belkin"
+ },
+ {
+  "product_id": "NE-11822",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11823",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11824",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03343",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc4e4f20e/images/hi-res/e/62c8e19e71a13bf3_CAB015-BLK_100W_USB-CtoUSB-C-Braided_Hero-1m_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Braided USB-C to USB-C Power Supply Cable 240W | Belkin CA"
+ },
+ {
+  "product_id": "NE-11825",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11826",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11827",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03347",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwb45f2500/images/hi-res/6/550e9b84cb232eed_CAC001_Universal3in1Cable_shot_01_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal 3-in-1 Cable, USB-C, Lightning, Micro-USB | Belkin"
+ },
+ {
+  "product_id": "NE-03348",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw21b8d2e8/images/hi-res/1/1db1738e24bf4034_cac003fq-hp1-5bk-pro-2-in-1-cable-usb-c-lightning-connector--gallery-hero-01-fq-hq.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "2-in-1 USB-C and Lightning Cable, 1.5m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11828",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03350",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa68c0b56/images/hi-res/6/22e0654588a6da69_INZ002_Thunderbolt4_Angled_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 4 Cable - 100W Charging, 8K Video | Belkin"
+ },
+ {
+  "product_id": "NE-03351",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw721e655e/images/hi-res/f/30015c979445ec0a_INZ004bt2MBK_USB4_Cable_FrontOrtho_withCable_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Connect USB4 Cable, 240W + 20Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03352",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw18aea054/img/PDP/INZ004/INZ004tt1.2MBK-icon/belkin-inz004-usbc4-240w-20gbps-digital-1.2m-icon-banner-mobile-768x500.jpg?sfrm=jpg&q=95",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB4 Cable, 240W Charging and 20Gbps, 4 ft | Belkin"
+ },
+ {
+  "product_id": "NE-03353",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbcbdba64/images/hi-res/3/51fb2fdce3c7d071_INZ005-fq-hq-qc-1mbk-usbc-cable-240w-20gbps-webgallery-hero-shot-12.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 5 Cable, 1m, 240W and 80Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03354",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31F18ERdF9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y117BT2M Portable Audio Cable, 2 M - Black"
+ },
+ {
+  "product_id": "NE-03355",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/ylVDlba6KfNsA-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy Belkin 3.5mm Black & Gold Stereo to RCA Portable Audio Cable, F3Y116bt2M"
+ },
+ {
+  "product_id": "NE-03356",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71PwR377AaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y093BT2M - Television Digital Optical Audio Cable, Black"
+ },
+ {
+  "product_id": "NE-03357",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41nVoELTlhL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin F3Y021bt1m High Speed HDMI Cable with Ethernet - 1 Meter, Black & Gold"
+ },
+ {
+  "product_id": "NE-03358",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03359",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/12/569148252/LT/HC/XZ/18878158/belkin-f3y021bt5m-high-speed-hdmi-cable-with-ethernet-5-meter.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin F3Y021bt5M High Speed HDMI Cable with Ethernet - 5 meter"
+ },
+ {
+  "product_id": "NE-11829",
+  "keep": false,
+  "image_url": "https://vlebazaar.in/image/cache/catalog//B01NCKAR6H/Belkin-1-Meter-33-Feet-High-Speed-Nickel-Plated-HDMI-Cable-Supports-3D-4K-1080p--1000x525h.jpg",
+  "confidence": "high",
+  "source_domain": "vlebazaar.in",
+  "matched_title": "Belkin 1 Meter (3.3 Feet) High-Speed Nickel-Plated HDMI Cable, Black"
+ },
+ {
+  "product_id": "NE-11830",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11831",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41R23dFrlvL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin 5 Meter (16.5 Feet) High-Speed Nickel-Plated HDMI Cable - Black"
+ },
+ {
+  "product_id": "NE-03363",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc2f20757/images/hi-res/4/68f1d5b2b1f571f1_AV10175_1_Flat_1800px.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "8K Ultra High Speed HDMI 2.1 Cable, 2m, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03364",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw13031b06/images/hi-res/NaN/db04e96b4cdb5dcf_AVC012bt2MBK-usb-c-to-hdmi-2-1-cable-webgg1-6000%C3%976000-us.jpg?sw=700&sh=700&sm=fit&sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB C to HDMI 2.1 Cable (8K 60Hz) | Belkin"
+ },
+ {
+  "product_id": "NE-03365",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfb30e10d/images/hi-res/a/2874bac3b7811c39_AVC014bt2MBK_Belkin_ConnectUsbCtoDP1.4Cable_03_Web.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to DisplayPort 1.4 Cable, 8K, 2m | Belkin"
+ },
+ {
+  "product_id": "NE-03366",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/3/292661140/PD/CS/FY/35721131/belkin-lightning-audio-charge-rockstar-f8j198btwht.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin Lightning Audio + Charge Rockstar F8J198Btwht, White"
+ },
+ {
+  "product_id": "NE-03367",
+  "keep": false,
+  "image_url": "https://bf1af2.akinoncloudcdn.com/products/2024/09/20/131129/fc73b41b-2224-4863-b02f-a33f29af0ecd.jpg",
+  "confidence": "high",
+  "source_domain": "gcc.luluhypermarket.com",
+  "matched_title": "Belkin 3.5 mm Audio & Charge Rockstar iPhone Adapter, F8J212btWHT"
+ },
+ {
+  "product_id": "NE-03368",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa2e254ac/images/hi-res/NaN/c8a47957339ca82_F2CU036btBLK_C-A_PkF_1.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB 3.0 USB-C to USB-A Adapter, 5Gbps, Black | Belkin"
+ },
+ {
+  "product_id": "NE-03369",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51rJ4DdBEOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin Mini Display Port to HDMI Adapter"
+ },
+ {
+  "product_id": "NE-03370",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwaa80e764/images/hi-res/4/570404ce9e20e4e9_AVI211_BelkinDPtoHDMIActiveAdapter_Front_Qtr_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Active DisplayPort to HDMI Adapter, 4K 60Hz HDR | Belkin"
+ },
+ {
+  "product_id": "NE-03371",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31o1x9H3aiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin USB-C to VGA Adapter + Charge (60W Pass-Through Power), Black"
+ },
+ {
+  "product_id": "NE-03372",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwea24a6a7/images/hi-res/2/57410d0f7cbd3157_AVC002btBK_1_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to HDMI Adapter + Charge | Belkin"
+ },
+ {
+  "product_id": "NE-03373",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw1d20aafd/images/hi-res/NaN/fdd357f57c478d09_AVC013btBK-usb-c-to-hdmi-2-1-adapter-webgg1-6000%C3%976000-us.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB C to HDMI 2.1 Adapter (8K 60Hz) | Belkin"
+ },
+ {
+  "product_id": "NE-03374",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwf7cb9d5d/images/hi-res/NaN/d9d142a572ea68c_INC001btBK_1_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C to Ethernet Adapter + 60W Charge | Belkin"
+ },
+ {
+  "product_id": "NE-11832",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03376",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03377",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51qXKqyAcuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.co.za",
+  "matched_title": "Belkin INC012btBK USB Type C to 2.5 Gb Ethernet Adapter"
+ },
+ {
+  "product_id": "NE-03378",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbebc50fd/images/hi-res/4/52b6b6c906ce7f26_bel-amazon-INC004_USB-C%2011-in-1%20MultiportDock_Amazon_1000x1000_1__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C 11-in-1 Multiport Dock for Mac and PC, Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03379",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbbac670c/images/hi-res/5/21ae899995acba4_AVC003btBK_FPK_JY_FIN.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Video Adapter (HDMI, DisplayPort, DVI, VGA) | Belkin"
+ },
+ {
+  "product_id": "NE-03380",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03381",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw436fcd28/images/hi-res/8/24ab26877cf66a7a_AVI207-UsbC5in1Adapter-Front-Ortho-Webgg01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "5-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03382",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03383",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw69916033/images/hi-res/4/4a3ba7de06bc0f76_AVC009qcMVV2-DY-spiderman-usb-c-5n1-hub-webgg-apea.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "7-in-1 Multiport USB-C Hub Spider-Man Limited Edition, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03384",
+  "keep": false,
+  "image_url": "https://hnsgsfp.imgix.net/9/images/detailed/114/Belkin_Connect_Marvel_Ironman_USB-C_7-in-1_Multiport_Hub_Adapter_-_Red_(AVC009qcBG-DY)_05.JPG?fit=fill&bg=0FFF&w=1536&h=901&auto=format,compress",
+  "confidence": "high",
+  "source_domain": "www.harveynorman.com.my",
+  "matched_title": "Belkin Connect Marvel Ironman USB-C 7-in-1 Multiport Hub Adapter - Red (AVC009qcBG-DY) | Harvey Norman Malaysia"
+ },
+ {
+  "product_id": "NE-03385",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwbf448201/images/hi-res/c/491548b187fd9ed_avc007fqSGY-v2-5-in-1-multiport-hub-gallery-hero-shot-01-rgb.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "5-in-1 Multiport USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03386",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc7df9d17/images/hi-res/a/74954ad6704d0c6f_AVC008xxSGY-v2-6-in-1-multiport-hub-gallery-shot-01.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "6-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03387",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwfc6843c4/images/hi-res/4/4b0aa17099f033c3_AVC009xxSGY-v2-7-in-1-multiport-hub-gallery-shot-01.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "7-in-1 Multiport USB-C Adapter, USB-C Hub, 4K HDMI | Belkin"
+ },
+ {
+  "product_id": "NE-03388",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa3619006/images/hi-res/NaN/c48e31e3cd60911_F4U092%20_Multimedia_Hub_digitalassetsjpgbelkin-amazon-F4U092-mutlimedia-hub-desktop-v01-r01-1000x1000-us__lz__en_US.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Multimedia Hub with Power, Space Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03389",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw41615ed6/images/hi-res/4/68d13743803afc64_INC009btSGY_USB-C_MultimediaHub_Shot04_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C 7-in-1 Multiport Adapter, Gen 2, Space Gray | Belkin"
+ },
+ {
+  "product_id": "NE-03390",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw95d2d595/images/hi-res/9/9bd2073035187_INC002_Web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Docking Station: HD Dual Display | Belkin"
+ },
+ {
+  "product_id": "NE-03391",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw4a4be776/images/hi-res/d/29f391d03bc8f7bf_INC007_DisplayLinkDock_NPI_Ortho_BPK_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal USB-C Triple Display Docking Station | Belkin"
+ },
+ {
+  "product_id": "NE-03392",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw04a3a828/images/hi-res/1/49d098aeddfec1f2_F4U097_TILT_CABLE_JY_FIN.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 3 Dock Pro for Mac & PC | Belkin"
+ },
+ {
+  "product_id": "NE-03393",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03394",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw73820566/images/hi-res/2/18e339a0e5444370_INC006_Thunderbolt4DockPro_3-4View_WEB_1.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Pro Thunderbolt 4 Dock, 40Gbps | Belkin"
+ },
+ {
+  "product_id": "NE-03395",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw943447d4/images/hi-res/NaN/ac63d04823f4ae98_INC013.3.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Thunderbolt 4 5-in-1 Core Hub | Belkin"
+ },
+ {
+  "product_id": "NE-03396",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw59a75ec5/images/hi-res/5/5f21aaccb6db911c_belkin-inc014btsgy-connect-universal-11-in-1-pro-dock-amazon-gg2-v01-r01-2000x2000-us__lz__en_US.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Universal USB-C 11-in-1 Pro Dock, 3 Monitors, 100W | Belkin"
+ },
+ {
+  "product_id": "NE-03397",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03398",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03399",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03400",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw865850ff/images/hi-res/7/44423e81ed786c81_F7U081btWH_NPI+GTM_RockStar_USB-C_Audio+ChargeAdapter_web.1.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Audio and Charger Adapter | Belkin"
+ },
+ {
+  "product_id": "NE-03401",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0f840623/images/hi-res/1/1b7e37f583385cc6_G3H0002btBLK_SoundFormWiredEarbudswithUSB-CConnector_02_web.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "USB-C Wired Earbuds, Black | Belkin"
+ },
+ {
+  "product_id": "NE-11833",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03403",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/417VMNPhG+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin USB-IF Certified 4-Port Mini USB-C Hub"
+ },
+ {
+  "product_id": "NE-03404",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03405",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/417569649/BD/FR/EL/60067075/belkin-belkin-tempered-glass-screen-protector-guard-for-iphone-15-ova143zz.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Belkin Tempered Glass Screen Protector Guard for iPhone 15 OVA143ZZ"
+ },
+ {
+  "product_id": "NE-03406",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03407",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/5/417572679/YS/IS/FB/60067075/ova146zz-belkin-tempered-glass-screen-protector-guard-for-iphone-15-pro-max.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "OVA146ZZ Belkin Tempered Glass Screen Protector Guard for iPhone 15 Pro Max"
+ },
+ {
+  "product_id": "NE-03408",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03409",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa8736ad6/images/hi-res/a/186e481c785ef332_OVA148zz_TemperedGlassPrivacy-iPhone15plus_Hero_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "iPhone Tempered Glass Privacy Screen Protector OVA148zz (iPhone 15 Plus) | Belkin"
+ },
+ {
+  "product_id": "NE-03410",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03411",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw63ad1902/images/hi-res/b/59a1de7ffbed2932_OVA150zz_TemperedGlassPrivacy-iPhone15ProMax_Hero_WEB.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Privacy Screen Protector for iPhone 15 Pro Max | Belkin"
+ },
+ {
+  "product_id": "NE-03412",
+  "keep": false,
+  "image_url": "https://computechstore.in/media/uploads/wp/2024/06/Belkin-Tempered-Glass-Screen-Protector-Guard-for-iPhone-15-2-Pack.jpg",
+  "confidence": "high",
+  "source_domain": "computechstore.in",
+  "matched_title": "Belkin Tempered Glass Screen Protector Guard for iPhone 15 (2 Pack)"
+ },
+ {
+  "product_id": "NE-03413",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61qmeA42oPL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.ae",
+  "matched_title": "Belkin OVA144zz iPhone 15 Plus Protective Glass Film, Tempered Glass, Set of 2"
+ },
+ {
+  "product_id": "NE-03414",
+  "keep": false,
+  "image_url": "https://www.lucky-starindia.com/wp-content/uploads/2026/05/OVA165fq1-600x600.jpg",
+  "confidence": "high",
+  "source_domain": "www.lucky-starindia.com",
+  "matched_title": "BELKIN \u2013 Ez Frame,Device 3,Tempered Glass, 2Pk"
+ },
+ {
+  "product_id": "NE-03415",
+  "keep": false,
+  "image_url": "https://www.lucky-starindia.com/wp-content/uploads/2026/05/OVA166fq-600x600.jpg",
+  "confidence": "high",
+  "source_domain": "www.lucky-starindia.com",
+  "matched_title": "BELKIN \u2013 Ez Frame,Device 4,Tempered Glass, 2Pk"
+ },
+ {
+  "product_id": "NE-03416",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/613OUooK9LL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin iPhone 16/15/14 Pro Privacy Tempered Glass Full Screen Protector with Easy Align Tray"
+ },
+ {
+  "product_id": "NE-03417",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61CegX3rdiL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Belkin ScreenForce UltraGlass 2 Treated iPhone 15 Plus, 14 Pro Max Screen Protector - Easy Align Tray"
+ },
+ {
+  "product_id": "NE-03418",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw3868357c/images/hi-res/3/3e3984c25cc3f0a5_OVA169fq-REV-InvisiGlassPrivacyScreenProtector-iPhone17-web-gg-hero.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "InvisiGlass Privacy Filter Screen Protector | Belkin (OVA169fq)"
+ },
+ {
+  "product_id": "NE-03419",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwc68019cd/images/hi-res/6/6ea5f7bb52efc34b_OVA170-DeviceD-InvisiGlass-Recycled-Privacy+AM-ScreenProtector-WebG-US-01.jpg?sfrm=jpg",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "InvisiGlass Privacy Filter Screen Protector | Belkin IN (OVA170)"
+ },
+ {
+  "product_id": "NE-03420",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw0077bb94/images/hi-res/a/26f6f430e1901a81_OVA151zz-trueprivacyscreenprotector-for-macbook-air-13-webgallery-01-hero-us.jpg?sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "ScreenForce TruePrivacy Screen Protector for MacBook | Belkin (OVA151zz)"
+ },
+ {
+  "product_id": "NE-11834",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03422",
+  "keep": false,
+  "image_url": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw13fb6181/images/hi-res/3/3ee08acd7a7af63b_F8W973btBLU_Ring_HeroWAirTag_WEB.jpg?sw=700&sh=700&sm=fit&sfrm=png",
+  "confidence": "high",
+  "source_domain": "www.belkin.com",
+  "matched_title": "Secure AirTag Holder with Key Ring, AirTag Keychain | Belkin (F8W973btBLU)"
+ },
+ {
+  "product_id": "NE-11835",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11836",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03425",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-11012",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/4143cMel2GL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 FE 5G (JetBlack, 8GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11013",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61GqMemKDsL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A57 5G (Awesome Navy, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11014",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61PGsFatV2L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A57 5G (Awesome Lilac, 8GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11015",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6103ajTI0-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A37 5G (Awesome Charcoal, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11016",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61FHhR8bi0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A37 5G (Awesome Graygreen, 8GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11017",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6103ajTI0-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A37 5G (8GB RAM, 128GB, Awesome Charcoal)"
+ },
+ {
+  "product_id": "NE-11018",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/7154ePvSGXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A27 5G (Light Green, 8GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11019",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11020",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71iUXOyVQ3L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A27 5G (Black, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11021",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11022",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494742239/0/-kHNps-NJW-lfaS60b_1-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy A17 5g (8GB RAM, 256GB, Gray)"
+ },
+ {
+  "product_id": "NE-11023",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51momR2im8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A17 5G (Gray, 8GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11024",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51+-bSt56jL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A17 5G (Blue, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11025",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494583310/2/0VvTB2zHE3-JKLoeoiXay-SamsungGalaxyF175G-MP-494583310-i-3-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy F17 5G 128 GB, 8 GB RAM, Lavender"
+ },
+ {
+  "product_id": "NE-11026",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e176bzkbins/gallery/in-galaxy-f-sm-e176bzkbins-galaxy-f----g----gb-memory--black-549223025?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy Galaxy F17 5G 6GB/128GB (Black) - Price & Offers | Samsung India"
+ },
+ {
+  "product_id": "NE-11027",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51xsZspXvHL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy F17 (Neo Black, 4GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11028",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11029",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/616Qc0wOCRL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A07 5G Smartphone (Black, 4GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-11030",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11031",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/mobile/z/9/l/galaxy-a06-5g-sm-a066bzadins-samsung-original-imaha5ahbzswxrmr.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Samsung Galaxy A06 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-11032",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/310633_0_ad5rng.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "SAMSUNG Galaxy A06 (4GB RAM, 128GB, Black)"
+ },
+ {
+  "product_id": "NE-11033",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11034",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/713LEDx+H0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Watch Ultra2, Titanium Gray, 47 mm, LTE"
+ },
+ {
+  "product_id": "NE-11035",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ie/f2607/gallery/ie-galaxy-watch9-l355-sm-l355fzkaeub-553707806?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Watch9 (LTE, 44 mm) | Samsung Support IE"
+ },
+ {
+  "product_id": "NE-11036",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2607/gallery/in-galaxy-watch9-l350-sm-l350nzsains-553764042?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy New Galaxy Watch9 (Bluetooth, 4.4 cm) Silver - Offers | Samsung India"
+ },
+ {
+  "product_id": "NE-11037",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2607/gallery/in-galaxy-watch9-l345-sm-l345fzkains-553764126?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy New Galaxy Watch9 (LTE, 4.0 cm) Black - Offers | Samsung India"
+ },
+ {
+  "product_id": "NE-11038",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2607/gallery/in-galaxy-watch9-l340-sm-l340nzeains-553763983?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy New Galaxy Watch9 (Bluetooth, 4.0 cm) Cream - Offers | Samsung India"
+ },
+ {
+  "product_id": "NE-11039",
+  "keep": false,
+  "image_url": "https://cdn.etoren.com/upload/images/0.16242900_1752226147_samsung-galaxy-watch-8-classic-lte-sm-l505f-46mm-white-case-with-white-hybrid-band.jpg",
+  "confidence": "high",
+  "source_domain": "www.etoren.com",
+  "matched_title": "Samsung Galaxy Watch 8 Classic LTE SM-L505F 46mm White Case with White Hybrid Band"
+ },
+ {
+  "product_id": "NE-11040",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/g/a/galaxywatch8classicwhite_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Samsung Galaxy Watch 8 Classic 47 mm BT Smartwatch WiFi White (SM-L500NZWAINS)"
+ },
+ {
+  "product_id": "NE-11041",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582461/4/pNIBNChTI9-J1jM10ZR6m-Samsung-Galaxy-Watch-8-Smartwatch-494582461-i-5.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Watch 8 with LTE 44 mm Smartwatch, Dark Grey, L335F"
+ },
+ {
+  "product_id": "NE-11042",
+  "keep": false,
+  "image_url": "https://image-us.samsung.com/us/galaxy-watch8/designstudio/SM-L330NDA_ET-SNL33LB.jpg?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Samsung SM-L330NDAAXAA Galaxy Watch8 44mm BT Graphite"
+ },
+ {
+  "product_id": "NE-11043",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51U42p-LwGL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Watch8 (40mm, LTE, Graphite)"
+ },
+ {
+  "product_id": "NE-11044",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-watch8-l320-sm-l320nzsains-547660098?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Samsung Galaxy Watch8 (Bluetooth, 4.0 cm) Silver"
+ },
+ {
+  "product_id": "NE-11045",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81i1Vn-KQuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Watch Ultra LTE ( Titanium Gray, 47 mm )"
+ },
+ {
+  "product_id": "NE-11046",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/2407/gallery/ca-galaxy-watch7-l315-sm-l315fzgaxac-542360171?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Watch7 (LTE, 44mm) | Samsung Support CA"
+ },
+ {
+  "product_id": "NE-11047",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11048",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/2407/gallery/ca-galaxy-watch7-l305-sm-l305fzeaxac-542360080?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Watch7 (LTE, 40mm) | Samsung Support CA"
+ },
+ {
+  "product_id": "NE-11049",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ca/2407/gallery/ca-galaxy-watch7-l300-sm-l300nzeaxac-542358342?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Watch7 (Bluetooth, 40mm) | Samsung Support CA"
+ },
+ {
+  "product_id": "NE-11056",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51Cl+s8HMXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Buds Core Galaxy AI Enabled in-Ear TWS with ANC"
+ },
+ {
+  "product_id": "NE-11057",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-q505nzkainu/gallery/in-galaxy-ring-q500-sm-q505nzkainu-543480740?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Ring | Samsung Support India (SM-Q505NZKAINU, Size 5)"
+ },
+ {
+  "product_id": "NE-11058",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/sa_en/sm-q506nzkamea/gallery/sa-en-galaxy-ring-q500-sm-q506nzkamea-543807981?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Samsung Galaxy Ring in Titanium Black - Size 6 | Samsung KSA"
+ },
+ {
+  "product_id": "NE-11059",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11060",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11061",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/il/sm-q509nzsailo/gallery/il-galaxy-ring-q500-sm-q509nzsailo-544466819?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Ring silver SM-Q509 (Samsung Israel)"
+ },
+ {
+  "product_id": "NE-11062",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/s/a/samsungtitaniumblack_add3.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Samsung Galaxy Smart Ring Size 10 mm (Titanium Black, SM-Q500NZKAINU)"
+ },
+ {
+  "product_id": "NE-11063",
+  "keep": false,
+  "image_url": "https://image-us.samsung.com/SamsungUS/home/galaxy-ring/SDSAC-82821-Galaxy_Ring-800x600.jpg?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy Galaxy Ring Size 11 Titanium Black | Samsung US"
+ },
+ {
+  "product_id": "NE-11064",
+  "keep": false,
+  "image_url": "https://image-us.samsung.com/SamsungUS/home/galaxy-ring/SDSAC-82821-Galaxy_Ring-800x600.jpg?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Buy Galaxy Ring Size 12 Titanium Black | Samsung US"
+ },
+ {
+  "product_id": "NE-11065",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71LYADs9lIL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Ring (Smartchoice) Size 13, Titanium Gold"
+ },
+ {
+  "product_id": "NE-11066",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11508",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/198743_0_npzzmy.png?updatedAt=1752306100591",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "SAMSUNG EHS64AVFWECINU Wired Earphone with Mic (In Ear, White)"
+ },
+ {
+  "product_id": "NE-11068",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61MDuOnOaOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A17 5G Card Slot Phone Case, Black"
+ },
+ {
+  "product_id": "NE-11069",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61J0udjv92L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Official Card Slot Case for A17 4G, 5G, Blue"
+ },
+ {
+  "product_id": "NE-11070",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-qa176ctegus/gallery/us-galaxy-a17-5g-clear-case-ef-qa176-ef-qa176ctegus-550418911?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A17 5G Clear Case Transparent Mobile Accessories - EF-QA176CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11071",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-qa266ctegus/gallery/us-galaxy-a26-5g-clear-case-ef-qa266-ef-qa266ctegus-545840061?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A26 5G Clear Case Transparent Mobile Accessories - EF-QA266CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11072",
+  "keep": false,
+  "image_url": "https://www.dressyourtech.co.za/cdn/shop/files/SAM-EF-QA366CT_PACK_800x.jpg?v=1741266475",
+  "confidence": "high",
+  "source_domain": "www.dressyourtech.co.za",
+  "matched_title": "Samsung Clear Case - Samsung Galaxy A36 - Clear (SAM-EF-QA366CT)"
+ },
+ {
+  "product_id": "NE-11073",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41wcmkdiskL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy A56 Case Clear Case Transparent"
+ },
+ {
+  "product_id": "NE-11074",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/716yA93lvuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG A26 Rugged Case, Black"
+ },
+ {
+  "product_id": "NE-11075",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11076",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-oa366tbegus/gallery/us-galaxy-a36-5g-card-slot-ef-oa366-ef-oa366tbegus-545839457?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A36 5G Card Slot Case Black Mobile Accessories - EF-OA366TBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11077",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-oa566tbegus/gallery/us-galaxy-a56-5g-card-slot-ef-oa566-ef-oa566tbegus-547929857?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Card Slot Case Black Mobile Accessories - EF-OA566TBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11078",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11509",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11510",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11081",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ra366cbegus/gallery/us-galaxy-a36-5g-rugged-case-ef-ra366-ef-ra366cbegus-545839502?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A36 5G Rugged Case Black Mobile Accessories - EF-RA366CBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11082",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ua366ctegus/gallery/us-galaxy-a36-5g-screen-protector-ef-ua366-ef-ua366ctegus-545839110?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A36 5G Screen Protector Transparent Mobile Accessories - EF-UA366CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11083",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pa566cbegus/gallery/us-galaxy-a56-5g-silicone-case-ef-pa566-ef-pa566cbegus-547927890?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Silicone Case Black Mobile Accessories - EF-PA566CBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11511",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pa566cgegus/gallery/us-galaxy-a56-5g-silicone-case-ef-pa566-ef-pa566cgegus-547927906?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Silicone Case Sage Green Mobile Accessories - EF-PA566CGEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11512",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51W1FKGqwAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy A56 5G Silicone Phone Case, Protective, Comfortable, Easy to Hold, US Version, Pink"
+ },
+ {
+  "product_id": "NE-11086",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-ra566cbegin/gallery/in-galaxy-a56-5g-rugged-case-ef-ra566-ef-ra566cbegin-545409364?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Rugged Case - Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11087",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ua566ctegus/gallery/us-galaxy-a56-5g-screen-protector-ef-ua566-ef-ua566ctegus-547932507?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy A56 5G Screen Protector Transparent Mobile Accessories - EF-UA566CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11088",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11089",
+  "keep": false,
+  "image_url": "https://surajbusiness.com/cdn/shop/files/71bveoiH8CL._SL1500.jpg?v=1770660382&width=1445",
+  "confidence": "high",
+  "source_domain": "surajbusiness.com",
+  "matched_title": "Samsung Galaxy 20,000mAh Power Bank (Gray) | 45W Super Fast Charging"
+ },
+ {
+  "product_id": "NE-11090",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/eb-p3400xungin/gallery/in-10ah-battery-pack-eb-p3400-eb-p3400xungin-536180574?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25W Powerbank 10000mAh (EB-P3400XUNG) | Samsung India"
+ },
+ {
+  "product_id": "NE-11091",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11092",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71s+kuyTLiS.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Eo-Ic100Bbegus Corded Type-C Wired in Ear Earphones with Mic, Black"
+ },
+ {
+  "product_id": "NE-11093",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t2510xwngin/gallery/in-25w-power-adapter-ep-t2510-ep-t2510xwngin-549980255?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25W Travel Adaptor with Cable (EP-T2510XWNG) | Samsung India"
+ },
+ {
+  "product_id": "NE-11513",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t2510nwngin/gallery/in-25w-power-adapter-ep-t2510-506974-ep-t2510nwngin-549980217?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "25 W Travel Adaptor without Cable (EP-T2510NWNGIN)"
+ },
+ {
+  "product_id": "NE-11095",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t4511nbngin/gallery/in-45w-power-adapter-ep-t4511-537088-ep-t4511nbngin-544968447?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "45 W Type-C Travel Adaptor Without Cable | Samsung Business India"
+ },
+ {
+  "product_id": "NE-11514",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t4511xbegus/gallery/us-45w-power-adapter-ep-t4511-ep-t4511xbegus-549253529?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "45W PD Power Adapter with 5A USB C Cable, Black Mobile Accessories - EP-T4511XBEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11097",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t6530nbngin/gallery/in-65w-power-adapter-trio-ep-t6530-ep-t6530nbngin-539529052?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "65W Travel Adaptor without cable EP-T6530NBNG | Samsung India"
+ },
+ {
+  "product_id": "NE-11515",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11516",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t1510nbngin/gallery/in-15w-power-adapter-ep-t1510-ep-t1510nbngin-539710902?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "15W Power Adapter black EP-T1510NBNG | Samsung India"
+ },
+ {
+  "product_id": "NE-11517",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ep-t1510nwngin/gallery/in-15w-power-adapter-ep-t1510-ep-t1510nwngin-539710911?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "EP-T1510N 15W Power Adapter white | Samsung India"
+ },
+ {
+  "product_id": "NE-11102",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11103",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11104",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/in-cable-combo-dg930-ep-dg930ibegin-frontblack-119451395?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Shop Cable (Type-C) (Black)-Price, Reviews and Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-11105",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11106",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11107",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11108",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ep-t5020xbegus/gallery/us-50w-power-adapter-duo-ep-t5020-ep-t5020xbegus-551074441?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "50W PD Duo Power Adapter with 5A USB C Cable, Black | Samsung US"
+ },
+ {
+  "product_id": "NE-11109",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/eb-u2500xjegin/gallery/in-eb-u2500-eb-u2500xjegin-552102106?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Magnetic Wireless Battery Pack Gray | Samsung India"
+ },
+ {
+  "product_id": "NE-11110",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/ch/gp-pwu024wiabw/gallery/ch-3in1-pad-wireless-charger-gp-pwu024wiabw-547301053?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "3 in 1 Wireless Charger Black | Samsung Schweiz (GP-PWU024WI)"
+ },
+ {
+  "product_id": "NE-11111",
+  "keep": false,
+  "image_url": "https://www.thechennaimobiles.com/_next/image?url=https%3A%2F%2Fapi.thechennaimobiles.com%2F1766683365162.jpg&w=1600&q=75",
+  "confidence": "high",
+  "source_domain": "www.thechennaimobiles.com",
+  "matched_title": "Ep Pad Samsung Wireless Charger Dark Gray (P2400BBEGIN)"
+ },
+ {
+  "product_id": "NE-11518",
+  "keep": false,
+  "image_url": "https://youget.pt/92236-large_default/carregador-wireless-samsung-15w-branco-ep-p2400bwe.jpg",
+  "confidence": "high",
+  "source_domain": "youget.pt",
+  "matched_title": "Carregador Wireless Samsung EP-P2400BWE 15W Branco"
+ },
+ {
+  "product_id": "NE-11113",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11519",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11115",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71edkOkrPqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Flip6 Flipsuit Case - Neon Card, Gray"
+ },
+ {
+  "product_id": "NE-11116",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11117",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11118",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tnegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tnegus-551340077?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Navy | Samsung Business"
+ },
+ {
+  "product_id": "NE-11119",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11120",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tyegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tyegus-551340094?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Yellow Mobile Accessories - EF-PF741TYEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11121",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-pf741tmegus/gallery/us-galaxy-z-flip6-pf741-582519-ef-pf741tmegus-551340059?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Silicone Case, Mint Mobile Accessories - EF-PF741TMEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11122",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-flip6-qf741-ef-qf741ctegin-542012597?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Clear Case Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11123",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-vf741pjegus/gallery/us-galaxy-z-flip6-vf741-ef-vf741pjegus-551371147?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip6 Kindsuit Case, Gray Mobile Accessories - EF-VF741PJEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11124",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11125",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11126",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51gJBaxCjAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Anti-reflecting Film for Galaxy Z Flip7 FE, Z Flip6 - Transparent"
+ },
+ {
+  "product_id": "NE-11127",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11128",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11520",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11521",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-vf766-ef-vf766pjegus-547749618?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Kindsuit Case Taupe Mobile Accessories - EF-VF766PJEGUS | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11131",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11522",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-pf766-ef-pf766tnegus-547749695?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Silicone) Blue Mobile Accessories - EF-PF766TNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11523",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-z-flip7-pf766-ef-pf766tregin-547355735?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Silicone) Red | Samsung India"
+ },
+ {
+  "product_id": "NE-11524",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61V19tU5zTL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Silicone Case with Ring Folding Silicone Case with Ring for Galaxy Z Flip7, Mint"
+ },
+ {
+  "product_id": "NE-11135",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-qf766-ef-qf766ctegus-547749744?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Ring Case (Clear) Transparent Mobile Accessories - EF-QF766CTEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11136",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ICV9yVLdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Clear Case EF-AF766 for Galaxy Z Flip7, Transparent"
+ },
+ {
+  "product_id": "NE-11137",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51dxsAfeUWL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Flip7 Anti-reflecting Film - Transparent"
+ },
+ {
+  "product_id": "NE-11138",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-clear-magnet-case-556936-gp-fff766ycatu-547974161?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Clear Magnet Case Transparent Mobile Accessories - GP-FFF766YCATU | Samsung US"
+ },
+ {
+  "product_id": "NE-11139",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11525",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-flip7-thin-fit-558779-gp-fpf766pgabu-547956885?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Flip7 Thin Fit Case Black Mobile Accessories - GP-FPF766PGABU | Samsung US"
+ },
+ {
+  "product_id": "NE-11140",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61olGznELFL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 S Pen Phone Case ... EF-OF95PCJEGUS, Gray"
+ },
+ {
+  "product_id": "NE-11141",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11142",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/7100sNvuw+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 S Pen Phone Case ... EF-OF95PCPEGUS, Pink"
+ },
+ {
+  "product_id": "NE-11143",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11144",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-z-fold6-mf956-ef-mf956twegin-542013861?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold6 Silicone Case White | Samsung India"
+ },
+ {
+  "product_id": "NE-11145",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11146",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81GZMEhGqPL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Z Fold 6 Kindsuit Phone Case ... EF-VF956PJEGUS, Gray"
+ },
+ {
+  "product_id": "NE-11147",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11148",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61XgRPCHLxL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Z Fold6 Anti-Reflecting Film, Phone Screen Protector"
+ },
+ {
+  "product_id": "NE-11149",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/614SnFubqgL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Fold7 Carbon Shield Case, Black"
+ },
+ {
+  "product_id": "NE-11150",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61iEboRJZKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Fold7 Silicone Case, Black"
+ },
+ {
+  "product_id": "NE-11526",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-mf966-ef-mf966cnegus-547749400?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Silicone Case Blue Mobile Accessories - EF-MF966CNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11527",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11528",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11154",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-qf966-ef-qf966ctegus-547749434?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Clear Grip Case Transparent Mobile Accessories - EF-QF966CTEGUSS | Samsung US"
+ },
+ {
+  "product_id": "NE-11155",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11156",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-z-fold7-uf966-ef-uf966ctegin-547355724?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Z Fold7 Anti-reflecting Film Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11157",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11158",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/f2507/gallery/uk-galaxy-z-fold7-capella-gp-fpf966pgbtw-547542181?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Spigen Capella Pro Case with Magnet for Galaxy Z Fold7 | Samsung Business UK"
+ },
+ {
+  "product_id": "NE-11529",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/au/f2507/gallery/au-galaxy-z-fold7-thin-fit-gp-fpf966pgabw-547367531?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Z Fold7 Thin Fit | GP-FPF966PGABW | Samsung Australia"
+ },
+ {
+  "product_id": "NE-11159",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11160",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11161",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11162",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11163",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11164",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/au/ej-pp610bwegww/gallery/au-galaxy-tab-s10-lite-s-pen-ej-pp610bwegww-548833464?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 Lite S Pen | EJ-PP610BWEGWW | Samsung Australia"
+ },
+ {
+  "product_id": "NE-11165",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11530",
+  "keep": false,
+  "image_url": "https://www.mobiparts.ro/img/t/433x325/products/191385/smart-view-wallet-case-3-1728390990.png",
+  "confidence": "high",
+  "source_domain": "www.mobiparts.ro",
+  "matched_title": "Smart View Wallet Case for Samsung Galaxy S24 FE S721, White EF-ZS721CWEGWW"
+ },
+ {
+  "product_id": "NE-11531",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11532",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ef-zs721clegin/gallery/in-galaxy-s24-fe-wallet-case-zs721-ef-zs721clegin-543782143?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Smart View Wallet Case Blue | Samsung India"
+ },
+ {
+  "product_id": "NE-11169",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11534",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11535",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-ps721cyegus/gallery/us-galaxy-s24-fe-silicone-case-ps721-ef-ps721cyegus-551352246?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Silicone Case, Yellow | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11536",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11537",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11174",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-gs721cnegus/gallery/us-galaxy-s24-fe-standing-grip-case-gs721-ef-gs721cnegus-551338981?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE Standing Grip Case, Blue Black Mobile Accessories - EF-GS721CNEGUS | Samsung US"
+ },
+ {
+  "product_id": "NE-11538",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11539",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11177",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11540",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11179",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/us/ef-us721ctegus/gallery/us-galaxy-s24-fe-anti-reflecting-film-us721-ef-us721ctegus-551351486?$product-details-jpg$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S24 FE A/R Screen Protector, Transparent | Samsung Business US"
+ },
+ {
+  "product_id": "NE-11180",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11181",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11541",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11182",
+  "keep": false,
+  "image_url": "https://www.dressyourtech.co.za/cdn/shop/files/SAM-GP-FPS938PG_800x.jpg?v=1737968073",
+  "confidence": "high",
+  "source_domain": "www.dressyourtech.co.za",
+  "matched_title": "Samsung Capella Case - Samsung Galaxy S25 Ultra - Frost Black (SAM-GP-FPS938PG)"
+ },
+ {
+  "product_id": "NE-11542",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11183",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61NzLIMU53L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Standing Grip Case, Black"
+ },
+ {
+  "product_id": "NE-11543",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11544",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41NnMmr5nuL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 (Small) Standing Grip Phone Case ... EF-GS931CWEGWW (White)"
+ },
+ {
+  "product_id": "NE-11186",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-ps931-ef-ps931cbegin-544547982?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Silicone Case Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11545",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-ps931-ef-ps931cnegin-544547998?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Silicone Case Blue | Samsung India"
+ },
+ {
+  "product_id": "NE-11546",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41afIbiF8JL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "SAMSUNG Galaxy Official Silicone Case for Galaxy S25, Light Blue"
+ },
+ {
+  "product_id": "NE-11547",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51S675srdML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Silicone Case, Mint"
+ },
+ {
+  "product_id": "NE-11548",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/617f-Q8BdwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Silicone Phone Case, Protective Cover ... Red"
+ },
+ {
+  "product_id": "NE-11191",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-vs931-530385-ef-vs931pbegin-544549536?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Kindsuit Case Black | Samsung India"
+ },
+ {
+  "product_id": "NE-11549",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11550",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11551",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-vs931-ef-vs931pfegin-544441075?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Kindsuit Case Camel | Samsung India"
+ },
+ {
+  "product_id": "NE-11195",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-qs931-ef-qs931ctegin-544459315?$624_468_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Clear Case Transparent | Samsung India"
+ },
+ {
+  "product_id": "NE-11196",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51CVorleDwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Anti-reflecting Film | Clear | EF-US931CTEGJP"
+ },
+ {
+  "product_id": "NE-11197",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/616wr-LztlL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy S25 Flipsuit Case, White"
+ },
+ {
+  "product_id": "NE-11198",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-js931-ef-js931cbegin-544441061?$1164_776_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Flipsuit Case (Rugged) Black| Samsung India"
+ },
+ {
+  "product_id": "NE-11199",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-rs931-ef-rs931cbegin-544470666?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy S25 Rugged Case | Samsung Support India"
+ },
+ {
+  "product_id": "NE-11200",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11552",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11553",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61nW4jOFFCL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Back Cover For Galaxy S25 Edge Silicone Phone Case ... light Gray"
+ },
+ {
+  "product_id": "NE-11203",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-02630",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02631",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61wrLdFNhyL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige Provo Plus 600 1400M3/Hr Suction Chimney"
+ },
+ {
+  "product_id": "NE-02632",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Electric%20Chimney/Images/318579_1_7pMGdkT73.png?updatedAt=1773317330145",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Prestige Provo Plus 90cm 1400m3/hr Ducted Auto Clean Wall Mounted Chimney"
+ },
+ {
+  "product_id": "NE-02633",
+  "keep": false,
+  "image_url": "https://kesariya.shop/wp-content/uploads/2026/07/0c907d_91028733213c4c4e846d7c68ff06719cmv2-500x375.jpg",
+  "confidence": "high",
+  "source_domain": "kesariya.shop",
+  "matched_title": "PRESTIGE CHIMNEY EDGE SAFESENSE 60CM"
+ },
+ {
+  "product_id": "NE-02634",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/0/4046-42334-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Edge Safesense 900mm Kitchen Hood Chimney"
+ },
+ {
+  "product_id": "NE-02635",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/7/3787-42339-IMG2.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Premia 60 cm BLDC Chimney"
+ },
+ {
+  "product_id": "NE-02636",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02637",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/6/8638-41059-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Cute 1.0-2 SS 400W Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02638",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51YExomACyL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige Cute 1.5-2 SS 500W Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02639",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/8/5853-42243-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight Electric Rice Cooker Cute (42243)"
+ },
+ {
+  "product_id": "NE-02640",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/8/8870-42205-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Cute 1.8-2 Rice Cooker 1.8 L with Close Fit Stainless Steel Lid"
+ },
+ {
+  "product_id": "NE-02641",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/7/0/7066-42244-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Delight Electric Rice Cooker Cute (42244)"
+ },
+ {
+  "product_id": "NE-02642",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/2/0263-41139-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Electric Rice Cooker - Cute 1.8-2 SS"
+ },
+ {
+  "product_id": "NE-02643",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/7/0/7058-41140-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Electric Rice Cooker - Cute 2.8-2 SS"
+ },
+ {
+  "product_id": "NE-02644",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61o9kh26U7L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige Cute 0.6-2 SS 300W Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02645",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61JTtZSbpbL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige PRWO 0.6L Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02646",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/8/4809-42209-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight PRWO Rice Cooker 1.0 L with Close Fit Lid (Off-white)"
+ },
+ {
+  "product_id": "NE-02647",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61venXdKUYL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige Delight PRWO 1.5L Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02648",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/6/4692-41269-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Prwcs 1.2L Electric Rice Cooker (White)"
+ },
+ {
+  "product_id": "NE-02649",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/8/6840-41279-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight PRWO 1.8 Electric Rice Cooker (White), 1.8 Litre"
+ },
+ {
+  "product_id": "NE-02650",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/8/6843-42240-P-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight Prwo-1.5-2 Double Pot Electric Rice Cooker"
+ },
+ {
+  "product_id": "NE-02651",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/1/9135-41270-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy PRWO 1.8-2 Electric Rice Cooker 1.8L with Close Fit Lid"
+ },
+ {
+  "product_id": "NE-02652",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/5/9525-41266-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Prwcs 1.8 700 W 1.8 L Rice Cooker (White)"
+ },
+ {
+  "product_id": "NE-02653",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/1/4167-42238-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight Smart 1.8-2 Electric Rice Cooker (Blue)"
+ },
+ {
+  "product_id": "NE-02654",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02655",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/7/9714-42203-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PRWCS 2.8 L Delight Electric Rice Cooker (White)"
+ },
+ {
+  "product_id": "NE-02656",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/1/2141-41061-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Delight Electric Rice Cooker (4.2 L Open Type, with Aluminium Cooking Pan - 2 Unit)"
+ },
+ {
+  "product_id": "NE-02657",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/9/2998-41899-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Electic Travel Kettle 0.5 L V2"
+ },
+ {
+  "product_id": "NE-02658",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/8/9832-41869-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Pknss Electric kettle, Silver, 1.0 L"
+ },
+ {
+  "product_id": "NE-02659",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02660",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/2/6269-41587-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige 1.5L PKOSS Stainless Steel Electric Kettle"
+ },
+ {
+  "product_id": "NE-02661",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/6/6610-41588-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "PKOSS Stainless Steel Electric Kettle 1350W, 1.8L (Silver)"
+ },
+ {
+  "product_id": "NE-02662",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/2/6247-41573-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Pkgss 41573 1.7 L Electric Kettle (Silver)"
+ },
+ {
+  "product_id": "NE-02663",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02664",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/6/2617-41415-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PKCT - White Electric Kettle"
+ },
+ {
+  "product_id": "NE-02666",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/4/4414-41417-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy PKGB 1.8 Litre Electric Glass Kettle"
+ },
+ {
+  "product_id": "NE-02667",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/9/6934-41562-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PKSS 1.0 Stainless Steel Electric Kettle 1350W, 1.0L (Silver)"
+ },
+ {
+  "product_id": "NE-02668",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51aJFGuhmWL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige PMC 1.0+ Multi Cooker"
+ },
+ {
+  "product_id": "NE-02669",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/7/6775-41887-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PKSS 1.5 Electric Kettle"
+ },
+ {
+  "product_id": "NE-02670",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/9/0906-41889-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "PRESTIGE ELECTRIC KETTLE SMART-1.7"
+ },
+ {
+  "product_id": "NE-02671",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02672",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02673",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/8/1884-41419-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Stainless Steel Digi 2 Litre 1350 Watts Kettle With 4 Preset Modes"
+ },
+ {
+  "product_id": "NE-02674",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/2/4/2416-42284-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Single Sandwich Fixed - PSSP"
+ },
+ {
+  "product_id": "NE-02675",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/8/9811-42285-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Pgsp Single Sandwich Toaster With Fixed Plate Grill"
+ },
+ {
+  "product_id": "NE-02676",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/4/5493-41467-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Sandwich Maker with fixed Grill Plate, PGMFB"
+ },
+ {
+  "product_id": "NE-02677",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/0/9059-41468-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PSMFB Sandwich (Black)"
+ },
+ {
+  "product_id": "NE-02678",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/1/9138-42286-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Sandwich Toaster PSMFB (D) Designer Series"
+ },
+ {
+  "product_id": "NE-02679",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/4/6487-42287-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PGMFB-D Sandwich Maker With Fixed Grill Plates, 800W"
+ },
+ {
+  "product_id": "NE-02680",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02681",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ZPeNY8tLL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Prestige Pgfsp - Spatter Coated Non-stick Sandwich Toasters With Fixed Grill Plate | Black"
+ },
+ {
+  "product_id": "NE-02682",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/0/0062-41481-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PGMFS Sandwich Toaster 700W with Non-stick Fixed Grilled Plates"
+ },
+ {
+  "product_id": "NE-02683",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61dT4avUEEL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Buy Prestige PSMFS 700-Watt Sandwich Toaster (Black/Silver)"
+ },
+ {
+  "product_id": "NE-02684",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/4/5412-42265-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Waffle Maker PWM 01"
+ },
+ {
+  "product_id": "NE-02685",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/0/5040-42268-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Pgdp 01 Sandwich Toaster With Fixed Grill Plates Grill (Black)"
+ },
+ {
+  "product_id": "NE-02686",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/4/0409-42295-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Sandwich Toaster With Fixed Sandwich Plates - PSDP 02"
+ },
+ {
+  "product_id": "NE-02687",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/7/9799-42296-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Sandwich Toaster With Fixed Grill Plates - PGDP 02"
+ },
+ {
+  "product_id": "NE-02688",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/6/5/6585-42297-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Sandwich Toaster With Fixed Sandwich Plates - PSDP 03 - SS"
+ },
+ {
+  "product_id": "NE-02689",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/8/9853-42298-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Sandwich Toaster With Fixed Grill Plates - PGDP 03 - Ss"
+ },
+ {
+  "product_id": "NE-02690",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/2/1216-41715-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Slice Pop-up Toaster 750W"
+ },
+ {
+  "product_id": "NE-02691",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/5/1/5188-41703-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Popup Toaster- PPTPKY"
+ },
+ {
+  "product_id": "NE-02692",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/8/0824-42299-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Electric Grill - PEG 7"
+ },
+ {
+  "product_id": "NE-02693",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02694",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/3/4360-42342-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige POTG28AC Oven Toaster Griller 28L"
+ },
+ {
+  "product_id": "NE-02695",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81AWqcFbfcL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Buy Prestige POTG 9 PC 800-Watt Oven Toaster Grills (9 Liter)"
+ },
+ {
+  "product_id": "NE-02696",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/2/4211-41457-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige POTG 19 PCR 19 Liters Oven Toaster Grill, Black"
+ },
+ {
+  "product_id": "NE-02697",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/0/2/0249-42325-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Digi-OTG 28 Litre Oven Toaster Grill (Digioven 28L 42325)"
+ },
+ {
+  "product_id": "NE-02698",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02699",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02700",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/5/9508-41412-IMG8.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Buy Air Chef 12 Litre Air Oven"
+ },
+ {
+  "product_id": "NE-02701",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/5/1553-41413-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige All-in-one Air Fryer (Air Flip 41413)"
+ },
+ {
+  "product_id": "NE-02702",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/2/3241-41876-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PCMD 4.0 Coffee Maker 800 W, 0.7L"
+ },
+ {
+  "product_id": "NE-02703",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02704",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/9/4996-41051-IMG2.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PEC 4.0 Electric Vegetable & Fruit Chopper"
+ },
+ {
+  "product_id": "NE-02705",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02706",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/9/4/9436-41053-IMG3.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PEB 01 Egg Boiler (7 Egg Capacity)"
+ },
+ {
+  "product_id": "NE-02707",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/8/4/8447-41030-IMG1.jpeg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PRM 3.0 900-Watt Roti Maker (Silver)"
+ },
+ {
+  "product_id": "NE-02708",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02709",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/9/1983-41774-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Cruise 600W Dry Iron"
+ },
+ {
+  "product_id": "NE-02710",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/4/4410-41773-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Magnite 750W Dry Iron"
+ },
+ {
+  "product_id": "NE-02711",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/3/1/3145-41772-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Dry Iron - Spark"
+ },
+ {
+  "product_id": "NE-02712",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02713",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/1/7/1732-41769-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige Magic Pdi 06 41769 1000 W Dry Iron"
+ },
+ {
+  "product_id": "NE-02714",
+  "keep": false,
+  "image_url": "https://shop.ttkprestige.com/media/catalog/product/4/2/4290-43135-IMG1.jpg",
+  "confidence": "high",
+  "source_domain": "shop.ttkprestige.com",
+  "matched_title": "Prestige PGCT 1.0 Gas Cylinder Trolley (Red)"
+ },
+ {
+  "product_id": "NE-11462",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11463",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11464",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11465",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11466",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11467",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11468",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11469",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11470",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11471",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11472",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11473",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11474",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11475",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11476",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11477",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11478",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61TN25c23oL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Buy Safari Aeon Cabin Luggage with Laptop Compartment, Flintstone"
+ },
+ {
+  "product_id": "NE-11479",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/o/d/m/56-defender-1-defender564wglu-cabin-suitcase-safari-49-22-watermarked-original-imahed4tv4mgj9sm.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "SAFARI Defender Cabin Suitcase 8 Wheels - 22 inch (defender564wglu)"
+ },
+ {
+  "product_id": "NE-11480",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/f/z/q/68-defender-1-defender684wglu-check-in-suitcase-safari-86-27-watermarked-original-imahed4vezyad848.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "SAFARI Defender Check-in Suitcase 8 Wheels - 27 inch (defender684wglu)"
+ },
+ {
+  "product_id": "NE-11481",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71VIju8cHML.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Buy Safari Defender Graphite Blue 78cm Large Size Check-in Trolley"
+ },
+ {
+  "product_id": "NE-11482",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11483",
+  "keep": false,
+  "image_url": "https://www.bagpoint.in/cdn/shop/files/347_e531b054-c3cb-456c-bba3-7abd09782b72.webp?v=1781880468",
+  "confidence": "high",
+  "source_domain": "www.bagpoint.in",
+  "matched_title": "Safari Defender (Thyme Green) Medium"
+ },
+ {
+  "product_id": "NE-11484",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/suitcase/a/b/i/78-defender-1-defender784wtrn-check-in-suitcase-safari-132-31-watermarked-original-imahed4txxajnp9f.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "SAFARI Defender Check-in Suitcase 8 Wheels - 31 inch (defender784wtrn)"
+ },
+ {
+  "product_id": "NE-11485",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11486",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11487",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11488",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11489",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11490",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/backpack/t/7/6/-original-imahzrx4pfv6c9xz.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "SAFARI Twin Light Weight Backpack For Men & Women 36 L Laptop Backpack Twin Navy Blue"
+ },
+ {
+  "product_id": "NE-11491",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11492",
+  "keep": false,
+  "image_url": "https://www.woofern.com/public/uploads/all/CsAHutUdL8HCTmEqS74B9FDWEf3OQIm8kzNuTgsB.jpg",
+  "confidence": "high",
+  "source_domain": "www.woofern.com",
+  "matched_title": "Buy Safari Twin Pro Olive Backpack for Corporate Gifting"
+ },
+ {
+  "product_id": "NE-11493",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/safari/494583245/0/_m6SVD3cf9-zXTvPbCrB5-Safari-Twin-Deluxe-19-FB-Laptop-Bag-Black-494583245-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Safari Twin Deluxe 19 FB Laptop Backpack, Black"
+ },
+ {
+  "product_id": "NE-11495",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11497",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/10/549909806/WU/FU/YN/233528655/safari-tritan-backpack-black.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Solid Safari Tritan Backpack (Black)"
+ },
+ {
+  "product_id": "NE-11498",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/10/549909787/VS/HK/ZR/233528655/safari-tritan-backpack-navy-blue.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Safari Tritan Backpack (Navy Blue)"
+ },
+ {
+  "product_id": "NE-11499",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11500",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11501",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11502",
+  "keep": false,
+  "image_url": "https://www.woofern.com/public/uploads/all/C6VMVKEAwJmd3iXAhvgCt8KwZ8Ew4fbJVyLW8C6u.jpg",
+  "confidence": "high",
+  "source_domain": "www.woofern.com",
+  "matched_title": "Safari Tritan Deluxe Backpack in Navy Blue | Corporate Gifts"
+ },
+ {
+  "product_id": "NE-11503",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/backpack/l/d/x/-original-imahmfxrycbzyame.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "SAFARI Nex 26 L Laptop Backpack Black"
+ },
+ {
+  "product_id": "NE-11504",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/704/844/xif0q/backpack/a/u/y/-watermarked-original-imahm2xecdg8jgdk.jpeg?q=20&crop=false",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "SAFARI Nex 26 L Laptop Backpack Navy Blue"
+ },
+ {
+  "product_id": "NE-11505",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/580/xif0q/backpack/w/m/i/-original-imahm43m6zutvqht.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "SAFARI Elite 25 L Laptop Backpack Black"
+ },
+ {
+  "product_id": "NE-11506",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11507",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10950",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10951",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10952",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494582928/0/7F6B-pbkkz-M792QMcOEB-SamsungTabS11U-Tab-494582928-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Samsung Galaxy Tab S11 Ultra Wi-Fi Android Tablet with S Pen (14.5 Inch, 12GB RAM, 512GB ROM, Gray)"
+ },
+ {
+  "product_id": "NE-10953",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166464237/in-feature-ultra-thin--ultra-powerful-548647486?$550_N_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab S11 Ultra Wi-Fi 12/256 GB Gray | Galaxy AI | Samsung India"
+ },
+ {
+  "product_id": "NE-10954",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10955",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10956",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166463389/in-feature--nbsp-548643400?$720_n_$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab S11 Wi-Fi, 12/512 GB Memory Gray - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10957",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/samsung/494582918/0/lqTg5ompB5-U6hHEsArbY-SamsungTabS11-Tab-494582918-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Samsung Galaxy Tab S11 Wi-Fi Android Tablet with S Pen (11 Inch, 12GB RAM, 256GB ROM, Gray)"
+ },
+ {
+  "product_id": "NE-10958",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10959",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494493055/2/zkTOAsP9Fx-sUwb6CK_ZA-SamsungTabS10PLUS-494493055-i-3-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Samsung Tab S10+ 31.49 cm (12.4 inch) WiFi + 5G Tablet with S-Pen, 12 GB RAM, 256 GB, Silver, X826BA"
+ },
+ {
+  "product_id": "NE-10960",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494493053/2/8N5xfQQRfY-85EvlzRq4j-SamsungTabS10PLUS-494493053-i-3-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Samsung Tab S10+ 31.49 cm (12.4 inch) WiFi Tablet with S-Pen, 12 GB RAM, 256 GB, Silver, X820NA"
+ },
+ {
+  "product_id": "NE-10961",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x626blbeins/gallery/in-galaxy-tab-s10-fe-plus-sm-x626-542984-sm-x626blbeins-545692416?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 FE+ 5G (12 GB Memory) | SM-X626BLBEINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10962",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x626bzaains/gallery/in-galaxy-tab-s10-fe-plus-sm-x626-542983-sm-x626bzaains-545692277?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 FE+ 5G (8 GB Memory) | SM-X626BZAAINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10963",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x620nzaeins/gallery/in-galaxy-tab-s10-fe-plus-sm-x626-542982-sm-x620nzaeins-545692141?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 FE+ (Wi-Fi, 12 GB Memory) | SM-X620NZAEINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10964",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x620nlbains/gallery/in-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbains-545691944?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 FE+ (Wi-Fi, 8 GB Memory) | SM-X620NLBAINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10965",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x406bzaeinu/gallery/in-galaxy-tab-s10-lite-sm-x406-560692-sm-x406bzaeinu-548502755?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 Lite 5G (8 GB Memory) | SM-X406BZAEINU | Samsung India"
+ },
+ {
+  "product_id": "NE-10966",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10967",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x400nzaeinu/gallery/in-galaxy-tab-s10-lite-sm-x406-564579-sm-x400nzaeinu-549050130?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab S10 Lite (Wi-Fi, 8 GB Memory) | SM-X400NZAEINU | Samsung India"
+ },
+ {
+  "product_id": "NE-10968",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41+NsH-8D0L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Tab S10 Lite Wi-Fi Android Tablet with S Pen (10.9 Inch, 6GB RAM, 128GB ROM, Gray)"
+ },
+ {
+  "product_id": "NE-10970",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166754881/in-feature-galaxy-tab-a11-plus-sm-x230-570852-550258578?$FB_TYPE_I_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab A11+ 5G Wi-Fi, 8/256 GB Silver - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10971",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166754849/in-feature-galaxy-tab-a11-plus-sm-x230-570851-550258576?$FB_TYPE_I_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab A11+ 5G Wi-Fi, 6/128 GB Gray - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10972",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166754791/in-feature-galaxy-tab-a11-plus-sm-x230-570850-550258572?$FB_TYPE_I_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab A11+ Wi-Fi, 8/256 GB Silver - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10973",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166731919/in-feature-galaxy-tab-a11-plus-sm-x230-550250666?$FB_TYPE_I_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab A11+ Wi-Fi, 6/128 GB Gray - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10974",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x135gzaeins/gallery/in-galaxy-tab-a11-sm-x130-565469-sm-x135gzaeins-549176038?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Samsung Galaxy Tab A11 LTE ( Gray, 8GB-128GB )"
+ },
+ {
+  "product_id": "NE-10975",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71VZQr2TaEL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Tab A11, 22.05 cm (8.7 inch) TFT LCD Display, 4 GB RAM, 64 GB Storage, Wi-Fi + LTE Tablet, Silver"
+ },
+ {
+  "product_id": "NE-10976",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x133nzseins/gallery/in-galaxy-tab-a11-sm-x130-565447-sm-x133nzseins-549174562?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab A11 (Wi-Fi, 8 GB Memory) | SM-X133NZSEINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10977",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x133nzaains/gallery/in-galaxy-tab-a11-sm-x130-sm-x133nzaains-549173917?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Tab A11 (Wi-Fi, 4 GB Memory) | SM-X133NZAAINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10978",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x306bzgew01/gallery/in-galaxy-tab-active5-5g-sm-x306-sm-x306bzgew01-549572828?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy Tab Active5 (SM-X306BZGEW01)"
+ },
+ {
+  "product_id": "NE-10979",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10980",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10981",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10982",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494832423/0/pQJ6_ieEOo-cOJ8skqPM-Samsung-Fold8U-12-256GB-VIOLET-494832423-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "cdn.jiostore.online",
+  "matched_title": "Samsung Galaxy Z Fold8 Ultra 5G ( Violet Shadow, 16GB-1TB )"
+ },
+ {
+  "product_id": "NE-10983",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71NBtHyrUYL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Z Fold8 Ultra 5G Smartphone with Galaxy AI (Cream, 12GB RAM, 512GB Storage)"
+ },
+ {
+  "product_id": "NE-10984",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10985",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/325138_0_9tezd_jug.png?updatedAt=1784803152533",
+  "confidence": "high",
+  "source_domain": "media-ik.croma.com",
+  "matched_title": "SAMSUNG Galaxy Z Fold8 5G (16GB RAM, 1TB, Lavender)"
+ },
+ {
+  "product_id": "NE-10986",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2607/gallery/in-galaxy-z-fold8-f971-sm-f971bzkgins-553724071?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Z Fold8 | SM-F971BZKGINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10987",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71LVm2OIk0L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Z Fold8 5G Smartphone with Galaxy AI (Lavender, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10988",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10989",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61EBFwABC5L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Z Flip8 5G Smartphone with Galaxy AI (Graphite, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10990",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10991",
+  "keep": false,
+  "image_url": "https://images.samsung.com/in/smartphones/galaxy-z-fold7/buy/product_color_mint_MO.png",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Samsung Galaxy Z Fold7 (12GB/512GB, Mint) Special color"
+ },
+ {
+  "product_id": "NE-10992",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61x2YvxqdGL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy Z Fold7 5G (12GB RAM, 256GB, Silver Shadow)"
+ },
+ {
+  "product_id": "NE-10993",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/f2507/gallery/in-galaxy-zflip7-f766-sm-f766bdbeins-547545336?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy Z Flip7 | SM-F766BDBEINS | Samsung India"
+ },
+ {
+  "product_id": "NE-10994",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/mobile/0/7/z/-resized-original-imahgfmzyu3bu2sw.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "Samsung Galaxy Z Flip7 5G (256 GB Storage, 12 GB RAM)"
+ },
+ {
+  "product_id": "NE-10995",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/m/3/7/-resized-original-imahgfmzeg4jmg9u.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "Samsung Galaxy Z Flip7 FE 5G (8GB RAM, 256GB, Black)"
+ },
+ {
+  "product_id": "NE-10996",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10997",
+  "keep": false,
+  "image_url": "https://www.telephoneshoppees.com/cdn/shop/files/original-imahhyzrvjnhw6gt_large.jpg?v=1772269608",
+  "confidence": "high",
+  "source_domain": "www.telephoneshoppees.com",
+  "matched_title": "Samsung Galaxy S26 Ultra Cobalt Violet 1TB"
+ },
+ {
+  "product_id": "NE-10998",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10999",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61YILVmenZL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy S26 Ultra 5G (Cobalt Violet, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-11000",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71rz2HuQ4LL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy S26 Plus 5G (Black, 12GB RAM, 512GB Storage)"
+ },
+ {
+  "product_id": "NE-11001",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/s2602/gallery/in-galaxy-s26-s947-sm-s947bzvbins-550876429?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy S26+ | SM-S947BZVBINS | Samsung India"
+ },
+ {
+  "product_id": "NE-11002",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11003",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11004",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11005",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11006",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165835045/in-feature-galaxy-s-544961968?$FB_TYPE_A_MO_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy S25 512GB Navy - Features | Samsung India"
+ },
+ {
+  "product_id": "NE-11007",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/313341_0_ddny1b.png",
+  "confidence": "high",
+  "source_domain": "media-ik.croma.com",
+  "matched_title": "Samsung Galaxy S25 - 256 GB - Icy Blue"
+ },
+ {
+  "product_id": "NE-11008",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61yFcbEXJ1L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Samsung Galaxy S25 5G (12GB RAM, 128GB Storage) Mint"
+ },
+ {
+  "product_id": "NE-11009",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/ps_2504/gallery/in-galaxy-s25-s937-sm-s937bzscins-546082703?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Business | Galaxy S25 Edge | SM-S937BZSCINS | Samsung India"
+ },
+ {
+  "product_id": "NE-11010",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-11011",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/166823567/in-feature-galaxy-s25-fe-sm-s731-550547983?$FB_TYPE_I_JPG$",
+  "confidence": "high",
+  "source_domain": "images.samsung.com",
+  "matched_title": "Galaxy S25 FE 8GB/512GB (White) Display, Camera, Specs | Samsung India"
+ }
+]

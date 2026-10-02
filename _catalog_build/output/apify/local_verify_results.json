@@ -1,0 +1,942 @@
+[
+ {
+  "product_id": "NE-01535",
+  "verdict": "unsure",
+  "note": "Bag with side backpack straps looks more like a briefpack; may be swapped with Pivot Briefpack"
+ },
+ {
+  "product_id": "NE-01541",
+  "verdict": "unsure",
+  "note": "Fold-over flap bag, messenger-like; may be swapped with Pivot Ambit Messenger"
+ },
+ {
+  "product_id": "NE-01543",
+  "verdict": "match",
+  "note": "Tan/brown brief bag with flap pockets"
+ },
+ {
+  "product_id": "NE-01544",
+  "verdict": "match",
+  "note": "Navy briefcase with handles and shoulder strap"
+ },
+ {
+  "product_id": "NE-01545",
+  "verdict": "match",
+  "note": "Red laptop messenger/brief with shoulder strap"
+ },
+ {
+  "product_id": "NE-01546",
+  "verdict": "match",
+  "note": "Blue/beige messenger bag with strap"
+ },
+ {
+  "product_id": "NE-01547",
+  "verdict": "match",
+  "note": "Tote-style daypack with backpack straps"
+ },
+ {
+  "product_id": "NE-01549",
+  "verdict": "match",
+  "note": "Red daypack backpack"
+ },
+ {
+  "product_id": "NE-01551",
+  "verdict": "match",
+  "note": "Olive daypack with twin front pockets"
+ },
+ {
+  "product_id": "NE-01553",
+  "verdict": "match",
+  "note": "Roll-top daypack"
+ },
+ {
+  "product_id": "NE-01567",
+  "verdict": "match",
+  "note": "Blue tote with crossbody strap"
+ },
+ {
+  "product_id": "NE-01574",
+  "verdict": "mismatch",
+  "note": "Shows a large puffy tote with two handles, not a baguette bag"
+ },
+ {
+  "product_id": "NE-01593",
+  "verdict": "match",
+  "note": "Flat green crossbody bag"
+ },
+ {
+  "product_id": "NE-01612",
+  "verdict": "match",
+  "note": "Grey fanny/waist pack"
+ },
+ {
+  "product_id": "NE-01615",
+  "verdict": "unsure",
+  "note": "Blue puffy sling bag; shape looks more baguette than bucket"
+ },
+ {
+  "product_id": "NE-01617",
+  "verdict": "unsure",
+  "note": "Yellow puffy pouch with loop; cannot confirm it is the mini bag charm"
+ },
+ {
+  "product_id": "NE-01619",
+  "verdict": "mismatch",
+  "note": "Shows a flower-shaped puffy charm, not a bow"
+ },
+ {
+  "product_id": "NE-01620",
+  "verdict": "match",
+  "note": "Charcoal fanny pack with DO logo"
+ },
+ {
+  "product_id": "NE-01621",
+  "verdict": "match",
+  "note": "Grey crossbody bag"
+ },
+ {
+  "product_id": "NE-01623",
+  "verdict": "match",
+  "note": "Loop power bank, 20000 mAh visible"
+ },
+ {
+  "product_id": "NE-01624",
+  "verdict": "match",
+  "note": "Loop MagSafe power bank, 5000 mAh visible"
+ },
+ {
+  "product_id": "NE-01625",
+  "verdict": "match",
+  "note": "Loop power bank, 10000 mAh visible, no MagSafe ring"
+ },
+ {
+  "product_id": "NE-01626",
+  "verdict": "match",
+  "note": "3-in-1 stand phone+earbuds+watch"
+ },
+ {
+  "product_id": "NE-01631",
+  "verdict": "match",
+  "note": "2-in-1 magnetic stand phone+earbuds"
+ },
+ {
+  "product_id": "NE-01633",
+  "verdict": "match",
+  "note": "Single MagSafe-style charger stand"
+ },
+ {
+  "product_id": "NE-01639",
+  "verdict": "match",
+  "note": "Charging ecosystem with lamp, phone and watch"
+ },
+ {
+  "product_id": "NE-01640",
+  "verdict": "match",
+  "note": "Clay/off-white loft charging station"
+ },
+ {
+  "product_id": "NE-01641",
+  "verdict": "match",
+  "note": "Charcoal loft charging station"
+ },
+ {
+  "product_id": "NE-01642",
+  "verdict": "match",
+  "note": "Forest green loft charging station"
+ },
+ {
+  "product_id": "NE-01643",
+  "verdict": "match",
+  "note": "Mandarin orange loft charging station"
+ },
+ {
+  "product_id": "NE-01645",
+  "verdict": "mismatch",
+  "note": "Shows a puffy lilac laptop bag with handles (Puft style), not a Pivot sleeve"
+ },
+ {
+  "product_id": "NE-01646",
+  "verdict": "match",
+  "note": "Tan Pivot-style laptop sleeve"
+ },
+ {
+  "product_id": "NE-01659",
+  "verdict": "match",
+  "note": "Phone stand with wooden pen cup"
+ },
+ {
+  "product_id": "NE-01660",
+  "verdict": "mismatch",
+  "note": "Shows a wooden-base phone stand, not a laptop stand"
+ },
+ {
+  "product_id": "NE-01662",
+  "verdict": "match",
+  "note": "Laptop on fold-out stand"
+ },
+ {
+  "product_id": "NE-01663",
+  "verdict": "mismatch",
+  "note": "Shows a tablet on a kickstand, not a clamp phone holder"
+ },
+ {
+  "product_id": "NE-01664",
+  "verdict": "mismatch",
+  "note": "Shows a phone clamped to a laptop screen (Klamp holder), not the Aros laptop/tablet stand"
+ },
+ {
+  "product_id": "NE-01666",
+  "verdict": "match",
+  "note": "Tan desk mat with cable organiser"
+ },
+ {
+  "product_id": "NE-01701",
+  "verdict": "match",
+  "note": "Blue desk mat with cable organiser (variant)"
+ },
+ {
+  "product_id": "NE-01707",
+  "verdict": "unsure",
+  "note": "Felt desk mat; integrated laptop stand not visible"
+ },
+ {
+  "product_id": "NE-01861",
+  "verdict": "match",
+  "note": "Leather desk mat"
+ },
+ {
+  "product_id": "NE-01862",
+  "verdict": "match",
+  "note": "Wooden tray with ridges"
+ },
+ {
+  "product_id": "NE-01863",
+  "verdict": "mismatch",
+  "note": "Corrupted partial crop with rendering artefacts"
+ },
+ {
+  "product_id": "NE-01864",
+  "verdict": "match",
+  "note": "Sand/beige Park tech kit"
+ },
+ {
+  "product_id": "NE-01865",
+  "verdict": "match",
+  "note": "Tangerine Park tech kit"
+ },
+ {
+  "product_id": "NE-01866",
+  "verdict": "match",
+  "note": "Electric blue Park tech kit"
+ },
+ {
+  "product_id": "NE-01867",
+  "verdict": "match",
+  "note": "Slate/dark grey Park tech kit"
+ },
+ {
+  "product_id": "NE-01868",
+  "verdict": "match",
+  "note": "Zip tech organiser"
+ },
+ {
+  "product_id": "NE-01869",
+  "verdict": "match",
+  "note": "Navy zip tech kit organiser"
+ },
+ {
+  "product_id": "NE-01871",
+  "verdict": "mismatch",
+  "note": "Partial dark fragment, not a usable product photo"
+ },
+ {
+  "product_id": "NE-01872",
+  "verdict": "match",
+  "note": "Tan zip tech folio"
+ },
+ {
+  "product_id": "NE-01873",
+  "verdict": "match",
+  "note": "Green folio organiser"
+ },
+ {
+  "product_id": "NE-01874",
+  "verdict": "match",
+  "note": "Navy zip pouch"
+ },
+ {
+  "product_id": "NE-01875",
+  "verdict": "match",
+  "note": "Beige canvas pouch"
+ },
+ {
+  "product_id": "NE-01876",
+  "verdict": "match",
+  "note": "Orange dopp kit"
+ },
+ {
+  "product_id": "NE-01881",
+  "verdict": "unsure",
+  "note": "Silver folded object; cannot confirm it is the Stack wallet stand"
+ },
+ {
+  "product_id": "NE-01882",
+  "verdict": "match",
+  "note": "Round phone grip & stand"
+ },
+ {
+  "product_id": "NE-01883",
+  "verdict": "match",
+  "note": "Eyewear case with sunglasses"
+ },
+ {
+  "product_id": "NE-01884",
+  "verdict": "match",
+  "note": "Bi-fold card wallet"
+ },
+ {
+  "product_id": "NE-01885",
+  "verdict": "match",
+  "note": "Flip-top leather wallet"
+ },
+ {
+  "product_id": "NE-01886",
+  "verdict": "match",
+  "note": "Slim card wallet"
+ },
+ {
+  "product_id": "NE-01887",
+  "verdict": "match",
+  "note": "Zip passport wallet"
+ },
+ {
+  "product_id": "NE-01888",
+  "verdict": "match",
+  "note": "Gadget cleaning pen kit"
+ },
+ {
+  "product_id": "NE-01889",
+  "verdict": "match",
+  "note": "Bottle with teal cap"
+ },
+ {
+  "product_id": "NE-01890",
+  "verdict": "match",
+  "note": "Black RFID card wallet with money clip"
+ },
+ {
+  "product_id": "NE-01892",
+  "verdict": "match",
+  "note": "Slim black pop-up card wallet"
+ },
+ {
+  "product_id": "NE-01893",
+  "verdict": "match",
+  "note": "Green L-zip wallet"
+ },
+ {
+  "product_id": "NE-01894",
+  "verdict": "match",
+  "note": "Tan bi-fold wallet (open)"
+ },
+ {
+  "product_id": "NE-01895",
+  "verdict": "match",
+  "note": "Black/green bi-fold card wallet"
+ },
+ {
+  "product_id": "NE-01896",
+  "verdict": "match",
+  "note": "Black/green wrap card wallet (open)"
+ },
+ {
+  "product_id": "NE-01897",
+  "verdict": "match",
+  "note": "Zip card wallet (open)"
+ },
+ {
+  "product_id": "NE-01898",
+  "verdict": "match",
+  "note": "Phone lanyard strap with tether card"
+ },
+ {
+  "product_id": "NE-01922",
+  "verdict": "match",
+  "note": "Compact Swiss Military BT speaker with strap"
+ },
+ {
+  "product_id": "NE-01923",
+  "verdict": "unsure",
+  "note": "BT speaker photo, but product name 'Playtime' is spec text, not a model name"
+ },
+ {
+  "product_id": "NE-01924",
+  "verdict": "match",
+  "note": "Tower party/karaoke speaker with RGB"
+ },
+ {
+  "product_id": "NE-01925",
+  "verdict": "match",
+  "note": "RGB soundbar"
+ },
+ {
+  "product_id": "NE-01926",
+  "verdict": "match",
+  "note": "Soundbar with subwoofer"
+ },
+ {
+  "product_id": "NE-01927",
+  "verdict": "mismatch",
+  "note": "Shows a handle boombox speaker, not a soundbar; name 'Support' is spec text"
+ },
+ {
+  "product_id": "NE-01928",
+  "verdict": "match",
+  "note": "Retro-style wooden speaker"
+ },
+ {
+  "product_id": "NE-01929",
+  "verdict": "unsure",
+  "note": "TWS earbuds photo, but product name is spec text, not a model name"
+ },
+ {
+  "product_id": "NE-01930",
+  "verdict": "unsure",
+  "note": "TWS earbuds photo, but product name '10mm' is spec text, not a model name"
+ },
+ {
+  "product_id": "NE-10720",
+  "verdict": "match",
+  "note": "Black multiport power bank"
+ },
+ {
+  "product_id": "NE-01931",
+  "verdict": "match",
+  "note": "Slim compact power bank"
+ },
+ {
+  "product_id": "NE-01932",
+  "verdict": "unsure",
+  "note": "Power bank photo, but product name is spec text, not a model name"
+ },
+ {
+  "product_id": "NE-10724",
+  "verdict": "match",
+  "note": "Wall charger with micro-USB cable"
+ },
+ {
+  "product_id": "NE-01933",
+  "verdict": "match",
+  "note": "Single-port wall charger"
+ },
+ {
+  "product_id": "NE-01934",
+  "verdict": "match",
+  "note": "Dual-port (USB-A + C) car charger"
+ },
+ {
+  "product_id": "NE-01935",
+  "verdict": "match",
+  "note": "3-in-1 foldable magnetic wireless charger"
+ },
+ {
+  "product_id": "NE-01936",
+  "verdict": "match",
+  "note": "USB-A to micro-USB cable"
+ },
+ {
+  "product_id": "NE-01938",
+  "verdict": "match",
+  "note": "USB-A to Type-C cable"
+ },
+ {
+  "product_id": "NE-01939",
+  "verdict": "match",
+  "note": "USB-A to Type-C cable"
+ },
+ {
+  "product_id": "NE-01940",
+  "verdict": "match",
+  "note": "Type-C to Lightning cable"
+ },
+ {
+  "product_id": "NE-01941",
+  "verdict": "match",
+  "note": "Type-C cable with 2-in-1 stand clip"
+ },
+ {
+  "product_id": "NE-10734",
+  "verdict": "unsure",
+  "note": "Soundbar photo, but product name is an MRP string, not a model name"
+ },
+ {
+  "product_id": "NE-01942",
+  "verdict": "match",
+  "note": "Soundbar with teal accent"
+ },
+ {
+  "product_id": "NE-01943",
+  "verdict": "match",
+  "note": "Power strip with USB ports"
+ },
+ {
+  "product_id": "NE-01944",
+  "verdict": "match",
+  "note": "Cube power extension"
+ },
+ {
+  "product_id": "NE-01945",
+  "verdict": "match",
+  "note": "Travel extension, 'Voyager' model label visible"
+ },
+ {
+  "product_id": "NE-03329",
+  "verdict": "match",
+  "note": "Probuds by Lava TWS earbuds"
+ },
+ {
+  "product_id": "NE-03335",
+  "verdict": "match",
+  "note": "Round smartwatch with black metal strap"
+ },
+ {
+  "product_id": "NE-03336",
+  "verdict": "match",
+  "note": "Round smartwatch with silicone strap"
+ },
+ {
+  "product_id": "NE-03337",
+  "verdict": "match",
+  "note": "Square Prowatch with black metal link strap"
+ },
+ {
+  "product_id": "NE-03340",
+  "verdict": "match",
+  "note": "Square Prowatch in rose gold with metal mesh strap"
+ },
+ {
+  "product_id": "NE-03341",
+  "verdict": "match",
+  "note": "Square Prowatch with black silicone strap"
+ },
+ {
+  "product_id": "NE-03342",
+  "verdict": "match",
+  "note": "Square smartwatch with blue silicone strap"
+ },
+ {
+  "product_id": "NE-03344",
+  "verdict": "match",
+  "note": "Lava power bank in white and black (minor red edge artefact)"
+ },
+ {
+  "product_id": "NE-03345",
+  "verdict": "match",
+  "note": "Lava multi-port power bank; capacity not visible"
+ },
+ {
+  "product_id": "NE-03346",
+  "verdict": "match",
+  "note": "Lava power bank pair"
+ },
+ {
+  "product_id": "NE-03349",
+  "verdict": "match",
+  "note": "Lava multi-port power bank; capacity not visible (same design as 20K)"
+ },
+ {
+  "product_id": "NE-03360",
+  "verdict": "match",
+  "note": "Lava power bank pair"
+ },
+ {
+  "product_id": "NE-03361",
+  "verdict": "match",
+  "note": "Lava Type-C wall charger"
+ },
+ {
+  "product_id": "NE-03362",
+  "verdict": "match",
+  "note": "Lava Type-C charger, 33W visible"
+ },
+ {
+  "product_id": "NE-03375",
+  "verdict": "match",
+  "note": "Lava Type-C charger with C-to-C cable"
+ },
+ {
+  "product_id": "NE-03402",
+  "verdict": "match",
+  "note": "Lava Type-C wall charger"
+ },
+ {
+  "product_id": "NE-03421",
+  "verdict": "match",
+  "note": "Lava dual-port charger with Type-C cable"
+ },
+ {
+  "product_id": "NE-03423",
+  "verdict": "match",
+  "note": "Lava car charger"
+ },
+ {
+  "product_id": "NE-03424",
+  "verdict": "match",
+  "note": "Lava Type-C PD wall charger"
+ },
+ {
+  "product_id": "NE-03426",
+  "verdict": "match",
+  "note": "Lava dual-port (A+C) wall charger"
+ },
+ {
+  "product_id": "NE-03427",
+  "verdict": "match",
+  "note": "Lava charger with USB-A to Lightning cable"
+ },
+ {
+  "product_id": "NE-03428",
+  "verdict": "match",
+  "note": "Lava Type-C PD wall charger"
+ },
+ {
+  "product_id": "NE-03430",
+  "verdict": "match",
+  "note": "Lava USB-A chargers with braided cables"
+ },
+ {
+  "product_id": "NE-03610",
+  "verdict": "match",
+  "note": "Lava USB-A charger with Type-C cable"
+ },
+ {
+  "product_id": "NE-03648",
+  "verdict": "unsure",
+  "note": "Lava USB-A charger + cable; connector tip looks micro-USB while name says UC (Type-C); same photo style as 12 Bullet UM"
+ },
+ {
+  "product_id": "NE-03662",
+  "verdict": "match",
+  "note": "Lava USB-A charger with Type-C cable"
+ },
+ {
+  "product_id": "NE-03667",
+  "verdict": "match",
+  "note": "Lime green Lava charger"
+ },
+ {
+  "product_id": "NE-03669",
+  "verdict": "match",
+  "note": "Dual USB car charger"
+ },
+ {
+  "product_id": "NE-03679",
+  "verdict": "unsure",
+  "note": "Lava charger + cable; connector tip looks micro-USB while name says UC (Type-C); near-identical to 12 Bullet UM photo"
+ },
+ {
+  "product_id": "NE-03681",
+  "verdict": "match",
+  "note": "Cherry red Lava charger"
+ },
+ {
+  "product_id": "NE-03689",
+  "verdict": "match",
+  "note": "Lava charger with micro-USB cable"
+ },
+ {
+  "product_id": "NE-03698",
+  "verdict": "match",
+  "note": "Lava charger with micro-USB cable"
+ },
+ {
+  "product_id": "NE-03744",
+  "verdict": "match",
+  "note": "Lava USB-A charger (cable not shown)"
+ },
+ {
+  "product_id": "NE-03787",
+  "verdict": "match",
+  "note": "Fixed-cable micro-USB charger"
+ },
+ {
+  "product_id": "NE-03818",
+  "verdict": "match",
+  "note": "2-in-1 braided cable (Type-C + micro)"
+ },
+ {
+  "product_id": "NE-03829",
+  "verdict": "match",
+  "note": "Braided C-to-C cable"
+ },
+ {
+  "product_id": "NE-03834",
+  "verdict": "match",
+  "note": "Type-C to Type-C cable"
+ },
+ {
+  "product_id": "NE-03835",
+  "verdict": "match",
+  "note": "Type-C to Lightning cable"
+ },
+ {
+  "product_id": "NE-03846",
+  "verdict": "match",
+  "note": "Black Type-C to Type-C cable"
+ },
+ {
+  "product_id": "NE-03847",
+  "verdict": "match",
+  "note": "USB-A to Type-C cable (lilac)"
+ },
+ {
+  "product_id": "NE-03865",
+  "verdict": "match",
+  "note": "Lava Type-C to Type-C cable"
+ },
+ {
+  "product_id": "NE-03867",
+  "verdict": "match",
+  "note": "White Type-C to Type-C cable"
+ },
+ {
+  "product_id": "NE-03875",
+  "verdict": "match",
+  "note": "Braided USB-A to Type-C cable"
+ },
+ {
+  "product_id": "NE-03877",
+  "verdict": "match",
+  "note": "USB-A to Lightning cable"
+ },
+ {
+  "product_id": "NE-03902",
+  "verdict": "mismatch",
+  "note": "Shows Type-C to Lightning cable; name U2i means USB-A to Lightning"
+ },
+ {
+  "product_id": "NE-03904",
+  "verdict": "unsure",
+  "note": "White braided USB-A cable; tip looks micro-USB rather than Type-C (UC)"
+ },
+ {
+  "product_id": "NE-03911",
+  "verdict": "match",
+  "note": "USB-A to Type-C cable"
+ },
+ {
+  "product_id": "NE-03920",
+  "verdict": "match",
+  "note": "Braided USB-A to micro-USB cable"
+ },
+ {
+  "product_id": "NE-03921",
+  "verdict": "match",
+  "note": "White braided USB-A to micro-USB cable"
+ },
+ {
+  "product_id": "NE-03922",
+  "verdict": "mismatch",
+  "note": "Shows USB-A to micro-USB cable; name UC means USB-A to Type-C"
+ },
+ {
+  "product_id": "NE-03927",
+  "verdict": "match",
+  "note": "USB-A to micro-USB cable"
+ },
+ {
+  "product_id": "NE-03928",
+  "verdict": "match",
+  "note": "USB-A to micro-USB cable"
+ },
+ {
+  "product_id": "NE-03961",
+  "verdict": "match",
+  "note": "Wired Type-C earphones"
+ },
+ {
+  "product_id": "NE-03974",
+  "verdict": "match",
+  "note": "Wired 3.5mm earphones (green)"
+ },
+ {
+  "product_id": "NE-04001",
+  "verdict": "match",
+  "note": "Wired 3.5mm earphones"
+ },
+ {
+  "product_id": "NE-04009",
+  "verdict": "match",
+  "note": "Wired 3.5mm earphones with mic"
+ },
+ {
+  "product_id": "NE-04019",
+  "verdict": "match",
+  "note": "Lava Li-ion battery, LB025 code visible"
+ },
+ {
+  "product_id": "NE-04040",
+  "verdict": "match",
+  "note": "Battery with LEB023 label visible"
+ },
+ {
+  "product_id": "NE-04047",
+  "verdict": "match",
+  "note": "Battery with LEB024+ label visible"
+ },
+ {
+  "product_id": "NE-04055",
+  "verdict": "match",
+  "note": "Battery with LEB030 label visible"
+ },
+ {
+  "product_id": "NE-04066",
+  "verdict": "match",
+  "note": "Battery with LEB027 label visible"
+ },
+ {
+  "product_id": "NE-11717",
+  "verdict": "match",
+  "note": "VIP duffle bag (infographic banner, product clearly shown)"
+ },
+ {
+  "product_id": "NE-11718",
+  "verdict": "mismatch",
+  "note": "Shows a plain duffle bag with no wheels/trolley handle; name is a duffle trolley"
+ },
+ {
+  "product_id": "NE-11719",
+  "verdict": "match",
+  "note": "Skybags red duffle bag (infographic banner, product clearly shown)"
+ },
+ {
+  "product_id": "NE-11720",
+  "verdict": "mismatch",
+  "note": "Shows a plain duffle bag with no wheels/trolley handle; name is a duffle trolley"
+ },
+ {
+  "product_id": "NE-11721",
+  "verdict": "match",
+  "note": "Skybags navy/red duffle bag (infographic banner, product clearly shown)"
+ },
+ {
+  "product_id": "NE-11722",
+  "verdict": "mismatch",
+  "note": "Shows a plain duffle bag with no wheels/trolley handle; name is a duffle trolley"
+ },
+ {
+  "product_id": "NE-11723",
+  "verdict": "match",
+  "note": "Skybags black hard cabin trolley"
+ },
+ {
+  "product_id": "NE-11724",
+  "verdict": "unsure",
+  "note": "Same photo as the 55 cabin variant; medium size cannot be confirmed"
+ },
+ {
+  "product_id": "NE-11725",
+  "verdict": "match",
+  "note": "VIP green hard cabin trolley"
+ },
+ {
+  "product_id": "NE-11726",
+  "verdict": "unsure",
+  "note": "Same photo as the 55 cabin variant; medium size cannot be confirmed"
+ },
+ {
+  "product_id": "NE-11727",
+  "verdict": "match",
+  "note": "VIP blue hard trolley"
+ },
+ {
+  "product_id": "NE-11728",
+  "verdict": "unsure",
+  "note": "Same photo as the 55 cabin variant; medium size cannot be confirmed"
+ },
+ {
+  "product_id": "NE-11729",
+  "verdict": "match",
+  "note": "VIP black hard cabin trolley with orange accents"
+ },
+ {
+  "product_id": "NE-11730",
+  "verdict": "unsure",
+  "note": "Same photo as the 55 cabin variant; medium size cannot be confirmed"
+ },
+ {
+  "product_id": "NE-11731",
+  "verdict": "match",
+  "note": "VIP black hard cabin trolley"
+ },
+ {
+  "product_id": "NE-11732",
+  "verdict": "match",
+  "note": "VIP 4-wheel hard cabin trolley"
+ },
+ {
+  "product_id": "NE-11733",
+  "verdict": "match",
+  "note": "Skybags cabin trolley with cityscape print"
+ },
+ {
+  "product_id": "NE-11734",
+  "verdict": "unsure",
+  "note": "Same photo as the 55 cabin variant; medium size cannot be confirmed"
+ },
+ {
+  "product_id": "NE-11735",
+  "verdict": "match",
+  "note": "Skybags blue duffle bag"
+ },
+ {
+  "product_id": "NE-11494",
+  "verdict": "match",
+  "note": "Skybags blue duffle trolley with wheels and handle"
+ },
+ {
+  "product_id": "NE-11736",
+  "verdict": "match",
+  "note": "Skybags black backpack"
+ },
+ {
+  "product_id": "NE-11737",
+  "verdict": "match",
+  "note": "Skybags black laptop backpack"
+ },
+ {
+  "product_id": "NE-11738",
+  "verdict": "match",
+  "note": "Skybags black laptop backpack (side view)"
+ },
+ {
+  "product_id": "NE-11739",
+  "verdict": "match",
+  "note": "Skybags black laptop backpack"
+ },
+ {
+  "product_id": "NE-11740",
+  "verdict": "match",
+  "note": "Skybags green laptop backpack"
+ },
+ {
+  "product_id": "NE-11741",
+  "verdict": "match",
+  "note": "Skybags black laptop backpack"
+ },
+ {
+  "product_id": "NE-11742",
+  "verdict": "mismatch",
+  "note": "Shows a single cabin trolley; name is a 2-piece set (55+66)"
+ },
+ {
+  "product_id": "NE-11743",
+  "verdict": "mismatch",
+  "note": "Shows a single trolley; name is a 3-piece set (55+66+76)"
+ },
+ {
+  "product_id": "NE-11744",
+  "verdict": "match",
+  "note": "VIP soft overnighter/business trolley"
+ }
+]

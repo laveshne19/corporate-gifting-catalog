@@ -1,0 +1,919 @@
+[
+ {
+  "product_id": "NE-01638",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1809/pop-33w-twin-port-gan5-adapter-black-images/POP-33W-Twin-Port-GaN-Desk-Adapter-Black-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "POP 33W Twin Port GaN5 Adapter - Black"
+ },
+ {
+  "product_id": "NE-01644",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/red-puft-laptop-bag-images/Red-Puft-Laptop-Bagss-2.jpg",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.us",
+  "matched_title": "Puft Laptop Bag — DailyObjects"
+ },
+ {
+  "product_id": "NE-01649",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-khaki-beige-skipper-sleeve-large-images/DailyObjects-Khaki-Beige-Skipper-Sleeve-Large-1.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "DailyObjects Khaki Beige Skipper Sleeve Large | Padded Laptop Sleeve"
+ },
+ {
+  "product_id": "NE-01650",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/space-blue-stria-laptop-sleeve-medium-images/Space-Blue-Stria-Laptop-Sleeve-Medium-1.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Space Blue Stria Laptop Sleeves & Covers - Medium"
+ },
+ {
+  "product_id": "NE-01651",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-black-blue-snapon-envelope-sleeve-for-macbook-pro-35-56cm-14-inch-images/DailyObjects-Black-Blue-SnapOn-Envelope-Sleeve-For-Macbook-Pro-14.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Black-Blue SnapOn Envelope Sleeve For Macbook Pro 35.56cm (14 inch)"
+ },
+ {
+  "product_id": "NE-01655",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/amber-savanna-sleeve-medium-images/Amber-Savanna-Sleeve-Medium-5th.jpg?tr=cm-pad_crop,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Amber Savanna Sleeve Medium Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01656",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1103/langoor-siesta-sleeve-13-inch-images/White-Siesta-Laptop-Sleeve-13-inch.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Langoor Siesta Sleeve (13 inch) Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01657",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-ivory-images/Mesa-Monitor-Stand-Ivory.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Mesa Monitor Stand - Ivory"
+ },
+ {
+  "product_id": "NE-01658",
+  "image_url": "https://www.dailyobjects.us/cdn/shop/files/Bar-Desk-Organiser-9.png?crop=center&height=630&v=1779350402&width=1200",
+  "confidence": "medium",
+  "source_domain": "www.dailyobjects.us",
+  "matched_title": "Bar Desk Organizer"
+ },
+ {
+  "product_id": "NE-01661",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-green-images/Mount-Adjustable-Phone-Stand-Green-v.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Mount Adjustable Phone Stand - Green"
+ },
+ {
+  "product_id": "NE-01665",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01870",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1301/sand-pivot-carry-all-pouch-large-images/do-Sand-Pivot-carry-All-Pouch-Large.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "DailyObjects Sand Pivot Carry All Pouch - Large"
+ },
+ {
+  "product_id": "NE-01877",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1705/ink-black-sort-weekly-planner-images/Ink-Black-Sort-Weekly-Planner-26-1.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Ink Black Sort Weekly Planner Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01878",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1705/green-align-a5-hardcover-notebook-2-0-images/Green-Hand-Drawn-Series-Journal-2-0-vw.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "DailyObjects Green Align A5 Hardcover Notebook 2.0"
+ },
+ {
+  "product_id": "NE-01879",
+  "image_url": "https://images.dailyobjects.com/marche/ogimages/products/DEEP-NAVY-CRDSAFD-PHN-WALT.jpg?tr=cm-pad_crop,v-4",
+  "confidence": "medium",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Phone Wallets & Card Holders | MagSafe & RFID Safe – DailyObjects (Deep Navy CardSafe Phone Wallet)"
+ },
+ {
+  "product_id": "NE-01899",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1813/coral-stack-phone-lanyard-images/Coral-Stacks-Phone-Lanyardd-main.png?tr=cm-pad_resize,v-3",
+  "confidence": "medium",
+  "source_domain": "www.dailyobjects.com",
+  "matched_title": "Coral Stack Phone Lanyard"
+ },
+ {
+  "product_id": "NE-10731",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01947",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01951",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01957",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01958",
+  "image_url": "https://static.digit.in/1-176.png?tr=w-1200",
+  "confidence": "high",
+  "source_domain": "www.digit.in",
+  "matched_title": "Haier HSA20DSD-GAI5NB-I / HSA20DSD-NAI5NB-I Price in India, Full Specifications"
+ },
+ {
+  "product_id": "NE-01959",
+  "image_url": "https://static.digit.in/1-176.png?tr=w-1200",
+  "confidence": "high",
+  "source_domain": "www.digit.in",
+  "matched_title": "Haier HSA20DSD-GAI5NB-I / HSA20DSD-NAI5NB-I Price in India, Full Specifications"
+ },
+ {
+  "product_id": "NE-01960",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/h/s/hsa19ghdmai5nbi_add1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 1.6 Ton 5 Star Inverter Split AC White (Copper Condenser, HSA19GHD-MAI5NB-I)"
+ },
+ {
+  "product_id": "NE-01961",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/581112204/1/CQjXPFqy-S-ZZ0w3dI-Nf-Haier-SAC-581112204-i-2.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 1.6 Ton 5 Star Split Inverter Air Conditioner, HSA19GHD-DAI5NB-I"
+ },
+ {
+  "product_id": "NE-01964",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01966",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/h/s/hsa19khdcai5nbi_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 1.6 Ton 5 Star Inverter Split AC (Copper Condenser, HSA19KHD-CAI5NB-I)"
+ },
+ {
+  "product_id": "NE-01967",
+  "image_url": "https://vasanthandco.in/UploadedFiles/productimages/20260626095928-Untitled-26.png",
+  "confidence": "high",
+  "source_domain": "vasanthandco.in",
+  "matched_title": "Buy Haier 1.6 Ton 5 Star HSA19KHD-NAI5NB-I Kinouchi Heavy Duty Air Conditioner"
+ },
+ {
+  "product_id": "NE-01968",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/0/904116_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 1.6 Ton 5 Star Inverter Split AC White (Copper Condenser, HSA52KHD-RAI5NB-I)"
+ },
+ {
+  "product_id": "NE-01969",
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_cfa062b2-c700-4c95-b16c-98223f635204.jpg?v=1775717153&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Haier 1.5 Ton 5 Star Elegante Heavy Duty AI Air Conditioner (HSA19EHD-GAI5NB-I 5125 W)"
+ },
+ {
+  "product_id": "NE-01970",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/581112208/6/PAEg0vUd8x-c8NL9yiT4Z-Haier-SAC-581112208-i-6.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 1 Ton 5 Star Inverter Split Air Conditioner, HSA14KU-GAI5NB-I"
+ },
+ {
+  "product_id": "NE-01972",
+  "image_url": "https://nandilathgmart.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-5.04.33-PM-600x600.jpeg",
+  "confidence": "high",
+  "source_domain": "nandilathgmart.com",
+  "matched_title": "Haier 1.0 Ton 5 Star Convertible Inverter Split AC, 3.4 kW, 2026 Model (HSA14EHD-GAI5NB-I)"
+ },
+ {
+  "product_id": "NE-01973",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01974",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/581112209/0/y880fzr0g4-EgRt94i85P-Haier-SAC-581112209-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 1.5 Ton 4 Star Inverter Split Air Conditioner, HSA18KU-CAI4NB-I"
+ },
+ {
+  "product_id": "NE-01975",
+  "image_url": "https://m.media-amazon.com/images/I/81ZmFupzXQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 1.5 Ton 4 Star Wi-Fi HEXA Inverter Smart Split AC (White)-HSA18KU-RAI4NB-I"
+ },
+ {
+  "product_id": "NE-01977",
+  "image_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/61UsB71wArL._SL1200__20260328130212330.jpg",
+  "confidence": "high",
+  "source_domain": "giriasindia.com",
+  "matched_title": "HSA14KU-CAI4NB-I (1.0 TON)(4 STAR)-AIR CONDITION INVERTER-HAIER | Girias"
+ },
+ {
+  "product_id": "NE-01979",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/581112205/0/Zqhi5rJGYR-8LXvYbzfpb-Haier-SAC-581112205-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 2 Ton 3 Star Inverter Split Air Conditioner, HSA24KHD-RAI3NB-I"
+ },
+ {
+  "product_id": "NE-01981",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01982",
+  "image_url": "https://s3b.cashify.in/gpro/uploads/2026/05/27105826/haier-hsa20ghd-dai3nb-i-1-7-ton-3-star-inverter-split-ac-front.webp",
+  "confidence": "high",
+  "source_domain": "www.cashify.in",
+  "matched_title": "Haier HSA20GHD-DAI3NB-I 1.7 Ton 3 Star Inverter Split AC"
+ },
+ {
+  "product_id": "NE-01984",
+  "image_url": "https://m.media-amazon.com/images/I/61XBs92xMyL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 1.5 Ton 3 Star Wi-Fi HEXA Inverter Split AC (Black AC)-HSA19KHD-BZAI3NB-I"
+ },
+ {
+  "product_id": "NE-01988",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01989",
+  "image_url": "https://nandilathgmart.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-1.46.53-PM-2.jpeg",
+  "confidence": "high",
+  "source_domain": "nandilathgmart.com",
+  "matched_title": "Haier 1.5 Ton 3 Star 7 in 1 Convertible Inverter Split AC (HSA52KU-CAI3NB-I)"
+ },
+ {
+  "product_id": "NE-01993",
+  "image_url": "https://m.media-amazon.com/images/I/71nF2mbPFpL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 1.5 Ton 3 Star Wi-Fi HEXA Inverter Smart Split AC (White)-HSA18KU-GAI3NB-I"
+ },
+ {
+  "product_id": "NE-01994",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02004",
+  "image_url": "https://harshaindia.com/image/cache/catalog/Product_Images/AC_Image/IT00126968-700x700.jpg",
+  "confidence": "high",
+  "source_domain": "harshaindia.com",
+  "matched_title": "Haier Air Conditioner Split Inverter 1.0Ton HSA14KU-GAI3NB-I 3S"
+ },
+ {
+  "product_id": "NE-02020",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02021",
+  "image_url": "https://coolindiamart.in/wp-content/uploads/2026/03/HSA13VP-G3NB-I-2.webp",
+  "confidence": "high",
+  "source_domain": "coolindiamart.in",
+  "matched_title": "Haier 1.0 Ton 3 Star Inverter Split Ac-HSA13VP-G3NB-I (2026)"
+ },
+ {
+  "product_id": "NE-02022",
+  "image_url": "https://m.media-amazon.com/images/I/71QqtAbVEzL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 1 Ton 3 Star Twin Inverter Split AC (2026 Model, White)-HSA12VP-S3NB-I"
+ },
+ {
+  "product_id": "NE-02023",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02024",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02025",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02026",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02027",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02028",
+  "image_url": "https://s3b.cashify.in/gpro/uploads/2026/06/09161020/haier-hsa11n-b3nb-i-1-ton-3-star-inverter-split-ac-front.webp",
+  "confidence": "high",
+  "source_domain": "www.cashify.in",
+  "matched_title": "Haier HSA11N-B3NB-I 1 Ton 3 Star Inverter Split AC"
+ },
+ {
+  "product_id": "NE-02029",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02030",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02031",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02032",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02033",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02034",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02035",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02036",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02037",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02038",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02039",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02040",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-hd-ready-smart-led-tv-h32k85gx-32-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier HD Ready Smart LED TV, H32K85GX ( 32 inch )"
+ },
+ {
+  "product_id": "NE-02042",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02043",
+  "image_url": "https://m.media-amazon.com/images/I/71SuxQZnw4L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier K85G 43 Inch (108 cm) 4K Ultra HD Smart Google TV | H43K85GUX"
+ },
+ {
+  "product_id": "NE-02044",
+  "image_url": "https://dam.elcorteingles.es/producto/www-001014842332901-00.jpg",
+  "confidence": "high",
+  "source_domain": "www.elcorteingles.es",
+  "matched_title": "TV LED 126 cm (50\") Haier K85 H50K85GUX 4K UHD Google TV"
+ },
+ {
+  "product_id": "NE-02045",
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Entertainment/Television/Images/324677_0_QPOhYFo-BG.png?updatedAt=1786356339859&tr=w-600",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy Haier K85GUX 139.7 cm (55 inch) 3 Star QLED 4K Ultra HD Smart Google TV (2026 model) - Croma"
+ },
+ {
+  "product_id": "NE-02046",
+  "image_url": "https://hnsgsfp.imgix.net/9/images/detailed/174/Haier_65-inch_UHD_4K_2026_Google_TV_-_Black_(H65K85GUX)_03.JPG?fit=fill&bg=0FFF&w=1536&h=901&auto=format,compress",
+  "confidence": "high",
+  "source_domain": "www.harveynorman.com.my",
+  "matched_title": "Haier 65-inch UHD 4K 2026 Google TV - Black (H65K85GUX)"
+ },
+ {
+  "product_id": "NE-02047",
+  "image_url": "https://fastshopbr.vtexassets.com/arquivos/ids/5179056/0_d6ba708a-73a0-47f0-b9f1-3f2d705892db.jpeg.jpg?v=639185393118900000",
+  "confidence": "high",
+  "source_domain": "site.fastshop.com.br",
+  "matched_title": "Smart TV 4K Haier 75 Polegadas com Google TV e Wi-Fi - H75K85GUX"
+ },
+ {
+  "product_id": "NE-02048",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-full-hd-qled-smart-tv-h32s80gfx-32-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier Full HD QLED Smart TV, H32S80GFX ( 32 inch )"
+ },
+ {
+  "product_id": "NE-02049",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02050",
+  "image_url": "https://assets.nikshanonline.com/wp-content/uploads/2026/09/HAIER-LED-43-INCHES-H43S80GFX-1.png",
+  "confidence": "high",
+  "source_domain": "nikshanonline.com",
+  "matched_title": "Buy Haier H43S80GFX 43 Inch QLED Smart Google TV - Nikshan Online"
+ },
+ {
+  "product_id": "NE-02051",
+  "image_url": "https://cdn.faysalbank.com/digimall/products/product_images/17897313659446657_180926163606233999.jpg",
+  "confidence": "high",
+  "source_domain": "digimall.faysalbank.com",
+  "matched_title": "Product - haier-50-full-hd-qled-google-led-tv-h50s80gfx"
+ },
+ {
+  "product_id": "NE-02052",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-4k-ultra-hd-qled-smart-google-tv-s80-h43s80gux-43-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 4K Ultra HD QLED Smart Google TV S80, H43S80GUX ( 43 inch )"
+ },
+ {
+  "product_id": "NE-02053",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-4k-ultra-hd-qled-smart-google-tv-s80-h55s80gux-55-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "poorvika.com",
+  "matched_title": "Haier 4K Ultra HD QLED Smart Google TV S80, H55S80GUX ( 55 inch )"
+ },
+ {
+  "product_id": "NE-02054",
+  "image_url": "https://www.haier-europe.com/es_ES/cdn/shop/files/36200163_000.png?v=1778925179&width=600",
+  "confidence": "high",
+  "source_domain": "www.haier-europe.com",
+  "matched_title": "S80G Series - H65S80GUX - 36200163 – Haier España"
+ },
+ {
+  "product_id": "NE-02055",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/3/43p7pro_base_1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 109 cm (43 inch) UHD (4K) Smart QLED TV Black (43P7 PRO)"
+ },
+ {
+  "product_id": "NE-02056",
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Entertainment/Television/Images/323810_0_55Sr77wMd.png?updatedAt=1783345730594&tr=w-600",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Haier 4K Ultra HD QLED AI Smart Google TV 50P7 Pro ( 50 Inch )"
+ },
+ {
+  "product_id": "NE-02057",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-4K-Ultra-HD-QLED-AI-Smart-Google-TV-43P7-Pro-55-inch-front-view.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 4K Ultra HD QLED AI Smart Google TV 55P7 Pro ( 55 inch )"
+ },
+ {
+  "product_id": "NE-02058",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494794509/1/u_cbkNuGq8-U4dlA5gQgg-FI4215_LED-_-A-Banners-P7-Pro-11.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 165 cm (65 Inch) QLED Google TV, 65P7 PRO"
+ },
+ {
+  "product_id": "NE-02059",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494794510/1/dXDQIow-sp-qPrq9pfhyT-FI4215_LED-_-A-Banners-P7-Pro-11.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 190 cm (75 Inch) QLED Google TV, 75P7 PRO"
+ },
+ {
+  "product_id": "NE-02065",
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/1/1/1102213_add2.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 215 cm (85 inch) 4K UHD Smart Mini LED TV Black (85M70UHMINI LED)"
+ },
+ {
+  "product_id": "NE-02066",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-4k-ultra-hd-qled-smart-tv-h100s90fux-100-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 4K Ultra HD QLED Smart TV S90, H100S90FUX ( 100 inch )"
+ },
+ {
+  "product_id": "NE-02067",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494581014/0/4MztMjZb4g-pFlfz-ZfWl-Haier-LED-television-494581014-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier H55M80FUX 4K Ultra HD Mini LED Smart TV - 55 inch"
+ },
+ {
+  "product_id": "NE-02068",
+  "image_url": "https://m.media-amazon.com/images/I/717NWPvQKLL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 164 cm (65) New M80F Series 4K Ultra HD Smart Mini LED Google TV H65M80FUX (2025 Model)"
+ },
+ {
+  "product_id": "NE-02069",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494581016/0/0shvuC91Yu-NPXJ4ak0Im-Haier-LED-television-494581016-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 4K Ultra HD Mini LED Smart Google TV M80F, H75M80FUX ( 75 inch )"
+ },
+ {
+  "product_id": "NE-02070",
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Haier_H85M80FUX_4K_Ultra_HD_Mini_LED_Smart_TV_-_85_inch_2.jpg?v=1780307533&width=1214",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Haier H85M80FUX 4K Ultra HD Mini LED Smart TV - 85 inch"
+ },
+ {
+  "product_id": "NE-02071",
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-4k-ultra-hd-mini-led-smart-google-tv-m92f-h65m92fux-65-inch-Front-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier 4K Ultra HD Mini LED Smart Google TV M92F, H65M92FUX ( 65 inch )"
+ },
+ {
+  "product_id": "NE-02072",
+  "image_url": "https://www.haier-europe.com/fr_FR/cdn/shop/files/36200145_001.png?v=1782299476&width=600",
+  "confidence": "high",
+  "source_domain": "www.haier-europe.com",
+  "matched_title": "Série M92 - H75M92FUX - 36200145 – Haier France"
+ },
+ {
+  "product_id": "NE-02073",
+  "image_url": "https://www.haier-europe.com/es_ES/cdn/shop/files/36200143_001.png?v=1779441659&width=600",
+  "confidence": "high",
+  "source_domain": "www.haier-europe.com",
+  "matched_title": "M92 Series MINI LED - H85M92FUX - 36200143 – Haier España"
+ },
+ {
+  "product_id": "NE-02074",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/6/616479723/LO/MT/HS/181220698/haier-h100m96fux-m96-series-254cm-qd-mini-led-ai-smart-google-tv.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier H100M96FUX M96 Series 254cm QD-Mini LED AI Smart Google TV"
+ },
+ {
+  "product_id": "NE-02076",
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Haier_H65C90EUX_4K_Ultra_HD_OLED_Smart_TV_-_65_inch_2.jpg?v=1780304453&width=1500",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Haier H65C90EUX 4K Ultra HD OLED Smart TV - 65 inch"
+ },
+ {
+  "product_id": "NE-02078",
+  "image_url": "https://www.haier-europe.com/it_IT/cdn/shop/files/640-28_36200104_62_03_l_h55c95eux-M.jpg?v=1790240722",
+  "confidence": "high",
+  "source_domain": "www.haier-europe.com",
+  "matched_title": "Serie C95 - H55C95EUX - 36200104 – Haier Italia"
+ },
+ {
+  "product_id": "NE-02079",
+  "image_url": "https://jum3a.com/cdn/shop/files/H65C95EUX_a.jpg?v=1754732782",
+  "confidence": "high",
+  "source_domain": "jum3a.com",
+  "matched_title": "HAIER H65C95EUX OLED 4K HDR Television, 65 Inch"
+ },
+ {
+  "product_id": "NE-02080",
+  "image_url": "https://m.media-amazon.com/images/I/71qU0dNGiKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier 80cm (32) A7 Series HD Ready Smart LED TV LE32A7-N (Black)"
+ },
+ {
+  "product_id": "NE-02081",
+  "image_url": "https://assets.nikshanonline.com/wp-content/uploads/2025/11/Haier-32A9G-80-cm-32%E2%80%B3-HD-Ready-Google-TV-with-Google-Assistant-and-Chromecast-%E2%80%93-Smart-LED-for-Living-Room-1.jpg",
+  "confidence": "high",
+  "source_domain": "nikshanonline.com",
+  "matched_title": "Buy Haier 32A9G 80 Cm (32) HD Ready Google TV - Nikshan Online"
+ },
+ {
+  "product_id": "NE-02082",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/television/s/i/w/43a9g-haier-original-imahhph9fgjcchk6.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier A9G 109 cm (43 inch) Full HD LED Smart Google TV (43A9G)"
+ },
+ {
+  "product_id": "NE-02083",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/television/k/o/l/43a9ug-haier-original-imahhjzsyma3muqn.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier A9UG 109 cm (43 inch) Ultra HD (4K) LED Smart Google TV (43A9UG)"
+ },
+ {
+  "product_id": "NE-02084",
+  "image_url": "https://static.toiimg.com/thumb/resizemode-4,msid-132534172,imgsize-500,width-800/132534172.jpg",
+  "confidence": "high",
+  "source_domain": "gadgetsnow.indiatimes.com",
+  "matched_title": "Haier H32K82GX 32 Inches LED HD Ready Google TV"
+ },
+ {
+  "product_id": "NE-02086",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606760/0/4-_P9utBb2-EL99go37H-Haier-TCNV-HFC-150SET4-Deep-Freezer-494606760-1.png",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 102 L 4 Star TCNV HFC-150SET4 TN Deep Freezer, Titanium Grey"
+ },
+ {
+  "product_id": "NE-02087",
+  "image_url": "https://m.media-amazon.com/images/I/71h1xisEX9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-175SPW5 5 Star Hard Top Single Door Convertible Deep Freezer (2026 Model White)"
+ },
+ {
+  "product_id": "NE-02088",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606761/0/csD3nkAE7T-IJrqYlZ1h-Haier-TCNV-HFC-235SET4-Deep-Freezer-494606761-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 218 L 4 Star TCNV HFC-235SET4 TN Deep Freezer, Titanium Grey"
+ },
+ {
+  "product_id": "NE-02090",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/6/616621785/MQ/TD/OJ/269338568/haier-hfc-300spw5-deep-freezer.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier HFC-300SPW5 Deep Freezer"
+ },
+ {
+  "product_id": "NE-02092",
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494606762/0/rq_nW24NNk-ymgLyjDEc-Haier-DDTCNV-HFC-335DET4-Deep-Freezer-494606762-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 310 L 4 Star DDTCNV HFC-335DET4 TN Deep Freezer, Titanium Grey"
+ },
+ {
+  "product_id": "NE-02094",
+  "image_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/deep-freezer/FUR.DEE.741965383_1777264443659.webp",
+  "confidence": "high",
+  "source_domain": "www.industrybuying.com",
+  "matched_title": "Buy Haier Titanium Series 365 L Double Door Robust Convertible Deep Freezer Titanium Grey, HFC-365DET5"
+ },
+ {
+  "product_id": "NE-02098",
+  "image_url": "https://backend.paiinternational.in/media/images/8_haFk6Dw.webp",
+  "confidence": "high",
+  "source_domain": "www.paiinternational.in",
+  "matched_title": "Haier 510 Litres 5 Star Double Door Convertible Deep Freezer With Dual Condenser (HFC-510DET5, Titanium Grey)"
+ },
+ {
+  "product_id": "NE-02100",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/8/636413812/UF/WK/ZV/50144875/hfc-595detn5.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier Deep Freezer HFC-595DETN5"
+ },
+ {
+  "product_id": "NE-02101",
+  "image_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/deep-freezer/FUR.DEE.441965437_1777264498073.webp",
+  "confidence": "high",
+  "source_domain": "www.industrybuying.com",
+  "matched_title": "Haier Pristine Series 788 L Double Door Direct Cooling Convertible Deep Freezer White, HFC-788DPW4"
+ },
+ {
+  "product_id": "NE-02103",
+  "image_url": "https://m.media-amazon.com/images/I/717IiCaYcbL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-325GL3, Glass Top Freezer with LED (White)"
+ },
+ {
+  "product_id": "NE-02104",
+  "image_url": "https://productimages.withfloats.com/tile/6a68a6821c5e8b6a3f92849a.jpg",
+  "confidence": "high",
+  "source_domain": "www.frostikindia.com",
+  "matched_title": "Haier Deep Freezer Glass Top HFC-425G4"
+ },
+ {
+  "product_id": "NE-02105",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02106",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02107",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02109",
+  "image_url": "https://m.media-amazon.com/images/I/61AvK1E8O8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HFC-350CET, Double Door Combo Freezer (Titanium Grey)"
+ },
+ {
+  "product_id": "NE-02111",
+  "image_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/under-counter-chiller-and-freezers/FUR.UND.441965460_1777264482724.webp",
+  "confidence": "high",
+  "source_domain": "www.industrybuying.com",
+  "matched_title": "Haier Pristine Series 550 L Double Door Dual Compartment Combo Chest Freezer White, HFC-550CPW"
+ },
+ {
+  "product_id": "NE-02112",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02113",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02115",
+  "image_url": "https://m.media-amazon.com/images/I/51HXjc6c1wL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HVC 405 GT5 Single Door Commercial Refrigerator"
+ },
+ {
+  "product_id": "NE-02118",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02120",
+  "image_url": "https://backend.paiinternational.in/media/images/66777.jpg",
+  "confidence": "high",
+  "source_domain": "www.paiinternational.in",
+  "matched_title": "Buy Haier Floor Mounted Water Dispenser HWD-3BPFMR - Pai International"
+ },
+ {
+  "product_id": "NE-02121",
+  "image_url": "https://m.media-amazon.com/images/I/61y7419zytL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier HWD-3BPFS Floor Standing Water Dispenser, Midnight Black | Pro Series"
+ },
+ {
+  "product_id": "NE-02122",
+  "image_url": "https://media-assets.hyperinvento.com/companies/4eb88cf2-7f89-4c4d-8867-e1af885e4e80/products/fe41383a-6375-4cb8-bc20-bd5983dd7342/featureds/images/6af71556c318472eb0cc1bbf37befb13-product-featured-lg.jpg",
+  "confidence": "high",
+  "source_domain": "dynamicdistributors.in",
+  "matched_title": "Haier Hwd-3mpfmr Bottled Water Dispenser With Hot, Cold & Normal Water | Floor Standing | Black & White"
+ },
+ {
+  "product_id": "NE-02124",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02129",
+  "image_url": "https://aaravelectronics.com/cdn/shop/files/HIL2002MFPH-7.jpg?v=1770796351",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Haier 20 L Solo Microwave Oven (HIL2002MFPH, Black)"
+ },
+ {
+  "product_id": "NE-02136",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02140",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02177",
+  "image_url": "https://static1.industrybuying.com/products/furniture-hospitality-and-food-service/commercial-refrigeration/refrigerators/FUR.REF.941908060_1776944778776.webp",
+  "confidence": "medium",
+  "source_domain": "www.industrybuying.com",
+  "matched_title": "Haier 190 L Single Door Direct Cool Refrigerator with Base Drawer 5 Star Marine Ivy, HRD-2115EPMI-N"
+ },
+ {
+  "product_id": "NE-02184",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02188",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

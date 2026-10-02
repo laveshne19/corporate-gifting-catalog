@@ -1,0 +1,919 @@
+[
+ {
+  "product_id": "NE-01140",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01142",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01151",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/8/534973554/PV/CD/MB/64235350/1500-satin-hot-pot.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "1500 Satin Hot Pot"
+ },
+ {
+  "product_id": "NE-01152",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01155",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01160",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01161",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01162",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01173",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01181",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01189",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/3/493369003/BI/RX/JF/89993624/whatsapp-image-2025-03-05-at-11-22-06-ebe0e461.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "CELLO VISTA 3PCS INSULATED CASSEROLE"
+ },
+ {
+  "product_id": "NE-01190",
+  "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/10/457038960/ZL/QL/DM/92037128/product-jpeg.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Vista Casserole Set"
+ },
+ {
+  "product_id": "NE-01203",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01205",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01206",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/09/691518865white-Photoroom-32.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Duplex 2 Piece Gift Set (1pc Water Bottle + 1pc Insulated Tiffin Box)"
+ },
+ {
+  "product_id": "NE-01207",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/09/225890613white-Photoroom-21.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Gold Line 2 Piece Gift Set (1pc Insulated Jug + 1pc Casserole)"
+ },
+ {
+  "product_id": "NE-01211",
+  "image_url": "https://m.media-amazon.com/images/I/61dBH3Nn+mL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO HI-Tea 2 Pcs Gift Set, Casserole (1 Litre) & Jug (1 Litre), Brown"
+ },
+ {
+  "product_id": "NE-01213",
+  "image_url": "https://corporatediwaligifts.in/wp-content/uploads/2025/09/tiffany-meal.jpg",
+  "confidence": "high",
+  "source_domain": "corporatediwaligifts.in",
+  "matched_title": "Cello Tiffany Meal (Merit Xl 2 + Puro Sports 600)"
+ },
+ {
+  "product_id": "NE-01214",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/09/1024490217white-Photoroom-25.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Triplex 2pc Gift Set (1pc 3 Layer Tiffin Box 300ml + 1pc Water Bottle 470ml)"
+ },
+ {
+  "product_id": "NE-01215",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01218",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01219",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01221",
+  "image_url": "https://m.media-amazon.com/images/I/612iXF+lcdL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "RENOVA 2 PCS GIFT SET (IGLOO 3500 + HEXA TUFF JUG 750) | Cello"
+ },
+ {
+  "product_id": "NE-01222",
+  "image_url": "https://corporatediwaligifts.in/wp-content/uploads/2025/09/Cello-Soup-Snack-Set.jpg",
+  "confidence": "high",
+  "source_domain": "corporatediwaligifts.in",
+  "matched_title": "Cello Soup & Snack Set"
+ },
+ {
+  "product_id": "NE-01223",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/11/download-2-1.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Soup Mate 3 Piece Gift Set (1pc 500ml Stainless Steel Flask With 2pc 165ml Mugs)"
+ },
+ {
+  "product_id": "NE-01224",
+  "image_url": "https://giftvision.in/wp-content/uploads/2025/11/download-107.webp",
+  "confidence": "high",
+  "source_domain": "giftvision.in",
+  "matched_title": "Cello Turbo 3 Piece Gift Set (1pc 500ml Insulated Bottle With 2pc Mugs 270ml)"
+ },
+ {
+  "product_id": "NE-01256",
+  "image_url": "https://rukminim3.flixcart.com/image/832/832/xif0q/lunch-box/i/f/5/1340-good-lunch-insulated-lunch-box-with-steel-veg-box-grey-big-original-imahyhazvrpnseex.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "cello good lunch INSULATED LUNCH BOX WITH steel veg box grey BIG 2 Containers"
+ },
+ {
+  "product_id": "NE-01257",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01260",
+  "image_url": "https://tiimg.tistatic.com/fp/1/007/574/cello-decker-insulated-plastic-lunch-box-set-180.jpg",
+  "confidence": "medium",
+  "source_domain": "tiimg.tistatic.com",
+  "matched_title": "Cello Decker Insulated Plastic Lunch Box Set"
+ },
+ {
+  "product_id": "NE-01261",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01266",
+  "image_url": "https://rukminim3.flixcart.com/image/832/832/kex5ci80/lunch-box/z/t/k/hot-express-2-cello-2-original-imafvhxyzyabxhk5.jpeg?q=80",
+  "confidence": "high",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "cello HOT EXPRESS 2 2 Containers Stainless Steel Office Lunch Box"
+ },
+ {
+  "product_id": "NE-01271",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/504135202/ZE/XC/TM/13131524/cello-hot-tron-plus-lunch-carrier.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Stainless Steel Cello Hot Tron Plus Lunch Carrier"
+ },
+ {
+  "product_id": "NE-01272",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/504135202/ZE/XC/TM/13131524/cello-hot-tron-plus-lunch-carrier.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Stainless Steel Cello Hot Tron Plus Lunch Carrier"
+ },
+ {
+  "product_id": "NE-01273",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01276",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01277",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01282",
+  "image_url": "https://5.imimg.com/data5/XS/HI/SM/SELLER-6524653/cello-lunch-mate-insulated-lunch-box-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Plastic Cello Lunch Mate Insulated Lunch Box"
+ },
+ {
+  "product_id": "NE-01289",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01290",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01292",
+  "image_url": "https://5.imimg.com/data5/OK/BN/YW/SELLER-6265759/cello-meal-star-4-insulated-lunch-carrier.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Stainless Steel Cello Meal Star 4 Insulated Lunch Carrier"
+ },
+ {
+  "product_id": "NE-01293",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/1/376277826/PG/XH/RN/65615895/-cello-meal-star-5-lunch-carrier-1706-piece.jpeg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Meal Star 5 Lunch Carrier Box"
+ },
+ {
+  "product_id": "NE-01298",
+  "image_url": "https://cms.celloworld.com/pub/media/catalog/product/cache/575b4cef96dfa3612019445e8bece1fa/2/_/2_merit_red_2_3.jpg",
+  "confidence": "medium",
+  "source_domain": "cms.celloworld.com",
+  "matched_title": "Cello World - Merit 2 lunch box (red)"
+ },
+ {
+  "product_id": "NE-01299",
+  "image_url": "https://m.media-amazon.com/images/I/61GG8Q4OrSL.jpg",
+  "confidence": "medium",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Plastic Merit 3 Insulated Food Carrier, Red, 500 ml"
+ },
+ {
+  "product_id": "NE-01306",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01312",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01313",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01321",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/12/367546604/YW/AO/SC/20434543/cello-qube-square-tiffin-box.jpeg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Plastic Cello Qube Square Tiffin Box"
+ },
+ {
+  "product_id": "NE-01326",
+  "image_url": "https://m.media-amazon.com/images/I/71Mg+eTH+xL.jpg",
+  "confidence": "medium",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Plastic Ranger Insulated 4 Container Lunch Carrier, Brown"
+ },
+ {
+  "product_id": "NE-01327",
+  "image_url": "https://cdn2.clevup.in/39552/1652962194356_1rangerdeluxred57.jpeg?width=600&format=webp",
+  "confidence": "high",
+  "source_domain": "cdn2.clevup.in",
+  "matched_title": "Cello Ranger 5 Insulated Lunch Carrier (ranger delux red 5)"
+ },
+ {
+  "product_id": "NE-01328",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01329",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lunch-box/9/b/u/970-lunch-stellar-express-insulated-lunch-carrierhygienic-original-imah5y3cc6gmnjgm.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Lunch STELLAR Express Insulated Lunch Carrier 3 Containers"
+ },
+ {
+  "product_id": "NE-01330",
+  "image_url": "https://rukminim3.flixcart.com/image/832/832/xif0q/lunch-box/i/j/f/1240-stellar-4-lunch-box-cello-4-original-imahq6u8nvkhdgp5.jpeg?q=90",
+  "confidence": "medium",
+  "source_domain": "rukminim3.flixcart.com",
+  "matched_title": "Flipkart cello stellar-4 lunch box 4 Containers"
+ },
+ {
+  "product_id": "NE-01332",
+  "image_url": "https://m.media-amazon.com/images/I/71aHnlPQOgL._SL1500_.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello Spice Insulated 4 Container Lunch Carrier"
+ },
+ {
+  "product_id": "NE-01333",
+  "image_url": "https://5.imimg.com/data5/ANDROID/Default/2026/1/580047749/OW/MJ/FB/123625750/product-jpeg.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Stainless Steel Cello Triplex SS Lunch Box Set, Number of Containers: 3"
+ },
+ {
+  "product_id": "NE-01337",
+  "image_url": "https://5.imimg.com/data5/ANDROID/Default/2026/5/610554274/GW/YF/FU/63146368/product-jpeg.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Ultron Junior Lunch Box With Steel Inner"
+ },
+ {
+  "product_id": "NE-01339",
+  "image_url": "https://5.imimg.com/data5/ANDROID/Default/2026/5/610554779/JE/OU/NI/63146368/product.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Ultron Senior Lunch Box With Steel Inner"
+ },
+ {
+  "product_id": "NE-01347",
+  "image_url": "https://www.rasoishop.com/cdn/shop/files/CelloWow-4RasoiShop1.jpg?v=1755005803&width=1946",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Cello Wow Insulated Lunch Box with Stainless Steel Container (4)"
+ },
+ {
+  "product_id": "NE-01349",
+  "image_url": "https://i0.wp.com/durgashop.in/wp-content/uploads/2025/02/Cello-Yummy-Insulated-Lunch-Box-Stainless-Steel-3.png?fit=1000%2C1000&ssl=1",
+  "confidence": "high",
+  "source_domain": "i0.wp.com",
+  "matched_title": "Cello Yummy Insulated Lunch Box (Stainless Steel)"
+ },
+ {
+  "product_id": "NE-01360",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01361",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01379",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01387",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01388",
+  "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/cello-sensation-500-ml-vacuum-flask-white-pink-169295327-it37y.jpg",
+  "confidence": "high",
+  "source_domain": "images.jdmagicbox.com",
+  "matched_title": "Cello Sensation 500 ml Vacuum Flask (White Pink)"
+ },
+ {
+  "product_id": "NE-01401",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01402",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01405",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01420",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01430",
+  "image_url": "https://m.media-amazon.com/images/I/7190LukMFfL.jpg",
+  "confidence": "medium",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "Cello MF Freshpro Stainless Steel Lunch Box Set with Bag, Black | 2 x 300ml"
+ },
+ {
+  "product_id": "NE-01431",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/4/596752586/GW/YL/FF/104919134/cello-food-junction.jpeg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Cello Food Junction"
+ },
+ {
+  "product_id": "NE-01437",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01438",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01444",
+  "image_url": "https://www.rasoishop.com/cdn/shop/files/QUICKLUNCHDELUXE_GREY-1_f1bd029e-4b73-44e1-ae02-55e63fde03eb.jpg?v=1757747557&width=1445",
+  "confidence": "high",
+  "source_domain": "www.rasoishop.com",
+  "matched_title": "Cello Stainless Steel Quick Lunch Deluxe 2 Container Lunch Box | Insulated Fabric Jacket"
+ },
+ {
+  "product_id": "NE-01470",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01471",
+  "image_url": "https://snooplay.in/cdn/shop/files/CelloPuro1_1800x1800.png?v=1781509547",
+  "confidence": "high",
+  "source_domain": "snooplay.in",
+  "matched_title": "Cello Insulated Water Bottle with Stainless Steel Inner - 800ml | Purosteel - X Grippo 900 | Black"
+ },
+ {
+  "product_id": "NE-01476",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01481",
+  "image_url": "https://m.media-amazon.com/images/I/615Psb-nyXL.jpg",
+  "confidence": "medium",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "CELLO Puro Steel-X Power Sip Insulated Sipper Water Bottle 560ml Blue"
+ },
+ {
+  "product_id": "NE-01490",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01493",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01494",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01503",
+  "image_url": "http://atozhomeappliances.com/cdn/shop/files/16630543-2bcd-41c6-ad66-cc6f8c21128c.jpg?v=1781938111",
+  "confidence": "high",
+  "source_domain": "atozhomeappliances.com",
+  "matched_title": "CELLO PURO STEEL-X MYLO 600"
+ },
+ {
+  "product_id": "NE-01504",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01511",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01512",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01518",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01519",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/507177060/PX/LI/BW/13131524/cello-double-deal-large-lunch-carrier.jpg",
+  "confidence": "high",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Stainless Steel Cello Double Deal Large Lunch Carrier"
+ },
+ {
+  "product_id": "NE-01523",
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/k6nxrbk0/lunch-box/y/6/p/hot-max-cello-4-original-imafp2jenyjgze7y.jpeg?q=70",
+  "confidence": "medium",
+  "source_domain": "rukmini1.flixcart.com",
+  "matched_title": "cello Hot Max 4 Containers Stainless Steel Office Lunch Box"
+ },
+ {
+  "product_id": "NE-01524",
+  "image_url": "https://tiimg.tistatic.com/fp/1/007/574/hot-max-jumbo-5-steel-lunch-box-190.jpg",
+  "confidence": "high",
+  "source_domain": "tiimg.tistatic.com",
+  "matched_title": "Hot Max Jumbo 5 Steel Lunch Box"
+ },
+ {
+  "product_id": "NE-01527",
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/3/GE/YN/SG/93682996/cello-max-steel-tiffin-lunch-box.jpg",
+  "confidence": "medium",
+  "source_domain": "5.imimg.com",
+  "matched_title": "Pink and Silver Cello Max Steel Tiffin Lunch Box, Capacity: 350 ml"
+ },
+ {
+  "product_id": "NE-01534",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1202/pivot-meridian-convertible-briefpack-basalt-images/Pivot-Meridian-Convertible-Briefpack-Basalt-8.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Pivot Meridian Convertible Briefpack - Basalt"
+ },
+ {
+  "product_id": "NE-01542",
+  "image_url": "https://m.media-amazon.com/images/I/71ICv7M5+uL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Pivot Messenger Bag (13L)"
+ },
+ {
+  "product_id": "NE-01548",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/pivot-carrypack-sand-images/DO-Pivots-Carrypacks-Sand-2.jpg?tr=cm-pad_crop,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Pivot Carrypack - Sand Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01550",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/mint-green-field-backpack-images/Mint-Green-Field-Backpack-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Mint Green Field Backpack"
+ },
+ {
+  "product_id": "NE-01552",
+  "image_url": "https://m.media-amazon.com/images/I/71w9X5nQ6nL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects PET Amber Miles Roll Top Backpack (17L)"
+ },
+ {
+  "product_id": "NE-01555",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/pivot-lunar-daypack-basalt-images/Pivot-Lunar-Daypack-Basalt.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Pivot Lunar Daypack - Basalt"
+ },
+ {
+  "product_id": "NE-01556",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/pivot-taiga-backpack-basalt-images/Pivot-Taiga-Backpack-Basalt-vw.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Pivot Taiga Backpack - Basalt"
+ },
+ {
+  "product_id": "NE-01557",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/dailyobjects-midnight-blue-pilot-backpack-images/DailyObjects-Midnight-Blue-City-Compact-Backpack.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Midnight Blue Pilot Backpack"
+ },
+ {
+  "product_id": "NE-01558",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1201/natural-white---clove-9-to-9-backpack-images/Ivory-White-Clove-9-to-9-Backpack.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Ivory - Clove 9 to 9 Backpack"
+ },
+ {
+  "product_id": "NE-01560",
+  "image_url": "https://m.media-amazon.com/images/I/71+sLquYomL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Pivot Weekender - Basalt"
+ },
+ {
+  "product_id": "NE-01561",
+  "image_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/7/b7a2fa5ALL-NVY-TRIL-WEKNDR_1.jpg?rnd=20200526195200&tr=w-512",
+  "confidence": "high",
+  "source_domain": "adn-static1.nykaa.com",
+  "matched_title": "Buy DailyObjects All Navy Trail Weekender Online"
+ },
+ {
+  "product_id": "NE-01566",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/pivot-top-handle-tote-basalt-images/Pivot-ToP-handle-tote-basalt.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Pivot Top Handle Tote - Basalt"
+ },
+ {
+  "product_id": "NE-01573",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/brown-puft-oversized-tote-images/Brown-Pufts-Oversizds-Tote.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Brown Puft Oversized Tote"
+ },
+ {
+  "product_id": "NE-01579",
+  "image_url": "https://m.media-amazon.com/images/I/61WqwnT1-7L.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Dark Grey Ray Tote Bag"
+ },
+ {
+  "product_id": "NE-01580",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/forest-green-navy-field-tote-bag-images/Forest-Green-Navy-Field-Tote-Bag-vw.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Forest Green-Navy Field Tote Bag"
+ },
+ {
+  "product_id": "NE-01581",
+  "image_url": "https://m.media-amazon.com/images/I/61nu8OwR6tL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Amber Pole Convertible Totepack"
+ },
+ {
+  "product_id": "NE-01582",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/charcoal-kelp-key-tote-images/Charcoal-Kelp-Key-Tote-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Charcoal-Kelp Key Tote Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01585",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/carbon-black-idyll-tote-images/Carbon-Black-Idyll-Tote.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Carbon Black Idyll Tote"
+ },
+ {
+  "product_id": "NE-01586",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/dailyobjects-chandigarh-city-tote-images/DailyObjects-Chandigarh-City-Tote-vw.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "medium",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Chandigarh City Tote Bag"
+ },
+ {
+  "product_id": "NE-01587",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/all-navy-all-time-tote-images/All-Navy-All-Time-Tote.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Navy All Time Tote Bag"
+ },
+ {
+  "product_id": "NE-01588",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1204/dailyobjects-forest-green-buoy-tote-bag-images/DailyObjects-Forest-Green-Buoy-Tote-Bag.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Forest Green Buoy Tote Bag"
+ },
+ {
+  "product_id": "NE-01592",
+  "image_url": "https://cdn.shopify.com/s/files/1/0614/9872/0415/files/do-Basalt-Pivot-Expandable-Crossbody-large-2.jpg?v=1778696972",
+  "confidence": "medium",
+  "source_domain": "cdn.shopify.com",
+  "matched_title": "Pivot Expandable Crossbody - DailyObjects (Basalt, large image)"
+ },
+ {
+  "product_id": "NE-01594",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/khaki-beige-caddy-crossbody-images/Khaki-Beige-Caddy-Crossbody-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Khaki Beige Caddy Crossbody Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01595",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1811/red-clay-utility-phone-sling-images/Red-Clay-Utility-Phone-Sling-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Red Clay Utility Phone Sling Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01596",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/basalt-pivot-expandable-crossbody-small-images/Basalt-PIVOT-expandable-Crossbody-small.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Basalt Pivot Expandable Crossbody - Small"
+ },
+ {
+  "product_id": "NE-01597",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1811/pivot-sling-bag-basalt-images/do-Pivot-Sling-Bag-basalt.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Pivot Sling Bag - Basalt Buy At DailyObjects"
+ },
+ {
+  "product_id": "NE-01598",
+  "image_url": "https://m.media-amazon.com/images/I/81-O8dmCPyL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Clove March Crossbody Bag Large"
+ },
+ {
+  "product_id": "NE-01607",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/mustard-march-crossbody-bag-regular-images/Mustard-March-Crossbody-Bag-Regularr.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Mustard March Crossbody Bag Regular"
+ },
+ {
+  "product_id": "NE-01608",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/all-navy-sunday-crossbody-images/All-Navy-Sunday-Crossbody.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Navy Sunday Crossbody Bag"
+ },
+ {
+  "product_id": "NE-01609",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/carbon-black-retreat-crossbody-bag-images/Carbon-Black-Retreat-Crossbody-Bag.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "Carbon Black Retreat Crossbody Bag - DailyObjects"
+ },
+ {
+  "product_id": "NE-01610",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-olive-green-scout-crossbody-bag-images/DailyObjects-Olive-Green-Scout-Crossbody-Bag.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Olive Green Scout Crossbody Bag"
+ },
+ {
+  "product_id": "NE-01611",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/basalt-pivot-orbit-fanny-images/Basalt-Pivot-Orbit-Fanny.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Basalt Pivot Orbit Fanny"
+ },
+ {
+  "product_id": "NE-01613",
+  "image_url": "https://m.media-amazon.com/images/I/61x9GxyF3hL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Amber Cobble Phone Sling"
+ },
+ {
+  "product_id": "NE-01614",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1203/colourblock-puft-crossbody-bag-images/Colourblock-Pufts-Crossbodys-Bagss-3.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Colourblock Puft Crossbody Bag"
+ },
+ {
+  "product_id": "NE-01616",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1301/blue-puft-pouch-images/Blue-Pufts-Pouchs.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Blue Puft Pouch"
+ },
+ {
+  "product_id": "NE-01618",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1207/evergreen-puft-bloom-charm-images/Evergreen-Puft-Bloom-Charm.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "DailyObjects Evergreen Puft Bloom Charm"
+ },
+ {
+  "product_id": "NE-01622",
+  "image_url": "https://m.media-amazon.com/images/I/71ieHg-O9DL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects Loop Qi2-Certified MagSafe-Compatible Aluminium Power Bank 10000 mAh - Titanium"
+ },
+ {
+  "product_id": "NE-01630",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01632",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01634",
+  "image_url": "https://m.media-amazon.com/images/I/61a5c7q6ttL.jpg",
+  "confidence": "high",
+  "source_domain": "m.media-amazon.com",
+  "matched_title": "DailyObjects SURGE Foldaway 3-In-1 Qi2-Certified Magsafe-Compatible Wireless Charger"
+ },
+ {
+  "product_id": "NE-01635",
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01636",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1809/pop-67w-triple-port-gan5-adapter-blue-images/POP-67W-Triple-Port-GaN-Desk-Adapter-Blue-vw.png?tr=cm-pad_resize,v-4,bg-FFFFFF",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "POP 67W Triple Port GaN5 Adapter - Blue - DailyObjects"
+ },
+ {
+  "product_id": "NE-01637",
+  "image_url": "https://images.dailyobjects.com/marche/product-images/1809/pop-45w-twin-port-gan5-adapter-black-images/TOP-45W-Twin-Port-GaN-Wall-Adapter-Black-vw.png?tr=cm-pad_resize,v-3",
+  "confidence": "high",
+  "source_domain": "images.dailyobjects.com",
+  "matched_title": "POP 45W Twin Port GaN5 Adapter - Black Buy At DailyObjects"
+ }
+]

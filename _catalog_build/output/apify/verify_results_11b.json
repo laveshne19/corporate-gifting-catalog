@@ -1,0 +1,1418 @@
+[
+ {
+  "product_id": "NE-05573",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB Neptune VX15 15 Place Setting Dishwasher"
+ },
+ {
+  "product_id": "NE-05574",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:749ad83d-4813-4982-99d0-dc6b25f5bbaf/as/8903287040450-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB Neptune VX14 Dishwasher 14 Place Setting Online"
+ },
+ {
+  "product_id": "NE-05562",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:9c1c0a50-4931-4fd6-a8ac-468ba03467f3/as/8903287005367-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "IFB 20BC4 20 L Convection Microwave Oven"
+ },
+ {
+  "product_id": "NE-01797",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Qubo Smart Door Lock ULTRA"
+ },
+ {
+  "product_id": "NE-01798",
+  "keep": false,
+  "image_url": "https://www.quboworld.com/cdn/shop/files/Nova.jpg?v=1777819904&width=1920",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Smart Door Lock Nova (Black)"
+ },
+ {
+  "product_id": "NE-01799",
+  "keep": false,
+  "image_url": "https://www.quboworld.com/cdn/shop/files/alpha_1.png?v=1776513733&width=600",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Support Smart Door Lock Alpha"
+ },
+ {
+  "product_id": "NE-01800",
+  "keep": false,
+  "image_url": "https://www.quboworld.com/cdn/shop/files/smart-door-lock-optima_listing_04_9f0527d0-8a68-4cd8-b4c1-8132d8afb40f.jpg?v=1776242357&width=3840",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Smart Door Lock Optima"
+ },
+ {
+  "product_id": "NE-01801",
+  "keep": false,
+  "image_url": "http://www.quboworld.com/cdn/shop/files/VDB_1.jpg?v=1777818368",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Smart Wi-Fi Video Doorbell Pro 2K"
+ },
+ {
+  "product_id": "NE-01802",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Instaview Edge Video Doorphone"
+ },
+ {
+  "product_id": "NE-01803",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Qubo Smart Camera 360 | 3MP Ultra 2K"
+ },
+ {
+  "product_id": "NE-01804",
+  "keep": false,
+  "image_url": "http://hardwaredepot.in/cdn/shop/files/qubo-smart-cam-360-2k-prime-3mp-hardware-depot.jpg?v=1782123951",
+  "confidence": "high",
+  "source_domain": "hardwaredepot.in",
+  "matched_title": "Qubo Smart Cam 360 2K Prime 3MP WiFi Security Camera"
+ },
+ {
+  "product_id": "NE-01805",
+  "keep": false,
+  "image_url": "https://www.quboworld.com/cdn/shop/files/Smart_Cam_360_Pro_4MP_Cam_00.jpg?v=1777820485&width=1920",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Smart Camera 360 Pro | 4MP | Color Night Vision"
+ },
+ {
+  "product_id": "NE-01806",
+  "keep": false,
+  "image_url": "https://www.quboworld.com/cdn/shop/files/Smart_Bullet_Cam_2_7dc3e3b2-20b2-46a5-8c6e-af946d31604c.jpg?v=1779885764&width=1920",
+  "confidence": "high",
+  "source_domain": "www.quboworld.com",
+  "matched_title": "Smart Outdoor Bullet Camera | 3MP 2K | Wi-Fi"
+ },
+ {
+  "product_id": "NE-10739",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np754xgk-ls2in/gallery/in-galaxy-book-np754xgk-ls2in-front-silver-543096955?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Book4 NP754XGK-LS2IN | Samsung India"
+ },
+ {
+  "product_id": "NE-10740",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np750xhd-kd1in/gallery/in-galaxy-book5-15-inch-np750-np750xhd-kd1in-548012341?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5, 39.62 cm, Ultra 5, 16 GB | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10741",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np754xgk-ls3in/gallery/in-galaxy-book-np754xgk-ls3in-front-silver-543096981?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Business | Galaxy Book4 NP754XGK-LS3IN | Samsung India"
+ },
+ {
+  "product_id": "NE-10742",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960xha-lg1in/gallery/in-galaxy-book5-pro-16-inch-np960-np960xha-lg1in-550450031?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro, 40.62 cm, Ultra 7, 16 GB | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10743",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np750qha-lg4in/gallery/in-galaxy-book5-360-15-inch-np750-538824-np750qha-lg4in-550452398?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 360, 39.62 cm, 32 GB | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10744",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960xha-lg3in/gallery/in-galaxy-book5-pro-16-inch-np960-537978-np960xha-lg3in-550452118?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro, 40.62 cm, 32 GB | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10745",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book5 NP750XHD-KD2IN"
+ },
+ {
+  "product_id": "NE-10746",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np764bjg-kg1in/gallery/in-galaxy-book6-enterprise-edition-16-inch-np764bjtf-np764bjg-kg1in-553208397?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition, 40.62 cm, Ultra 7, 32 GB"
+ },
+ {
+  "product_id": "NE-10747",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/samsung/494793872/5/tD8umRqCxR-9yDlYP4MEV-Sam-Galaxy-B6-GR-5.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Series NP760VJG-LG1IN Standard Laptop"
+ },
+ {
+  "product_id": "NE-10748",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np764bjg-ka1in/gallery/in-galaxy-book6-enterprise-edition-16-inch-np764bjgg-np764bjg-ka1in-554725614?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition, 40.62 cm, Ultra 5, 16 GB"
+ },
+ {
+  "product_id": "NE-10749",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book5 Pro NP940XHA-LG1IN"
+ },
+ {
+  "product_id": "NE-10750",
+  "keep": false,
+  "image_url": "https://computechstore.in/media/products/2026/08/17/Samsung_Galaxy_Book5_15.6inch_Ultra_5_16GB_512GB_np754xhd-kd1in.jpg",
+  "confidence": "high",
+  "source_domain": "computechstore.in",
+  "matched_title": "Samsung Galaxy Book5 15.6inch Ultra 5 16GB 512GB np754xhd-kd1in"
+ },
+ {
+  "product_id": "NE-10751",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Series NP740VJG-LG3IN"
+ },
+ {
+  "product_id": "NE-10752",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960qha-kg3in/gallery/in-galaxy-book5-pro-360-16-inch-np960-538630-np960qha-kg3in-550450854?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro 360, 40.62 cm, Ultra 5, 16 GB | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10753",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/samsung/494793873/6/fpqnc4ubPE-UriXIdUsw_-Sam-Galaxy-B6-GR-6.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Series NP760VJG-LG2IN Standard Laptop"
+ },
+ {
+  "product_id": "NE-10754",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10755",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10756",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10757",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10758",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10759",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10760",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10761",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10762",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10763",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Buy Samsung Galaxy Book6 Pro NP940XJG-KG3IN Standard Laptop"
+ },
+ {
+  "product_id": "NE-10764",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Samsung Galaxy Book4 Pro 360 Intel Evo Core Ultra 7 155H 16 inch"
+ },
+ {
+  "product_id": "NE-10765",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np744bjg-ka1in/gallery/in-galaxy-book6-enterprise-edition-14-inch-np744bjgg-np744bjg-ka1in-553207830?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Enterprise Edition | 35.56 cm, Ultra 5, 16 GB"
+ },
+ {
+  "product_id": "NE-10766",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np750qha-lg2in/gallery/in-galaxy-book5-360-15-inch-np750-538822-np750qha-lg2in-550451203?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 360, 39.62 cm, 16 GB, Gray | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10767",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:450/samsung/494793867/0/y-uFyqj_hv-Ai1dTDPJr-Sam-Galaxy-B6-GR-main.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Series NP740VJG-LG1IN Standard Laptop"
+ },
+ {
+  "product_id": "NE-10768",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np940xha-lg3in/gallery/in-galaxy-book5-pro-14-inch-np940-537975-np940xha-lg3in-550449696?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro, 35.56 cm, 32 GB | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10770",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book5 360 NP750QHA-LG1IN"
+ },
+ {
+  "product_id": "NE-10771",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/samsung/494793874/0/OqK_kowI2J-_2u9Ujgfl-Sam-Galaxy-B6-GR-main.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Series NP760XJG-LG1IN Standard Laptop"
+ },
+ {
+  "product_id": "NE-10772",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960qha-kg1in/gallery/in-galaxy-book5-pro-360-16-inch-np960-np960qha-kg1in-550450229?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5 Pro 360, 40.62 cm, Ultra 7, 16 GB | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10773",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/computer/o/v/n/-original-imahg5fuktmhxzpm.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Samsung Galaxy Book4 Pro Evo Core Ultra 5 125H NP940XGK-KS1IN / NP940XGK-LS1IN"
+ },
+ {
+  "product_id": "NE-10774",
+  "keep": false,
+  "image_url": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/g/69fdb00d06dd34655b63c35d/p5xdsy9lfq-tbzwqpu0na-samsung-np750xhd-kd1in-laptop-494582576-i-2-1200wx1200h-640x640.jpg",
+  "confidence": "high",
+  "source_domain": "www.mystore.in",
+  "matched_title": "Galaxy Book5 15.6inch Ultra 5, 32/1TB (NP754XHD-KD5IN)"
+ },
+ {
+  "product_id": "NE-10775",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np750xhd-kd4in/gallery/in-galaxy-book5-15-inch-np750-558917-np750xhd-kd4in-548013952?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book5, 39.62 cm, Ultra 7, 32 GB | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10776",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/6/968976_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Samsung Galaxy Book 6 Core Ultra 5 325 14 inch Laptop (Grey, NP740VJG-LS1IN)"
+ },
+ {
+  "product_id": "NE-10777",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np740vjg-ks1in/gallery/in-galaxy-book6-14-inch-np740vjgg-584304-np740vjg-ks1in-thumb-551797175",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6, 35.56 cm 16/512GB Laptop (np740vjg-ks1in)"
+ },
+ {
+  "product_id": "NE-10778",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/samsung/494792769/0/JTAdxrrKvS-dsSfpG2CB-Sam-Galaxy-B6-GR-main.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Intel Core Ultra 7 355 Windows 11 Home Laptop, NP740VJG-KG2IN"
+ },
+ {
+  "product_id": "NE-10779",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10780",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np740vjg-ks2in/gallery/in-galaxy-book-np740vjg-ks2in-galaxy-book---------cm--ultra-------gb--copilot--pc-silver-551797396?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6, Ultra 7, 16 GB, Copilot+ PC | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10781",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/samsung/494792773/0/MpdVtXpDDC-vy-VS6Vh-Sam-Galaxy-B6-GR-main.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Intel Core Ultra 5 325 Windows 11 Home Laptop, NP760VJG-KG1IN"
+ },
+ {
+  "product_id": "NE-10782",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np760vjg-kg2in/gallery/in-galaxy-book-np760vjg-kg2in-galaxy-book---------cm--ultra-------gb--copilot--pc-gray-551797469?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6, 40.62 cm, 16 GB, Copilot+ PC | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10783",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/7/623024814/DB/CA/MR/99526345/samsung-galaxy-book6-np760xjg-kg3in-core-ultra-7-16gb-1tb-ssd-16-inch-touch-laptop-500x500.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Samsung Galaxy Book6 NP760XJG-KG3IN Core Ultra 7 16GB 1TB SSD 16 Inch Touch Laptop"
+ },
+ {
+  "product_id": "NE-10784",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np940xjg-kg1in/gallery/in-galaxy-book6-pro-14-inch-np940xjgh-np940xjg-kg1in-551799040?$720_576_JPG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro, 35.56 cm, Ultra 5, 16 GB | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10785",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Samsung Galaxy Book6 Pro Intel Core Ultra 7 Touchscreen 32GB 1TB 14 inch"
+ },
+ {
+  "product_id": "NE-10786",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np940xjg-kg6in/gallery/in-galaxy-book-np940xjg-kg6in-galaxy-book--pro--------cm--ultra-x------gb--copilot--pc-gray-551799706?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro, 35.56 cm, Ultra X7, 32 GB, Copilot+ PC | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10787",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960xjg-kg3in/gallery/in-galaxy-book-np960xjg-kg3in-galaxy-book--pro--------cm--ultra-------gb--copilot--pc-gray-551799628?$2160_1728_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro, 40.62 cm, 32 GB, Copilot+ PC | Samsung Business India"
+ },
+ {
+  "product_id": "NE-10788",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960xjg-kg4in/gallery/in-galaxy-book-np960xjg-kg4in-galaxy-book--pro--------cm--ultra-x------gb--copilot--pc-gray-551801738?$624_624_PNG$",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Pro, 40.62 cm, Ultra X7, 32 GB, Copilot+ PC | Samsung Support India"
+ },
+ {
+  "product_id": "NE-10789",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-10790",
+  "keep": false,
+  "image_url": "https://images.samsung.com/is/image/samsung/p6pim/in/np960ujh-xg3in/gallery/in-galaxy-book6-ultra-16-inch-np960ujhe-np960ujh-xg3in-thumb-551773809",
+  "confidence": "high",
+  "source_domain": "www.samsung.com",
+  "matched_title": "Galaxy Book6 Ultra, 40.62cm 32GB/1TB Laptop - Specs | Samsung India"
+ },
+ {
+  "product_id": "NE-10791",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51vcO2R4XnL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a (8GB 128GB Black)"
+ },
+ {
+  "product_id": "NE-10792",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/516Urbs3RSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a 5G (8GB RAM, 256GB, White)"
+ },
+ {
+  "product_id": "NE-10793",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/513qQNCslNL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4a) 5G (Black, 12GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10794",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/416+58CFmaL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 4a Pro 5G (8GB RAM, 128GB, Silver)"
+ },
+ {
+  "product_id": "NE-10795",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51ySi75ZOwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4a) Pro 5G ( Silver, 8GB-256GB )"
+ },
+ {
+  "product_id": "NE-10796",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61S6KnloSvL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4b), Blue (8GB, 128GB)"
+ },
+ {
+  "product_id": "NE-10797",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51gtdr2AaoL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (4b), White (8GB, 256GB)"
+ },
+ {
+  "product_id": "NE-10798",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717z2bNF6DL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3), Black (12GB, 256GB)"
+ },
+ {
+  "product_id": "NE-10799",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71k2mnrt8dL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3), White (16GB, 512GB)"
+ },
+ {
+  "product_id": "NE-10800",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/nothing/494743618/0/GWkdscPc2a-897BD_Gg5-NothingPhone4aPro-494743618-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Nothing Phone 4a Pro 5G (12GB RAM, 256GB, Silver)"
+ },
+ {
+  "product_id": "NE-10801",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71dZBla7wUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone 3a Lite | Black | 128GB | 8GB RAM"
+ },
+ {
+  "product_id": "NE-10802",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81iPJsqxMoL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Nothing Phone (3a) Lite (Blue, 256 GB) (8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10803",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C100X Smartphone 4GB RAM 64GB ROM Golden Coast"
+ },
+ {
+  "product_id": "NE-10804",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61haWHLhxSL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C100i 4G Smartphone (Silver, 64 GB, 4 GB)"
+ },
+ {
+  "product_id": "NE-10805",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61g+R8Jz7oL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C83 5G Smartphone 4+64GB Green"
+ },
+ {
+  "product_id": "NE-10806",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "Buy Realme C83 5G (4GB RAM, 128GB, Blooming Purple) Online - Croma"
+ },
+ {
+  "product_id": "NE-10807",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71nUAJWvwXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Realme C83 5G (6GB RAM, 128GB, Blooming Purple)"
+ },
+ {
+  "product_id": "NE-10808",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494742292/0/9XxdqgLOop-zj5WbSbiV-RealmeC855G-MB-494742292-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme C85 5G ( Parrot Purple, 4GB-128GB )"
+ },
+ {
+  "product_id": "NE-10809",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme C85 5G Smartphone 6+128GB Green"
+ },
+ {
+  "product_id": "NE-10810",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71DwKrlwrcL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15X 5G Smartphone 6+128GB Red"
+ },
+ {
+  "product_id": "NE-10811",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Kmy3FL6LL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15X 5G Smartphone 8+128GB Blue"
+ },
+ {
+  "product_id": "NE-10812",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/321985_0_GCQudu7SSu.png?updatedAt=1773315488454",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 15x 5G (8GB RAM, 256GB, Maroon Red)"
+ },
+ {
+  "product_id": "NE-10813",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61S1CJora+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15T 5G Smartphone 8GB+128GB Black"
+ },
+ {
+  "product_id": "NE-10814",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61SUKo0D8IL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 15T 5G Smartphone 8+256GB Blue"
+ },
+ {
+  "product_id": "NE-10815",
+  "keep": false,
+  "image_url": "https://www.cellpoint.biz/uploads/media/2025/713rlnjqQzL__AC_UF894,1000_QL80_.jpg",
+  "confidence": "high",
+  "source_domain": "www.cellpoint.biz",
+  "matched_title": "Realme 15T 5G (12+256)GB in Realme | Cell Point"
+ },
+ {
+  "product_id": "NE-10816",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61WCtMZO0bL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16X 5G Smartphone 4GB RAM 128GB ROM White"
+ },
+ {
+  "product_id": "NE-10817",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494832440/0/gmQ0mrWpcG-Fim1bkw8K-Realme-16X-5G-MP-494832440-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme 16x 5G ( Endurance Brown, 6GB-128GB )"
+ },
+ {
+  "product_id": "NE-10818",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61xt-EepHKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16x 5G Smartphone 6+256GB White"
+ },
+ {
+  "product_id": "NE-10819",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323159_0_Rw7jW_UfC.png?updatedAt=1779447414313",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 16T 5G (6GB RAM, 128GB, Aurora Green)"
+ },
+ {
+  "product_id": "NE-10820",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16T 5G Smartphone 8GB RAM 128GB ROM"
+ },
+ {
+  "product_id": "NE-10821",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323164_0_T0m38CKpx.png?updatedAt=1779447381736",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Realme 16T 5G (8GB RAM, 256GB, Starlight Black)"
+ },
+ {
+  "product_id": "NE-10822",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61y72-07p7L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 8+128GB White"
+ },
+ {
+  "product_id": "NE-10823",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61rcHXhcbwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 8GB+256GB Black"
+ },
+ {
+  "product_id": "NE-10824",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71GU3g-JciL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 5G Smartphone 12+256GB Air White"
+ },
+ {
+  "product_id": "NE-10825",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/717ybYoXm0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G Smartphone 8GB+128GB Gold"
+ },
+ {
+  "product_id": "NE-10826",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61Ba1I478vL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G ( Pebble Grey, 8GB-256GB )"
+ },
+ {
+  "product_id": "NE-10827",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/610hm1pYIJL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme 16 Pro 5G Smartphone 12GB+256GB Grey"
+ },
+ {
+  "product_id": "NE-10828",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/418Wo9+hZYL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4 Lite Smartphone, 4GB RAM, 64GB Storage, Sea Blue"
+ },
+ {
+  "product_id": "NE-10829",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494792761/0/YOXKg_y1db-XhhCxffqn-realme-P4-Lite-5G494792761-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme P4 Lite 5G ( Mosaic Blue, 4GB-128GB )"
+ },
+ {
+  "product_id": "NE-10830",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/realme/494792764/0/Z_uWklP5TJ-DdRYbQisS-realme-P4-Lite-5G494792764-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Buy Realme P4 Lite 5G 128 GB, 6 GB RAM, Mosaic Green"
+ },
+ {
+  "product_id": "NE-10831",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/416oZEFwwlL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4R 5G Smartphone Titanium Glare 4 GB RAM 128 GB"
+ },
+ {
+  "product_id": "NE-10832",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/realme/494832433/0/OvXqd5ad3j-Wm7nGpL7Y-RealmeP4R5G-494832433-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Realme P4R 5G (6GB RAM, 128GB, Silver Glare)"
+ },
+ {
+  "product_id": "NE-10833",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/31MLy1I5XkL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4R 5G Smartphone, Silver Glare, 256 GB, 6 GB RAM"
+ },
+ {
+  "product_id": "NE-10834",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71whuLrNYML.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "realme P4 Power 5G Smartphone, Trans Silver, 8GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10835",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320980_0_HjMYUdmTI.png?updatedAt=1770191121920",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "realme P4 Power 5G (8GB RAM, 256GB, Trans Orange)"
+ },
+ {
+  "product_id": "NE-10836",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/realme/494832843/0/lDki0t1BQj-Qm8_M30XV-Realme-P4-Power-5G-494832843-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "realme P4 Power 5G (12GB RAM, 256GB, Trans Orange)"
+ },
+ {
+  "product_id": "NE-10837",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Shark 2 (Aurora Gold, 4 GB RAM, 64 GB Storage)"
+ },
+ {
+  "product_id": "NE-10838",
+  "keep": false,
+  "image_url": "https://hotfixapi.lavamobiles.com/storage/media/images/product-gallery/image_path/smart-4-img-1-1785229115.webp",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Smart 4"
+ },
+ {
+  "product_id": "NE-10839",
+  "keep": false,
+  "image_url": "https://www.lavamobiles.com/smartphones/star-3/img/star-3-color-indus-black.jpg",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Star 3"
+ },
+ {
+  "product_id": "NE-10840",
+  "keep": false,
+  "image_url": "https://hotfixapi.lavamobiles.com/storage/media/images/product-gallery/image_path/smart-4-plus-img-1-1782575418.webp",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Smart 4 Plus"
+ },
+ {
+  "product_id": "NE-10841",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/9/3/934771_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Yuva Smart 3 64 GB Storage Kolar Gold (3 GB RAM)"
+ },
+ {
+  "product_id": "NE-10842",
+  "keep": false,
+  "image_url": "https://www.lavamobiles.com/smartphones/shark-2-5g/img/shark-2-5g-color1.jpg",
+  "confidence": "high",
+  "source_domain": "www.lavamobiles.com",
+  "matched_title": "Shark 2 5G"
+ },
+ {
+  "product_id": "NE-10843",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Lava-shark-2-5g-sonar-gold-4gb-64gb-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "poorvika.com",
+  "matched_title": "Explore Shark 2 5G Sonar Gold 4GB/64GB"
+ },
+ {
+  "product_id": "NE-10844",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/mobile/d/u/o/duo-2-lxx518-lava-original-imahkvmq2m2tqb5g.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA DUO 2 (256 GB Storage, 8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10845",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/5180s4x0XXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Blaze Duo 3 5G (Moonlight Black, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10846",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/0/802561_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Blaze Dragon 5G 128 GB Storage Midnight Mist (4 GB RAM)"
+ },
+ {
+  "product_id": "NE-10847",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/b/e/q/blaze-dragon-5g-blaze-dragon-5g-lava-resized-original-imahg3gejghxhwjx.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze Dragon 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10848",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/640/xif0q/mobile/s/i/9/amoled-amoled-lava-original-imahbkhggwfnnzch.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze Amoled (128 GB Storage, 4 GB RAM)"
+ },
+ {
+  "product_id": "NE-10849",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/9/498937_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Blaze Amoled 5G 128 GB Storage Sapphire Blue (6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10850",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/mobile/u/q/h/play-ultra-5g-play-ultra-5g-lava-resized-original-imahgeztc3ehbg9q.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Play Ultra 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10851",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/p/l/play-ultra-5g_arctic_frost_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Lava Play Ultra 128GB Storage Arctic Frost (8 GB RAM)"
+ },
+ {
+  "product_id": "NE-10852",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/b/v/8/blaze-amoled-2-5g-lxx523-lava-resized-original-imahhg8h5necwwg6.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Blaze AMOLED 2 5G (128 GB Storage, 6 GB RAM)"
+ },
+ {
+  "product_id": "NE-10853",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Play Max 5G (Deccan Black, 6+6*GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10854",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61jPa4mC6eL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Play Max 5G (Deccan Black, 8+8*GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10855",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61a+OZOIWOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Hero Shakti 2026 Dual Sim Keypad Mobile Phone (Mint Green)"
+ },
+ {
+  "product_id": "NE-10856",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Lava-a1-josh-blue-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Grab Lava A1 Josh feature phone in Blue Color @ Poorvika"
+ },
+ {
+  "product_id": "NE-10857",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61LBiJMhm2L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A1 Josh (with BOL Feature) Dual Sim Keypad Mobile Phone (Black)"
+ },
+ {
+  "product_id": "NE-10858",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61OXIykdm8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A1 Tejas Dual SIM Keypad Phone with 2 inch Big Display"
+ },
+ {
+  "product_id": "NE-10859",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/v/n/p/a1-music-bluetooth-support-smart-ai-battery-military-grade-original-imahh4ykkabyxsze.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA A1 Music (24 MB Storage, 4 MB RAM)"
+ },
+ {
+  "product_id": "NE-10860",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A2 Smart (2025) Dual SIM Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10861",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A3 Torch Dual Sim Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10862",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71V7lL7EXDL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A3 King Dual Sim Keypad Mobile Phone (Charcoal)"
+ },
+ {
+  "product_id": "NE-10863",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6147+a6ab-L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava A7 Torch 2026 Dual Sim Keypad Mobile Phone"
+ },
+ {
+  "product_id": "NE-10864",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mobile/f/q/w/action-4g-action-4g-lava-resized-original-imahhnakvfqzvuah.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "LAVA Action 4G"
+ },
+ {
+  "product_id": "NE-10865",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Lava Gem 2025 Dual Sim Keypad Phone"
+ },
+ {
+  "product_id": "NE-10866",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.aravindhamobiles.com",
+  "matched_title": "MOTO A300"
+ },
+ {
+  "product_id": "NE-10867",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61oyi17Xf0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Motorola A100 Keypad Mobile Phone (Black)"
+ },
+ {
+  "product_id": "NE-10868",
+  "keep": false,
+  "image_url": "https://i0.wp.com/www.aravindhamobiles.com/wp-content/uploads/2026/08/61Dbu-jw8uL._SL1200_.jpg?fit=1200%2C1200&ssl=1",
+  "confidence": "high",
+  "source_domain": "www.aravindhamobiles.com",
+  "matched_title": "MOTO A300 - Aravindha Mobiles"
+ },
+ {
+  "product_id": "NE-10869",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Motorola All-New A10e Dual Sim keypad Phone (Dark Blue)"
+ },
+ {
+  "product_id": "NE-10870",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6c 4G (Stone Brown, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10871",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6 5G (Sapphire Blue, 4GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10872",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Oppo-a6-5g-sapphire-blue-6gb-128gb-Front-Back-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Buy Oppo A6 5G Sapphire Blue (6GB/128GB)"
+ },
+ {
+  "product_id": "NE-10873",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71V+AY+c8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6 5G (Ice White, 6GB RAM,256GB Storage)"
+ },
+ {
+  "product_id": "NE-10874",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo A6 Pro 5G (8GB RAM, 128GB, Cappuccino Brown)"
+ },
+ {
+  "product_id": "NE-10875",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Lc-CE7aUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO A6 Pro 5G Aurora Gold 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10876",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6s 5G (Plum Purple, 4GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10877",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6s 5G (Plum Purple, 6GB RAM,128GB Storage)"
+ },
+ {
+  "product_id": "NE-10878",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51EbhPNT1QL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 4G (Ice Blue, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10879",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71X5ugQq8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Ice Blue, 4GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10880",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71X5ugQq8sL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Ice Blue, 4GB RAM, 64GB Storage)"
+ },
+ {
+  "product_id": "NE-10881",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71CuZfYKtZL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo A6X 5G (Olive Green, 6GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10882",
+  "keep": false,
+  "image_url": "https://media-ik.croma.com/Croma%20Assets/Communication/Mobiles/Images/318599_0_pNvK1Toi9.png?updatedAt=1756806460926",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo F31 5G (8GB RAM, 128GB, Midnight Blue)"
+ },
+ {
+  "product_id": "NE-10883",
+  "keep": false,
+  "image_url": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/o/p/oppo_f31-midnight_blue-1.png",
+  "confidence": "high",
+  "source_domain": "www.bigcmobiles.com",
+  "matched_title": "Oppo F31 5G (8GB/256GB | Midnight Blue)"
+ },
+ {
+  "product_id": "NE-10884",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G"
+ },
+ {
+  "product_id": "NE-10885",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G (Space Grey, 8GB RAM, 128GB Storage)"
+ },
+ {
+  "product_id": "NE-10886",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81bBSl-BpdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F31 Pro 5G (Space Grey, 8GB RAM, 256GB Storage)"
+ },
+ {
+  "product_id": "NE-10887",
+  "keep": false,
+  "image_url": "https://www.bigcmobiles.com/media/catalog/product/cache/e19e56cdd4cf1b4ec073d4305f5db95a/o/p/oppo_f31-gemstone_blue-2_1.png",
+  "confidence": "high",
+  "source_domain": "www.bigcmobiles.com",
+  "matched_title": "Oppo F31 Pro Plus 5G (12GB/256GB | Gemstone Blue)"
+ },
+ {
+  "product_id": "NE-10888",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61PkorSXDwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F33 5G Smartphone (6GB RAM, 128GB Storage, Forest Green)"
+ },
+ {
+  "product_id": "NE-10889",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792827/0/sme08AxZrj-z-Q-pl6Ul-OPPO-F33-5G-MP-494792827-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 5G Pearl White 128GB 8GB"
+ },
+ {
+  "product_id": "NE-10890",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792826/0/mV60_MtcxN-b7l48Rjm0-OPPO-F33-5G-MP-494792826-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 5G Pearl White 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10891",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo F33 Pro 5G Smartphone (8GB RAM, 128GB Storage, Passion Red)"
+ },
+ {
+  "product_id": "NE-10892",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/oppo/494792835/0/Vnr1aZ3a87-Isd_YbdaK-OPPO-F33-Pro-5G-MP-494792835-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO F33 Pro 5G Misty Forest 256GB 8GB"
+ },
+ {
+  "product_id": "NE-10893",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41ZHA6VZTpL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14 5G Smartphone, ICY Blue, 6GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10894",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/oppo/494743533/0/JUDhr0Umgr-F5n-R7N3s-OPPO-K14-5G-MP-494743533-i-1.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO K14 5G Prism Violet 256GB 6GB"
+ },
+ {
+  "product_id": "NE-10895",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:460/oppo/494793669/0/ixK-DK2qaT-GbeJUO9r4-01.jpg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "OPPO K14 5G 256 GB, 8 GB RAM, Prism Violet, Mobile Phone"
+ },
+ {
+  "product_id": "NE-10896",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61wEl1TXntL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G (ICY Blue, 4GB RAM, 64GB)"
+ },
+ {
+  "product_id": "NE-10897",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G Smartphone, Prism Violet, 4GB RAM, 128GB Storage"
+ },
+ {
+  "product_id": "NE-10898",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/41oBBR5Kw6L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "OPPO K14x 5G Icy Blue 128GB 6GB"
+ },
+ {
+  "product_id": "NE-10899",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/316431_7_DU7o-HDzTz.png?updatedAt=1758555893736",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "oppo Reno 14 5G (8GB RAM, 256GB, Forest Green)"
+ },
+ {
+  "product_id": "NE-10900",
+  "keep": false,
+  "image_url": "https://miamicenters.com/wp-content/uploads/2026/01/oppo-reno-15-1.webp",
+  "confidence": "high",
+  "source_domain": "miamicenters.com",
+  "matched_title": "Oppo Reno 15 256/12GB 5G Aurora White"
+ },
+ {
+  "product_id": "NE-10901",
+  "keep": false,
+  "image_url": "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/j/8/4/-original-imahjgt2gbtgheym.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Oppo Reno15 5G Twilight Blue 512GB 12GB"
+ },
+ {
+  "product_id": "NE-10902",
+  "keep": false,
+  "image_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/reno15-series-en/specs/reno15/blue-darkblue-white.png",
+  "confidence": "high",
+  "source_domain": "www.oppo.com",
+  "matched_title": "OPPO Reno15 5G Specs | OPPO Global"
+ },
+ {
+  "product_id": "NE-10903",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71VWcXhbWAL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Oppo Reno15Pro 5G (Sunset Gold 12GB RAM, 256GB Storage)"
+ }
+]

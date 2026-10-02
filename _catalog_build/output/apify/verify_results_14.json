@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-07233",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07295",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07296",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07334",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07343",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07348",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61GgjqR2vLL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Power Plate 20 Universal Extension Board with Individual Switches & 2m Cord"
+ },
+ {
+  "product_id": "NE-07350",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07351",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07355",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07356",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07358",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07359",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02097",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07361",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07363",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07365",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Image1_9eea044a-4eeb-4fde-bfca-c2f198fd48ad.png?v=1699440057",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics Adapto One Plus 18w 3A Mach USB Fast Charger"
+ },
+ {
+  "product_id": "NE-07366",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07367",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07368",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07375",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/518Z49DwxrL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Adapto 20 Lite Smallest 20W GaN Wall Charger with Type C PD Fast Charging Output (White)"
+ },
+ {
+  "product_id": "NE-07378",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07379",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07383",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02108",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61CFvUw5-5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Adapto 25 25W Super Fast Type C PD Wall Charger"
+ },
+ {
+  "product_id": "NE-07386",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07387",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/513SzsaUB5L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Adapto 25 Pro 25W Fast Charging Type C Adapter with Type C Charging Cable"
+ },
+ {
+  "product_id": "NE-07455",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07462",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51I2r8phClL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics 30W Adapto 30V USB-A Fast Charging Adaptor with 6A Cable"
+ },
+ {
+  "product_id": "NE-07463",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/514BDGC9lKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics 35W Adapto 35A USB-A Fast Charging Adaptor with 1M Charging Cable"
+ },
+ {
+  "product_id": "NE-07464",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Adapto_35B_Phone_Charger_online.jpg?v=1750409299",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Adapto 35B"
+ },
+ {
+  "product_id": "NE-07465",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07480",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07485",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07486",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07516",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07518",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07519",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Adapto_45C_USB_Charger_with_45W.png?v=1739873700",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Adapto 45C"
+ },
+ {
+  "product_id": "NE-07525",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07552",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07554",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07569",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07570",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07611",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07629",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07708",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61V83arR7EL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Adapto 66 2.4A 12w Dual USB Port 5V/2.4A Wall Charger"
+ },
+ {
+  "product_id": "NE-02130",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07709",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07733",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71QPhAHFJHL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics 100W Adapto 100D Fast Charging 5 Port Adaptor with LCD Power Display"
+ },
+ {
+  "product_id": "NE-07747",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07750",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07754",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07763",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61DIaaxLfGL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Juicemate 3 Universal Travel Adapter with 6A AC Socket Output"
+ },
+ {
+  "product_id": "NE-07787",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07814",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07841",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07845",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07848",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07912",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/614-uV5uWQL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Volt 20 20W 6in 1 Desktop Power Strip ;White"
+ },
+ {
+  "product_id": "NE-07913",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07921",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07923",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07924",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1_c6042fbd-efb4-46e1-8908-019eaa997f62.jpg?v=1790144767",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "AeroDock Pro Laptop Cooling Pad with Mobile Holder"
+ },
+ {
+  "product_id": "NE-07928",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61i40gAN5jL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics POR 2186 My Buddy Air Pro Laptop Cooling Pad with 6 Fans"
+ },
+ {
+  "product_id": "NE-07930",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/MyBuddySpinlight1200X12002.jpg?v=1688555929",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "My Buddy Spinlight Laptop Stand with Cooling Fan,(Silver)"
+ },
+ {
+  "product_id": "NE-07954",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07959",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07960",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-07961",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08074",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08076",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08082",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51EDkEc2F+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics My Buddy K9 Pro 2-in-1 Laptop & Phone Stand"
+ },
+ {
+  "product_id": "NE-08086",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08087",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_My_Buddy_K9_Lite_Metal_Stand_travel_frendly.jpg?v=1764935492",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy My Buddy K9 Lite | 360\u00b0 Adjustable Laptop Stand"
+ },
+ {
+  "product_id": "NE-08093",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/MyBuddyK101200x12002.jpg?v=1684998943",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics My Buddy K10 Portable Laptop Stand Height Adjustable"
+ },
+ {
+  "product_id": "NE-08106",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08219",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08220",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08228",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61+gT7pYzeL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Aerolift Solo Gas Spring Monitor Arm, Desk Mount for 13-32 Inch Screens"
+ },
+ {
+  "product_id": "NE-08280",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08281",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71Z7gT6Vb0L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Metal My Buddy L Folding Wall Mounted Table for Study, Laptop, Home & Office"
+ },
+ {
+  "product_id": "NE-08282",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08283",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/products/portronics_my_buddy_f_foldable_laptop_stand.jpg?v=1784284740",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics My Buddy F Multipurpose Movable & Adjustable Laptop Table(Black)"
+ },
+ {
+  "product_id": "NE-08306",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08313",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08314",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08315",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08316",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/617Nop2kHOL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Bubble Multimedia Wireless Keyboard 2.4 GHz & Bluetooth 5.0 (POR 1677)"
+ },
+ {
+  "product_id": "NE-08325",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/BubblePro1200x12003.jpg?v=1688465096",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Bubble Pro Wireless Keyboard with Touchpad"
+ },
+ {
+  "product_id": "NE-08328",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61ByH-54umL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Bubble Square Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver"
+ },
+ {
+  "product_id": "NE-08332",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08337",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51uZHbpo32L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Chicklet Foldable QWERTY Keyboard, Mini Pocket Sized, Rechargeable, Bluetooth Wireless"
+ },
+ {
+  "product_id": "NE-08338",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Bubble_Dock_Bluetooth_keyboard_for_tablet.png?v=1743509147",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Bubble Dock Por 2192 Wireless Keyboard with Tablet Holder"
+ },
+ {
+  "product_id": "NE-08339",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71z+UvKRg8L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Bubble 3.0 Bluetooth Keyboard For Laptop"
+ },
+ {
+  "product_id": "NE-08340",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08341",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61vY8WXxvjL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Hydra 10 Wireless Mechanical Gaming Keyboard with Bluetooth & 2.4 GHz Wireless"
+ },
+ {
+  "product_id": "NE-08342",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08343",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08344",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08345",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61OWzRG56fL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics POR-349 Key10 Combo Wireless Keyboard & Mouse Set with Wrist Rest"
+ },
+ {
+  "product_id": "NE-08352",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08355",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08357",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02182",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08359",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08364",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08368",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08369",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61UEznhYisL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Akshr Prime Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver"
+ },
+ {
+  "product_id": "NE-08371",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08372",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08441",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08442",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08443",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08444",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08445",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08446",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Portronics_Toad_Ergo_4_Best_Ergonomic_Vertical_Mouse.png?v=1759730201",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Toad Ergo 4 Vertical Wireless Bluetooth Mouse; White"
+ },
+ {
+  "product_id": "NE-08447",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08452",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08454",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08456",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08457",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61D9TRVUi+L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Toad 14 Wireless Mouse"
+ },
+ {
+  "product_id": "NE-08458",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08459",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08460",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08461",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08468",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08472",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mouse/b/t/f/toad-101-wired-optical-mouse-1200-dpi-hi-optical-tracking-1-25m-enriched-transparent-original-imagtnxpqpbtchqm.png?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics Toad 101 Wired Ambidextrous Optical Mouse 1200 DPI, 1.25M Cable Length, 30-Lakh Clicks Life"
+ },
+ {
+  "product_id": "NE-08473",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/Artboard_1-2_61d161a5-33e9-46a7-85b6-fe9e261041d0.jpg?v=1702381742",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Vader Wired Mouse For Gaming With 6 Button Design"
+ },
+ {
+  "product_id": "NE-08475",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08477",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08479",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08482",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08484",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08492",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08495",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08499",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08501",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08503",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02208",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08504",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08507",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61X+SfvMh1L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Toad 103 Wired Optical Mouse | Black"
+ },
+ {
+  "product_id": "NE-08509",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51o9sI1L+DL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Toad 23 Pro Wireless Rechargeable Bluetooth Optical Mouse with 2.4GHz, USB Nano Dongle"
+ },
+ {
+  "product_id": "NE-08511",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08514",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_toad_neo_wireless_mouse_with_advanced_thumb_controls.jpg?v=1777554654",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Toad Neo Bluetooth Wireless Mouse for Laptop"
+ },
+ {
+  "product_id": "NE-08516",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08517",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08518",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08696",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08705",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08717",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08719",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08723",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08727",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08728",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08729",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08730",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08736",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61SKeGJrJHL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Portable RuffPad E-Writer 21.59Cm (8.5-inch) LCD with App Support (POR 628)"
+ },
+ {
+  "product_id": "NE-08737",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08738",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/AllPages-2_5ebfbc4f-03e7-443d-85d7-60df11ce0d5e.jpg?v=1765440523",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Ruffpad 8.5E Re-Writable LCD Writing Pad (Black)"
+ },
+ {
+  "product_id": "NE-08740",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08741",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Ruffpad_12_12inch_writing_pad.jpg?v=1730210752",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Ruffpad E-Writer 12\" LCD Writing Pad (Black)"
+ },
+ {
+  "product_id": "NE-08742",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08759",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/portronics_ruffpad_15_15_inch_best_re-writable_lcd_tablet_for_school_work.png?v=1784272931",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics Ruffpad 15 Re-Writable LCD Screen 38.1cm (15-inch) Writing Pad for Drawing"
+ },
+ {
+  "product_id": "NE-08777",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08779",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08781",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08782",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08784",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08785",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08792",
+  "keep": false,
+  "image_url": "https://cdn.shopify.com/s/files/1/1603/9553/files/1_560805de-ddf4-4aaf-aac2-647c8ad9e70b.jpg?v=1730976261",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Portronics New Mport 8 Type C USB Hub For Laptop Online"
+ },
+ {
+  "product_id": "NE-08801",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08813",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08829",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08831",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08843",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08854",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08855",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51hpSz9kyqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Shop Portronics DigiBridge HDMI to VGA Adaptor| USB Hub Online"
+ },
+ {
+  "product_id": "NE-08857",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08858",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/Artboard1-1_5222029d-13e7-4ebe-8109-8409f5c1d681.png?v=1756559849",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Shop Portronics New Mport X Type-C to HDMI Adapter USB HUB"
+ },
+ {
+  "product_id": "NE-08859",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08864",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/usb-gadget/l/n/i/por-1041-c-konnect-usb-c-multiport-adapter-portronics-original-imahhy9jcbhkzdpy.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Portronics C-Konnect POR-1041 C-Konnect USB-C Multiport Adapter HDMI Connector"
+ },
+ {
+  "product_id": "NE-08865",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61IjtRcKaXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics C-Konnect Plus Type-C to HDMI Adapter 3-in-1"
+ },
+ {
+  "product_id": "NE-08869",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08871",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08875",
+  "keep": false,
+  "image_url": "https://www.portronics.com/cdn/shop/files/1500x1500_3.jpg?v=1756540139",
+  "confidence": "high",
+  "source_domain": "www.portronics.com",
+  "matched_title": "Buy Portronics Latest Mport One 9-in-1 Usb Hub With HDMI Port"
+ },
+ {
+  "product_id": "NE-08886",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61nNEMMRVXL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Portronics Mport 4D USB Hub Dock"
+ },
+ {
+  "product_id": "NE-08892",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08896",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08898",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-08899",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "product_id": "NE-05527",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:456120e2-fe8f-4a1d-a98e-b2c3ecc6caa6/as/8903287034084-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB TL751MS2SID 7.5 kg Top Load Washing Machine Online"
+ },
+ {
+  "product_id": "NE-05534",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:017506b3-dace-417a-b583-db39e9f5a696/as/8903287034428-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB TL-900NB2SID 9 kg Top Load Washing Machine Online"
+ },
+ {
+  "product_id": "NE-05541",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:84576181-d93d-4121-950e-ab6a0bbafd7f/as/8903287000676-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "TurboDry 550"
+ },
+ {
+  "product_id": "NE-05542",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:01d44f92-20ae-427d-a417-23601a96b30f/as/8903287000669-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy an IFB TurboDry EX 5.5 kg Clothes Dryer at Best Price online"
+ },
+ {
+  "product_id": "NE-05501",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB 8 kg Front Load Washing Machine | Senator SXN 8012K CMS"
+ },
+ {
+  "product_id": "NE-05504",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB 8 Kg Front Load Washing Machine | Senator BXN 8012K CMS"
+ },
+ {
+  "product_id": "NE-03291",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Senator MBN 8014 CMS"
+ },
+ {
+  "product_id": "NE-11533",
+  "keep": false,
+  "image_url": "http://mahajanelectronics.com/cdn/shop/files/IFB_Executive_Plus_BXN_1014KH_10_Kg_Front_Load_Washing_Machine_1400_RPM_AI_Powered_Black_Hairline_Finish.png?v=1762190790",
+  "confidence": "high",
+  "source_domain": "mahajanelectronics.com",
+  "matched_title": "IFB 10 kg Powered By AI Front Load Washing Machine Executive Plus BXN 1014KH"
+ },
+ {
+  "product_id": "NE-05514",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB 11 Kg Front Load Washing Machine | Executive Plus BXN 1114KH"
+ },
+ {
+  "product_id": "NE-05515",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB 11 Kg Front Load Washing Machine | Executive Plus VSG 1114"
+ },
+ {
+  "product_id": "NE-05571",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB Neptune SX16 Dishwasher 16 Place Setting Online"
+ },
+ {
+  "product_id": "NE-05572",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:d7ae56c6-f018-4b20-8558-3ed25c4b1b74/as/8903287040290-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB Neptune VX16 16 Place Dishwasher at Best Price"
+ }
+]

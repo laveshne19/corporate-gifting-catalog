@@ -1,0 +1,1514 @@
+[
+  {
+    "product_id": "NE-12294",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08519",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61X-8AOv8SL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Fontana One 1270mm Ceiling Fan with Decorative Lights (Gold with Ivory Blades) Pack of 2"
+  },
+  {
+    "product_id": "NE-08520",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Fontana Orchid 1280mm ISI Ceiling Fan (Gold Ivory)"
+  },
+  {
+    "product_id": "NE-08521",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516056520/UD/QW/HM/227037638/usha-sp-1540-isi-water-cooler.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha SP 1540 ISI Water Cooler, Storage Capacity: 150 L"
+  },
+  {
+    "product_id": "NE-08522",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/7/434653856/VU/HS/AO/148336344/water-cooler-ss-1540-isi-usha.jpeg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha SS 1540 ISI Water Cooler, Storage Capacity: 40 L"
+  },
+  {
+    "product_id": "NE-08523",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/577819110/QU/VH/NG/36849597/usha-water-cooler-model-ss-1540-nc-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Water Cooler Model SS 1540 NC ISI"
+  },
+  {
+    "product_id": "NE-08524",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516041083/UX/ZM/TT/227037638/usha-water-cooler-sp-3060-isi.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SP 3060 ISI"
+  },
+  {
+    "product_id": "NE-08526",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516127245/MU/JL/UH/227037638/usha-water-cooler-sp-4040-isi.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SP 4040 ISI"
+  },
+  {
+    "product_id": "NE-08527",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/9/453382550/XU/TB/RU/30579152/usha-water-cooler-ss-4040-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha WATER COOLER SS 4040 ISI"
+  },
+  {
+    "product_id": "NE-08529",
+    "keep": false,
+    "image_url": "https://rukmini1.flixcart.com/image/1500/1500/j3xbzww0/water-dispenser/q/g/t/ss-4080-usha-original-imaeuy5qfcx6cuwy.jpeg?q=70",
+    "confidence": "high",
+    "source_domain": "www.flipkart.com",
+    "matched_title": "Cooler Storage Usha 80 Ltr Water Cooler Usha Stainless Steel SS4080 ISI"
+  },
+  {
+    "product_id": "NE-08531",
+    "keep": false,
+    "image_url": "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/ExtraLarge/20260519112941-7abe26cc-2840-4197-af2a-751b51354209.webp",
+    "confidence": "high",
+    "source_domain": "www.aajjo.com",
+    "matched_title": "USHA WATER COOLER 4080 VCM FRONT FACIA ISI"
+  },
+  {
+    "product_id": "NE-08532",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/329946855/YO/RU/EX/13872653/usha-ss4080-multiface-faucet.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA SS4080 MULTIFACE FAUCET"
+  },
+  {
+    "product_id": "NE-08533",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/9/453377105/OZ/BF/GO/30579152/usha-water-cooler-ss-4080-hnc-triwater-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha WATER COOLER SS 4080 HNC TRIWATER ISI"
+  },
+  {
+    "product_id": "NE-08534",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Water Cooler Usha SS 6080"
+  },
+  {
+    "product_id": "NE-08535",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516161224/JM/AZ/SH/227037638/usha-water-cooler-sp-6080.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Water Cooler Sp 6080"
+  },
+  {
+    "product_id": "NE-08536",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/577840852/XE/DS/QJ/36849597/usha-water-cooler-model-ss-6080-nc-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Water Cooler Model SS 6080 NC ISI"
+  },
+  {
+    "product_id": "NE-08537",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/1/577846253/GZ/JM/WJ/36849597/usha-water-cooler-model-6080-vcm-front-facia-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Water Cooler Model 6080 VCM FRONT FACIA ISI"
+  },
+  {
+    "product_id": "NE-08538",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516183487/DM/VZ/YI/227037638/usha-water-cooler-sp-60120g-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SP 60120G ISI"
+  },
+  {
+    "product_id": "NE-08539",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/6/318344692/CP/HQ/KW/11902646/ss-60120-usha-water-cooler.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "SS 60120 G Usha Water Cooler"
+  },
+  {
+    "product_id": "NE-08540",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08541",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2026/6/613855759/MX/LZ/IT/197065476/usha-sp-80120-isi-water-cooler.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha SP 80120 Water Cooler"
+  },
+  {
+    "product_id": "NE-08542",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516242078/JV/HG/FE/227037638/usha-water-cooler-sp-80120-nc-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SP 80120 NC ISI"
+  },
+  {
+    "product_id": "NE-08543",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516253585/AK/CN/FW/227037638/usha-water-cooler-ss-80120-isi-500x500.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SS 80120 ISI"
+  },
+  {
+    "product_id": "NE-08544",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/9/453379923/JS/SZ/IF/30579152/usha-water-cooler-ss-80120-nc-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha WATER COOLER SS 80120 NC ISI"
+  },
+  {
+    "product_id": "NE-08545",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/7/437730763/HB/WM/UT/116856987/usha-sp-150150-g-water-cooler.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Sp 150150G ISI Water Cooler"
+  },
+  {
+    "product_id": "NE-08547",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/405533009/DA/NY/UH/116856987/usha-water-cooler-sp-150150-500x500.jpg",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Water Cooler SP 150150RC ISI"
+  },
+  {
+    "product_id": "NE-08548",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2025/6/516469512/FT/PK/LI/227037638/usha-water-cooler-ss-150150rc-isi.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "USHA WATER COOLER SS 150150RC ISI"
+  },
+  {
+    "product_id": "NE-08550",
+    "keep": false,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/7/329603424/AF/EW/XT/13872653/usha-sra-400r-water-cooler.png",
+    "confidence": "high",
+    "source_domain": "www.indiamart.com",
+    "matched_title": "Usha Sra 400r Water Cooler"
+  },
+  {
+    "product_id": "NE-08555",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08556",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08557",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08558",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08559",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/inline-images/WSB---Range-Inshop-Branding---1366-x-600.jpg",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Table Top Water Dispenser | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08560",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/2024-08/_RSP0212-min.png",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Instafresh Floor Standing Dispenser - Jet Black | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08561",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/71oc7RL79pL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA INSTAFRESH FS Jet Black 3 TAP (63HNCFSBL3FIFMV) Without Cooling  Cabinate-Bottled Black Water Dispenser 5 L : Amazon.in: Home Improvement"
+  },
+  {
+    "product_id": "NE-08562",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Instafresh Floor Standing Dispenser - Jet Black | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08563",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61yna9FTPmL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuMjwvc3Bhbj4=,60,875,420,420,0,0_PIRIOTHREE-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigyNCk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA INSTAFRESH FS Jet Black 3 TAP (63HNCCCBL3FIFMV) with Cooling  Cabinate-Bottled Water Dispenser : Amazon.in: Home Improvement"
+  },
+  {
+    "product_id": "NE-08564",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/2024-07/0143-min_1.png",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Laguna Fresh Floor Standing Dispenser | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08565",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/2024-02/Product_3.png",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Laguna Fresh Cooling Cabinet Dispenser | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08566",
+    "keep": false,
+    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/usha-water-dispenser-05-01-2022-18-272335507-d5zzm.jpg",
+    "confidence": "high",
+    "source_domain": "www.justdial.com",
+    "matched_title": "Buy USHA Laguna Fresh Fs Sensor Water Dispenser Online - Best Price USHA  Laguna Fresh Fs Sensor Water Dispenser - Justdial Shop Online."
+  },
+  {
+    "product_id": "NE-08567",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/inline-images/WSB---Range-Inshop-Branding---1366-x-600.jpg",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Aquagenie+ Table Top Dispenser | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08568",
+    "keep": false,
+    "image_url": "https://www.ushawatersolutions.com/sites/default/files/inline-images/WSB---Range-Inshop-Branding---1366-x-600.jpg",
+    "confidence": "high",
+    "source_domain": "www.ushawatersolutions.com",
+    "matched_title": "Aquagenie+ Floor Standing Dispenser | USHA Water Solutions"
+  },
+  {
+    "product_id": "NE-08569",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquagenie Cooling Cabinet Water Dispenser for 20 Litre Bottle with  Refrigerator Hot and Cold Automatic, White : Amazon.in: Home Improvement"
+  },
+  {
+    "product_id": "NE-08570",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquagenie Cooling Cabinet Water Dispenser for 20 Litre Bottle with  Refrigerator Hot and Cold Automatic, White : Amazon.in: Home Improvement"
+  },
+  {
+    "product_id": "NE-08571",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08572",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08573",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08574",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08575",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08576",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08577",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08578",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Instano 3 Litre Vertical Instant Geyser with IPX4 Protection (Moonlight  White) online at best prices from Croma. Check product details, reviews &  more. Shop now!"
+  },
+  {
+    "product_id": "NE-08579",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08580",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Instafresh Neo 3 Litre Vertical Instant Geyser with Whirl Flow  Technology (White)"
+  },
+  {
+    "product_id": "NE-08581",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08582",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/317317_0_6vFubgMaW.png?updatedAt=1763026533582",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Instafresh Neo 3 Litre Vertical Instant Geyser with Whirl Flow Technology (White)"
+  },
+  {
+    "product_id": "NE-08583",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/317315_8_uLtJrJQ6e.png?updatedAt=1763026459536",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Instafresh Neo 5 Litre Vertical Instant Geyser with Whirl Flow  Technology (White)"
+  },
+  {
+    "product_id": "NE-08584",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08585",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61kHJH2b+1L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuMDwvc3Bhbj4=,60,875,420,420,0,0_PIRIOTHREE-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigxMSk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Aquabuddy 10 Litre Storage Water Heater with Free Installation (White  Black) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08586",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08587",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08588",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08589",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08590",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08591",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/4152ZwI2J+L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Cylandra 6 Litre Storage Water Heater With Free Installation  (White), Wall Mounting Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08592",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Cylandra 10 Litre Storage Water Heater With Free Installation ( White), Wall Mounting Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08593",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Cylandra 15 Litre 5 Star Vertical Storage Geyser with Whirl Flow  Technology (White)"
+  },
+  {
+    "product_id": "NE-08594",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Feature%20Callout%202025/317326_2_zP4s26CZb.png?updatedAt=1766394606402",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Cylandra 25 Litre 5 Star Vertical Storage Geyser with Whirl Flow  Technology (White)"
+  },
+  {
+    "product_id": "NE-08595",
+    "keep": false,
+    "image_url": "https://aaravelectronics.com/cdn/shop/files/2_3203a5c3-6761-40c3-b2c2-95def9fbf4f2.webp?v=1785831464",
+    "confidence": "high",
+    "source_domain": "aaravelectronics.com",
+    "matched_title": "Usha Cylandra 35L Storage Water Heater (White)"
+  },
+  {
+    "product_id": "NE-08596",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08597",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61tgh8eHynL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Warmboy WB10AX 10L Storage Water Heater | 2000W | Copper Heating  Element | Whirlflow Technology | 5 Safety Features | 7-Year Tank, 3-Year ..."
+  },
+  {
+    "product_id": "NE-08598",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha 15 L Storage Water Geyser Warmboy, White"
+  },
+  {
+    "product_id": "NE-08599",
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/category/2023/03/water-geysers-18328-1679309801256.webp",
+    "confidence": "high",
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Buy Usha Warmboy Storage Water Heater 25 L White Online at Best Prices -  Industrybuying."
+  },
+  {
+    "product_id": "NE-08600",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08601",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08602",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08603",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08604",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08605",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61I0pl6RqeL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Misty Neo 25L Storage Water Heater (White) | 5-Star Rated |  Advanced Safety with Adjustable Thermostat | High Pressure Withstanding |  Stylish Floral Design Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08606",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08607",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08608",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08609",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Misty 10 Litre 5 Star Vertical Storage Geyser with Whirl Flow  Technology (Ivory Cherry Blossom)"
+  },
+  {
+    "product_id": "NE-08610",
+    "keep": false,
+    "image_url": "https://static1.industrybuying.com/products/appliances/heaters/APP.HEA.97690274_1672318882530.webp",
+    "confidence": "high",
+    "source_domain": "www.industrybuying.com",
+    "matched_title": "Buy Usha Misty 10 L Grey and Magnolia Storage Water Geyser Online at Best  Prices - Industrybuying."
+  },
+  {
+    "product_id": "NE-08611",
+    "keep": false,
+    "image_url": "https://cms-assets.bajajfinserv.in/is/image/bajajfinance/mega1?scl=1",
+    "confidence": "high",
+    "source_domain": "www.bajajfinserv.in",
+    "matched_title": "USHA 10 L Storage Water Geyser Blue Hibiscus (SWH MISTY 10L BLUE HIBISCUS)  Online Price in India - Easy EMI Starting at \u20b9627/m"
+  },
+  {
+    "product_id": "NE-08612",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41fKd8fY8iL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMjwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig3NzQpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Misty 15 Ltr 2000-Watt 5 Star Storage Water Heater (Ivory Cherry  Blossom) With Pipes & Free Installation Online at Low Prices in India -  Amazon.in"
+  },
+  {
+    "product_id": "NE-08613",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Misty 15 Ltr 2000-Watt 5 Star Storage Water Heater (Grey Magnolia)  Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08614",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08615",
+    "keep": false,
+    "image_url": "https://mc.bajajfinserv.in/media/catalog/product/u/s/ushaswhmisty15lmetallicsilver_additional5.jpeg",
+    "confidence": "high",
+    "source_domain": "www.bajajfinserv.in",
+    "matched_title": "Usha 25 L Storage Water Geyser Metallic Silver (SWH MISTY 15L METALLIC  SILVER) Online Price in India - Easy EMI Starting at \u20b9694/m"
+  },
+  {
+    "product_id": "NE-08616",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41fKd8fY8iL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMjwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig3NzQpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Misty 25 Ltr 2000-Watt 5 Star Storage Water Heater (Ivory Cherry  Blossom),With Free Installation And Connection Pipes Online at Low Prices  in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08617",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41Zd2W-HF1L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMjwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig3NzQpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Misty 25 Ltr 2000-Watt 5 Star Storage Water Heater (Grey Magnolia),With  Free Installation And Connection Pipes Online at Low Prices in India -  Amazon.in"
+  },
+  {
+    "product_id": "NE-08618",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08619",
+    "keep": false,
+    "image_url": "https://mc.bajajfinserv.in/media/catalog/product/u/s/ushaswhmisty15lmetallicsilver_additional5.jpeg",
+    "confidence": "high",
+    "source_domain": "www.bajajfinserv.in",
+    "matched_title": "Usha 25 L Storage Water Geyser Metallic Silver (SWH MISTY 15L METALLIC  SILVER) Online Price in India - Easy EMI Starting at \u20b9694/m"
+  },
+  {
+    "product_id": "NE-08620",
+    "keep": false,
+    "image_url": "https://cms-assets.bajajfinserv.in/is/image/bajajfinance/BM_Explore_tractors?scl=1&fmt=png-alpha",
+    "confidence": "high",
+    "source_domain": "www.bajajfinserv.in",
+    "matched_title": "USHA Misty 35 L Storage Water Geyser Ivory Cherry Blossom (SWH MISTY 35L  IVORY CHERRY BLOSSOM) Online Price in India - Easy EMI Starting at \u20b9888/m"
+  },
+  {
+    "product_id": "NE-08621",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08622",
+    "keep": false,
+    "image_url": "https://cpimg.tistatic.com/7830572/b/5/usha-misty-digital-storage-water-heater.jpg",
+    "confidence": "high",
+    "source_domain": "www.tradeindia.com",
+    "matched_title": "Ivory Cherry Blossom Usha Misty Digital Storage Water Heater at 11500.00  INR in New Delhi | Shreeannu Led And Electrical Pvt. Ltd."
+  },
+  {
+    "product_id": "NE-08623",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08624",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/235281_1_xsspog.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Swirl 10 Litres 5 Star Vertical Storage Water Geyser with Copper  Heating Element (Ivory Wine)"
+  },
+  {
+    "product_id": "NE-08625",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/245691_6_ndd2rx.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Swirl 10 Litre 5 Star Vertical Storage Geyser with Whirl Flow  Technology (White & Grey)"
+  },
+  {
+    "product_id": "NE-08626",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/235282_8_1NQ11B2rA.png?updatedAt=1753879453745",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Swirl 15 Litres 5 Star Vertical Storage Water Geyser with Copper  Heating Element (Ivory Wine)"
+  },
+  {
+    "product_id": "NE-08627",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/245692_2_war9cs.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Swirl 15 Litres 5 Star Vertical Storage Water Geyser with Copper  Heating Element (White Grey)"
+  },
+  {
+    "product_id": "NE-08628",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.ae",
+    "matched_title": "Usha Aqua Swirl 25 Litre 5 Star Storage Water Heater With Copper Heating  Element (Ivory Wine), Wall Mounting : Amazon.ae: Kitchen"
+  },
+  {
+    "product_id": "NE-08629",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/245690_6_gw2xrw.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Swirl 25 Litre 5 Star Vertical Storage Geyser with Whirl Flow  Technology (White & Grey)"
+  },
+  {
+    "product_id": "NE-08630",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08631",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08632",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41GPJxxsMQL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Aquagenie Neo 10 Litre Storage Water Heater with Free Installation  (Ivory) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08633",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Aquagenie Neo 10 Litre Storage Water Heater with Free Installation  (Sky Blue) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08634",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/41GPJxxsMQL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Aquagenie Neo 15 Litre Storage Water Heater with Free Installation  (Ivory) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08635",
+    "keep": false,
+    "image_url": "https://aaravelectronics.com/cdn/shop/files/4_293ca396-1fba-4cfb-a122-04f863c65d4f.jpg?v=1785830337",
+    "confidence": "high",
+    "source_domain": "aaravelectronics.com",
+    "matched_title": "Usha Aquagenie Neo 15L Storage Water Heater (Sky Blue) \u2013 Aarav Electronics"
+  },
+  {
+    "product_id": "NE-08636",
+    "keep": false,
+    "image_url": "https://www.ushawaterheaters.com/sites/default/files/field/image/AQua-genie-Neo_11.png",
+    "confidence": "high",
+    "source_domain": "www.ushawaterheaters.com",
+    "matched_title": "Aquagenie Neo 25L Ivory | Usha Water Heater"
+  },
+  {
+    "product_id": "NE-08637",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61WIqKS01FL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjUuMDwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFIVE-medium-V2,TopLeft,190,885_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquagenie Neo 25 Litre Storage Water Heater with Free Installation  (Sky Blue)"
+  },
+  {
+    "product_id": "NE-08638",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51t3VW1hniL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigxLDIyNyk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquerra 10 Litre 5 Star Storage Water Heater (White), Wall Mounting :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08639",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61Lr6rxWxQL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquerra DG 15 Litre 5 Star Digital Storage Water Heater with Remote ( White), Wall Mounting : Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08640",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51t3VW1hniL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigxLDIyNyk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquerra 25 Litre 5 Star Storage Water Heater (White), Wall Mounting :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08641",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51oL6evA-hL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuNzwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig1KTwvc3Bhbj4=,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Aquerra DG 10 Litre 5 Star Storage Wall Water Heater With Free  Installation And Connection Pipes | 5 Safety Features (White) Online at Low  Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08642",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51kruAiguwL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMzwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig3MDgpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquerra DG 15 Litre 5 Star Digital Storage Water Heater with Remote ( White), Wall Mounting : Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08643",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51kruAiguwL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuMzwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig3MDgpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aquerra DG 25 Litre 5 Star Digital Storage Water Heater with Remote ( White), Wall Mounting : Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08644",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08645",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08646",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Horizon 15 Litres 3 Star Horizontal Storage Water Geyser with  Short-circuit Protection (White)"
+  },
+  {
+    "product_id": "NE-08647",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Horizon 15 Litres 3 Star Horizontal Storage Water Geyser with  Short-circuit Protection (White)"
+  },
+  {
+    "product_id": "NE-08648",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Aqua Horizon 15 Litres 3 Star Horizontal Storage Water Geyser with  Short-circuit Protection (White)"
+  },
+  {
+    "product_id": "NE-08649",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aqua Horizon 25 Litre Horizontal Storage Water Heater (White) :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08650",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aqua Horizon 25 Litre Horizontal Storage Water Heater (White) :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08651",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Aqua Horizon 25 Litre Horizontal Storage Water Heater (White) :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08652",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA iChef 1000 Watt 2 Jars Blender Heater ( Quadra Noise Reduction  Technology, Blue) Online - Croma"
+  },
+  {
+    "product_id": "NE-08653",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/7142bbv1GHL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Ichef Electric Pressure Cooker 6 Litres"
+  },
+  {
+    "product_id": "NE-08654",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA iChef 18L Steam Oven with Turbo Air Circulation (4055ICHEFSO18L08N,  Blue)"
+  },
+  {
+    "product_id": "NE-08655",
+    "keep": false,
+    "image_url": "https://assets.nikshanonline.com/wp-content/uploads/2026/09/USHA-AIR-FRYER-4.5L-ICHEF-40061ICHEFAFD41N-3.png",
+    "confidence": "high",
+    "source_domain": "nikshanonline.com",
+    "matched_title": "Buy USHA Air Fryer 4.5L IChef 40061ICHEFAFD41N | 1350W Oil-Free Digital Air  Fryer With 10-in-1 Cooking Functions, Turbo Air Circulation & 360\u00b0 Heating  Technology From Nikshan Online | No Cost EMI Available"
+  },
+  {
+    "product_id": "NE-08656",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Fryers%20and%20Grills/Images/309084_8_ihm9oq.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA iChef Smart 4.5L 1350 Watt Digital Air Fryer with Turbo Air  Circulation Technology (Black)"
+  },
+  {
+    "product_id": "NE-08657",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/218654_1_ddrm4n.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy Usha NutriPress 200 Watt Cold Press Juicer (67 RPM, Low Temperature  Technology, Black/White) Online - Croma"
+  },
+  {
+    "product_id": "NE-08658",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61LUg13U6WL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA Ebony Neo Slim 2 burner (EBNSL2RGC) with stainless steel body, glass  cooktop, large space for parallel cooking, and removable drip tray :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08659",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/6110R-KAFYL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA Ebony Neo Slim 3 burner (EBNSL3RGC) with stainless steel body, glass  cooktop, large space for parallel cooking, and removable drip tray :  Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08660",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08661",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08662",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210782_15_dsy8tf.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Ebony GS4001 Toughened Glass Top 4 Burner Automatic Gas Stove (Slim  Line Design, Black) Online - Croma"
+  },
+  {
+    "product_id": "NE-08663",
+    "keep": false,
+    "image_url": "https://portal.lotuselectronics.com/web-api/image-fallback?src=https%3A%2F%2Fcdn.lotuselectronics.com%2Fwebpimages%2F397011IM.webp",
+    "confidence": "high",
+    "source_domain": "www.lotuselectronics.com",
+    "matched_title": "Buy Usha Gas Stove 3 Burner DURATUFF 3SGC GS3 SPT SS Online From Lotus  Electronics in India | Buy Latest Gas Stove Online at Best Prices - Lotus  Electronics"
+  },
+  {
+    "product_id": "NE-08664",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61LfNmVM-PL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuNjwvc3Bhbj4=,60,875,420,420,0,0_PIRIOTHREEANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig4OCk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA Maxus Gs2 001 Stainless Steel Brass 2 Burners Cooktop (Silver, Manual  Ignition) : Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08665",
+    "keep": false,
+    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/faber_eco_crystal_200_ct_glass_cooktop_11789874_0.jpg",
+    "confidence": "high",
+    "source_domain": "www.justdial.com",
+    "matched_title": "Buy USHA Maxus 2 Burner Gas Stove (GS2 002) Online - Best Price USHA Maxus 2  Burner Gas Stove (GS2 002) - Justdial Shop Online."
+  },
+  {
+    "product_id": "NE-08666",
+    "keep": false,
+    "image_url": "https://www.myg.in/images/NewFolder/screencapture-amazon-in-Maxus-GS-3001-Watt-Burner-Cooktop-dp-B07MNRSVZD-2026-07-27-17_09_57_1325x3334.jpg?1785152469393",
+    "confidence": "high",
+    "source_domain": "www.myg.in",
+    "matched_title": "Kitchen Appliances :: Gas Stoves :: Usha Maxus Cooktop | 3 Burner Gas Stove  | Black | GS3 001"
+  },
+  {
+    "product_id": "NE-08667",
+    "keep": false,
+    "image_url": "https://images.jdmagicbox.com/quickquotes/images_main/inalsa_dezire_3b_cooktop_10630394_0.jpg",
+    "confidence": "high",
+    "source_domain": "www.justdial.com",
+    "matched_title": "Buy USHA Allure GS3 001 3 Burner Gas Stove Online - Best Price USHA Allure  GS3 001 3 Burner Gas Stove - Justdial Shop Online."
+  },
+  {
+    "product_id": "NE-08668",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Ebony GS2001 Toughened Glass Top 2 Burner Manual Gas Stove (Slim Line  Design, Black)"
+  },
+  {
+    "product_id": "NE-08669",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/235098_11_vroxn8.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Ebony GS2001 Toughened Glass Top 2 Burner Manual Gas Stove (Slim  Line Design, Black) Online - Croma"
+  },
+  {
+    "product_id": "NE-08670",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Ebony GS3001 Toughened Glass Top 3 Burner Manual Gas Stove (Powder  Coated Frame, Black) Online - Croma"
+  },
+  {
+    "product_id": "NE-08671",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210781_14_do8xlq.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Ebony GS3001 Toughened Glass Top 3 Burner Manual Gas Stove (Powder  Coated Frame, Black) Online - Croma"
+  },
+  {
+    "product_id": "NE-08672",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/210782_15_dsy8tf.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Ebony GS4001 Toughened Glass Top 4 Burner Automatic Gas Stove (Slim  Line Design, Black)"
+  },
+  {
+    "product_id": "NE-08673",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy USHA Ebony GS4001 Toughened Glass Top 4 Burner Automatic Gas Stove  (Slim Line Design, Black) Online - Croma"
+  },
+  {
+    "product_id": "NE-08674",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08675",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08676",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Kettles/Images/316716_0_pwh6uh.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA 1350 Watt 1.5 Litre Electric Kettle with Food-Grade SS Body (Black)"
+  },
+  {
+    "product_id": "NE-08677",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.ae",
+    "matched_title": "USHA Cool Touch Electric Kettle 1800 Watt|1.8 liter|Double Layered Cool  Touch Outer Body|Safety with auto cut-off function|SS304 grade stainless  steel inner body|Wider Mouth|2 years warranty (Pink): Buy Online at Best  Price in"
+  },
+  {
+    "product_id": "NE-08678",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Sure Blend 125 Watt 2 Speed Hand Blender with 3 Attachments (Shock  Proof, Red/White)"
+  },
+  {
+    "product_id": "NE-08679",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/413VobI8+3L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuOTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigxMzQpPC9zcGFuPg==,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Acrylonitrile Butadiene Styrene Sure Blend 125 Watts Hand Blender ( Magenta With Sparkle Finish) Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08680",
+    "keep": false,
+    "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2025/3/18/63e44cab-800c-4b0d-830e-641c87cb611e_624558_2.png",
+    "confidence": "high",
+    "source_domain": "instamart.in",
+    "matched_title": "Buy USHA 1600 W Induction Cooktop Push Button (Multicolor, IC 3616D) Online  (1 unit) At Best Price"
+  },
+  {
+    "product_id": "NE-08681",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/71h9OvxjQJL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Cookjoy CJ1360WPC Induction Cooktop"
+  },
+  {
+    "product_id": "NE-08682",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA Cookjoy Radiant Induction Cooktop 1600 Watts Cj1600Wwp"
+  },
+  {
+    "product_id": "NE-08683",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Cookjoy CJ2000WPCN 2000 Watt Induction Cooktop"
+  },
+  {
+    "product_id": "NE-08684",
+    "keep": false,
+    "image_url": "https://aaravelectronics.com/cdn/shop/files/4_18c397ab-caa1-42a6-a6f5-3f4dc16a886c.webp?v=1782548047",
+    "confidence": "high",
+    "source_domain": "aaravelectronics.com",
+    "matched_title": "Usha CJ2000WTCXL 2000 Watt Induction Cooktop | Touch Control | Black"
+  },
+  {
+    "product_id": "NE-08685",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61qfhkuwLfL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA IR2200TCB Infrared Induction Cooktop with grill | 2200 Watts | 11  Power Level | 4 Preset Menu | Feather Touch Controls | Digital display | 1  Year Warranty| Black| Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08686",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/71ColE1zC+L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA IR2200TCW Infrared Induction Cooktop with grill | 2200 Watts | 11  Power Level | 4 Preset Menu | Feather Touch Controls | Digital display | 1  Year Warranty| White| Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08687",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha FP 3811 Food Processor 1000 Watts Copper Motor with 13  Accessories(Premium SS Finish), Black and Steel : Amazon.in: Home & Kitchen"
+  },
+  {
+    "product_id": "NE-08688",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08689",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08690",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/218654_7_fgkfeb.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy Usha NutriPress 200 Watt Cold Press Juicer (67 RPM, Low Temperature  Technology, Black/White) Online - Croma"
+  },
+  {
+    "product_id": "NE-08691",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Toasters%20Sandwich%20Makers/Images/207074_2_k31yqj.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA PT 3720 700W 2 Slice Pop-Up Toaster with Plastic Shock Proof Body (Ice  Blue)"
+  },
+  {
+    "product_id": "NE-08692",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08693",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha 3345 Juicer Mixer Grinder"
+  },
+  {
+    "product_id": "NE-08694",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51Nzz6hRXqL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA J 3345 Juicer"
+  },
+  {
+    "product_id": "NE-08695",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-12295",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08697",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08698",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA 500 Watt 3 Jars Juicer Mixer Grinder (Anti-Skid Rubber Feet,  Magenta/White)"
+  },
+  {
+    "product_id": "NE-08699",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51Nzz6hRXqL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "USHA J 3345 450 Watts Juicer, 5 Years Warranty On Motor, 3 Speed With Pulse  Function, White"
+  },
+  {
+    "product_id": "NE-08700",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/81gPy7AQAkL.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Colt Mixer Grinder (Mg-3053) 500-Watt 3 Jars With Copper Motor ( White/Blue), 500 Watt Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08701",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/71J-kUAP9cL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Mixer Grinder MG2853 New Online at Low Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08702",
+    "keep": false,
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/199344_1_bixule.png",
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "USHA Colt 500 Watt 3 Jars Mixer Grinder (Overload Protection, White/Blue)"
+  },
+  {
+    "product_id": "NE-08703",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Usha Mixer Grinder (MG-3576) 750-Watt 3 Jars with Full Copper Motor  (Red/White) : Amazon.in: Shoes & Handbags"
+  },
+  {
+    "product_id": "NE-08704",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/61z59lDHh4L.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Rapidmix 500-Watt Copper Motor Mixer Grinder With 3 Jars And 2  Years Product Warranty & 5 Years Motor Warranty (Sea Green/White), 500 Watt  (Pack of 2) Online at Low Prices"
+  },
+  {
+    "product_id": "NE-12296",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51gwwH5qrLL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Mixer Grinder 3750 Green & White 500Watt Online at Low Prices in  India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08706",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51C6PrYhkwL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy USHA Smash Plus Mixer Grinder MG-3771 Green 750 Watt Online at Low  Prices in India - Amazon.in"
+  },
+  {
+    "product_id": "NE-08707",
+    "keep": true,
+    "image_url": null,
+    "confidence": "high",
+    "source_domain": "www.croma.com",
+    "matched_title": "Buy Usha Colt Plus 750 Watt 3 Jars Mixer Grinder (20000 RPM, Overload  Protection, Green/White) Online - Croma"
+  },
+  {
+    "product_id": "NE-08708",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08709",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08710",
+    "keep": false,
+    "image_url": "https://m.media-amazon.com/images/I/51B7brcnvyL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjMuOTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOUR-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPigxNyk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg",
+    "confidence": "high",
+    "source_domain": "www.amazon.in",
+    "matched_title": "Buy Usha Powerspin 750 Watt Mixer Grinder, 3 Stainless Steel Jars with  handle (Maroon & Black) | Powerful 100% copper motor with 2 years Product  Warranty & 5 Years Motor Warranty|ISI Certified"
+  },
+  {
+    "product_id": "NE-08711",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08712",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08713",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08714",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  },
+  {
+    "product_id": "NE-08715",
+    "keep": false,
+    "image_url": null,
+    "confidence": null,
+    "source_domain": null,
+    "matched_title": null
+  }
+]

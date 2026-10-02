@@ -1,0 +1,1514 @@
+[
+ {
+  "product_id": "NE-02412",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier ES15V Precis Storage Water Heater ( 15 L, White )"
+ },
+ {
+  "product_id": "NE-02413",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-Precis 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02414",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 10 L Cylindrical Water Heater White (ES10V-PRECIS PRO)"
+ },
+ {
+  "product_id": "NE-02415",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 15 L Cylindrical Water Heater White (ES15V-PRECIS PRO)"
+ },
+ {
+  "product_id": "NE-02416",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/716QB4Oc5fL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier Precis pro Water Geyser 25 Ltr 5 Star 2000W"
+ },
+ {
+  "product_id": "NE-02417",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 15 L Storage Water Geyser White (ES15H-REGENTA SLIM (CP))"
+ },
+ {
+  "product_id": "NE-02418",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/81gqgOC6loL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier Regenta Slim Water Heater Geyser 25L (Middle)"
+ },
+ {
+  "product_id": "NE-02419",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 15 L Cylindrical Water Heater White (ES15H-REGENTA SLIM (LH))"
+ },
+ {
+  "product_id": "NE-02420",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02421",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/9/491559_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 15 L Storage Water Geyser White (ES15H-REGENTA SLIM (RH))"
+ },
+ {
+  "product_id": "NE-02422",
+  "keep": false,
+  "image_url": "https://decure.in/cdn/shop/files/haier_es_25h_regenta_slim_rh_a42613a6-172c-4a52-bf00-358bfb1a5ac0.jpg?v=1764318056",
+  "confidence": "high",
+  "source_domain": "decure.in",
+  "matched_title": "haier_es_25h_regenta_slim_rh (image file name)"
+ },
+ {
+  "product_id": "NE-02424",
+  "keep": false,
+  "image_url": "https://rukminim3.flixcart.com/image/480/480/xif0q/water-geyser/1/4/h/2024-es15v-regenta-ivory-3000-haier-15-resized-original-imahfhsg6hjzbcbe.jpeg?q=90",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES15V-REGENTA (IVORY) 15 L Instant Water Geyser"
+ },
+ {
+  "product_id": "NE-02425",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "darlingretail.com",
+  "matched_title": "Haier 25L Cylindrical 5 star Water Heater (ES25V-REGENTA (I))"
+ },
+ {
+  "product_id": "NE-02427",
+  "keep": false,
+  "image_url": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/haier/494426440/0/FzyoX2axlU-jhU8SWz5az-HAIER-STORAGE-494426440-i-1-1200Wx1200H.jpeg",
+  "confidence": "high",
+  "source_domain": "www.reliancedigital.in",
+  "matched_title": "Haier 15 L Storage Geyser, Regenta, ES15V-REGENTA, White"
+ },
+ {
+  "product_id": "NE-02429",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-REGENTA (WHITE) 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02430",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02432",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02433",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02434",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02438",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02441",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES10V-S1W 10 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02443",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/4/x/z/2020-es25v-s1w-2000-haier-25-original-imahgg4ur8v9nxzw.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-S1W 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02444",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier Spa Mechanical ES10V-S1i With Shock Proof 10 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02445",
+  "keep": false,
+  "image_url": "https://bc-storage.sfo2.digitaloceanspaces.com/girias/product/spaes15vs1i%2815ltr%29%28ga07lj00b%29-waterheater-haier/51QiUNZ-scL._SX569_.jpg",
+  "confidence": "high",
+  "source_domain": "www.giriasindia.com",
+  "matched_title": "SPA ES15V S1I (15 LTR)(GA07LJ00B) - WATER HEATER - HAIER"
+ },
+ {
+  "product_id": "NE-02446",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-S1i - 25L Water Heater 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02448",
+  "keep": false,
+  "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/hawaes10v-aqualad-blue-273654455-qyjpf.png",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "hawaes10v-aqualad-blue (image file name)"
+ },
+ {
+  "product_id": "NE-02451",
+  "keep": false,
+  "image_url": "https://bajajdigital-cdn-endpoint.azureedge.net/product/35eaf15e-e506-440c-8082-0340de3136cc",
+  "confidence": "high",
+  "source_domain": "www.bajajelectronics.com",
+  "matched_title": "Bajaj Electronics - Haier 10L Square 5 star Water Heater ES10V-AQUALAD Green"
+ },
+ {
+  "product_id": "NE-02453",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/water-geyser/t/a/d/2020-es25v-aqualad-green-2200-haier-25-original-imahgzugxhf9sqsp.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier ES25V-AQUALAD GREEN 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02456",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/8/1/819351_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 25 L Square Water Heater Black (ES25V-AQUALAD-BLACK)"
+ },
+ {
+  "product_id": "NE-02457",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02458",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02459",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier Square Series ES15V Aqualad Pro Water Heater"
+ },
+ {
+  "product_id": "NE-02460",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier Es25v-aqualad Pro 25 L Storage Water Geyser"
+ },
+ {
+  "product_id": "NE-02462",
+  "keep": false,
+  "image_url": "https://decure.in/cdn/shop/files/haier_es_25v_sd_B_0d224cba-a130-4ebc-b749-19dbabd66186.jpg?v=1764318034&width=1946",
+  "confidence": "high",
+  "source_domain": "decure.in",
+  "matched_title": "Haier 25 Litres 5 Star Storage Water Geyser (GA07LP00B, Ivory) [file haier_es_25v_sd]"
+ },
+ {
+  "product_id": "NE-02463",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/e/s/es15vsdw_452674_base.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "es15vsdw_452674 (image file name spells ES15V-SDW)"
+ },
+ {
+  "product_id": "NE-02464",
+  "keep": false,
+  "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/hawaes25v-sdw-273654458-b60se.png",
+  "confidence": "high",
+  "source_domain": "www.justdial.com",
+  "matched_title": "hawaes25v-sdw (image file name)"
+ },
+ {
+  "product_id": "NE-02465",
+  "keep": false,
+  "image_url": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/258500_1_vgkiep.png",
+  "confidence": "high",
+  "source_domain": "www.croma.com",
+  "matched_title": "Haier ES15V-SD Wi-Fi 15 Litres 5 Star Vertical Storage Water Geyser (Gold)"
+ },
+ {
+  "product_id": "NE-02467",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02468",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02469",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02470",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02472",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02475",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/446397606/QM/MA/CW/227435725/haier-es25v-ed-p-water-heater.png",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "Haier ES25V-ED-P Water Heater, Storage, Vertical"
+ },
+ {
+  "product_id": "NE-02476",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "decure.in",
+  "matched_title": "Haier Electric Wall Mounting 100 Ltr Storage Water Heater ES 100V REGENTA"
+ },
+ {
+  "product_id": "NE-02477",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "decure.in",
+  "matched_title": "haier_es_70v_regenta (image file name)"
+ },
+ {
+  "product_id": "NE-02478",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "decure.in",
+  "matched_title": "Haier Electric Wall Mounting 50 Ltr Storage Water Heater ES 50V REGENTA"
+ },
+ {
+  "product_id": "NE-02479",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02480",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02481",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/VR/TO/SK/SELLER-60940228/gv200remb-haier-solar-water-heater.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "GV200REMB Haier Solar Water Heater"
+ },
+ {
+  "product_id": "NE-02482",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.indiamart.com",
+  "matched_title": "GV270REMB Haier Solar Water Heater"
+ },
+ {
+  "product_id": "NE-02483",
+  "keep": false,
+  "image_url": "https://5.imimg.com/data5/RO/NK/WL/SELLER-60940228/gv200rnf-haier-solar-water-heater.jpg",
+  "confidence": "high",
+  "source_domain": "www.indiamart.com",
+  "matched_title": "GV200RNF Haier Solar Water Heater"
+ },
+ {
+  "product_id": "NE-02492",
+  "keep": false,
+  "image_url": "https://www.sathya.store/img/product/H8U1bo6B53LPROEK.png",
+  "confidence": "high",
+  "source_domain": "www.sathya.store",
+  "matched_title": "Haier 90cm 2000 m3/hr AI Smart T-Shape Chimney (HIHT5905)"
+ },
+ {
+  "product_id": "NE-02493",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-t-shaped-hood-wall-mounted-chimney-hih-t3903-in-black-Front-Right-View.webp",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier T-Shaped Hood Wall Mounted Chimney With Installation Kit, HIH-T3903-IN ( Black )"
+ },
+ {
+  "product_id": "NE-02495",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/7/9/793134_add3.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier Black Stainless Steel and Glass Finish Wall Mounted 1800 CMH Chimney Black (HIH-T1903)"
+ },
+ {
+  "product_id": "NE-02497",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-02498",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier HIH-T1901 1750 CMH 90 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-02503",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier HIH-T60HM-V 1200 CMH 60 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-02665",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Haier HVP-G94DGBGIN 1200 CMH 91.5 cm Auto Clean Chimney"
+ },
+ {
+  "product_id": "NE-03205",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "Haier 4 Brass Burner Gas Stove Hobs Black (HIC-654FCF-O)"
+ },
+ {
+  "product_id": "NE-03208",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03209",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-03213",
+  "keep": false,
+  "image_url": "https://assets.nikshanonline.com/wp-content/uploads/2026/07/1-7.png",
+  "confidence": "high",
+  "source_domain": "nikshanonline.com",
+  "matched_title": "Buy Haier CIVIC AI MAXX Robotic Vacuum Cleaner With 8000Pa Suction - White"
+ },
+ {
+  "product_id": "NE-03214",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71k1J4NYdUL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier X11 Pro Robotic Vacuum Cleaner with Self-Empty Station, 5000Pa Suction"
+ },
+ {
+  "product_id": "NE-03215",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51KjTMkxFPL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Haier Civic X11 Robotic Vacuum Cleaner"
+ },
+ {
+  "product_id": "NE-03216",
+  "keep": false,
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Haier_PRO_bot_DTX_Vacuum_Cleaner_5000_Pa_-_Black_5.jpg?v=1780379774&width=1214",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Haier Vacuum Cleaner (PRObot DTX)"
+ },
+ {
+  "product_id": "NE-03217",
+  "keep": false,
+  "image_url": "https://img-prd-pim.poorvika.com/product/Haier-TH27U1-Smart-Robot-Vacuum-Cleaner-Silver-.png",
+  "confidence": "high",
+  "source_domain": "www.poorvika.com",
+  "matched_title": "Haier TH27U1 Smart Robot Vacuum Cleaner ( Silver )"
+ },
+ {
+  "product_id": "NE-01676",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghcrcsbb070_4_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Craft Rice Cooker (ghcrcsbb070)"
+ },
+ {
+  "product_id": "NE-01678",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcptfrb085_3_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Craft 2 Slice Pop Up Toaster (ghcptfrb085)"
+ },
+ {
+  "product_id": "NE-01679",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/91MfA8WyKjL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Craft Hand Blender"
+ },
+ {
+  "product_id": "NE-01680",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/k/i/kitchen_harmony_combo.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Craft Kitchen Harmony Combo"
+ },
+ {
+  "product_id": "NE-01681",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01682",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghfmgfvk035.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Nutri Insta Blend 350 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01683",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/n/u/nutri_power_blender_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Nutri Power Blender 350 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01684",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71d+6IChzwL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Hexo Plus 1100 Watts 4 Jar Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01685",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Hexo 950 Watt Juicer Mixer Grinder (GHFJMDHK095)"
+ },
+ {
+  "product_id": "NE-01686",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/71jo461yjKL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Hexo Punch 900W Juicer Mixer Grinder with 2 Jars"
+ },
+ {
+  "product_id": "NE-01687",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/v/w/p/hexo-jumbo-blend-havells-original-imahedf6yb3dqzre.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS Hexo Jumbo Blend 950 W Juicer Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01688",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01689",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/k/v/i/ghfmgfge100-havells-original-imagymgatfhjk2fa.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Havells Hydro Plus 1000 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01690",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01691",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/f/o/foodo_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Foodo 750 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01692",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.flipkart.com",
+  "matched_title": "RHYTHM 750 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01693",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01694",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51aD8a8IuDL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Power Hunk 800 watt Mixer Grinder (GHFMGDPE080-cr)"
+ },
+ {
+  "product_id": "NE-01695",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghfmgfag050.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Genie N 500 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01696",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghfmgcyw055_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Aspro Plus 550 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01697",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/t/c/v/ghfmgfce050-havells-original-imahexg8hwqvyacs.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS VORTEX 3 JAR MIXER GRINDER 500W"
+ },
+ {
+  "product_id": "NE-01698",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/s/t/stone_black.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Stone 500 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01699",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/g/x/i/aspro-havells-original-imahznktvh4hxre5.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS Aspro Pro 500 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-01700",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/f/o/force_red.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Force 500 W Mixer Grinder (force_red)"
+ },
+ {
+  "product_id": "NE-01702",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01703",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/products/1000106464_grande.jpg?v=1654246769",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Buy Havells Hydro Mixer Grinder 3 Jar 750W Red GHFMGDRR075"
+ },
+ {
+  "product_id": "NE-01704",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01705",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/5gRpTGj2HNhIX-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Buy Havells Maxx Grind 750W Blue Mixer Grinder with 3 Jars, GHFMGBKB075"
+ },
+ {
+  "product_id": "NE-01706",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mixer-grinder-juicer/y/b/u/ghfmgeke075-havells-original-imahkwmkdk4pfhnf.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS ZELLO 3 JAR 750W 750 W Mixer Grinder"
+ },
+ {
+  "product_id": "NE-03219",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01708",
+  "keep": false,
+  "image_url": "https://newmarketkart-images.s3.ap-south-1.amazonaws.com/product/images/JG4g5EljZIZK8KJwh1TivcadHspd4AA2j4ubCnTx.webp",
+  "confidence": "high",
+  "source_domain": "newmarketkart.com",
+  "matched_title": "Havells Stilus Xl 3 Jar 500 Watts Juicer Mixer Grinder (GHFJMCFH050)"
+ },
+ {
+  "product_id": "NE-01709",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/KVhPYJkcuORNy-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Havells Rigo 3 500W Juicer Mixer Grinder with 3 Jars, GHFJMBAV050"
+ },
+ {
+  "product_id": "NE-01710",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghfjmfjy012.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Nutri Pure 105 Watt Slow Juicer (Mesh Free Filter, White)"
+ },
+ {
+  "product_id": "NE-01711",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/n/u/nutrigrind_2_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Nutrigrind 400 W Wet & Dry Grinder"
+ },
+ {
+  "product_id": "NE-01712",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/flourmill/i/g/w/1-ghfwggqg040-havells-original-imahz4j8zfzdkbtv.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "Havells Nutri Grind Atta Mill Ghfwggqg040 Flourmill"
+ },
+ {
+  "product_id": "NE-01713",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHFWGCXR015.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Alai WG Table Top Mixer Grinder 150W"
+ },
+ {
+  "product_id": "NE-01714",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHFHBEGW030.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 300W Classique Plus Cyan Hand Blender"
+ },
+ {
+  "product_id": "NE-01715",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/d/u/duroblend-s_with_chopper_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Duroblend - S with Chopper (GHFHBDSX030)"
+ },
+ {
+  "product_id": "NE-01716",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHFHBEBV030.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Classique Hand Blender (GHFHBEBV030)"
+ },
+ {
+  "product_id": "NE-01717",
+  "keep": false,
+  "image_url": "https://mykit.in/crm/public/uploads/product_images_1000x1000/GHFHBDSE030.jpg",
+  "confidence": "high",
+  "source_domain": "mykit.in",
+  "matched_title": "Havells Duro Blend-S Hand Blender 300 W White & Light Grey (GHFHBDSE030)"
+ },
+ {
+  "product_id": "NE-01718",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghfhbdsw030_3_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Duro Blend 300 W Hand Blender (ghfhbdsw030)"
+ },
+ {
+  "product_id": "NE-01719",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/n/u/numixo.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Numixo Hand Mixer"
+ },
+ {
+  "product_id": "NE-01720",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHFCHCPW020.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Coral Chopper GHFCHCPW020"
+ },
+ {
+  "product_id": "NE-01721",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01722",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/bebb556ccaa04236261d8ba5676ddf4d/p/r/prolife_delecia_new_base_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Delicia Air Fryer"
+ },
+ {
+  "product_id": "NE-01723",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghcafsdk150_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Crystal Air Fryer"
+ },
+ {
+  "product_id": "NE-01724",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcafssk150_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Stellar Chef Air Fryer"
+ },
+ {
+  "product_id": "NE-01725",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/p/r/prolife_neo_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Neo Air Fryer"
+ },
+ {
+  "product_id": "NE-01726",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000140105-2_1024x1024.jpg?v=1774341782",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Havells Prolife Vista Air Fryer 1350 W 4.2 Litre GHCAFSRK135"
+ },
+ {
+  "product_id": "NE-01727",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcafstb135_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Brio Air Fryer"
+ },
+ {
+  "product_id": "NE-01728",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcafexk135_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Vista Digital Air fryer"
+ },
+ {
+  "product_id": "NE-01729",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcafswk135.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Prolife Aero Air fryer"
+ },
+ {
+  "product_id": "NE-01730",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells 2000W Hexo EZ HEAT Infrared Induction Cooktop TC-20 with Grill"
+ },
+ {
+  "product_id": "NE-01731",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghciceuk220_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Infrared Cooktop GLO TC22"
+ },
+ {
+  "product_id": "NE-01732",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000028355_1024x1024.jpg?v=1690888772",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Havells OTG 24R BL Oven Toaster Griller 1380W GHCOTCWK138"
+ },
+ {
+  "product_id": "NE-01733",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghcotsok150_m.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "OTG Bake Smart 28 L RBL"
+ },
+ {
+  "product_id": "NE-01734",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/otg-new/j/8/q/1380-ghcotcvk138-havells-20-original-imah8cmzzwd9zfey.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS 20-Litre Oven Toaster Grill OTG (GHCOTCVK138), BLACK"
+ },
+ {
+  "product_id": "NE-01735",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHCOTCOK123.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells OTG 16T 1200W Oven Toaster Griller - Black"
+ },
+ {
+  "product_id": "NE-01736",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01737",
+  "keep": false,
+  "image_url": "https://aaravelectronics.com/cdn/shop/files/EVO_COOK_TC20_GHCICEMK200.png?v=1785322853",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Havells EVO Cook TC20 Energy Efficent Induction (Black-grey), 2000Watt"
+ },
+ {
+  "product_id": "NE-01738",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Buy Havells Cook Pro PB 16 Induction Cooktop| Black"
+ },
+ {
+  "product_id": "NE-01739",
+  "keep": false,
+  "image_url": "https://izoleapv4-prod-assets.izoleap.com/izoleap_m_31/pims/cp_img/GHCICEKK160_1.webp",
+  "confidence": "high",
+  "source_domain": "www.poojaratele.com",
+  "matched_title": "INDUCTION-COOKTOP EVO COOK PB-16 (GHCICEKK160):HAVELLS"
+ },
+ {
+  "product_id": "NE-01740",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000137950-2_1024x1024.jpg?v=1747385647",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Havells Evo Cook PB14 Induction Cooktop 1400W GHCICEJK140"
+ },
+ {
+  "product_id": "NE-01741",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "HAVELLS RISO Plus Rice Cooker"
+ },
+ {
+  "product_id": "NE-01742",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/files/1000028371-1_1024x1024.jpg?v=1690885851",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Havells Electric Cooker Max Cook Plus 700W GHCRCBKW070"
+ },
+ {
+  "product_id": "NE-01744",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01745",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/s/m/sm_main_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Hexo Big Fill Grill Sandwich Maker"
+ },
+ {
+  "product_id": "NE-01746",
+  "keep": true,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Perfect Fill Plus Grill Sandwich Maker"
+ },
+ {
+  "product_id": "NE-01747",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/61hIEivO3lL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Meltz Grill Sandwich Maker | 800 W (Black)"
+ },
+ {
+  "product_id": "NE-01748",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01749",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHBCMAKS080.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Donato Coffee Maker"
+ },
+ {
+  "product_id": "NE-01750",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHBKTAHK060.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Crystal Tea/Coffee Maker"
+ },
+ {
+  "product_id": "NE-01751",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/6196sOHiGdL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Drip CAFE-N 6 Filter Coffee Maker"
+ },
+ {
+  "product_id": "NE-01753",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghbktbjb060.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Steamor Multicook Kettle (ghbktbjb060)"
+ },
+ {
+  "product_id": "NE-01754",
+  "keep": false,
+  "image_url": "https://cdn.moglix.com/p/4dmrB0gtzSr21-xxlarge.jpg",
+  "confidence": "high",
+  "source_domain": "www.moglix.com",
+  "matched_title": "Havells Marino 1 Litre 1200W Electric Kettle, GHBKTBBK120"
+ },
+ {
+  "product_id": "NE-01755",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/a/q/aqua_black_1_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Aqua Plus 1250 W Electric Kettle"
+ },
+ {
+  "product_id": "NE-01756",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghbktdfe200.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Vesta Stainless Steel Electric Kettle"
+ },
+ {
+  "product_id": "NE-01757",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghbktblk125.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Steelio Electric Kettle"
+ },
+ {
+  "product_id": "NE-01758",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51JveWoMM9L.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells HOTSIP Electric Kettle | 1250 W | 1 L"
+ },
+ {
+  "product_id": "NE-01759",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghgsidtk300_8_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Athena Steam Iron (ghgsidtk300)"
+ },
+ {
+  "product_id": "NE-01760",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01761",
+  "keep": false,
+  "image_url": "https://www.bestomart.com/cdn/shop/products/1000057775-2_1024x1024.jpg?v=1591243924",
+  "confidence": "high",
+  "source_domain": "www.bestomart.com",
+  "matched_title": "Havells PLUSH Steam Iron 1600W GHGSIDLK160"
+ },
+ {
+  "product_id": "NE-01762",
+  "keep": false,
+  "image_url": "https://www.cherahomejunction.com/cdn/shop/files/Havells_Vector_Steam_Iron_1400_Watts_-_Blue_Front_View.jpg?v=1787725134&width=2000",
+  "confidence": "high",
+  "source_domain": "www.cherahomejunction.com",
+  "matched_title": "Havells Vector Steam Iron 1400 Watts - Blue"
+ },
+ {
+  "product_id": "NE-01763",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/s/t/stella_steam_iron_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 2000 W Stella Steam Purple Iron Box"
+ },
+ {
+  "product_id": "NE-01764",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghgsidnb080_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Travel Buddy Steam Iron"
+ },
+ {
+  "product_id": "NE-01765",
+  "keep": false,
+  "image_url": "https://aaravelectronics.com/cdn/shop/files/4_e0afcf46-d2c3-4217-9968-2ff07eed57ed.webp?v=1782564739",
+  "confidence": "high",
+  "source_domain": "aaravelectronics.com",
+  "matched_title": "Havells Inox 1600W Steam Iron (GHGSIEGG160)"
+ },
+ {
+  "product_id": "NE-01766",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/bebb556ccaa04236261d8ba5676ddf4d/n/i/nimo_iron_base.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Nimo Steam Iron"
+ },
+ {
+  "product_id": "NE-01767",
+  "keep": false,
+  "image_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/iron/i/y/h/elece-12-g-min-powerful-steam-ghgsiecg120-havells-original-imahnxuet2fvzygy.jpeg?q=70",
+  "confidence": "high",
+  "source_domain": "www.flipkart.com",
+  "matched_title": "HAVELLS ELECE 12 G/MIN POWERFUL STEAM (GHGSIECG120) 1200 W Steam Iron"
+ },
+ {
+  "product_id": "NE-01768",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghggsdgu160.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Fyber Standing Garment Steamer"
+ },
+ {
+  "product_id": "NE-01769",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghggsdeb110_1.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Falcon Hand Held Garment Steamer"
+ },
+ {
+  "product_id": "NE-01770",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghgdiemk125.png",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Alpha Black Dry Iron"
+ },
+ {
+  "product_id": "NE-01771",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIBZB110.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 1100 Watt Hawk Blue & White Heavy Weight Dry Iron"
+ },
+ {
+  "product_id": "NE-01772",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDICEO100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Aquilla 1000 W Dry Iron"
+ },
+ {
+  "product_id": "NE-01773",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIBFB100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells 1000 Watt Stealth Blue Dry Iron"
+ },
+ {
+  "product_id": "NE-01774",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDICDW100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Czar Dry Iron (GHGDICDW100)"
+ },
+ {
+  "product_id": "NE-01775",
+  "keep": false,
+  "image_url": "https://www.navinmart.com/cdn/shop/files/stufo_dry_iron_1.jpg?v=1771420759&width=1200",
+  "confidence": "high",
+  "source_domain": "www.navinmart.com",
+  "matched_title": "Havells Stufo 1000W Dry Iron with non-stick soleplate"
+ },
+ {
+  "product_id": "NE-01776",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghgdicsg100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Komfi Dry Iron"
+ },
+ {
+  "product_id": "NE-01777",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/p/r/pressa.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Pressa Dry Iron by Havells - GHGDICTC110"
+ },
+ {
+  "product_id": "NE-01778",
+  "keep": false,
+  "image_url": "https://m.media-amazon.com/images/I/51OhgE-GHqL.jpg",
+  "confidence": "high",
+  "source_domain": "www.amazon.in",
+  "matched_title": "Havells Trendy 750 watt Dry Iron (Ruby Red), (GHGDICFW075)"
+ },
+ {
+  "product_id": "NE-01779",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIAZP100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Enticer Dry Iron (GHGDIAZP100)"
+ },
+ {
+  "product_id": "NE-01780",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHGDIAXB060.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Insta Dry Iron (GHGDIAXB060)"
+ },
+ {
+  "product_id": "NE-01781",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHGDIBUR075.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Glace Dry Iron (GHGDIBUR075)"
+ },
+ {
+  "product_id": "NE-01782",
+  "keep": false,
+  "image_url": null,
+  "confidence": null,
+  "source_domain": null,
+  "matched_title": null
+ },
+ {
+  "product_id": "NE-01783",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrfhajk120.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Calmy PTC Fan Room Heater"
+ },
+ {
+  "product_id": "NE-01784",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHRFHAYW200.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Cista Fan room Heater (GHRFHAYW200)"
+ },
+ {
+  "product_id": "NE-01785",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrfheji180_1_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Fiesta Heat Convector Room Heater"
+ },
+ {
+  "product_id": "NE-01786",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/import/Appliances/GHRGHBWK100.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Walthero Carbon Room Heater"
+ },
+ {
+  "product_id": "NE-01787",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrghcnw105_3_.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Calentar (ghrghcnw105)"
+ },
+ {
+  "product_id": "NE-01788",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrghche090.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Comodito (ghrghche090)"
+ },
+ {
+  "product_id": "NE-01789",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/g/h/ghrghaik120.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Inclino Halogen Room Heater"
+ },
+ {
+  "product_id": "NE-01790",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/cache/a68cd95282f629852e6b9e296b7a5618/e/m/ember_main.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Ember Quartz Room Heater"
+ },
+ {
+  "product_id": "NE-01791",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/import/Appliances/GHRGHAHK080.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Bero Quartz Room Heater (GHRGHAHK080)"
+ },
+ {
+  "product_id": "NE-01792",
+  "keep": false,
+  "image_url": "https://ankurelectricals.com/cdn/shop/files/1_8b49e0bb-fd76-4901-a0b3-e6c71c7a4946.png?v=1765196223&width=1000",
+  "confidence": "high",
+  "source_domain": "ankurelectricals.com",
+  "matched_title": "Glow Quartz Infrared Room Heater"
+ },
+ {
+  "product_id": "NE-01793",
+  "keep": false,
+  "image_url": "https://mc.bajajfinserv.in/media/catalog/product/4/8/482723_base_1_1.jpeg",
+  "confidence": "high",
+  "source_domain": "www.bajajfinserv.in",
+  "matched_title": "HAVELLS Hestio 2900 Watts PTC Fan Oil Filled Room Heater Black (GHROFCTK290)"
+ },
+ {
+  "product_id": "NE-01794",
+  "keep": false,
+  "image_url": "https://mahajanelectronics.com/cdn/shop/files/mahajan-ch-p1-1_c94403d2-ba2e-4a38-bc7c-6b944035922a.jpg?v=1785654056&width=1500",
+  "confidence": "high",
+  "source_domain": "mahajanelectronics.com",
+  "matched_title": "Havells 13 Fin Hestio GHROFCLK290 Wave Fin OFR | 2900 Watt"
+ },
+ {
+  "product_id": "NE-01795",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrofckk290_m.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Hestio 11 Wave Fins Oil Filled Room Heater"
+ },
+ {
+  "product_id": "NE-01796",
+  "keep": false,
+  "image_url": "https://havells.com/media/catalog/product/g/h/ghrofcjk240_m.jpg",
+  "confidence": "high",
+  "source_domain": "havells.com",
+  "matched_title": "Havells Hestio 9 Wave Fin Hestio Oil Filled Room Heater"
+ },
+ {
+  "product_id": "NE-03220",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260605_065127_150595e3.png?w=728&q=75&fm=auto",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda Hornet 2.0 (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-03221",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260605_065508_8b491ee4.png",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda NX200 (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-03222",
+  "keep": false,
+  "image_url": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/154781/sp160-right-side-view-11.png?isig=0",
+  "confidence": "high",
+  "source_domain": "www.bikewale.com",
+  "matched_title": "Honda SP160 Price - Mileage, Images, Colours | BikeWale"
+ },
+ {
+  "product_id": "NE-03223",
+  "keep": false,
+  "image_url": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/1/versions/--disc-20251735194316753.jpg",
+  "confidence": "high",
+  "source_domain": "www.bikewale.com",
+  "matched_title": "Honda Unicorn Price - Mileage, Images, Colours | BikeWale"
+ },
+ {
+  "product_id": "NE-03224",
+  "keep": false,
+  "image_url": "https://asset.autocarindia.com/static/models/colors/20260604_101017_ee9153fd.webp",
+  "confidence": "high",
+  "source_domain": "www.autocarindia.com",
+  "matched_title": "Honda CB125 Hornet (2026) - Price, Mileage & Expert Reviews | Autocar India"
+ },
+ {
+  "product_id": "NE-05523",
+  "keep": false,
+  "image_url": "https://ifbdm.ifbappliances.com/adobe/assets/urn:aaid:aem:134beb11-368c-453b-a1fa-5fe5a4196e0b/as/8903287034015-.webp?quality=60",
+  "confidence": "high",
+  "source_domain": "www.ifbappliances.com",
+  "matched_title": "Buy IFB TL701AG1ID 7 kg Top Load Washing Machine Online"
+ }
+]
