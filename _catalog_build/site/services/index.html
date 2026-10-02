@@ -72,6 +72,20 @@ section.block p{line-height:1.75;font-size:15px;color:var(--text);max-width:780p
 .contact-box p{color:#c7d3e0;font-size:13.5px;margin:0 0 18px;}
 .contact-box a{display:block;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:10px;padding:12px 16px;margin-bottom:10px;font-weight:700;font-size:14px;}
 .contact-box a:hover{background:rgba(255,255,255,.14);}
+.enq-form{background:#fff;border:1px solid var(--border);border-radius:16px;padding:28px;margin-top:32px;}
+.enq-form h2{font-size:22px;color:var(--navy);margin:0 0 6px;}
+.enq-form .sub{font-size:13.5px;color:var(--muted);margin:0 0 20px;}
+.enq-form .row2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+@media(max-width:560px){.enq-form .row2{grid-template-columns:1fr;}}
+.enq-form label{display:block;font-size:12.5px;font-weight:700;color:var(--navy);margin-bottom:4px;}
+.enq-form input,.enq-form select,.enq-form textarea{width:100%;box-sizing:border-box;border:1.5px solid var(--border);border-radius:9px;padding:10px 13px;font-size:14px;font-family:inherit;color:var(--text);background:#faf9f6;transition:border-color .2s;margin-bottom:14px;}
+.enq-form input:focus,.enq-form select:focus,.enq-form textarea:focus{outline:none;border-color:var(--accent);}
+.enq-form textarea{resize:vertical;min-height:80px;}
+.enq-form .submit-btn{background:linear-gradient(135deg,var(--accent),#c06a1a);color:#1b1200;border:none;padding:14px 32px;border-radius:28px;font-weight:800;font-size:15px;cursor:pointer;width:100%;margin-top:4px;transition:transform .2s ease,box-shadow .2s ease;box-shadow:0 8px 18px rgba(217,139,43,.35);}
+.enq-form .submit-btn:hover{transform:translateY(-2px);box-shadow:0 12px 24px rgba(217,139,43,.45);}
+.enq-form .ack{display:none;background:#edf7ed;border:1px solid #8bc34a;border-radius:10px;padding:16px 20px;color:#2e6b1f;font-weight:600;font-size:14.5px;margin-top:10px;}
+.enq-form.submitted .submit-btn{display:none;}
+.enq-form.submitted .ack{display:block;}
 footer{padding:26px 0;border-top:1px solid var(--border);color:var(--muted);font-size:12.5px;}
 .float-wa{position:fixed;right:20px;bottom:86px;z-index:80;display:flex;align-items:center;gap:9px;background:#25D366;color:#fff;padding:13px;border-radius:50px;box-shadow:0 8px 24px rgba(37,211,102,.45);transition:box-shadow .2s ease,transform .2s ease;text-decoration:none;}
 .float-wa svg{width:24px;height:24px;flex:none;}

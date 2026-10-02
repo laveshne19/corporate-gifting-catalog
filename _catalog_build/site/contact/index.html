@@ -72,6 +72,20 @@ section.block p{line-height:1.75;font-size:15px;color:var(--text);max-width:780p
 .contact-box p{color:#c7d3e0;font-size:13.5px;margin:0 0 18px;}
 .contact-box a{display:block;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:10px;padding:12px 16px;margin-bottom:10px;font-weight:700;font-size:14px;}
 .contact-box a:hover{background:rgba(255,255,255,.14);}
+.enq-form{background:#fff;border:1px solid var(--border);border-radius:16px;padding:28px;margin-top:32px;}
+.enq-form h2{font-size:22px;color:var(--navy);margin:0 0 6px;}
+.enq-form .sub{font-size:13.5px;color:var(--muted);margin:0 0 20px;}
+.enq-form .row2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+@media(max-width:560px){.enq-form .row2{grid-template-columns:1fr;}}
+.enq-form label{display:block;font-size:12.5px;font-weight:700;color:var(--navy);margin-bottom:4px;}
+.enq-form input,.enq-form select,.enq-form textarea{width:100%;box-sizing:border-box;border:1.5px solid var(--border);border-radius:9px;padding:10px 13px;font-size:14px;font-family:inherit;color:var(--text);background:#faf9f6;transition:border-color .2s;margin-bottom:14px;}
+.enq-form input:focus,.enq-form select:focus,.enq-form textarea:focus{outline:none;border-color:var(--accent);}
+.enq-form textarea{resize:vertical;min-height:80px;}
+.enq-form .submit-btn{background:linear-gradient(135deg,var(--accent),#c06a1a);color:#1b1200;border:none;padding:14px 32px;border-radius:28px;font-weight:800;font-size:15px;cursor:pointer;width:100%;margin-top:4px;transition:transform .2s ease,box-shadow .2s ease;box-shadow:0 8px 18px rgba(217,139,43,.35);}
+.enq-form .submit-btn:hover{transform:translateY(-2px);box-shadow:0 12px 24px rgba(217,139,43,.45);}
+.enq-form .ack{display:none;background:#edf7ed;border:1px solid #8bc34a;border-radius:10px;padding:16px 20px;color:#2e6b1f;font-weight:600;font-size:14.5px;margin-top:10px;}
+.enq-form.submitted .submit-btn{display:none;}
+.enq-form.submitted .ack{display:block;}
 footer{padding:26px 0;border-top:1px solid var(--border);color:var(--muted);font-size:12.5px;}
 .float-wa{position:fixed;right:20px;bottom:86px;z-index:80;display:flex;align-items:center;gap:9px;background:#25D366;color:#fff;padding:13px;border-radius:50px;box-shadow:0 8px 24px rgba(37,211,102,.45);transition:box-shadow .2s ease,transform .2s ease;text-decoration:none;}
 .float-wa svg{width:24px;height:24px;flex:none;}
@@ -119,14 +133,97 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </section>
     </div>
     <div class="contact-box">
-      <h3>Request Bulk Pricing</h3>
-      <p>Fastest way to reach us directly.</p>
+      <h3>Quick Reach</h3>
+      <p>Call or WhatsApp us directly — fastest response.</p>
       <a href="https://wa.me/919115513366?text=Hi%2C%20I%27d%20like%20to%20enquire%20about%20corporate%20gifting%20options." target="_blank" rel="noopener">💬 Chat on WhatsApp</a>
       <a href="tel:+919115513366">📞 Call +91 91155 13366</a>
       <a href="mailto:info@nalandaenterprises.com?subject=Corporate%20Gifting%20Enquiry">✉️ Email Us</a>
       <a href="../#catalog">🔎 Search the Catalog First</a>
     </div>
   </div>
+
+  <div class="enq-form" id="enquiry-form">
+    <h2>Send us an Enquiry</h2>
+    <p class="sub">Fill in your requirement — we'll reply with options and pricing within a few hours.</p>
+    <form name="corporate-gifting-enquiry" method="POST" netlify data-netlify="true" netlify-honeypot="bot-field" action="/contact/?success=1">
+      <input type="hidden" name="form-name" value="corporate-gifting-enquiry">
+      <p style="display:none;"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <div class="row2">
+        <div>
+          <label for="name">Your Name *</label>
+          <input type="text" id="name" name="name" required placeholder="e.g. Rahul Sharma">
+        </div>
+        <div>
+          <label for="company">Company / Organisation *</label>
+          <input type="text" id="company" name="company" required placeholder="e.g. ABC Pharma Ltd">
+        </div>
+      </div>
+      <div class="row2">
+        <div>
+          <label for="phone">Phone / WhatsApp *</label>
+          <input type="tel" id="phone" name="phone" required placeholder="+91 98765 43210">
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="you@company.com">
+        </div>
+      </div>
+      <div class="row2">
+        <div>
+          <label for="occasion">Occasion / Purpose</label>
+          <select id="occasion" name="occasion">
+            <option value="">— Select —</option>
+            <option>Diwali / Festive Gifting</option>
+            <option>Employee Joining / Onboarding</option>
+            <option>Client / Customer Gifting</option>
+            <option>Dealer / Distributor Incentive</option>
+            <option>Annual Day / Award</option>
+            <option>Product Launch / Event</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div>
+          <label for="quantity">Approximate Quantity</label>
+          <select id="quantity" name="quantity">
+            <option value="">— Select —</option>
+            <option>Under 50 pieces</option>
+            <option>50 – 200 pieces</option>
+            <option>200 – 500 pieces</option>
+            <option>500 – 1,000 pieces</option>
+            <option>1,000 – 5,000 pieces</option>
+            <option>Above 5,000 pieces</option>
+          </select>
+        </div>
+      </div>
+      <label for="budget">Budget per gift (approx.)</label>
+      <select id="budget" name="budget">
+        <option value="">— Select —</option>
+        <option>Under Rs.500</option>
+        <option>Rs.500 – Rs.1,000</option>
+        <option>Rs.1,000 – Rs.2,500</option>
+        <option>Rs.2,500 – Rs.5,000</option>
+        <option>Rs.5,000 – Rs.10,000</option>
+        <option>Above Rs.10,000</option>
+      </select>
+      <label for="message">Additional details (optional)</label>
+      <textarea id="message" name="message" placeholder="Any specific products, branding requirements, delivery location…"></textarea>
+      <button type="submit" class="submit-btn">📩 Send Enquiry</button>
+      <div class="ack">✅ Thank you! We've received your enquiry and will get back to you within a few hours on WhatsApp or email.</div>
+    </form>
+  </div>
+  <script>
+  (function(){
+    var form = document.querySelector('.enq-form form');
+    if(!form) return;
+    form.addEventListener('submit', function(e){
+      var p = new URLSearchParams(window.location.search);
+      if(p.get('success')==='1') return;
+    });
+    if(new URLSearchParams(window.location.search).get('success')==='1'){
+      document.querySelector('.enq-form').classList.add('submitted');
+    }
+  })();
+  </script>
 
 </div>
 <footer><div class="wrap">

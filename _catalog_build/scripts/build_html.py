@@ -42,7 +42,6 @@ def main():
             "bl": r.get("budget_low"),
             "bh": r.get("budget_high"),
             "img": r.get("image_file") or "",
-            "imgsrc": r.get("image_source") or "",
         })
 
     brands = sorted(set(r["b"] for r in slim))
