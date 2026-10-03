@@ -5,6 +5,8 @@ generate sitemap.xml + robots.txt for SEO indexing.
 Run this AFTER master_consolidated.json has final image_file values.
 """
 import json, os, re, shutil
+from datetime import date
+LASTMOD = date.today().strftime("%Y-%m-%d")
 
 BASE = "/Users/laveshbansal/Downloads/📁 Master Folder/master price list"
 OUT_DIR = os.path.join(BASE, "_catalog_build", "output")
@@ -54,20 +56,20 @@ def write_sitemap():
 
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>")
+    sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}/</loc><lastmod>{LASTMOD}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>")
     for path in seo_urls:
         priority = "0.8" if path.startswith("/brands/") else "0.7"
-        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><lastmod>{LASTMOD}</lastmod><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
     for path in keyword_urls:
         priority = "0.8" if path == "/corporate-gifts/" else "0.75"
-        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><lastmod>{LASTMOD}</lastmod><changefreq>weekly</changefreq><priority>{priority}</priority></url>")
     for path in budget_urls:
-        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>0.75</priority></url>")
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><lastmod>{LASTMOD}</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>")
     for path in blog_urls:
         priority = "0.6" if path != "/blog/" else "0.65"
-        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>monthly</changefreq><priority>{priority}</priority></url>")
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><lastmod>{LASTMOD}</lastmod><changefreq>monthly</changefreq><priority>{priority}</priority></url>")
     for path in product_urls:
-        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>")
+        sitemap.append(f"  <url><loc>{PRIMARY_DOMAIN}{path}</loc><lastmod>{LASTMOD}</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>")
     sitemap.append("</urlset>")
     with open(os.path.join(SITE_DIR, "sitemap.xml"), "w") as fh:
         fh.write("\n".join(sitemap))
