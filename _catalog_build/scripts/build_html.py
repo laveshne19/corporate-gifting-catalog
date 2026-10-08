@@ -147,7 +147,13 @@ def main():
         round_i += 1
     hero_images = [{"img": r["img"], "b": r["b"], "n": r["n"], "m": r["m"], "bl": r.get("bl"), "bh": r.get("bh")} for r in hero_pool[:48]]
 
-    data_json = json.dumps(slim, ensure_ascii=False, separators=(",", ":"))
+    # Write products.json separately (async-loaded by the browser) so
+    # index.html stays ~100 KB instead of 4+ MB — critical for Core Web Vitals.
+    products_json_path = os.path.join(SITE_DIR, "products.json")
+    with open(products_json_path, "w") as fh:
+        json.dump(slim, fh, ensure_ascii=False, separators=(",", ":"))
+    print(f"Wrote {products_json_path} ({os.path.getsize(products_json_path)/1024:.0f} KB)")
+
     brands_json = json.dumps(brands, ensure_ascii=False)
     categories_json = json.dumps(categories, ensure_ascii=False)
     ranges_json = json.dumps(price_ranges, ensure_ascii=False)
@@ -161,7 +167,6 @@ def main():
 
     html_out = (template
         .replace("__POPULAR_SEARCHES__", popular_searches_html())
-        .replace("__DATA_JSON__", data_json)
         .replace("__BRANDS_JSON__", brands_json)
         .replace("__CATEGORIES_JSON__", categories_json)
         .replace("__RANGES_JSON__", ranges_json)

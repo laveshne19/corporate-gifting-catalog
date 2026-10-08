@@ -667,7 +667,7 @@ __POPULAR_SEARCHES__
 </div>
 
 <script>
-const DATA = __DATA_JSON__;
+let DATA = []; /* loaded async from products.json — see fetch block near end of script */
 const BRANDS = __BRANDS_JSON__;
 const CATEGORIES = __CATEGORIES_JSON__;
 const RANGES = __RANGES_JSON__;
@@ -1176,7 +1176,17 @@ lightbox.addEventListener('click', e=>{ if(e.target===lightbox) lightbox.classLi
   }
 })();
 
-render();
+// Load product catalog asynchronously — keeps initial HTML ~100 KB for Core Web Vitals
+(function(){
+  var x=new XMLHttpRequest();
+  x.open('GET','products.json');
+  x.onload=function(){
+    try{var d=JSON.parse(x.responseText);for(var i=0;i<d.length;i++)DATA.push(d[i]);}catch(e){}
+    render();
+  };
+  x.onerror=function(){render();};
+  x.send();
+})();
 
 /* Scroll-reveal animation */
 const revealObserver = new IntersectionObserver((entries) => {
