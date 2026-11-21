@@ -1,6 +1,9 @@
 [build]
   publish = "."
 
+[functions]
+  directory = "netlify/functions"
+
 [[headers]]
   for = "/*"
   [headers.values]
@@ -38,7 +41,6 @@
   from = "https://www.corporategiftingindia.info/*"
   to = "https://corporategiftingindia.co/:splat"
   status = 301
-  force = true
 
 [[redirects]]
   from = "https://corporategiftingindia.net/*"
